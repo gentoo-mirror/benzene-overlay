@@ -1,0 +1,8 @@
+# This file is deprecated as per GLEP 56 in favor of metadata.xml.
+# Please add your descriptions to your package's metadata.xml ONLY.
+# * generated automatically using pmaint *
+
+app-text/ydcv:pkg-info - Add discriptions to PKG-INFO file
+dev-python/astropy:doc - Build extra documentation (the network-sandbox FEATURE need to be temporarily disabled)
+sci-astronomy/astrometry:netpbm - Compile and link netpbm
+x11-libs/lain:curl - Use the net-misc/curl for supporting IMAP, MPD and weather widgets
