@@ -14,6 +14,7 @@ SRC_URI="mirror://pypi/${PN:0:1}/${PN}/${P}.tar.gz"
 LICENSE="GPL-2"
 SLOT="0"
 KEYWORDS="~amd64 ~x86 ~amd64-linux ~x86-linux"
+IUSE=""
 RESTRICT="!test? ( test )"
 
 DEPEND="sci-astronomy/healpix:=[cxx]
@@ -24,7 +25,7 @@ RDEPEND="${DEPEND}
 	dev-python/matplotlib[${PYTHON_USEDEP}]
 	dev-python/six[${PYTHON_USEDEP}]
 "
-BDEPEND="$>=dev-python/cython-0.16[${PYTHON_USEDEP}]
+BDEPEND=">=dev-python/cython-0.16[${PYTHON_USEDEP}]
 	dev-python/numpy[${PYTHON_USEDEP}]
 	dev-python/pytest-runner[${PYTHON_USEDEP}]
 	virtual/pkgconfig
