@@ -5,6 +5,7 @@ dev-python/astropy 2.0.14 2.0.16 3.0.5 3.1.2: Core functionality for performing 
 dev-python/astropy-healpix 0.4: BSD-licensed HEALPix for Astropy
 dev-python/astropy-helpers 2.0.11 3.0.2 3.1.1: Helpers for Astropy and Affiliated packages
 dev-python/astropy-sphinx-theme 1.1: The sphinx theme for Astropy and affiliated packages
+dev-python/astroscrappy 1.0.8: Optimized cosmic ray annihilation astropy python module
 dev-python/gwcs 0.8.0 0.10.0: Python for managing the World Coordinate System
 dev-python/healpy 1.11.0: Python wrapper for healpix
 dev-python/pytest-astropy 0.7.0: Metapackage for all the testing machinery used by the Astropy Project
