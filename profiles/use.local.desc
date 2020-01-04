@@ -5,5 +5,6 @@
 app-text/ydcv:pkg-info - Add discriptions to PKG-INFO file
 dev-python/astropy:doc - Build extra documentation (the network-sandbox FEATURE need to be temporarily disabled)
 dev-python/astropy-healpix:doc - Build extra documentation (build will pass with warning. Disable the network-sandbox FEATURE to get better doc building)
+dev-python/reproject:doc - Build extra documentation (build will pass with warning. Disable the network-sandbox FEATURE to get better doc building)
 sci-astronomy/astrometry:netpbm - Compile and link netpbm
 x11-libs/lain:curl - Use the net-misc/curl for supporting IMAP, MPD and weather widgets

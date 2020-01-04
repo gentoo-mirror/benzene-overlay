@@ -14,6 +14,7 @@ dev-python/pytest-doctestplus 0.5.0: Pytest plugin that provides advanced featur
 dev-python/pytest-openfiles 0.4.0: Pytest plugin for detecting file handles that were inadvertently left open at the end of unit tests
 dev-python/pytest-remotedata 0.3.2: Pytest plugin used for controlling access to data files hosted online
 dev-python/pyvo 0.9.3: Astropy affiliated package for accessing Virtual Observatory data and services
+dev-python/reproject 0.5.1: Reproject astronomical images with Python
 dev-python/sphinx-asdf 0.1.0_rc8: Sphinx plugin for generating documentation from ASDF schemas
 dev-python/sphinx-astropy 1.2: Sphinx extensions and configuration specific to the Astropy project
 dev-python/sphinx-automodapi 0.12: Sphinx extension for generating API documentation
