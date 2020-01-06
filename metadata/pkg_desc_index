@@ -9,6 +9,7 @@ dev-python/astroscrappy 1.0.8: Optimized cosmic ray annihilation astropy python 
 dev-python/ccdproc 1.3.0_p1 2.1.0: Astropy affiliated package for reducing optical/IR CCD data
 dev-python/gwcs 0.8.0 0.10.0: Python for managing the World Coordinate System
 dev-python/healpy 1.11.0: Python wrapper for healpix
+dev-python/pyavm 0.9.4: Python module for Astronomy Visualization Metadata i/o
 dev-python/pytest-astropy 0.7.0: Metapackage for all the testing machinery used by the Astropy Project
 dev-python/pytest-astropy-header 0.1.2: Pytest plugin to add diagnostic information to the header of the test output
 dev-python/pytest-doctestplus 0.5.0: Pytest plugin that provides advanced features for testing example code in documentation
