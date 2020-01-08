@@ -3,6 +3,7 @@
 # * generated automatically using pmaint *
 
 app-text/ydcv:pkg-info - Add discriptions to PKG-INFO file
+dev-python/aplpy:doc - Build extra documentation (build will pass with warning. Disable the network-sandbox FEATURE to get better doc building)
 dev-python/astropy:doc - Build extra documentation (the network-sandbox FEATURE need to be temporarily disabled)
 dev-python/astropy-healpix:doc - Build extra documentation (build will pass with warning. Disable the network-sandbox FEATURE to get better doc building)
 dev-python/ccdproc:doc - Build extra documentation (build will pass with warning. Disable the network-sandbox FEATURE to get better doc building)
