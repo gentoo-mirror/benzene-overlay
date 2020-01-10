@@ -9,6 +9,7 @@ dev-python/astropy:doc - Build extra documentation (the network-sandbox FEATURE 
 dev-python/astropy-healpix:doc - Build extra documentation (build will pass with warning. Disable the network-sandbox FEATURE to get better doc building)
 dev-python/ccdproc:doc - Build extra documentation (build will pass with warning. Disable the network-sandbox FEATURE to get better doc building)
 dev-python/pyregion:doc - Build extra documentation (build will pass with warning. Disable the network-sandbox FEATURE to get better doc building)
+dev-python/regions:doc - Build extra documentation (build will pass with warning. Disable the network-sandbox FEATURE to get better doc building)
 dev-python/reproject:doc - Build extra documentation (build will pass with warning. Disable the network-sandbox FEATURE to get better doc building)
 sci-astronomy/astrometry:netpbm - Compile and link netpbm
 x11-libs/lain:curl - Use the net-misc/curl for supporting IMAP, MPD and weather widgets
