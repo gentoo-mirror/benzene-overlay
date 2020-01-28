@@ -5,6 +5,7 @@
 app-text/ydcv:pkg-info - Add discriptions to PKG-INFO file
 dev-python/aplpy:doc - Build extra documentation (build will pass with warning. Disable the network-sandbox FEATURE to get better doc building)
 dev-python/astroml:doc - Enable dependencies and/or preparations necessary to run tests (test fill fail unless the network-sandbox FEATURE is disabled)
+dev-python/astroplan:doc - Build extra documentation (build will pass with warning. Disable the network-sandbox FEATURE to get better doc building)
 dev-python/astropy:doc - Build extra documentation (the network-sandbox FEATURE need to be temporarily disabled)
 dev-python/astropy-healpix:doc - Build extra documentation (build will pass with warning. Disable the network-sandbox FEATURE to get better doc building)
 dev-python/astroquery:doc - Build extra documentation (build will pass with warning. Disable the network-sandbox FEATURE to get better doc building)
