@@ -11,4 +11,4 @@ RESTRICT=strip mirror
 SLOT=0
 SRC_URI=http://wdl1.pcfg.cache.wpscdn.com/wpsdl/wpsoffice/download/linux/9080/wps-office_11.1.0.9080.XA_amd64.deb https://wdl1.cache.wps.cn/wps/download/ep/Linux2019/9080/wps-office_11.1.0.9080_amd64.deb https://github.com/timxx/wps-office-mui/archive/11.1.0.9080.tar.gz -> wps-office-mui-11.1.0.9080.tar.gz
 _eclasses_=eutils	fcb2aa98e1948b835b5ae66ca52868c5	xdg	c7ba313ea1eaf266f95cc6235f7d6a07	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
-_md5_=16f46b43d76807792d4bff49afdef527
+_md5_=e4f65c8634c6c3ff75bf79d129fb40c6
