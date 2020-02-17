@@ -5,6 +5,7 @@
 app-office/wps-office:cn - Use CN version of WPS Office (including WPS Cloud, WPS account login and other functions)
 app-office/wps-office:l10n_zh-HK - Chinese (Hong Kong)
 app-office/wps-office:l10n_zh-MO - Chinese (Macao)
+app-office/wps-office:mime - Use mime files provided by WPS
 app-text/ydcv:pkg-info - Add discriptions to PKG-INFO file
 dev-python/aplpy:doc - Build extra documentation (build will pass with warning. Disable the network-sandbox FEATURE to get better doc building)
 dev-python/astroml:doc - Enable dependencies and/or preparations necessary to run tests (test fill fail unless the network-sandbox FEATURE is disabled)
