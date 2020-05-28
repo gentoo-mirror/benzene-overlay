@@ -39,4 +39,5 @@ net-misc/baidunetdisk 2.0.1 2.0.2 3.0.1: Baidu Net Disk is a cloud storage clien
 net-misc/baidupcs-go 3.6 3.6.1 9999: The terminal utility for Baidu Network Disk (Golang Version).
 net-misc/baidupcs-go-bin 3.6 3.6.1: The terminal utility for Baidu Network Disk (Golang Version).
 sci-astronomy/astrometry 0.78: Automated astrometric calibration programs and service
+sci-astronomy/topcat 4.7: Interactive graphical viewer and editor for astronomical tables
 x11-libs/lain 9999: Layouts, asynchronous widgets and utilities for Awesome WM
