@@ -1,0 +1,13 @@
+DEFINED_PHASES=compile install postinst postrm preinst prepare setup
+DEPEND=>=dev-java/java-config-2.2.0-r3 dev-util/desktop-file-utils x11-misc/shared-mime-info
+DESCRIPTION=Interactive software sky atlas
+EAPI=7
+HOMEPAGE=https://aladin.u-strasbg.fr/aladin.gml
+IUSE=doc elibc_FreeBSD
+KEYWORDS=~amd64 ~x86 ~amd64-linux ~x86-linux
+LICENSE=GPL-3
+RDEPEND=>=virtual/jre-1.8 >=dev-java/java-config-2.2.0-r3
+SLOT=0
+SRC_URI=https://aladin.u-strasbg.fr/java/Aladin.tar -> aladin-11.024.tar
+_eclasses_=desktop	7fd20552ce4cc97e8acb132a499a7dd8	java-pkg-2	c4e6af2574fd1dc79b43a6e27af4b5fb	java-utils-2	16d46032afaca1d6d0621f82084880cb	xdg	c7ba313ea1eaf266f95cc6235f7d6a07	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
+_md5_=4086374c0d929b9b761ff537aa6526bb
