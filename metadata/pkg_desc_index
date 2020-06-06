@@ -40,5 +40,5 @@ net-misc/baidupcs-go 3.6 3.6.1 9999: The terminal utility for Baidu Network Disk
 net-misc/baidupcs-go-bin 3.6 3.6.1: The terminal utility for Baidu Network Disk (Golang Version).
 sci-astronomy/aladin 11.024: Interactive software sky atlas
 sci-astronomy/astrometry 0.78: Automated astrometric calibration programs and service
-sci-astronomy/topcat 4.7: Interactive graphical viewer and editor for astronomical tables
+sci-astronomy/topcat 4.7 4.7.1: Interactive graphical viewer and editor for astronomical tables
 x11-libs/lain 9999: Layouts, asynchronous widgets and utilities for Awesome WM
