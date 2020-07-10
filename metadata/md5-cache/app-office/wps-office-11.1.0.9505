@@ -12,4 +12,4 @@ RESTRICT=strip mirror
 SLOT=0
 SRC_URI=http://wdl1.pcfg.cache.wpscdn.com/wpsdl/wpsoffice/download/linux/9505/wps-office_11.1.0.9505.XA_amd64.deb https://wdl1.cache.wps.cn/wps/download/ep/Linux2019/9505/wps-office_11.1.0.9505_amd64.deb https://github.com/timxx/wps-office-mui/archive/11.1.0.9505.tar.gz -> wps-office-mui-11.1.0.9505.tar.gz
 _eclasses_=eutils	fcb2aa98e1948b835b5ae66ca52868c5	xdg	c7ba313ea1eaf266f95cc6235f7d6a07	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
-_md5_=4adee42330d01b59a5224645c5801d3f
+_md5_=c35a0a22ad06e09e39ec9e4fec7b32ba
