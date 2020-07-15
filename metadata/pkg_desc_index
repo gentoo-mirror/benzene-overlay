@@ -37,8 +37,8 @@ media-fonts/wps-office-fonts 1.0: The wps-office-fonts package contains Founder 
 media-gfx/gpaint 0.3.3: A small easy-to-use paint program for the GNOME Desktop
 media-video/gnome-mplayer 1.0.9-r1: A GTK+ interface to MPlayer
 net-misc/baidunetdisk 2.0.1 2.0.2 3.0.1: Baidu Net Disk is a cloud storage client (Linux Version)
-net-misc/baidupcs-go 3.6.2: The terminal utility for Baidu Network Disk (Golang Version).
-net-misc/baidupcs-go-bin 3.6 3.6.1: The terminal utility for Baidu Network Disk (Golang Version).
+net-misc/baidupcs-go 3.6.2 9999: The terminal utility for Baidu Network Disk (Golang Version).
+net-misc/baidupcs-go-bin 3.6.2: The terminal utility for Baidu Network Disk (Golang Version).
 sci-astronomy/aladin 11.024: Interactive software sky atlas
 sci-astronomy/astrometry 0.78 0.80: Automated astrometric calibration programs and service
 sci-astronomy/topcat 4.7 4.7.1: Interactive graphical viewer and editor for astronomical tables
