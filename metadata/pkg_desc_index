@@ -36,7 +36,7 @@ dev-python/sphinx-automodapi 0.12: Sphinx extension for generating API documenta
 media-fonts/wps-office-fonts 1.0: The wps-office-fonts package contains Founder Chinese fonts
 media-gfx/gpaint 0.3.3: A small easy-to-use paint program for the GNOME Desktop
 media-video/gnome-mplayer 1.0.9-r1: A GTK+ interface to MPlayer
-net-misc/baidunetdisk 3.0.1 3.3.2: Baidu Net Disk is a cloud storage client (Linux Version)
+net-misc/baidunetdisk 3.0.1 3.4.1: Baidu Net Disk is a cloud storage client (Linux Version)
 net-misc/baidupcs-go 3.6.2 9999: The terminal utility for Baidu Network Disk (Golang Version).
 net-misc/baidupcs-go-bin 3.6.2: The terminal utility for Baidu Network Disk (Golang Version).
 sci-astronomy/aladin 11.024: Interactive software sky atlas
