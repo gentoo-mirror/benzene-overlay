@@ -42,5 +42,5 @@ net-misc/baidupcs-go-bin 3.6.2: The terminal utility for Baidu Network Disk (Gol
 net-misc/xunlei-download 1.0.0.1: Xunlei download
 sci-astronomy/aladin 11.024: Interactive software sky atlas
 sci-astronomy/astrometry 0.78 0.80: Automated astrometric calibration programs and service
-sci-astronomy/topcat 4.7.1 4.7.2: Interactive graphical viewer and editor for astronomical tables
+sci-astronomy/topcat 4.7.2 4.7.3: Interactive graphical viewer and editor for astronomical tables
 x11-libs/lain 9999: Layouts, asynchronous widgets and utilities for Awesome WM
