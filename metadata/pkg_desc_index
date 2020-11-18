@@ -33,6 +33,7 @@ dev-python/reproject 0.5.1: Reproject astronomical images with Python
 dev-python/sphinx-asdf 0.1.0_rc8: Sphinx plugin for generating documentation from ASDF schemas
 dev-python/sphinx-astropy 1.2: Sphinx extensions and configuration specific to the Astropy project
 dev-python/sphinx-automodapi 0.12: Sphinx extension for generating API documentation
+dev-qt/qtwebkit 5.212.0_pre20200309-r1: WebKit rendering library for the Qt5 framework (deprecated)
 media-fonts/wps-office-fonts 1.0: The wps-office-fonts package contains Founder Chinese fonts
 media-gfx/gpaint 0.3.3: A small easy-to-use paint program for the GNOME Desktop
 media-video/gnome-mplayer 1.0.9-r1: A GTK+ interface to MPlayer
