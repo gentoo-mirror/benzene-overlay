@@ -10,5 +10,5 @@ REQUIRED_USE=|| ( python_targets_python3_6 python_targets_python3_7 python_targe
 RESTRICT=strip
 SLOT=0
 SRC_URI=amd64? ( http://codown.youdao.com/cidian/linux/youdao-dict-6.0.0-amd64.tar.gz ) x86? ( http://codown.youdao.com/cidian/linux/youdao-dict_6.0.0_i386.tar.gz )
-_eclasses_=multibuild	b2c915190b051f55a23b9354b9849847	multilib	98584e405e2b0264d37e8f728327fed1	python-r1	8d03325e7e3cf3e1465d9c32031e2517	python-utils-r1	e41e32d357e5bdd388b5be2ce24f3883	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb	xdg	c7ba313ea1eaf266f95cc6235f7d6a07	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
+_eclasses_=multibuild	b2c915190b051f55a23b9354b9849847	multilib	d410501a125f99ffb560b0c523cd3d1e	python-r1	8d03325e7e3cf3e1465d9c32031e2517	python-utils-r1	e41e32d357e5bdd388b5be2ce24f3883	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb	xdg	c7ba313ea1eaf266f95cc6235f7d6a07	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
 _md5_=0f8f75d60e2b388ed88bb1919f0eaf9f
