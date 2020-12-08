@@ -10,7 +10,7 @@ MY_P="${MY_PN}-${PV}"
 MY_PPN="${PN%client}"
 
 DESCRIPTION="Sunlogin Remote Control for mobile devices, Win, Mac, Linux, etc. (GUI version)"
-HOMEPAGE="https://sunlogin.oray.com/"
+HOMEPAGE="https://sunlogin.oray.com"
 SRC_URI="http://dl-cdn.oray.com/sunlogin/linux/${MY_P}_amd64.deb"
 
 RESTRICT="mirror"
@@ -40,7 +40,7 @@ src_prepare() {
 	sed -e "s#/usr/local/#/opt/#g" -e '2a\Requires=network-online.target\nAfter=network-online.target' \
 		-i "${LS}"/scripts/run"${PN}".service || die
 	sed -e 's#Icon=/usr/local/sunlogin/res/icon/sunlogin_client.png#Icon=sunloginclient#g' \
-		-e 's#Exec=/usr/local/sunlogin/#Exec=/usr/#g' -i share/applications/"${MY_PPN}".desktop || die
+		-e 's#Exec=/usr/local/sunlogin/bin/#Exec=#g' -i share/applications/"${MY_PPN}".desktop || die
 	sed -e "s#/usr/local/sunlogin/res/icon/%s.ico\x0#/opt/sunlogin/res/icon/%s.ico\x0\x0\x0\x0\x0\x0\x0#g" \
 		-e "s#/usr/local/sunlogin\x0#/opt/sunlogin\x0\x0\x0\x0\x0\x0\x0#g" -i "${LS}"/bin/"${PN}" || die
 	sed -e "/^process=/c process=$\(ps -ef | tr -s \" \" | cut -d \" \" -f 2,8 | grep sunloginclient | awk \'{print \$1}\'\)" \
@@ -54,8 +54,8 @@ src_install() {
 	fperms +x /opt/"${MY_PPN}"/bin/{oray_rundaemon,"${PN}"}
 	fperms 666 /opt/"${MY_PPN}"/res/font/wqy-zenhei.ttc
 	fperms 666 /opt/"${MY_PPN}"/res/skin/{desktopcontrol.skin,remotecamera.skin,remotecmd.skin,remotefile.skin,skin.skin}
-	dosym {/opt/"${MY_PPN}",/usr}/bin/oray_rundaemon
-	dosym {/opt/"${MY_PPN}",/usr}/bin/"${PN}"
+	dosym {/opt/"${MY_PPN}",/opt}/bin/oray_rundaemon
+	dosym {/opt/"${MY_PPN}",/opt}/bin/"${PN}"
 
 	newinitd "${FILESDIR}"/run"${PN}".initd run"${PN}"
 	systemd_dounit "${LS}"/scripts/run"${PN}".service
