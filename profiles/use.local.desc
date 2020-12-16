@@ -25,4 +25,6 @@ dev-qt/qtwebkit:orientation - Enable device orientation detection via dev-qt/qts
 dev-qt/qtwebkit:printsupport - Enable printing via dev-qt/qtprintsupport
 dev-qt/qtwebkit:qml - Build QML/QtQuick bindings
 sci-astronomy/astrometry:netpbm - Compile and link netpbm
+www-plugins/adobe-flash:nsplugin - Install the Netscape Flash API plugin (for Firefox and similar browsers)
+www-plugins/adobe-flash:ppapi - Install the Pepper Flash API plugin (for Chrome and similar browsers)
 x11-libs/lain:curl - Use the net-misc/curl for supporting IMAP, MPD and weather widgets
