@@ -8,5 +8,5 @@ KEYWORDS=amd64 arm ppc ppc64 x86 ~x86-fbsd
 LICENSE=as-is
 SLOT=0
 SRC_URI=https://github.com/Universebenzene/wps-office-fonts/archive/v1.0.tar.gz -> wps-office-fonts-1.0.tar.gz
-_eclasses_=font	e052246186f22bd6a37797238374613b
+_eclasses_=font	dd073b36fe3fd8b868c23bc23209db45
 _md5_=e1a203e77c188d35ec3dc226f2a42b51
