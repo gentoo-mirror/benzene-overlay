@@ -1,0 +1,13 @@
+DEFINED_PHASES=install postinst postrm preinst prepare unpack
+DEPEND=dev-util/desktop-file-utils x11-misc/shared-mime-info
+DESCRIPTION=Official WeChat (Weixin) for UOS (patched by AUR for other distros)
+EAPI=7
+HOMEPAGE=https://www.chinauos.com/resource/download-professional
+KEYWORDS=-* ~amd64
+LICENSE=MIT
+RDEPEND=sys-apps/bubblewrap gnome-base/gconf:2 x11-libs/gtk+:2[cups] x11-libs/gtk+:3[cups] x11-libs/libXScrnSaver dev-libs/nss app-crypt/p11-kit sys-apps/lsb-release
+RESTRICT=strip
+SLOT=0
+SRC_URI=https://cdn-package-store6.deepin.com/appstore/pool/appstore/c/com.qq.weixin/com.qq.weixin_2.0.0-2_amd64.deb
+_eclasses_=desktop	7fd20552ce4cc97e8acb132a499a7dd8	multilib	d410501a125f99ffb560b0c523cd3d1e	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb	unpacker	45b49db67094fdafbb6a16a2299e894b	xdg	c7ba313ea1eaf266f95cc6235f7d6a07	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
+_md5_=dfe0dd86334ac15ba9acc9af01d93ece
