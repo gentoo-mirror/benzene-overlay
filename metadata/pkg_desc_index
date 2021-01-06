@@ -10,7 +10,7 @@ dev-python/astroml-addons 0.2.2: Performance add-ons for the astroML package
 dev-python/astroplan 0.6: Observation planning package for astronomers
 dev-python/astropy 2.0.14 2.0.16 3.0.5 3.1.2: Core functionality for performing astrophysics with Python
 dev-python/astropy-healpix 0.4: BSD-licensed HEALPix for Astropy
-dev-python/astropy-helpers 2.0.11 3.0.2 3.1.1: Helpers for Astropy and Affiliated packages
+dev-python/astropy-helpers 2.0.11 3.0.2 3.1.1 4.0.1: Helpers for Astropy and Affiliated packages
 dev-python/astropy-sphinx-theme 1.1: The sphinx theme for Astropy and affiliated packages
 dev-python/astroquery 0.3.10 0.4: Collection of packages to access online astronomical resources
 dev-python/astroscrappy 1.0.8: Optimized cosmic ray annihilation astropy python module
@@ -20,6 +20,7 @@ dev-python/gwcs 0.8.0 0.10.0: Python for managing the World Coordinate System
 dev-python/healpy 1.11.0: Python wrapper for healpix
 dev-python/montage-wrapper 0.9.9: Python wrapper for the Montage mosaicking toolkit
 dev-python/pyavm 0.9.4: Python module for Astronomy Visualization Metadata i/o
+dev-python/pyerfa 1.7.1.1: Python bindings for ERFA
 dev-python/pyregion 2.0: Python module to parse ds9 region file
 dev-python/pytest-astropy 0.7.0 0.8.0: Metapackage for all the testing machinery used by the Astropy Project
 dev-python/pytest-astropy-header 0.1.2: Pytest plugin to add diagnostic information to the header of the test output
