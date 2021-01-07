@@ -22,11 +22,12 @@ dev-python/montage-wrapper 0.9.9: Python wrapper for the Montage mosaicking tool
 dev-python/pyavm 0.9.4: Python module for Astronomy Visualization Metadata i/o
 dev-python/pyerfa 1.7.1.1: Python bindings for ERFA
 dev-python/pyregion 2.0: Python module to parse ds9 region file
-dev-python/pytest-astropy 0.7.0 0.8.0: Metapackage for all the testing machinery used by the Astropy Project
+dev-python/pytest-arraydiff 0.3: Pytest plugin to facilitate comparison of arrays
+dev-python/pytest-astropy 0.8.0: Metapackage for all the testing machinery used by the Astropy Project
 dev-python/pytest-astropy-header 0.1.2: Pytest plugin to add diagnostic information to the header of the test output
-dev-python/pytest-doctestplus 0.5.0: Pytest plugin that provides advanced features for testing example code in documentation
+dev-python/pytest-doctestplus 0.8.0: Pytest plugin with advanced doctest features
 dev-python/pytest-filter-subpackage 0.1.1: Pytest plugin for filtering based on sub-packages
-dev-python/pytest-openfiles 0.4.0: Pytest plugin for detecting file handles that were inadvertently left open at the end of unit tests
+dev-python/pytest-openfiles 0.5.0: Pytest plugin to check for files left open at the end of a test run
 dev-python/pytest-remotedata 0.3.2: Pytest plugin used for controlling access to data files hosted online
 dev-python/pyvo 0.9.3: Astropy affiliated package for accessing Virtual Observatory data and services
 dev-python/regions 0.4: Astropy affiliated package for region handling
