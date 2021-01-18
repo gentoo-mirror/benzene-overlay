@@ -30,9 +30,9 @@ dev-python/pytest-filter-subpackage 0.1.1: Pytest plugin for filtering based on 
 dev-python/pytest-mpl 0.12: Pytest plugin to faciliate image comparison for matplotlib figures
 dev-python/pytest-openfiles 0.5.0: Pytest plugin to check for files left open at the end of a test run
 dev-python/pytest-remotedata 0.3.2: Pytest plugin used for controlling access to data files hosted online
-dev-python/pyvo 0.9.3: Astropy affiliated package for accessing Virtual Observatory data and services
+dev-python/pyvo 1.1: Astropy affiliated package for accessing Virtual Observatory data and services
 dev-python/regions 0.4: Astropy affiliated package for region handling
-dev-python/reproject 0.5.1: Reproject astronomical images with Python
+dev-python/reproject 0.5.1 0.7.1: Reproject astronomical images with Python
 dev-python/sphinx-asdf 0.1.0_rc8: Sphinx plugin for generating documentation from ASDF schemas
 dev-python/sphinx-astropy 1.2: Sphinx extensions and configuration specific to the Astropy project
 dev-python/sphinx-automodapi 0.12: Sphinx extension for generating API documentation

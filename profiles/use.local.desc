@@ -13,8 +13,9 @@ dev-python/astropy:doc - Build extra documentation (the network-sandbox FEATURE 
 dev-python/astroquery:doc - Build extra documentation (build will pass with warning. Disable the network-sandbox FEATURE to get better doc building)
 dev-python/ccdproc:doc - Build extra documentation (build will pass with warning. Disable the network-sandbox FEATURE to get better doc building)
 dev-python/pyregion:doc - Build extra documentation (build will pass with warning. Disable the network-sandbox FEATURE to get better doc building)
+dev-python/pyvo:doc - Add extra documentation. Disable the network-sandbox FEATURE to use intersphinx linking. Recommended to enable per package instead of globally
 dev-python/regions:doc - Build extra documentation (build will pass with warning. Disable the network-sandbox FEATURE to get better doc building)
-dev-python/reproject:doc - Build extra documentation (build will pass with warning. Disable the network-sandbox FEATURE to get better doc building)
+dev-python/reproject:doc - Add extra documentation. Disable the network-sandbox FEATURE to use intersphinx linking. Recommended to enable per package instead of globally
 dev-qt/qtwebkit:geolocation - Enable physical position determination via dev-qt/qtpositioning
 dev-qt/qtwebkit:gstreamer - Enable HTML5 audio/video support via media-libs/gstreamer using SLOT 1.0
 dev-qt/qtwebkit:hyphen - Enable hyphenation support via dev-libs/hyphen
