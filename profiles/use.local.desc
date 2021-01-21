@@ -14,6 +14,7 @@ dev-python/astropy:doc - Build extra documentation (the network-sandbox FEATURE 
 dev-python/astroquery:doc - Build extra documentation (build will pass with warning. Disable the network-sandbox FEATURE to get better doc building)
 dev-python/ccdproc:doc - Build extra documentation (build will pass with warning. Disable the network-sandbox FEATURE to get better doc building)
 dev-python/gwcs:doc - Add extra documentation. Disable the network-sandbox FEATURE to use intersphinx linking. Recommended to enable per package instead of globally
+dev-python/photutils:doc - Add extra documentation (cannot build figures). Disable the network-sandbox FEATURE to use intersphinx linking. Recommended to enable per package instead of globally
 dev-python/pyregion:doc - Build extra documentation (build will pass with warning. Disable the network-sandbox FEATURE to get better doc building)
 dev-python/pyvo:doc - Add extra documentation. Disable the network-sandbox FEATURE to use intersphinx linking. Recommended to enable per package instead of globally
 dev-python/regions:doc - Build extra documentation (build will pass with warning. Disable the network-sandbox FEATURE to get better doc building)
