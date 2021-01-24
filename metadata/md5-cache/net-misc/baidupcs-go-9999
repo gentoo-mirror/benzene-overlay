@@ -9,4 +9,4 @@ RDEPEND=!net-misc/baidupcs-go-bin
 RESTRICT=strip
 SLOT=0
 _eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441	go-module	92660621959e7fab813173772987588b
-_md5_=6732c1fda4510a75d7cd5d929220084f
+_md5_=edb2b34db4f5952d26022281c3dbb7ce
