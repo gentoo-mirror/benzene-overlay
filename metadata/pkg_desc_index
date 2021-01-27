@@ -20,7 +20,7 @@ dev-python/gwcs 0.16.1: Generalized World Coordinate System
 dev-python/healpy 1.11.0: Python wrapper for healpix
 dev-python/montage-wrapper 0.9.9: Python wrapper for the Montage mosaicking toolkit
 dev-python/photutils 1.0.2: Affiliated package for image photometry utilities
-dev-python/pyavm 0.9.4: Python module for Astronomy Visualization Metadata i/o
+dev-python/pyavm 0.9.5: Simple pure-python AVM meta-data handling
 dev-python/pyerfa 1.7.1.1: Python bindings for ERFA
 dev-python/pyregion 2.0: Python module to parse ds9 region file
 dev-python/pytest-arraydiff 0.3: Pytest plugin to facilitate comparison of arrays
