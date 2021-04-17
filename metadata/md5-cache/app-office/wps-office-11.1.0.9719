@@ -12,5 +12,5 @@ RDEPEND=app-arch/bzip2:0 app-arch/xz-utils app-arch/lz4 dev-libs/atk dev-libs/ex
 RESTRICT=strip mirror
 SLOT=0
 SRC_URI=http://wdl1.pcfg.cache.wpscdn.com/wpsdl/wpsoffice/download/linux/9719/wps-office_11.1.0.9719.XA_amd64.deb https://wdl1.cache.wps.cn/wps/download/ep/Linux2019/9719/wps-office_11.1.0.9719_amd64.deb https://github.com/gromko/wps-office-mui/archive/11.1.0.8865.tar.gz -> wps-office-mui-11.1.0.8865.tar.gz
-_eclasses_=xdg-utils	ff2ff954e6b17929574eee4efc5152ba	xdg	c7ba313ea1eaf266f95cc6235f7d6a07	optfeature	2e90be23a14db1ea432d6b216eb2a81e
+_eclasses_=xdg-utils	ff2ff954e6b17929574eee4efc5152ba	xdg	c7ba313ea1eaf266f95cc6235f7d6a07	optfeature	e142388219c7fee6ff016fe1c78a10a5
 _md5_=e9099279de52ecee2ffc3f69b5a1ee2e
