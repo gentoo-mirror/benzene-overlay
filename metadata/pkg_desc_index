@@ -6,7 +6,6 @@ dev-python/asdf 2.7.1 2.7.2: Python library for the Advanced Scientific Data For
 dev-python/astlib 0.8.0 0.11.3: Python astronomy modules for image and coordinate manipulation
 dev-python/astrodendro 0.2.0: Python package for computation of astronomical dendrograms
 dev-python/astroml 0.4.1: Python Machine Learning library for astronomy
-dev-python/astroplan 0.6: Observation planning package for astronomers
 dev-python/astropy 2.0.16 3.0.5 3.1.2 4.2: Core functionality for performing astrophysics with Python
 dev-python/astropy-healpix 0.5: BSD-licensed HEALPix for Astropy
 dev-python/astropy-helpers 2.0.11 3.0.2 3.1.1 4.0.1: Helpers for Astropy and Affiliated packages
