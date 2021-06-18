@@ -31,6 +31,8 @@ media-libs/gmtk:dconf - Enable support for gnome-base/dconf
 media-video/gnome-mplayer:dconf - Enable support for gnome-base/dconf
 media-video/gnome-mplayer:gda - Enable support for gnome-extra/libgda
 sci-astronomy/astrometry:netpbm - Compile and link netpbm
+sci-astronomy/topcat:extra - Install the bloated version including Parquet file format support
+sci-astronomy/topcat:standard - Install the stardard version
 www-plugins/adobe-flash:nsplugin - Install the Netscape Flash API plugin (for Firefox and similar browsers)
 www-plugins/adobe-flash:ppapi - Install the Pepper Flash API plugin (for Chrome and similar browsers)
 x11-libs/lain:curl - Use the net-misc/curl for supporting IMAP, MPD and weather widgets
