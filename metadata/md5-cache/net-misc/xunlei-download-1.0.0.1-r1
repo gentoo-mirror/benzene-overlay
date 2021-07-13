@@ -10,4 +10,4 @@ RDEPEND=dev-libs/dbus-glib net-libs/nodejs x11-libs/libXtst x11-libs/gtk+:2 x11-
 SLOT=0
 SRC_URI=amd64? ( http://archive.kylinos.cn/kylin/partner/pool/com.xunlei.download_1.0.0.1_amd64.deb -> xunlei-download-1.0.0.1-r1_amd64.deb ) arm64? ( http://archive.kylinos.cn/kylin/partner/pool/com.xunlei.download_1.0.0.1_arm64.deb -> xunlei-download-1.0.0.1-r1_arm64.deb )
 _eclasses_=toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	97566c1a256d07b00848aa767e38a352	unpacker	2eeba54233fa41bdb15dcddcb63fba3a	desktop	c0d27bf73aa08ca05b663dbd31fbef28	xdg-utils	27f9a2f19502b925ac117bd657aa2979	xdg	c7ba313ea1eaf266f95cc6235f7d6a07
-_md5_=06dec0c980aa879f7f8a50f6e3bd654d
+_md5_=444cb0cf721d9e82b0007eb77fec7869
