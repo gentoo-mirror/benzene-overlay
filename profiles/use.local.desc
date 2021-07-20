@@ -7,6 +7,30 @@ app-office/wps-office:l10n_zh-HK - Chinese (Traditional, Hong Kong S.A.R.)
 app-office/wps-office:l10n_zh-MO - Chinese (Traditional, Macao S.A.R.)
 app-office/wps-office:mime - Use mime files provided by WPS
 app-text/ydcv:pkg-info - Add discriptions to PKG-INFO file
+dev-python/PyQt5:bluetooth - Build bindings for the QtBluetooth module
+dev-python/PyQt5:dbus - Build bindings for the QtDBus module
+dev-python/PyQt5:declarative - Build bindings for the QtQml and QtQuick modules and enable the qmlscene plugin
+dev-python/PyQt5:designer - Build bindings for the QtDesigner module and enable the designer plugin
+dev-python/PyQt5:gui - Build bindings for the QtGui module
+dev-python/PyQt5:help - Build bindings for the QtHelp module
+dev-python/PyQt5:location - Build bindings for the QtLocation module
+dev-python/PyQt5:multimedia - Build bindings for the QtMultimedia module
+dev-python/PyQt5:network - Build bindings for the QtNetwork module
+dev-python/PyQt5:opengl - Build bindings for the QtOpenGL module
+dev-python/PyQt5:positioning - Build bindings for the QtPositioning module
+dev-python/PyQt5:printsupport - Build bindings for the QtPrintSupport module
+dev-python/PyQt5:sensors - Build bindings for the QtSensors module
+dev-python/PyQt5:serialport - Build bindings for the QtSerialPort module
+dev-python/PyQt5:speech - Build bindings for the QtTextToSpeech module
+dev-python/PyQt5:sql - Build bindings for the QtSql module
+dev-python/PyQt5:svg - Build bindings for the QtSvg module
+dev-python/PyQt5:testlib - Build bindings for the QtTest module
+dev-python/PyQt5:webchannel - Build bindings for the QtWebChannel module
+dev-python/PyQt5:webkit - Build bindings for the QtWebKit module
+dev-python/PyQt5:websockets - Build bindings for the QtWebSockets module
+dev-python/PyQt5:widgets - Build bindings for the QtWidgets module
+dev-python/PyQt5:x11extras - Build bindings for the QtX11Extras module
+dev-python/PyQt5:xmlpatterns - Build bindings for the QtXmlPatterns module
 dev-python/aplpy:doc - Build extra documentation (build will pass with warning. Disable the network-sandbox FEATURE to get better doc building)
 dev-python/asdf:doc - Add extra documentation. Disable the network-sandbox FEATURE to use intersphinx linking. Recommended to enable per package instead of globally
 dev-python/astroplan:doc - Build extra documentation (build will pass with warning. Disable the network-sandbox FEATURE to get better doc building)
