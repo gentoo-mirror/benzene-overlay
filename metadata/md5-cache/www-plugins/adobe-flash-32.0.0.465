@@ -1,7 +1,7 @@
 DEFINED_PHASES=compile configure install postinst postrm test unpack
 DEPEND=app-arch/unzip
 DESCRIPTION=Adobe Flash Player
-EAPI=6
+EAPI=7
 HOMEPAGE=https://www.adobe.com/products/flashplayer.html https://get.adobe.com/flashplayer/ https://helpx.adobe.com/security/products/flash-player.html
 INHERIT=xdg-utils nsplugins multilib multilib-minimal
 IUSE=+nsplugin +ppapi abi_x86_32 abi_x86_64 abi_x86_x32 abi_mips_n32 abi_mips_n64 abi_mips_o32 abi_s390_32 abi_s390_64
@@ -12,5 +12,5 @@ REQUIRED_USE=|| ( nsplugin ppapi )
 RESTRICT=bindist mirror strip
 SLOT=22
 SRC_URI=nsplugin? ( abi_x86_32? ( https://web.archive.org/web/20210126102538if_/https://fpdownload.adobe.com/pub/flashplayer/pdc/32.0.0.465/flash_player_npapi_linux.i386.tar.gz -> adobe-flash-32.0.0.465-npapi.i386.tar.gz ) abi_x86_64? ( https://web.archive.org/web/20210126102538if_/https://fpdownload.adobe.com/pub/flashplayer/pdc/32.0.0.465/flash_player_npapi_linux.x86_64.tar.gz -> adobe-flash-32.0.0.465-npapi.x86_64.tar.gz ) ) ppapi? ( abi_x86_32? ( https://web.archive.org/web/20210126102538if_/https://fpdownload.adobe.com/pub/flashplayer/pdc/32.0.0.465/flash_player_ppapi_linux.i386.tar.gz -> adobe-flash-32.0.0.465-ppapi.i386.tar.gz ) abi_x86_64? ( https://web.archive.org/web/20210126102538if_/https://fpdownload.adobe.com/pub/flashplayer/pdc/32.0.0.465/flash_player_ppapi_linux.x86_64.tar.gz -> adobe-flash-32.0.0.465-ppapi.x86_64.tar.gz ) )
-_eclasses_=xdg-utils	27f9a2f19502b925ac117bd657aa2979	desktop	c0d27bf73aa08ca05b663dbd31fbef28	edos2unix	33e347e171066657f91f8b0c72ec8773	estack	055c42df72f76a4f45ec92b35e83cd56	epatch	9f813bb3c47cf2e60619a663b87c5f4e	toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	97566c1a256d07b00848aa767e38a352	ltprune	4f3f2db5ce3ccbeeacdf3f94954043aa	preserve-libs	dbc9f8d2d49c66467bc327fddd8317bd	strip-linguas	ac3ee41ee2d31d8c41a77c0838320cc7	vcs-clean	b690a7e9b6c497cf59326a7545df4283	wrapper	4251d4c84c25f59094fd557e0063a974	eutils	dab5d8ec471d025b79c9e6906bcf3bff	versionator	d3fb3ba33acc3bbbdc4d7970227c100d	mozextension	02419f8d0c6b57fd23bb4e875a37996a	nsplugins	8c3244c078d8e665aa62ca28b740f715	multibuild	05a584848db4901c97fcd94ae7cc3a97	multilib-build	effd4508d5e8209273d82d8f67ee93a0	multilib-minimal	7187f259f207bf5b69e4ff01498a7269
-_md5_=4760b0c791d72ec83b7c06330249f85b
+_eclasses_=xdg-utils	27f9a2f19502b925ac117bd657aa2979	edos2unix	33e347e171066657f91f8b0c72ec8773	strip-linguas	ac3ee41ee2d31d8c41a77c0838320cc7	wrapper	4251d4c84c25f59094fd557e0063a974	eutils	dab5d8ec471d025b79c9e6906bcf3bff	multilib	97566c1a256d07b00848aa767e38a352	toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	mozextension	02419f8d0c6b57fd23bb4e875a37996a	nsplugins	1999e6a57f71b5ce5ad2e24a16d62995	multibuild	05a584848db4901c97fcd94ae7cc3a97	multilib-build	effd4508d5e8209273d82d8f67ee93a0	multilib-minimal	7187f259f207bf5b69e4ff01498a7269
+_md5_=859fcf2a8dc0c6eb22ee4202428b4ee8
