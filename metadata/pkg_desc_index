@@ -49,8 +49,8 @@ net-im/electron-wechat-bin 1.0.0: For creating the most usable Linux/MacOS WeCha
 net-im/electronic-wechat-bin 2.3.1: A better WeChat on macOS and Linux. Built with Electron
 net-im/wechat-uos 2.0.0: Official WeChat (Weixin) for UOS (patched by AUR for other distros)
 net-misc/baidunetdisk 3.0.1 3.4.1 3.5.0: Baidu Net Disk is a cloud storage client (Linux Version)
-net-misc/baidupcs-go 3.6.2 3.8.1 3.8.2 9999: The terminal utility for Baidu Network Disk (Golang Version).
-net-misc/baidupcs-go-bin 3.6.2 3.8.2: The terminal utility for Baidu Network Disk (Golang Version).
+net-misc/baidupcs-go 3.6.2 3.8.1 3.8.2-r1 9999: The terminal utility for Baidu Network Disk (Golang Version).
+net-misc/baidupcs-go-bin 3.6.2 3.8.2-r1: The terminal utility for Baidu Network Disk (Golang Version).
 net-misc/sunloginclient 10.0.2.24779 11.0.0.36662: Sunlogin Remote Control for mobile devices, Win, Mac, Linux, etc. (GUI version)
 net-misc/xunlei-download 1.0.0.1 1.0.0.1-r1: Xunlei download
 sci-astronomy/aladin 11.024: Interactive software sky atlas
