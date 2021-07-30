@@ -7,9 +7,9 @@ HOMEPAGE=https://sunlogin.oray.com
 INHERIT=unpacker systemd desktop xdg
 KEYWORDS=-* ~amd64
 LICENSE=Sunlogin
-RDEPEND=app-text/aspell app-text/hunspell app-text/nuspell dev-libs/libappindicator:3 dev-libs/libvoikko x11-apps/xhost
+RDEPEND=app-text/aspell app-text/hunspell app-text/nuspell dev-libs/libappindicator:3 dev-libs/libvoikko x11-apps/xhost virtual/libcrypt:=
 RESTRICT=mirror
 SLOT=0
 SRC_URI=http://download.oray.com/sunlogin/linux/SunloginClient-10.0.2.24779_amd64.deb
 _eclasses_=toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	97566c1a256d07b00848aa767e38a352	unpacker	2eeba54233fa41bdb15dcddcb63fba3a	systemd	c846b9e02ac8293bfc9ca38a195c2a18	desktop	c0d27bf73aa08ca05b663dbd31fbef28	xdg-utils	27f9a2f19502b925ac117bd657aa2979	xdg	c7ba313ea1eaf266f95cc6235f7d6a07
-_md5_=0b99d84a29139b92f1103c93f3690d34
+_md5_=4cf13550a91d2c0f535698d88e972d13
