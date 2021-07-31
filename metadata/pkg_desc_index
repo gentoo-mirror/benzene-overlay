@@ -54,7 +54,7 @@ net-misc/baidupcs-go-bin 3.6.2 3.8.2-r1: The terminal utility for Baidu Network 
 net-misc/sunloginclient 10.0.2.24779 11.0.0.36662: Sunlogin Remote Control for mobile devices, Win, Mac, Linux, etc. (GUI version)
 net-misc/xunlei-download 1.0.0.1 1.0.0.1-r1: Xunlei download
 sci-astronomy/aladin 11.024: Interactive software sky atlas
-sci-astronomy/astrometry 0.78 0.80 0.82: Automated astrometric calibration programs and service
+sci-astronomy/astrometry 0.78 0.80 0.85: Automated astrometric calibration programs and service
 sci-astronomy/erfa 1.7.2: Essential Routines for Fundamental Astronomy
 sci-astronomy/topcat 4.8 4.8.1: Interactive graphical viewer and editor for astronomical tables
 www-plugins/adobe-flash 32.0.0.465: Adobe Flash Player
