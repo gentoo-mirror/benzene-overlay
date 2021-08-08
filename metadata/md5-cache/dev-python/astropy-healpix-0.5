@@ -1,7 +1,7 @@
 BDEPEND=dev-python/astropy-helpers[python_targets_python3_8(-)?,python_targets_python3_9(-)?,python_targets_python3_10(-)?] doc? ( >=dev-python/numpy-1.11[python_targets_python3_8(-)?,python_targets_python3_9(-)?,python_targets_python3_10(-)?] >=dev-python/astropy-2.0[python_targets_python3_8(-)?,python_targets_python3_9(-)?,python_targets_python3_10(-)?] dev-python/sphinx-astropy[python_targets_python3_8(-)?,python_targets_python3_9(-)?,python_targets_python3_10(-)?] ) test? ( >=dev-python/numpy-1.11[python_targets_python3_8(-)?,python_targets_python3_9(-)?,python_targets_python3_10(-)?] >=dev-python/astropy-2.0[python_targets_python3_8(-)?,python_targets_python3_9(-)?,python_targets_python3_10(-)?] dev-python/pytest-astropy[python_targets_python3_8(-)?,python_targets_python3_9(-)?,python_targets_python3_10(-)?] dev-python/hypothesis[python_targets_python3_8(-)?,python_targets_python3_9(-)?,python_targets_python3_10(-)?] ) test? ( >=dev-python/numpy-1.11[python_targets_python3_8(-)?,python_targets_python3_9(-)?,python_targets_python3_10(-)?] >=dev-python/astropy-2.0[python_targets_python3_8(-)?,python_targets_python3_9(-)?,python_targets_python3_10(-)?] ) python_targets_python3_8? ( dev-lang/python:3.8 ) python_targets_python3_9? ( dev-lang/python:3.9 ) python_targets_python3_10? ( dev-lang/python:3.10 ) >=dev-lang/python-exec-2:=[python_targets_python3_8(-)?,python_targets_python3_9(-)?,python_targets_python3_10(-)?] >=dev-python/setuptools-42.0.2[python_targets_python3_8(-)?,python_targets_python3_9(-)?,python_targets_python3_10(-)?]
 DEFINED_PHASES=compile configure install postinst prepare test
 DESCRIPTION=BSD-licensed HEALPix for Astropy
-EAPI=7
+EAPI=8
 HOMEPAGE=http://astropy-healpix.readthedocs.io
 INHERIT=distutils-r1 optfeature
 IUSE=doc test python_targets_python3_8 python_targets_python3_9 python_targets_python3_10
@@ -12,5 +12,5 @@ REQUIRED_USE=|| ( python_targets_python3_8 python_targets_python3_9 python_targe
 RESTRICT=!test? ( test ) !test? ( test )
 SLOT=0
 SRC_URI=mirror://pypi/a/astropy-healpix/astropy-healpix-0.5.tar.gz doc? ( https://lambda.gsfc.nasa.gov/data/map/dr3/skymaps/5yr//wmap_band_imap_r9_5yr_K_v3.fits )
-_eclasses_=multiprocessing	61c959fc55c15c00bbb1079d6a71370b	toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	97566c1a256d07b00848aa767e38a352	multibuild	05a584848db4901c97fcd94ae7cc3a97	eapi8-dosym	cd7d420bb5be5ee079f27239ce76b8f5	python-utils-r1	f5408c7f165c2c81b787182c52bc41dd	python-r1	e20b80360497e6215aed0dd4ca7d6bad	distutils-r1	943c17c3afd0f811ad36a0b5c8dedba9	optfeature	30ce9dec2b8943338c9b015bd32bac6a
-_md5_=c1d2fdb439da9f0b141ea632d5daa266
+_eclasses_=multiprocessing	61c959fc55c15c00bbb1079d6a71370b	toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	97566c1a256d07b00848aa767e38a352	multibuild	05a584848db4901c97fcd94ae7cc3a97	python-utils-r1	f5408c7f165c2c81b787182c52bc41dd	python-r1	e20b80360497e6215aed0dd4ca7d6bad	distutils-r1	943c17c3afd0f811ad36a0b5c8dedba9	optfeature	30ce9dec2b8943338c9b015bd32bac6a
+_md5_=60fad8bfcdc0165bc35f6eb585324f4f
