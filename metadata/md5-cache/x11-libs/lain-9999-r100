@@ -1,17 +1,17 @@
-BDEPEND=virtual/pkgconfig test? ( lua_single_target_luajit? ( dev-lua/busted[lua_targets_luajit(-)] ) lua_single_target_lua5-1? ( dev-lua/busted[lua_targets_lua5-1(-)] ) lua_single_target_lua5-2? ( dev-lua/busted[lua_targets_lua5-2(-)] ) lua_single_target_lua5-3? ( dev-lua/busted[lua_targets_lua5-3(-)] ) lua_single_target_luajit? ( dev-lang/luajit:= ) lua_single_target_lua5-1? ( dev-lang/lua:5.1 ) lua_single_target_lua5-2? ( dev-lang/lua:5.2 ) lua_single_target_lua5-3? ( dev-lang/lua:5.3 ) x11-wm/awesome[lua_single_target_luajit(-)?,lua_single_target_lua5-1(-)?,lua_single_target_lua5-2(-)?,lua_single_target_lua5-3(-)?] curl? ( net-misc/curl ) ) >=dev-vcs/git-1.8.2.1[curl]
+BDEPEND=virtual/pkgconfig test? ( lua_single_target_luajit? ( dev-lua/busted[lua_targets_luajit(-)] ) lua_single_target_lua5-1? ( dev-lua/busted[lua_targets_lua5-1(-)] ) lua_single_target_lua5-3? ( dev-lua/busted[lua_targets_lua5-3(-)] ) lua_single_target_luajit? ( dev-lang/luajit:= ) lua_single_target_lua5-1? ( dev-lang/lua:5.1 ) lua_single_target_lua5-3? ( dev-lang/lua:5.3 ) x11-wm/awesome[lua_single_target_luajit(-)?,lua_single_target_lua5-1(-)?,lua_single_target_lua5-3(-)?] curl? ( net-misc/curl ) ) >=dev-vcs/git-1.8.2.1[curl]
 DEFINED_PHASES=install setup test unpack
-DEPEND=lua_single_target_luajit? ( dev-lang/luajit:= ) lua_single_target_lua5-1? ( dev-lang/lua:5.1 ) lua_single_target_lua5-2? ( dev-lang/lua:5.2 ) lua_single_target_lua5-3? ( dev-lang/lua:5.3 )
+DEPEND=lua_single_target_luajit? ( dev-lang/luajit:= ) lua_single_target_lua5-1? ( dev-lang/lua:5.1 ) lua_single_target_lua5-3? ( dev-lang/lua:5.3 )
 DESCRIPTION=Layouts, asynchronous widgets and utilities for Awesome WM
 EAPI=8
 HOMEPAGE=https://github.com/lcpz/lain
 INHERIT=git-r3 lua-single
-IUSE=+curl test lua_single_target_luajit lua_single_target_lua5-1 lua_single_target_lua5-2 lua_single_target_lua5-3
+IUSE=+curl test lua_single_target_luajit lua_single_target_lua5-1 lua_single_target_lua5-3
 KEYWORDS=~amd64 ~arm ~ppc ~ppc64 ~x86
 LICENSE=GPL-2
 PROPERTIES=live
-RDEPEND=lua_single_target_luajit? ( dev-lang/luajit:= ) lua_single_target_lua5-1? ( dev-lang/lua:5.1 ) lua_single_target_lua5-2? ( dev-lang/lua:5.2 ) lua_single_target_lua5-3? ( dev-lang/lua:5.3 ) x11-wm/awesome[lua_single_target_luajit(-)?,lua_single_target_lua5-1(-)?,lua_single_target_lua5-2(-)?,lua_single_target_lua5-3(-)?] curl? ( net-misc/curl )
-REQUIRED_USE=^^ ( lua_single_target_luajit lua_single_target_lua5-1 lua_single_target_lua5-2 lua_single_target_lua5-3 )
+RDEPEND=lua_single_target_luajit? ( dev-lang/luajit:= ) lua_single_target_lua5-1? ( dev-lang/lua:5.1 ) lua_single_target_lua5-3? ( dev-lang/lua:5.3 ) x11-wm/awesome[lua_single_target_luajit(-)?,lua_single_target_lua5-1(-)?,lua_single_target_lua5-3(-)?] curl? ( net-misc/curl )
+REQUIRED_USE=^^ ( lua_single_target_luajit lua_single_target_lua5-1 lua_single_target_lua5-3 )
 RESTRICT=!test? ( test )
 SLOT=0
-_eclasses_=git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da	toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	97566c1a256d07b00848aa767e38a352	lua-utils	b2a391a6023bd5e1245bf27407f2f684	lua-single	d7fc7edcf6eef719ce5cc76acbde4f18
+_eclasses_=git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da	toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	97566c1a256d07b00848aa767e38a352	lua-utils	af986d19619f43dc53862da0d25b9c2e	lua-single	8cdf449259063fc54bf347db93744d1f
 _md5_=61512d95894148d9aaefba7c7d18717a
