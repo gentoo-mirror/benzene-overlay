@@ -1,0 +1,15 @@
+BDEPEND=virtual/pkgconfig
+DEFINED_PHASES=install postinst postrm preinst prepare unpack
+DEPEND=dev-util/desktop-file-utils x11-misc/shared-mime-info
+DESCRIPTION=A third-party tool for managing iOS devices
+EAPI=7
+HOMEPAGE=https://www.i4.cn
+INHERIT=unpacker desktop udev xdg
+KEYWORDS=~amd64
+LICENSE=i4
+RDEPEND=media-video/ffmpeg[iec61883,ieee1394,jack,libcaca,librtmp,speex,twolame] app-pda/usbmuxd media-libs/libwebp media-sound/wavpack net-nds/openldap sys-process/numactl
+RESTRICT=strip
+SLOT=0
+SRC_URI=https://d-updater.i4.cn/i4linux/deb/i4tools_v1.0.038.deb
+_eclasses_=toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	97566c1a256d07b00848aa767e38a352	unpacker	2eeba54233fa41bdb15dcddcb63fba3a	desktop	c0d27bf73aa08ca05b663dbd31fbef28	udev	0a92682c0f65a60d01453db598fc6490	xdg-utils	27f9a2f19502b925ac117bd657aa2979	xdg	c7ba313ea1eaf266f95cc6235f7d6a07
+_md5_=8200429e4f92371325701fa889876d8c

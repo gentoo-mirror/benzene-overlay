@@ -1,4 +1,5 @@
 app-office/wps-office 11.1.0.10161 11.1.0.10702: WPS Office is an office productivity suite
+app-pda/i4tools 1.0.038: A third-party tool for managing iOS devices
 app-text/ydcv 0.7: YouDao Console Version - Simple wrapper for Youdao online translate service API
 app-text/youdao-dict 6.0.0: YouDao Dictionary
 dev-python/PyQt5 5.15.4-r1 5.15.5_pre2107091435: Python bindings for the Qt framework
