@@ -1,0 +1,16 @@
+BDEPEND=virtual/pkgconfig
+DEFINED_PHASES=install postinst postrm preinst
+DESCRIPTION=Web client of Project V for VMess, VLESS, SS, SSR, Trojan & Pingtunnel protocols
+EAPI=8
+HOMEPAGE=https://github.com/v2rayA/v2rayA
+IDEPEND=dev-util/desktop-file-utils x11-misc/shared-mime-info
+INHERIT=systemd desktop xdg
+IUSE=+v2ray xray
+KEYWORDS=-* ~amd64 ~arm ~arm64 ~x86
+LICENSE=GPL-3
+RDEPEND=v2ray? ( || ( >=net-proxy/v2ray-4.37.0 >=net-proxy/v2ray-core-4.37.0 >=net-proxy/v2ray-bin-4.37.0 ) ) !v2ray? ( !net-proxy/v2ray !net-proxy/v2ray-core !net-proxy/v2ray-bin ) xray? ( >=net-proxy/Xray-1.4.2 )
+REQUIRED_USE=|| ( v2ray xray )
+SLOT=0
+SRC_URI=amd64? ( https://apt.v2raya.mzz.pub/pool/main/v/v2raya/v2raya_linux_x64_v1.4.4 -> v2raya-bin-1.4.4-amd64 ) x86? ( https://apt.v2raya.mzz.pub/pool/main/v/v2raya/v2raya_linux_x86_v1.4.4 -> v2raya-bin-1.4.4-x86 ) arm64? ( https://apt.v2raya.mzz.pub/pool/main/v/v2raya/v2raya_linux_arm64_v1.4.4 -> v2raya-bin-1.4.4-arm64 ) arm? ( https://apt.v2raya.mzz.pub/pool/main/v/v2raya/v2raya_linux_arm_v1.4.4 -> v2raya-bin-1.4.4-arm ) https://apt.v2raya.mzz.pub/pool/main/v/v2raya/web_v1.4.4.tar.gz
+_eclasses_=toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	97566c1a256d07b00848aa767e38a352	systemd	c846b9e02ac8293bfc9ca38a195c2a18	desktop	c0d27bf73aa08ca05b663dbd31fbef28	xdg-utils	27f9a2f19502b925ac117bd657aa2979	xdg	e73b9df80596ab8f9c542c01196dec23
+_md5_=6327882acae0b45248953dd5c515aaa4

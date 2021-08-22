@@ -2,7 +2,7 @@ BDEPEND=dev-python/setuptools_scm[python_targets_python3_8(-)?,python_targets_py
 DEFINED_PHASES=compile configure install prepare test
 DEPEND=>=dev-python/hypothesis-5.1[python_targets_python3_8(-)?,python_targets_python3_9(-)?,python_targets_python3_10(-)?] >=dev-python/pytest-astropy-header-0.1.2[python_targets_python3_8(-)?,python_targets_python3_9(-)?,python_targets_python3_10(-)?] >=dev-python/pytest-arraydiff-0.1[python_targets_python3_8(-)?,python_targets_python3_9(-)?,python_targets_python3_10(-)?] >=dev-python/pytest-doctestplus-0.2.0[python_targets_python3_8(-)?,python_targets_python3_9(-)?,python_targets_python3_10(-)?] >=dev-python/pytest-openfiles-0.3.1[python_targets_python3_8(-)?,python_targets_python3_9(-)?,python_targets_python3_10(-)?] >=dev-python/pytest-remotedata-0.3.1[python_targets_python3_8(-)?,python_targets_python3_9(-)?,python_targets_python3_10(-)?] >=dev-python/pytest-filter-subpackage-0.1[python_targets_python3_8(-)?,python_targets_python3_9(-)?,python_targets_python3_10(-)?] >=dev-python/pytest-cov-2.0[python_targets_python3_8(-)?,python_targets_python3_9(-)?,python_targets_python3_10(-)?] >=dev-python/pytest-4.6.0[python_targets_python3_8(-)?,python_targets_python3_9(-)?,python_targets_python3_10(-)?]
 DESCRIPTION=Metapackage for all the testing machinery used by the Astropy Project
-EAPI=7
+EAPI=8
 HOMEPAGE=https://github.com/astropy/pytest-astropy
 INHERIT=distutils-r1
 IUSE=python_targets_python3_8 python_targets_python3_9 python_targets_python3_10
@@ -12,5 +12,5 @@ RDEPEND=>=dev-python/hypothesis-5.1[python_targets_python3_8(-)?,python_targets_
 REQUIRED_USE=|| ( python_targets_python3_8 python_targets_python3_9 python_targets_python3_10 )
 SLOT=0
 SRC_URI=mirror://pypi/p/pytest-astropy/pytest-astropy-0.8.0.tar.gz
-_eclasses_=multiprocessing	61c959fc55c15c00bbb1079d6a71370b	toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	97566c1a256d07b00848aa767e38a352	multibuild	05a584848db4901c97fcd94ae7cc3a97	eapi8-dosym	cd7d420bb5be5ee079f27239ce76b8f5	python-utils-r1	08d890890f70fe0096093016e55438d5	python-r1	e20b80360497e6215aed0dd4ca7d6bad	distutils-r1	e297e8afd355d60fb9d2d7b37b81214f
-_md5_=a83ff96a3f72887a809e991eeee05267
+_eclasses_=multiprocessing	61c959fc55c15c00bbb1079d6a71370b	toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	97566c1a256d07b00848aa767e38a352	multibuild	05a584848db4901c97fcd94ae7cc3a97	python-utils-r1	08d890890f70fe0096093016e55438d5	python-r1	e20b80360497e6215aed0dd4ca7d6bad	distutils-r1	e297e8afd355d60fb9d2d7b37b81214f
+_md5_=542e642ea65c7a279d85f95d36ab7eef
