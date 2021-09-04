@@ -1,7 +1,7 @@
 BDEPEND=>=dev-vcs/git-1.8.2.1[curl] >=dev-lang/go-1.12 app-arch/unzip
 DEFINED_PHASES=compile install unpack
 DESCRIPTION=The terminal utility for Baidu Network Disk (Golang Version).
-EAPI=7
+EAPI=8
 HOMEPAGE=https://github.com/qjfoidnh/BaiduPCS-Go
 INHERIT=git-r3 go-module
 LICENSE=Apache-2.0
@@ -10,4 +10,4 @@ RDEPEND=!net-misc/baidupcs-go-bin
 RESTRICT=strip
 SLOT=0
 _eclasses_=git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da	go-module	66ced1f8651b6b35c0262d39e015fe24
-_md5_=1a101354dac47422dd861cf97cf8a6c0
+_md5_=5071a86465f125deda28e8e774597901
