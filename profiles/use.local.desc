@@ -6,6 +6,7 @@ app-office/wps-office:cn - Use CN version of WPS Office (including WPS Cloud, WP
 app-office/wps-office:l10n_zh-HK - Chinese (Traditional, Hong Kong S.A.R.)
 app-office/wps-office:l10n_zh-MO - Chinese (Traditional, Macao S.A.R.)
 app-office/wps-office:mime - Use mime files provided by WPS
+app-office/wps-office:systemd - Use bundled dbus that depends on sys-apps/systemd
 app-text/ydcv:pkg-info - Add discriptions to PKG-INFO file
 dev-python/PyQt5:bluetooth - Build bindings for the QtBluetooth module
 dev-python/PyQt5:dbus - Build bindings for the QtDBus module
