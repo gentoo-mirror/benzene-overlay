@@ -46,6 +46,7 @@ dev-qt/qtwebkit 5.212.0_pre20200309-r1 5.212.0_pre20200309-r2: WebKit rendering 
 media-fonts/wps-office-fonts 1.0: The wps-office-fonts package contains Founder Chinese fonts
 media-gfx/gpaint 0.3.3: A small easy-to-use paint program for the GNOME Desktop
 media-libs/gmtk 1.0.9: GTK+ widget and function libraries for gnome-mplayer
+media-sound/ting-en-bin 9.4.1: Daily English Listening software from eusoft
 media-video/gnome-mplayer 1.0.9-r1: A GTK+ interface to MPlayer
 net-im/electron-qq-bin 1.5.7 2.1.4: A cross-platform QQ made with Electron (Deprecated. Moved to Icalingua)
 net-im/electron-wechat-bin 1.0.0: For creating the most usable Linux/MacOS WeChat client. A.k.a. Freechat
