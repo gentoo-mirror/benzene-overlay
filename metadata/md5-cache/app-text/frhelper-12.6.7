@@ -1,0 +1,14 @@
+DEFINED_PHASES=install postinst postrm preinst prepare unpack
+DESCRIPTION=Proprietary French dictionary software for linux
+EAPI=8
+HOMEPAGE=https://www.eudic.net/v4/fr/app/frhelper
+IDEPEND=dev-util/desktop-file-utils x11-misc/shared-mime-info
+INHERIT=unpacker qmake-utils desktop xdg
+IUSE=ibus
+KEYWORDS=-* ~amd64
+LICENSE=eudic
+RDEPEND=dev-qt/qtgui:5[ibus?] dev-qt/qtimageformats:5 dev-qt/qtlocation:5 dev-qt/qtspeech:5[flite] dev-qt/qtsvg:5 dev-qt/qtwebkit:5[X,orientation,qml,webp]
+SLOT=0
+SRC_URI=https://www.eudic.net/download/frhelper.deb?v=2021-09-29 -> frhelper-12.6.7_amd64.deb
+_eclasses_=toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	4b66d835ec72e021e359bb81eacfe988	unpacker	928e1f35ef78ba9fc2b214e29c2b55a4	qmake-utils	f5eb2f69fffe94292aaaf802fb21c8d1	desktop	c0d27bf73aa08ca05b663dbd31fbef28	xdg-utils	27f9a2f19502b925ac117bd657aa2979	xdg	6024fbc93167fad782e2032933654857
+_md5_=85d17a9a0a472e6ce0bf3f29be8c7753
