@@ -7,6 +7,8 @@ app-office/wps-office:l10n_zh-HK - Chinese (Traditional, Hong Kong S.A.R.)
 app-office/wps-office:l10n_zh-MO - Chinese (Traditional, Macao S.A.R.)
 app-office/wps-office:mime - Use mime files provided by WPS
 app-office/wps-office:systemd - Use bundled dbus that depends on sys-apps/systemd
+app-text/dehelper:ibus - Enable support for app-i18n/ibus
+app-text/eshelper:ibus - Enable support for app-i18n/ibus
 app-text/eudic:ibus - Enable support for app-i18n/ibus
 app-text/frhelper:ibus - Enable support for app-i18n/ibus
 app-text/ydcv:pkg-info - Add discriptions to PKG-INFO file
