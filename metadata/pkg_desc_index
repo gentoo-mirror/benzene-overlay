@@ -68,6 +68,6 @@ net-proxy/v2raya-bin 1.4.4-r1 1.5.2 1.5.4: Web client of Project V for VMess, VL
 sci-astronomy/aladin 11.024: Interactive software sky atlas
 sci-astronomy/astrometry 0.78 0.80 0.85: Automated astrometric calibration programs and service
 sci-astronomy/erfa 1.7.2: Essential Routines for Fundamental Astronomy
-sci-astronomy/topcat 4.8 4.8.1: Interactive graphical viewer and editor for astronomical tables
+sci-astronomy/topcat 4.8 4.8.2: Interactive graphical viewer and editor for astronomical tables
 www-plugins/adobe-flash 32.0.0.465: Adobe Flash Player
 x11-libs/lain 9999 9999-r100: Layouts, asynchronous widgets and utilities for Awesome WM
