@@ -70,5 +70,6 @@ sci-astronomy/aladin 11.024: Interactive software sky atlas
 sci-astronomy/astrometry 0.78 0.80 0.85: Automated astrometric calibration programs and service
 sci-astronomy/erfa 1.7.2: Essential Routines for Fundamental Astronomy
 sci-astronomy/topcat 4.8 4.8.2: Interactive graphical viewer and editor for astronomical tables
+sys-libs/libsystemd 249.4-r4 249.5-r1 9999: System and service manager for Linux
 www-plugins/adobe-flash 32.0.0.465: Adobe Flash Player
 x11-libs/lain 9999 9999-r100: Layouts, asynchronous widgets and utilities for Awesome WM
