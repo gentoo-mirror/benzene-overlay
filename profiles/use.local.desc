@@ -8,6 +8,9 @@ app-office/wps-office:l10n_zh-MO - Chinese (Traditional, Macao S.A.R.)
 app-office/wps-office:libsystemd - Use standalone sys-libs/libsystemd package to provide libsystemd.so for working non-systemd systems.
 app-office/wps-office:mime - Use mime files provided by WPS
 app-office/wps-office:systemd - Use bundled dbus that depends on sys-apps/systemd
+app-pda/i4tools:fcitx - Enable support for app-i18n/fcitx 4
+app-pda/i4tools:fcitx5 - Enable support for app-i18n/fcitx5
+app-pda/i4tools:ibus - Enable support for app-i18n/ibus
 app-text/dehelper:ibus - Enable support for app-i18n/ibus
 app-text/eshelper:ibus - Enable support for app-i18n/ibus
 app-text/eudic:ibus - Enable support for app-i18n/ibus
