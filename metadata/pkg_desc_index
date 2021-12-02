@@ -11,7 +11,7 @@ app-text/youdao-dict 6.0.0: YouDao Dictionary
 dev-python/PyQt5 5.15.4-r1 5.15.6: Python bindings for the Qt framework
 dev-python/aplpy 1.1.1 2.0.3: Astronomical Plotting Library in Python
 dev-python/asdf 2.7.1 2.7.2: Python library for the Advanced Scientific Data Format
-dev-python/astlib 0.8.0 0.11.3: Python astronomy modules for image and coordinate manipulation
+dev-python/astlib 0.11.3: Python astronomy modules for image and coordinate manipulation
 dev-python/astrodendro 0.2.0: Python package for computation of astronomical dendrograms
 dev-python/astroml 0.4.1: Python Machine Learning library for astronomy
 dev-python/astroplan 0.6: Observation planning package for astronomers
@@ -20,7 +20,7 @@ dev-python/astropy-healpix 0.5: BSD-licensed HEALPix for Astropy
 dev-python/astropy-helpers 2.0.11 3.0.2 3.1.1 4.0.1: Helpers for Astropy and Affiliated packages
 dev-python/astropy-sphinx-theme 1.1: The sphinx theme for Astropy and affiliated packages
 dev-python/astroquery 0.3.10 0.4: Collection of packages to access online astronomical resources
-dev-python/astroscrappy 1.0.8: Optimized cosmic ray annihilation astropy python module
+dev-python/astroscrappy 1.0.8 1.1.0: Optimized cosmic ray annihilation astropy python module
 dev-python/atpy 0.9.7: Astronomical tables support for Python
 dev-python/ccdproc 1.3.0_p1 2.1.0: Astropy affiliated package for reducing optical/IR CCD data
 dev-python/extension-helpers 0.1: Helpers to assist with building Python pkgs with compiled C/Cython extensions
