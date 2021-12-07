@@ -15,7 +15,7 @@ dev-python/astlib 0.11.3: Python astronomy modules for image and coordinate mani
 dev-python/astrodendro 0.2.0: Python package for computation of astronomical dendrograms
 dev-python/astroml 0.4.1: Python Machine Learning library for astronomy
 dev-python/astroplan 0.6: Observation planning package for astronomers
-dev-python/astropy 2.0.16 3.0.5 3.1.2 4.2: Core functionality for performing astrophysics with Python
+dev-python/astropy 2.0.16 3.0.5 3.1.2 4.2.1: Core functionality for performing astrophysics with Python
 dev-python/astropy-healpix 0.5: BSD-licensed HEALPix for Astropy
 dev-python/astropy-helpers 2.0.11 3.0.2 3.1.1 4.0.1: Helpers for Astropy and Affiliated packages
 dev-python/astropy-sphinx-theme 1.1: The sphinx theme for Astropy and affiliated packages
@@ -29,7 +29,7 @@ dev-python/healpy 1.11.0: Python wrapper for healpix
 dev-python/montage-wrapper 0.9.9: Python wrapper for the Montage mosaicking toolkit
 dev-python/photutils 1.0.2: Affiliated package for image photometry utilities
 dev-python/pyavm 0.9.5: Simple pure-python AVM meta-data handling
-dev-python/pyerfa 1.7.1.1 1.7.2: Python bindings for ERFA
+dev-python/pyerfa 1.7.2 2.0.0.1: Python bindings for ERFA
 dev-python/pyregion 2.0: Python module to parse ds9 region file
 dev-python/pytest-arraydiff 0.3: Pytest plugin to facilitate comparison of arrays
 dev-python/pytest-astropy 0.8.0 0.9.0: Metapackage for all the testing machinery used by the Astropy Project
@@ -43,7 +43,7 @@ dev-python/pyvo 1.1: Astropy affiliated package for accessing Virtual Observator
 dev-python/regions 0.4: Astropy affiliated package for region handling
 dev-python/reproject 0.5.1 0.7.1: Reproject astronomical images with Python
 dev-python/specutils 1.1.1: Python package for astronomy spectral operations
-dev-python/sphinx-asdf 0.1.1: Sphinx plugin for generating documentation from ASDF schemas
+dev-python/sphinx-asdf 0.1.2: Sphinx plugin for generating documentation from ASDF schemas
 dev-python/sphinx-astropy 1.6.0: Sphinx extensions and configuration specific to the Astropy project
 dev-python/sphinx-automodapi 0.12 0.13: Sphinx extension for generating API documentation
 dev-qt/qtwebkit 5.212.0_pre20200309-r1 5.212.0_pre20200309-r2: WebKit rendering library for the Qt5 framework (deprecated)
@@ -68,7 +68,7 @@ net-misc/xunlei-download 1.0.0.2: Xunlei download
 net-proxy/v2raya-bin 1.4.4-r1 1.5.2 1.5.4: Web client of Project V for VMess, VLESS, SS, SSR, Trojan & Pingtunnel protocols
 sci-astronomy/aladin 11.024: Interactive software sky atlas
 sci-astronomy/astrometry 0.78 0.80 0.85: Automated astrometric calibration programs and service
-sci-astronomy/erfa 1.7.2: Essential Routines for Fundamental Astronomy
+sci-astronomy/erfa 1.7.2 2.0.0: Essential Routines for Fundamental Astronomy
 sci-astronomy/topcat 4.8 4.8.2: Interactive graphical viewer and editor for astronomical tables
 sys-libs/libsystemd 249.4-r4 249.6 249.6-r1 9999: A standalone package to provide libsystemd.so without systemd
 www-plugins/adobe-flash 32.0.0.465: Adobe Flash Player
