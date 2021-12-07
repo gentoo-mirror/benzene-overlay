@@ -3,7 +3,7 @@
 
 EAPI=8
 
-PYTHON_COMPAT=( python3_{7..10} )
+PYTHON_COMPAT=( python3_{8..10} )
 
 inherit distutils-r1
 
@@ -24,7 +24,7 @@ DEPEND="${RDEPEND}"
 BDEPEND="${RDEPEND}
 	dev-python/setuptools_scm[${PYTHON_USEDEP}]
 	test? (
-		dev-python/pytest-doctestplus[${PYTHON_USEDEP}]
+		>=dev-python/pytest-doctestplus-0.7[${PYTHON_USEDEP}]
 	)
 	doc? (
 		media-gfx/graphviz
