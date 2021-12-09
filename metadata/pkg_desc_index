@@ -16,7 +16,7 @@ dev-python/astrodendro 0.2.0: Python package for computation of astronomical den
 dev-python/astroml 0.4.1: Python Machine Learning library for astronomy
 dev-python/astroplan 0.6: Observation planning package for astronomers
 dev-python/astropy 2.0.16 3.0.5 3.1.2 4.2.1: Core functionality for performing astrophysics with Python
-dev-python/astropy-healpix 0.5: BSD-licensed HEALPix for Astropy
+dev-python/astropy-healpix 0.5 0.6: BSD-licensed HEALPix for Astropy
 dev-python/astropy-helpers 2.0.11 3.0.2 3.1.1 4.0.1: Helpers for Astropy and Affiliated packages
 dev-python/astropy-sphinx-theme 1.1: The sphinx theme for Astropy and affiliated packages
 dev-python/astroquery 0.3.10 0.4: Collection of packages to access online astronomical resources
