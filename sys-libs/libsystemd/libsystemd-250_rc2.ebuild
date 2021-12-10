@@ -20,7 +20,7 @@ else
 	MY_P=${MY_PN}-${MY_PV}
 	S=${WORKDIR}/${MY_P}
 	SRC_URI="https://github.com/systemd/${MY_PN}/archive/v${MY_PV}/${MY_P}.tar.gz"
-	KEYWORDS="~alpha amd64 arm arm64 ~hppa ~ia64 ~mips ppc ppc64 ~riscv sparc x86"
+	#KEYWORDS="~alpha ~amd64 ~arm ~arm64 ~hppa ~ia64 ~mips ~ppc ~ppc64 ~riscv ~sparc ~x86"
 fi
 
 inherit bash-completion-r1 linux-info meson-multilib ninja-utils pam python-any-r1 toolchain-funcs #systemd udev usr-ldscript
@@ -30,7 +30,7 @@ HOMEPAGE="https://www.freedesktop.org/wiki/Software/systemd"
 
 LICENSE="GPL-2 LGPL-2.1 MIT public-domain"
 SLOT="0/2"
-IUSE="acl apparmor audit build cgroup-hybrid cryptsetup curl dns-over-tls elfutils fido2 +gcrypt gnuefi homed http +hwdb idn importd +kmod +lz4 lzma nat pam pcre pkcs11 policykit pwquality qrcode repart +resolvconf +seccomp selinux split-usr +sysv-utils test tpm vanilla xkb +zstd"
+IUSE="acl apparmor audit build cgroup-hybrid cryptsetup curl dns-over-tls elfutils fido2 +gcrypt gnuefi homed http idn importd +kmod +lz4 lzma nat pam pcre pkcs11 policykit pwquality qrcode repart +resolvconf +seccomp selinux split-usr +sysv-utils test tpm vanilla xkb +zstd"
 
 REQUIRED_USE="
 	homed? ( cryptsetup pam )
@@ -184,10 +184,6 @@ src_prepare() {
 
 	# Add local patches here
 	PATCHES+=(
-		"${FILESDIR}/249-libudev-static.patch"
-		"${FILESDIR}/249-home-secret-assert.patch"
-		"${FILESDIR}/249-fido2.patch"
-		"${FILESDIR}/249-network-renaming.patch"
 	)
 
 	if ! use vanilla; then
@@ -239,10 +235,8 @@ multilib_src_configure() {
 		$(meson_use gcrypt)
 		$(meson_native_use_bool gnuefi gnu-efi)
 		-Defi-includedir="${ESYSROOT}/usr/include/efi"
-		-Defi-ld="$(tc-getLD)"
 		-Defi-libdir="${ESYSROOT}/usr/$(get_libdir)"
 		$(meson_native_use_bool homed)
-		$(meson_native_use_bool hwdb)
 		$(meson_native_use_bool http microhttpd)
 		$(meson_native_use_bool idn)
 		$(meson_native_use_bool importd)
