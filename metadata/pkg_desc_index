@@ -27,7 +27,7 @@ dev-python/extension-helpers 0.1: Helpers to assist with building Python pkgs wi
 dev-python/gwcs 0.16.1 0.17.1: Generalized World Coordinate System
 dev-python/healpy 1.11.0: Python wrapper for healpix
 dev-python/montage-wrapper 0.9.9: Python wrapper for the Montage mosaicking toolkit
-dev-python/photutils 1.0.2: Affiliated package for image photometry utilities
+dev-python/photutils 1.0.2 1.2.0: Affiliated package for image photometry utilities
 dev-python/pyavm 0.9.5: Simple pure-python AVM meta-data handling
 dev-python/pyerfa 1.7.2 2.0.0.1: Python bindings for ERFA
 dev-python/pyregion 2.0: Python module to parse ds9 region file
@@ -39,7 +39,7 @@ dev-python/pytest-filter-subpackage 0.1.1: Pytest plugin for filtering based on 
 dev-python/pytest-mpl 0.13: Pytest plugin to faciliate image comparison for matplotlib figures
 dev-python/pytest-openfiles 0.5.0: Pytest plugin to check for files left open at the end of a test run
 dev-python/pytest-remotedata 0.3.2: Pytest plugin used for controlling access to data files hosted online
-dev-python/pyvo 1.1: Astropy affiliated package for accessing Virtual Observatory data and services
+dev-python/pyvo 1.2: Astropy affiliated package for accessing Virtual Observatory data and services
 dev-python/regions 0.4: Astropy affiliated package for region handling
 dev-python/reproject 0.5.1 0.7.1: Reproject astronomical images with Python
 dev-python/sgp4 2.20: Python version of the SGP4 satellite position library
@@ -66,7 +66,7 @@ net-misc/baidupcs-go 3.6.2 3.8.1 3.8.4 9999: The terminal utility for Baidu Netw
 net-misc/baidupcs-go-bin 3.6.2 3.8.4: The terminal utility for Baidu Network Disk (Golang Version).
 net-misc/sunloginclient 10.0.2.24779 11.0.0.36662-r1: Sunlogin Remote Control for mobile devices, Win, Mac, Linux, etc. (GUI version)
 net-misc/xunlei-download 1.0.0.2: Xunlei download
-net-proxy/gg 0.2.0: Command-line tool for one-click proxy without v2ray or others (A.k.a. go-craft).
+net-proxy/gg 0.2.1: Command-line tool for one-click proxy without v2ray or others (A.k.a. go-craft).
 net-proxy/v2raya-bin 1.5.2 1.5.4 1.5.5: Web client of Project V for VMess, VLESS, SS, SSR, Trojan & Pingtunnel protocols
 sci-astronomy/aladin 11.024: Interactive software sky atlas
 sci-astronomy/astrometry 0.78 0.80 0.85: Automated astrometric calibration programs and service

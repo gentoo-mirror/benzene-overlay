@@ -50,7 +50,7 @@ dev-python/ccdproc:doc - Build extra documentation (build will pass with warning
 dev-python/gwcs:intersphinx - Enable intersphinx while doc building.
 dev-python/photutils:doc - Add extra documentation (cannot build figures). Disable the network-sandbox FEATURE to use intersphinx linking. Recommended to enable per package instead of globally
 dev-python/pyregion:doc - Build extra documentation (build will pass with warning. Disable the network-sandbox FEATURE to get better doc building)
-dev-python/pyvo:doc - Add extra documentation. Disable the network-sandbox FEATURE to use intersphinx linking. Recommended to enable per package instead of globally
+dev-python/pyvo:intersphinx - Enable intersphinx while doc building.
 dev-python/regions:doc - Build extra documentation (build will pass with warning. Disable the network-sandbox FEATURE to get better doc building)
 dev-python/reproject:doc - Add extra documentation. Disable the network-sandbox FEATURE to use intersphinx linking. Recommended to enable per package instead of globally
 dev-python/specutils:doc - Add extra documentation (cannot build figures). Disable the network-sandbox FEATURE to use intersphinx linking. Recommended to enable per package instead of globally
