@@ -22,12 +22,13 @@ dev-python/extension-helpers  | 0.1                         |
 dev-python/gwcs               | 0.16.1; 0.17.1              | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
 dev-python/healpy             | 1.11.0                      | See [here](https://github.com/Universebenzene/benzene-overlay/tree/master/dev-python/healpy#note-for-healpy) for details
 dev-python/montage-wrapper    | 0.9.9                       |
+dev-python/mpl-animator       | 1.0.0                       |
 dev-python/photutils          | 1.0.2; 1.2.0                | Disable `network-sandbox` FEATURE to use intersphinx linking in doc building. While the doc building needs lots of online data, you may not get the figures in the doc built
 dev-python/pyavm              | 0.9.5                       |
 dev-python/pyerfa             | 1.7.2; 2.0.0.1              | Fixed test phase. One of the deps of `astropy`.
 dev-python/pyregion           | 2.0                         |
 dev-python/pyvo               | 1.2                         | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
-dev-python/regions            | 0.4                         |
+dev-python/regions            | 0.4; 0.5                    | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
 dev-python/reproject          | 0.5.1; 0.7.1                | Disable `network-sandbox` FEATURE to use intersphinx linking in doc building. Some modules cannot work due to the compiling problem of `astropy-healpix`. See [here](https://github.com/Universebenzene/benzene-overlay/tree/master/dev-python/reproject#note-for-reproject) for details
 dev-python/sgp4               | 2.20                        |
 dev-python/specutils          | 1.1.1                       | Disable `network-sandbox` FEATURE to use intersphinx linking in doc building. Doc building needs SDSS online data, but SDSS servers are down, so you may not get the figures in the doc built
