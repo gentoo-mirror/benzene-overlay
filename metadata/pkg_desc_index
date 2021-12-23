@@ -39,7 +39,7 @@ dev-python/pytest-doctestplus 0.9.0 0.11.2: Pytest plugin with advanced doctest 
 dev-python/pytest-filter-subpackage 0.1.1: Pytest plugin for filtering based on sub-packages
 dev-python/pytest-mpl 0.13: Pytest plugin to faciliate image comparison for matplotlib figures
 dev-python/pytest-openfiles 0.5.0: Pytest plugin to check for files left open at the end of a test run
-dev-python/pytest-remotedata 0.3.2: Pytest plugin used for controlling access to data files hosted online
+dev-python/pytest-remotedata 0.3.3: Pytest plugin used for controlling access to data files hosted online
 dev-python/pyvo 1.2: Astropy affiliated package for accessing Virtual Observatory data and services
 dev-python/regions 0.4 0.5: Astropy affiliated package for region handling
 dev-python/reproject 0.5.1 0.7.1: Reproject astronomical images with Python
@@ -47,7 +47,7 @@ dev-python/sgp4 2.20: Python version of the SGP4 satellite position library
 dev-python/specutils 1.1.1: Python package for astronomy spectral operations
 dev-python/sphinx-asdf 0.1.2: Sphinx plugin for generating documentation from ASDF schemas
 dev-python/sphinx-astropy 1.6.0: Sphinx extensions and configuration specific to the Astropy project
-dev-python/sphinx-automodapi 0.12 0.13: Sphinx extension for generating API documentation
+dev-python/sphinx-automodapi 0.12 0.14.0: Sphinx extension for generating API documentation
 dev-python/sunpy-sphinx-theme 1.2.28: The sphinx theme for the SunPy website and documentation
 dev-qt/qtwebkit 5.212.0_pre20200309-r1 5.212.0_pre20200309-r2: WebKit rendering library for the Qt5 framework (deprecated)
 media-fonts/wps-office-fonts 1.0: The wps-office-fonts package contains Founder Chinese fonts
@@ -61,7 +61,7 @@ media-video/gnome-mplayer 1.0.9-r1: A GTK+ interface to MPlayer
 net-im/electron-qq-bin 1.5.7 2.1.4: A cross-platform QQ made with Electron (Deprecated. Moved to Icalingua)
 net-im/electron-wechat-bin 1.0.0: For creating the most usable Linux/MacOS WeChat client. A.k.a. Freechat
 net-im/electronic-wechat-bin 2.3.1: A better WeChat on macOS and Linux. Built with Electron
-net-im/icalingua-bin 2.3.2 2.4.4: A Linux client for QQ and more. Previously called Electron QQ
+net-im/icalingua-bin 2.4.5: A Linux client for QQ and more. Previously called Electron QQ
 net-im/wemeet 2.8.0.1-r1: Wemeet - Tencent Video Conferencing. A.k.a Tencent Meeting
 net-misc/baidunetdisk 3.0.1 3.5.0 4.3.0: Baidu Net Disk is a cloud storage client (Linux Version)
 net-misc/baidupcs-go 3.6.2 3.8.1 3.8.4 9999: The terminal utility for Baidu Network Disk (Golang Version).
