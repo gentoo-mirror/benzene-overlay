@@ -44,7 +44,7 @@ dev-python/pytest-mpl 0.13: Pytest plugin to faciliate image comparison for matp
 dev-python/pytest-openfiles 0.5.0: Pytest plugin to check for files left open at the end of a test run
 dev-python/pytest-remotedata 0.3.3: Pytest plugin used for controlling access to data files hosted online
 dev-python/pytest-socket 0.5.0: Pytest Plugin to disable socket calls during tests
-dev-python/pyvo 1.2: Astropy affiliated package for accessing Virtual Observatory data and services
+dev-python/pyvo 1.2.1: Astropy affiliated package for accessing Virtual Observatory data and services
 dev-python/regions 0.4 0.5: Astropy affiliated package for region handling
 dev-python/reproject 0.5.1 0.7.1: Reproject astronomical images with Python
 dev-python/sgp4 2.20: Python version of the SGP4 satellite position library
@@ -52,7 +52,7 @@ dev-python/siosocks 0.2.0: Sans-io socks proxy client/server with couple io back
 dev-python/specutils 1.1.1: Python package for astronomy spectral operations
 dev-python/sphinx-asdf 0.1.2: Sphinx plugin for generating documentation from ASDF schemas
 dev-python/sphinx-astropy 1.6.0 1.7.0: Sphinx extensions and configuration specific to the Astropy project
-dev-python/sphinx-automodapi 0.12 0.14.0: Sphinx extension for generating API documentation
+dev-python/sphinx-automodapi 0.12 0.14.1: Sphinx extension for generating API documentation
 dev-python/sunpy-sphinx-theme 1.2.28: The sphinx theme for the SunPy website and documentation
 dev-qt/qtwebkit 5.212.0_pre20200309-r1 5.212.0_pre20200309-r2: WebKit rendering library for the Qt5 framework (deprecated)
 media-fonts/wps-office-fonts 1.0: The wps-office-fonts package contains Founder Chinese fonts
@@ -79,6 +79,6 @@ sci-astronomy/aladin 11.024: Interactive software sky atlas
 sci-astronomy/astrometry 0.78 0.80 0.85: Automated astrometric calibration programs and service
 sci-astronomy/erfa 1.7.2 2.0.0: Essential Routines for Fundamental Astronomy
 sci-astronomy/topcat 4.8 4.8.2: Interactive graphical viewer and editor for astronomical tables
-sys-libs/libsystemd 249.6-r1 249.7 249.7-r1 249.9 250.2 9999: A standalone package to provide libsystemd.so without systemd
+sys-libs/libsystemd 249.9 250.2 9999: A standalone package to provide libsystemd.so without systemd
 www-plugins/adobe-flash 32.0.0.465: Adobe Flash Player
 x11-libs/lain 9999 9999-r100: Layouts, asynchronous widgets and utilities for Awesome WM
