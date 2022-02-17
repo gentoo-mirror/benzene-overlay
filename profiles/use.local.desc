@@ -67,9 +67,9 @@ media-video/gnome-mplayer:dconf - Enable support for gnome-base/dconf
 media-video/gnome-mplayer:gda - Enable support for gnome-extra/libgda
 net-im/wemeet:bundled-libs - Use the upstream provided bundled libraries.
 net-im/wemeet:ibus - Enable support for app-i18n/ibus
-net-misc/sunloginclient:keep-server - Keep sunloginclient server running after quit the gui client.
+net-misc/sunloginclient:keep-server - Keep sunloginclient server running after quit the GUI client.
 net-misc/sunloginclient:libsystemd - Use standalone sys-libs/libsystemd package to provide libsystemd.so for working non-systemd systems.
-net-misc/todesk:fonts - Install the bundled Noto fonts for CJK users.
+net-misc/todesk:fonts - Install the bundled Noto fonts for CJK users (Not needed if media-font/noto-cjk is already installed)
 net-proxy/v2raya-bin:v2ray - Use v2ray-core as default
 net-proxy/v2raya-bin:xray - To be able to use xray-core. Disable the v2ray useflag to use xray as default
 sci-astronomy/astrometry:netpbm - Compile and link netpbm
