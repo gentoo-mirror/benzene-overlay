@@ -42,6 +42,7 @@ dev-python/PyQt5:x11extras - Build bindings for the QtX11Extras module
 dev-python/PyQt5:xmlpatterns - Build bindings for the QtXmlPatterns module
 dev-python/aplpy:doc - Build extra documentation (build will pass with warning. Disable the network-sandbox FEATURE to get better doc building)
 dev-python/asdf:intersphinx - Enable intersphinx while doc building.
+dev-python/asdf-astropy:intersphinx - Enable intersphinx while doc building.
 dev-python/astroplan:doc - Build extra documentation (build will pass with warning. Disable the network-sandbox FEATURE to get better doc building)
 dev-python/astropy:doc - Build extra documentation (the network-sandbox FEATURE need to be temporarily disabled)
 dev-python/astropy-healpix:intersphinx - Enable intersphinx while doc building.
