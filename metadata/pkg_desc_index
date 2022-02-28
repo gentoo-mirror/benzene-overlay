@@ -9,13 +9,13 @@ app-text/powerword 1.2: A Chinese-English dictionary tool by Kingsoft
 app-text/ydcv 0.7: YouDao Console Version - Simple wrapper for Youdao online translate service API
 app-text/youdao-dict 6.0.0-r1: YouDao Dictionary
 dev-python/PyQt5 5.15.4-r1 5.15.6: Python bindings for the Qt framework
-dev-python/aioftp 0.20.0: Ftp client/server for asyncio
+dev-python/aioftp 0.20.1: Ftp client/server for asyncio
 dev-python/aplpy 1.1.1 2.0.3: Astronomical Plotting Library in Python
 dev-python/asdf 2.7.2 2.9.2 2.10.0: Python library for the Advanced Scientific Data Format
 dev-python/asdf-astropy 0.1.2: ASDF serialization support for astropy
 dev-python/asdf-standard 1.0.1: Standards document describing ASDF, Advanced Scientific Data Format
 dev-python/asdf_coordinates_schemas 0.1.0: ASDF schemas for coordinates
-dev-python/asdf_transform_schemas 0.2.0: ASDF schemas for transforms
+dev-python/asdf_transform_schemas 0.2.2: ASDF schemas for transforms
 dev-python/asdf_wcs_schemas 0.1.1: World Coordinate System (WCS) ASDF schemas
 dev-python/astlib 0.11.3: Python astronomy modules for image and coordinate manipulation
 dev-python/astrodendro 0.2.0: Python package for computation of astronomical dendrograms
