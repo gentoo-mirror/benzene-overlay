@@ -13,5 +13,5 @@ REQUIRED_USE=libsystemd? ( !systemd )
 RESTRICT=strip mirror bindist
 SLOT=0
 SRC_URI=https://wdl1.pcfg.cache.wpscdn.com/wpsdl/wpsoffice/download/linux/10920/wps-office_11.1.0.10920.XA_amd64.deb https://wdl1.cache.wps.cn/wps/download/ep/Linux2019/10920/wps-office_11.1.0.10920_amd64.deb https://github.com/gromko/wps-office-mui/archive/11.1.0.8865.tar.gz -> wps-office-mui-11.1.0.8865.tar.gz
-_eclasses_=toolchain-funcs	badd6e329e1f3e6bee99b35bf8763ce8	multilib	de4beb52bfa93c4c5d96792a6b5e1784	unpacker	2e16b7d5aafeda049669c53c05ce03c9	desktop	c0d27bf73aa08ca05b663dbd31fbef28	xdg-utils	4f29a8b760a594a212abe9c2ba957c31	xdg	6024fbc93167fad782e2032933654857	optfeature	30ce9dec2b8943338c9b015bd32bac6a
+_eclasses_=toolchain-funcs	badd6e329e1f3e6bee99b35bf8763ce8	multilib	de4beb52bfa93c4c5d96792a6b5e1784	unpacker	697382d119fd3d195f110b7979184285	desktop	c0d27bf73aa08ca05b663dbd31fbef28	xdg-utils	fffb53a53cf17c9c0c998a3c0a590c7e	xdg	6024fbc93167fad782e2032933654857	optfeature	d524f291c80f9d21ad80fe978e3ca760
 _md5_=5b7d06e74b35645aa4922cc0bec4ff2f
