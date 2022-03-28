@@ -36,7 +36,7 @@ dev-python/healpy 1.11.0: Python wrapper for healpix
 dev-python/jsonschema 3.2.0-r1: An implementation of JSON-Schema validation for Python
 dev-python/montage-wrapper 0.9.9: Python wrapper for the Montage mosaicking toolkit
 dev-python/mpl-animators 1.0.1: An interative animation framework for matplotlib
-dev-python/oldest-supported-numpy 2022.1.30: Meta-package providing oldest supported Numpy for given Python version
+dev-python/oldest-supported-numpy 2022.3.27: Meta-package providing oldest supported Numpy for given Python version
 dev-python/parfive 1.5.1: A HTTP and FTP parallel file downloader
 dev-python/photutils 1.0.2 1.2.0: Affiliated package for image photometry utilities
 dev-python/pyavm 0.9.5: Simple pure-python AVM meta-data handling
