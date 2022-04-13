@@ -36,14 +36,14 @@ dev-python/healpy 1.11.0: Python wrapper for healpix
 dev-python/jsonschema 3.2.0-r1: An implementation of JSON-Schema validation for Python
 dev-python/montage-wrapper 0.9.9: Python wrapper for the Montage mosaicking toolkit
 dev-python/mpl-animators 1.0.1: An interative animation framework for matplotlib
-dev-python/oldest-supported-numpy 2022.4.8: Meta-package providing oldest supported Numpy for given Python version
+dev-python/oldest-supported-numpy 2022.4.10: Meta-package providing oldest supported Numpy for given Python version
 dev-python/parfive 1.5.1: A HTTP and FTP parallel file downloader
 dev-python/photutils 1.0.2 1.2.0: Affiliated package for image photometry utilities
 dev-python/pyavm 0.9.5: Simple pure-python AVM meta-data handling
 dev-python/pyerfa 1.7.2 2.0.0.1: Python bindings for ERFA
 dev-python/pyregion 2.0: Python module to parse ds9 region file
 dev-python/pytest-arraydiff 0.3 0.5.0: Pytest plugin to facilitate comparison of arrays
-dev-python/pytest-astropy 0.8.0 0.9.0: Metapackage for all the testing machinery used by the Astropy Project
+dev-python/pytest-astropy 0.8.0 0.10.0: Metapackage for all the testing machinery used by the Astropy Project
 dev-python/pytest-astropy-header 0.1.2 0.2.1: Pytest plugin to add diagnostic information to the header of the test output
 dev-python/pytest-doctestplus 0.9.0 0.12.0: Pytest plugin with advanced doctest features
 dev-python/pytest-filter-subpackage 0.1.1: Pytest plugin for filtering based on sub-packages
