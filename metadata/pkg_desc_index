@@ -12,7 +12,7 @@ dev-python/PyQt5 5.15.4-r1 5.15.6: Python bindings for the Qt framework
 dev-python/aioftp 0.21.2: Ftp client/server for asyncio
 dev-python/aplpy 1.1.1 2.0.3: Astronomical Plotting Library in Python
 dev-python/asdf 2.7.2 2.9.2 2.10.1 2.11.0: Python library for the Advanced Scientific Data Format
-dev-python/asdf-astropy 0.1.2 0.2.0: ASDF serialization support for astropy
+dev-python/asdf-astropy 0.2.0: ASDF serialization support for astropy
 dev-python/asdf-standard 1.0.1: Standards document describing ASDF, Advanced Scientific Data Format
 dev-python/asdf_coordinates_schemas 0.1.0: ASDF schemas for coordinates
 dev-python/asdf_transform_schemas 0.2.2: ASDF schemas for transforms
@@ -21,7 +21,7 @@ dev-python/astlib 0.11.3: Python astronomy modules for image and coordinate mani
 dev-python/astrodendro 0.2.0: Python package for computation of astronomical dendrograms
 dev-python/astroml 0.4.1: Python Machine Learning library for astronomy
 dev-python/astroplan 0.6: Observation planning package for astronomers
-dev-python/astropy 2.0.16 3.0.5 3.1.2 4.2.1: Core functionality for performing astrophysics with Python
+dev-python/astropy 2.0.16 3.0.5 3.1.2 4.2.1 5.0.2: Core functionality for performing astrophysics with Python
 dev-python/astropy-healpix 0.5 0.6: BSD-licensed HEALPix for Astropy
 dev-python/astropy-helpers 2.0.11 3.0.2 3.1.1 4.0.1: Helpers for Astropy and Affiliated packages
 dev-python/astropy-sphinx-theme 1.1: The sphinx theme for Astropy and affiliated packages
@@ -31,7 +31,7 @@ dev-python/asynctest 0.13.0: Enhance standard unittest package with features for
 dev-python/atpy 0.9.7: Astronomical tables support for Python
 dev-python/ccdproc 1.3.0_p1 2.1.0: Astropy affiliated package for reducing optical/IR CCD data
 dev-python/extension-helpers 0.1: Helpers to assist with building Python pkgs with compiled C/Cython extensions
-dev-python/gwcs 0.17.1 0.18.0 0.18.1: Generalized World Coordinate System
+dev-python/gwcs 0.17.1 0.18.1: Generalized World Coordinate System
 dev-python/healpy 1.11.0: Python wrapper for healpix
 dev-python/jsonschema 3.2.0-r1: An implementation of JSON-Schema validation for Python
 dev-python/montage-wrapper 0.9.9: Python wrapper for the Montage mosaicking toolkit
@@ -60,6 +60,7 @@ dev-python/specutils 1.1.1: Python package for astronomy spectral operations
 dev-python/sphinx-asdf 0.1.2: Sphinx plugin for generating documentation from ASDF schemas
 dev-python/sphinx-astropy 1.6.0 1.7.0: Sphinx extensions and configuration specific to the Astropy project
 dev-python/sphinx-automodapi 0.12 0.14.1: Sphinx extension for generating API documentation
+dev-python/sphinx-changelog 1.1.2: A changelog renderer for sphinx
 dev-python/sunpy-sphinx-theme 1.2.29: The sphinx theme for the SunPy website and documentation
 dev-qt/qtwebkit 5.212.0_pre20200309-r1 5.212.0_pre20200309-r2: WebKit rendering library for the Qt5 framework (deprecated)
 media-fonts/wps-office-fonts 1.0: The wps-office-fonts package contains Founder Chinese fonts
