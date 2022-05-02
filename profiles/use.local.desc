@@ -51,7 +51,8 @@ dev-python/astroquery:intersphinx - Enable intersphinx while doc building.
 dev-python/astroscrappy:intersphinx - Enable intersphinx while doc building.
 dev-python/ccdproc:intersphinx - Enable intersphinx while doc building.
 dev-python/gwcs:intersphinx - Enable intersphinx while doc building.
-dev-python/photutils:doc - Add extra documentation (cannot build figures). Disable the network-sandbox FEATURE to use intersphinx linking. Recommended to enable per package instead of globally
+dev-python/photutils:doc - Add extra documentation (cannot build figures as the doc building needs lots of online data).
+dev-python/photutils:intersphinx - Enable intersphinx while doc building.
 dev-python/pyregion:doc - Build extra documentation (build will pass with warning. Disable the network-sandbox FEATURE to get better doc building)
 dev-python/pyvo:intersphinx - Enable intersphinx while doc building.
 dev-python/regions:intersphinx - Enable intersphinx and online data while doc building.

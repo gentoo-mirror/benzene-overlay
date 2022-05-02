@@ -38,7 +38,7 @@ dev-python/montage-wrapper 0.9.9: Python wrapper for the Montage mosaicking tool
 dev-python/mpl-animators 1.0.1: An interative animation framework for matplotlib
 dev-python/oldest-supported-numpy 2022.4.18: Meta-package providing oldest supported Numpy for given Python version
 dev-python/parfive 1.5.1: A HTTP and FTP parallel file downloader
-dev-python/photutils 1.0.2 1.2.0: Affiliated package for image photometry utilities
+dev-python/photutils 1.4.0: Affiliated package for image photometry utilities
 dev-python/pyavm 0.9.5: Simple pure-python AVM meta-data handling
 dev-python/pyerfa 1.7.2 2.0.0.1: Python bindings for ERFA
 dev-python/pyregion 2.0: Python module to parse ds9 region file
