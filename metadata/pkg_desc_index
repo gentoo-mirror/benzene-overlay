@@ -62,6 +62,7 @@ dev-python/siosocks 0.2.0: Sans-io socks proxy client/server with couple io back
 dev-python/specutils 1.1.1: Python package for astronomy spectral operations
 dev-python/sphinx-asdf 0.1.2: Sphinx plugin for generating documentation from ASDF schemas
 dev-python/sphinx-astropy 1.6.0 1.7.0: Sphinx extensions and configuration specific to the Astropy project
+dev-python/sphinx-autobuild 2021.3.14: Rebuild Sphinx documentation on changes, with live-reload in the browser
 dev-python/sphinx-automodapi 0.12 0.14.1: Sphinx extension for generating API documentation
 dev-python/sphinx-changelog 1.1.2: A changelog renderer for sphinx
 dev-python/sunpy-sphinx-theme 1.2.29: The sphinx theme for the SunPy website and documentation
