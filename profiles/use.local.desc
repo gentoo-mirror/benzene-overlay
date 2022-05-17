@@ -52,6 +52,7 @@ dev-python/astroscrappy:intersphinx - Enable intersphinx while doc building.
 dev-python/ccdproc:intersphinx - Enable intersphinx while doc building.
 dev-python/drms:examples - Build examples in documentation which needs online data.
 dev-python/gwcs:intersphinx - Enable intersphinx while doc building.
+dev-python/msrest:async - Extra async support
 dev-python/photutils:doc - Add extra documentation (cannot build figures as the doc building needs lots of online data).
 dev-python/photutils:intersphinx - Enable intersphinx while doc building.
 dev-python/pyregion:doc - Build extra documentation (build will pass with warning. Disable the network-sandbox FEATURE to get better doc building)
