@@ -36,6 +36,7 @@ dev-python/drms 0.6.2: Access HMI, AIA and MDI data with Python from the public 
 dev-python/extension-helpers 0.1: Helpers to assist with building Python pkgs with compiled C/Cython extensions
 dev-python/glymur 0.9.6 0.9.8 0.9.9: Tools for accessing JPEG2000 files
 dev-python/gwcs 0.17.1 0.18.1: Generalized World Coordinate System
+dev-python/h5pyd 0.10.1: h5py distributed - Python client library for HDF Rest API
 dev-python/healpy 1.11.0: Python wrapper for healpix
 dev-python/jsonschema 3.2.0-r1: An implementation of JSON-Schema validation for Python
 dev-python/montage-wrapper 0.9.9: Python wrapper for the Montage mosaicking toolkit
