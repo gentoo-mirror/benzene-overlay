@@ -61,6 +61,15 @@ dev-python/regions:intersphinx - Enable intersphinx and online data while doc bu
 dev-python/reproject:intersphinx - Enable intersphinx while doc building.
 dev-python/specutils:doc - Add extra documentation (cannot build figures). Disable the network-sandbox FEATURE to use intersphinx linking. Recommended to enable per package instead of globally
 dev-python/sphinx-book-theme:code_style - Extra code_style support for development
+dev-python/sunpy:asdf - Extra asdf support via dev-python/asdf-astropy
+dev-python/sunpy:dask - Extra dask support via dev-python/dask
+dev-python/sunpy:database - Extra database support via dev-python/sqlalchemy
+dev-python/sunpy:image - Extra image support
+dev-python/sunpy:jpeg2k - Extra JPEG 2000 support via dev-python/glymur
+dev-python/sunpy:map - Extra map support
+dev-python/sunpy:net - Extra net support
+dev-python/sunpy:timeseries - Extra timeseries support
+dev-python/sunpy:visualization - Extra visualization support
 dev-qt/qtwebkit:geolocation - Enable physical position determination via dev-qt/qtpositioning
 dev-qt/qtwebkit:gstreamer - Enable HTML5 audio/video support via media-libs/gstreamer using SLOT 1.0
 dev-qt/qtwebkit:hyphen - Enable hyphenation support via dev-libs/hyphen
