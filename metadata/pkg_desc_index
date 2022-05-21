@@ -1,5 +1,5 @@
 app-i18n/fcitx-table-other 0.2.4: Provides some other tables for Fcitx
-app-office/wps-office 11.1.0.10920 11.1.0.10976: WPS Office is an office productivity suite
+app-office/wps-office 11.1.0.10920 11.1.0.10976-r1: WPS Office is an office productivity suite
 app-pda/i4tools 1.0.038 1.0.038-r1 1.0.055 1.0.055-r1: A third-party tool for managing Apple (iOS) devices
 app-text/dehelper 12.6.7: Proprietary German dictionary software for linux
 app-text/eshelper 12.6.7: Proprietary Spanish dictionary software for linux
