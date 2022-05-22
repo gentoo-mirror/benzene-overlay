@@ -113,7 +113,6 @@ sys-libs/libsystemd:openssl - Enable use of dev-libs/openssl
 sys-libs/libsystemd:pkcs11 - Enable PKCS#11 support for cryptsetup and homed
 sys-libs/libsystemd:pwquality - Enable password quality checking in homed
 sys-libs/libsystemd:qrcode - Enable qrcode output support in journal
-sys-libs/libsystemd:repart - Enable support for growing/adding partitions
 sys-libs/libsystemd:resolvconf - Install resolvconf symlink for systemd-resolve
 sys-libs/libsystemd:sysv-utils - Install sysvinit compatibility symlinks and manpages for init, telinit, halt, poweroff, reboot, runlevel, and shutdown
 sys-libs/libsystemd:tpm - Enable TPM support
