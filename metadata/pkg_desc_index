@@ -21,7 +21,7 @@ dev-python/asdf_wcs_schemas 0.1.1: World Coordinate System (WCS) ASDF schemas
 dev-python/astlib 0.11.3: Python astronomy modules for image and coordinate manipulation
 dev-python/astrodendro 0.2.0: Python package for computation of astronomical dendrograms
 dev-python/astroml 0.4.1: Python Machine Learning library for astronomy
-dev-python/astroplan 0.6: Observation planning package for astronomers
+dev-python/astroplan 0.6 0.8: Observation planning package for astronomers
 dev-python/astropy 2.0.16 3.0.5 3.1.2 4.2.1 5.0.2: Core functionality for performing astrophysics with Python
 dev-python/astropy-healpix 0.5 0.6-r1: BSD-licensed HEALPix for Astropy
 dev-python/astropy-helpers 2.0.11 3.0.2 3.1.1 4.0.1: Helpers for Astropy and Affiliated packages
