@@ -59,7 +59,7 @@ dev-python/ndcube:plotting - Extra plotting support
 dev-python/ndcube:reproject - Extra reproject support via dev-python/reproject
 dev-python/photutils:doc - Add extra documentation (cannot build figures as the doc building needs lots of online data).
 dev-python/photutils:intersphinx - Enable intersphinx while doc building.
-dev-python/pyregion:doc - Build extra documentation (build will pass with warning. Disable the network-sandbox FEATURE to get better doc building)
+dev-python/pyregion:intersphinx - Enable intersphinx while doc building.
 dev-python/pyvo:intersphinx - Enable intersphinx while doc building.
 dev-python/regions:intersphinx - Enable intersphinx and online data while doc building.
 dev-python/reproject:intersphinx - Enable intersphinx while doc building.
