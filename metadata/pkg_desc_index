@@ -45,7 +45,7 @@ dev-python/mpl-animators 1.0.1: An interative animation framework for matplotlib
 dev-python/msrest 0.6.21: AutoRest swagger generator Python client runtime
 dev-python/msrestazure 0.6.4: AutoRest swagger generator Python client runtime. Azure-specific module
 dev-python/ndcube 2.0.2: For multi-dimensional contiguious and non-contiguious coordinate aware arrays
-dev-python/oldest-supported-numpy 2022.4.18: Meta-package providing oldest supported Numpy for given Python version
+dev-python/oldest-supported-numpy 2022.5.27: Meta-package providing oldest supported Numpy for given Python version
 dev-python/parfive 1.5.1: A HTTP and FTP parallel file downloader
 dev-python/photutils 1.4.0: Affiliated package for image photometry utilities
 dev-python/pyavm 0.9.5: Simple pure-python AVM meta-data handling
