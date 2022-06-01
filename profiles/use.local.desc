@@ -41,7 +41,7 @@ dev-python/PyQt5:widgets - Build bindings for the QtWidgets module
 dev-python/PyQt5:x11extras - Build bindings for the QtX11Extras module
 dev-python/PyQt5:xmlpatterns - Build bindings for the QtXmlPatterns module
 dev-python/aioftp:socks - Client socks proxy via dev-python/siosocks
-dev-python/aplpy:doc - Build extra documentation (build will pass with warning. Disable the network-sandbox FEATURE to get better doc building)
+dev-python/aplpy:intersphinx - Enable intersphinx while doc building.
 dev-python/asdf:intersphinx - Enable intersphinx while doc building.
 dev-python/asdf-astropy:intersphinx - Enable intersphinx while doc building.
 dev-python/astroplan:doc - Add extra documentation (building may not complete as it needs lots of online data).
