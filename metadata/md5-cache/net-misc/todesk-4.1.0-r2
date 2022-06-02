@@ -1,0 +1,16 @@
+BDEPEND=virtual/pkgconfig X? ( >=x11-apps/mkfontscale-1.2.0 media-fonts/encodings )
+DEFINED_PHASES=install postinst postrm preinst setup unpack
+DESCRIPTION=Remote control and team work
+EAPI=8
+HOMEPAGE=https://www.todesk.com
+IDEPEND=dev-util/desktop-file-utils x11-misc/shared-mime-info
+INHERIT=unpacker systemd font desktop xdg
+IUSE=+fonts keep-server X
+KEYWORDS=-* ~amd64 ~arm ~arm64
+LICENSE=ToDesk
+RDEPEND=x11-libs/gtk+:3
+RESTRICT=mirror
+SLOT=0
+SRC_URI=amd64? ( https://dl.todesk.com/linux/todesk_4.1.0_amd64.deb ) arm? ( https://dl.todesk.com/linux/todesk_4.1.0_armv7l.deb ) arm64? ( https://dl.todesk.com/linux/todesk_4.1.0_aarch64.deb )
+_eclasses_=toolchain-funcs	fd9cde67030b26e479eeadaced488253	multilib	4fbbbc98f236f1b43acd99476bc3cd85	unpacker	697382d119fd3d195f110b7979184285	systemd	2736b403a83f194b59b767f3b344c2c1	font	d31f12a0f6e13d56dc3062e76ae58a61	desktop	c0d27bf73aa08ca05b663dbd31fbef28	xdg-utils	fffb53a53cf17c9c0c998a3c0a590c7e	xdg	6024fbc93167fad782e2032933654857
+_md5_=75d02eed00c805cbba368b9d94e3dce9
