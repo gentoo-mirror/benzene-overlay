@@ -53,6 +53,7 @@ dev-python/astroquery:intersphinx - Enable intersphinx while doc building.
 dev-python/astroscrappy:intersphinx - Enable intersphinx while doc building.
 dev-python/ccdproc:intersphinx - Enable intersphinx while doc building.
 dev-python/drms:examples - Build examples in documentation which needs online data.
+dev-python/echo:qt - Interfacing with Qt widgets
 dev-python/gwcs:intersphinx - Enable intersphinx while doc building.
 dev-python/msrest:async - Extra async support
 dev-python/ndcube:plotting - Extra plotting support
