@@ -104,6 +104,6 @@ sci-astronomy/aladin 11.024: Interactive software sky atlas
 sci-astronomy/astrometry 0.78 0.80 0.85 0.89: Automated astrometric calibration programs and service
 sci-astronomy/erfa 1.7.2 2.0.0: Essential Routines for Fundamental Astronomy
 sci-astronomy/topcat 4.8 4.8.4: Interactive graphical viewer and editor for astronomical tables
-sys-libs/libsystemd 250.4-r2 250.5-r1 250.6 251 251.1 9999: A standalone package to provide libsystemd.so without systemd
+sys-libs/libsystemd 250.4-r2 250.5-r1 250.6 250.7 251 251.1 251.2 9999: A standalone package to provide libsystemd.so without systemd
 www-plugins/adobe-flash 32.0.0.465: Adobe Flash Player
 x11-libs/lain 9999 9999-r100: Layouts, asynchronous widgets and utilities for Awesome WM
