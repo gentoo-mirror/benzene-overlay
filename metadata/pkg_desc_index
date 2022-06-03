@@ -36,7 +36,7 @@ dev-python/cdflib 0.4.4: A python module for reading NASA's Common Data Format (
 dev-python/drms 0.6.2: Access HMI, AIA and MDI data with Python from the public JSOC DRMS server
 dev-python/echo 0.6: Callback Properties in Python
 dev-python/extension-helpers 0.1: Helpers to assist with building Python pkgs with compiled C/Cython extensions
-dev-python/fast-histogram 0.11: ADAL for Python
+dev-python/fast-histogram 0.11: Fast 1D and 2D histogram functions in Python
 dev-python/glymur 0.9.6 0.9.8 0.9.9: Tools for accessing JPEG2000 files
 dev-python/gwcs 0.17.1 0.18.1: Generalized World Coordinate System
 dev-python/h5netcdf 1.0.0: Pythonic interface to netCDF4 via h5py
