@@ -65,6 +65,7 @@ dev-python/pyvo:intersphinx - Enable intersphinx while doc building.
 dev-python/radio-beam:intersphinx - Enable intersphinx while doc building.
 dev-python/regions:intersphinx - Enable intersphinx and online data while doc building.
 dev-python/reproject:intersphinx - Enable intersphinx while doc building.
+dev-python/runnotebook:doc - Add an example documentation
 dev-python/specutils:intersphinx - Enable intersphinx while doc building.
 dev-python/sphinx-book-theme:code_style - Extra code_style support for development
 dev-python/sunpy:asdf - Extra asdf support via dev-python/asdf-astropy
