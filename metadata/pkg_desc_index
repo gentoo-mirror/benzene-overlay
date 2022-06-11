@@ -12,9 +12,9 @@ dev-python/PyQt5 5.15.4-r1 5.15.6: Python bindings for the Qt framework
 dev-python/adal 1.2.7: ADAL for Python
 dev-python/aioftp 0.21.2: Ftp client/server for asyncio
 dev-python/aplpy 1.1.1 2.0.3 2.1.0: Astronomical Plotting Library in Python
-dev-python/asdf 2.7.2 2.9.2 2.10.1 2.11.0: Python library for the Advanced Scientific Data Format
-dev-python/asdf-astropy 0.2.0: ASDF serialization support for astropy
-dev-python/asdf-standard 1.0.1: Standards document describing ASDF, Advanced Scientific Data Format
+dev-python/asdf 2.7.2 2.9.2 2.10.1 2.12.0: Python library for the Advanced Scientific Data Format
+dev-python/asdf-astropy 0.2.0 0.2.1: ASDF serialization support for astropy
+dev-python/asdf-standard 1.0.1 1.0.2: Standards document describing ASDF, Advanced Scientific Data Format
 dev-python/asdf_coordinates_schemas 0.1.0: ASDF schemas for coordinates
 dev-python/asdf_transform_schemas 0.2.2: ASDF schemas for transforms
 dev-python/asdf_wcs_schemas 0.1.1: World Coordinate System (WCS) ASDF schemas
@@ -22,7 +22,7 @@ dev-python/astlib 0.11.3: Python astronomy modules for image and coordinate mani
 dev-python/astrodendro 0.2.0: Python package for computation of astronomical dendrograms
 dev-python/astroml 0.4.1: Python Machine Learning library for astronomy
 dev-python/astroplan 0.6 0.8: Observation planning package for astronomers
-dev-python/astropy 2.0.16 3.0.5 3.1.2 4.2.1 5.0.2: Core functionality for performing astrophysics with Python
+dev-python/astropy 2.0.16 3.0.5 3.1.2 4.2.1 5.0.2 5.0.4 5.1: Core functionality for performing astrophysics with Python
 dev-python/astropy-healpix 0.5 0.6-r1: BSD-licensed HEALPix for Astropy
 dev-python/astropy-helpers 2.0.11 3.0.2 3.1.1 4.0.1: Helpers for Astropy and Affiliated packages
 dev-python/astropy-sphinx-theme 1.1: The sphinx theme for Astropy and affiliated packages
@@ -43,6 +43,7 @@ dev-python/gwcs 0.17.1 0.18.1: Generalized World Coordinate System
 dev-python/h5netcdf 1.0.0: Pythonic interface to netCDF4 via h5py
 dev-python/h5pyd 0.10.1: h5py distributed - Python client library for HDF Rest API
 dev-python/healpy 1.11.0: Python wrapper for healpix
+dev-python/jplephem 2.17: Python version of NASA DE4xx ephemerides
 dev-python/jsonschema 3.2.0-r1: An implementation of JSON-Schema validation for Python
 dev-python/montage-wrapper 0.9.9: Python wrapper for the Montage mosaicking toolkit
 dev-python/mpl-animators 1.0.1: An interative animation framework for matplotlib
