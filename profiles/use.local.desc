@@ -90,6 +90,7 @@ media-video/gnome-mplayer:gda - Enable support for gnome-extra/libgda
 net-im/wemeet:bundled-libs - Use the upstream provided bundled libraries.
 net-im/wemeet:bundled-qt - Use bundled Qt and icu instead of system-wide libs.
 net-im/wemeet:ibus - Enable support for app-i18n/ibus
+net-libs/libaxon-bin:purple - libpurple protocol support via x11-plugins/purple-oicq
 net-misc/sunloginclient:keep-server - Keep sunloginclient server running after quit the GUI client.
 net-misc/sunloginclient:libsystemd - Use standalone sys-libs/libsystemd package to provide libsystemd.so for working non-systemd systems.
 net-misc/todesk:fonts - Install the bundled Noto fonts for CJK users (Not needed if media-fonts/noto-cjk is already installed)
@@ -127,3 +128,4 @@ sys-libs/libsystemd:xkb - Depend on x11-libs/libxkbcommon to allow logind to con
 www-plugins/adobe-flash:nsplugin - Install the Netscape Flash API plugin (for Firefox and similar browsers)
 www-plugins/adobe-flash:ppapi - Install the Pepper Flash API plugin (for Chrome and similar browsers)
 x11-libs/lain:curl - Use the net-misc/curl for supporting IMAP, MPD and weather widgets
+x11-plugins/purple-oicq:libaxon - Nodejs backend via net-libs/libaxon-bin

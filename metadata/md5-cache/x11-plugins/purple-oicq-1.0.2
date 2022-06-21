@@ -1,0 +1,15 @@
+BDEPEND=virtual/pkgconfig
+DEFINED_PHASES=postinst postrm preinst
+DESCRIPTION=libpurple protocol support for oicq
+EAPI=8
+HOMEPAGE=https://github.com/axon-oicq/purple-oicq
+IDEPEND=dev-util/desktop-file-utils x11-misc/shared-mime-info
+INHERIT=xdg
+IUSE=+libaxon
+KEYWORDS=~amd64 ~arm64
+LICENSE=Unlicense
+RDEPEND=dev-libs/json-glib net-im/pidgin:= libaxon? ( net-libs/libaxon-bin[purple] )
+SLOT=0
+SRC_URI=https://github.com/axon-oicq/purple-oicq/archive/v1.0.2.tar.gz -> purple-oicq-1.0.2.tar.gz
+_eclasses_=xdg-utils	fffb53a53cf17c9c0c998a3c0a590c7e	xdg	6024fbc93167fad782e2032933654857
+_md5_=b4a214dc5e3d993d494778d09330880a
