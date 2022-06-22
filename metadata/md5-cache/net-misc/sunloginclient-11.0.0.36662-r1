@@ -12,5 +12,5 @@ RDEPEND=dev-libs/libappindicator:3 x11-apps/xhost virtual/libcrypt:= libsystemd?
 RESTRICT=mirror
 SLOT=0
 SRC_URI=amd64? ( https://down.oray.com/sunlogin/linux/sunloginclient-11.0.0.36662-amd64.deb ) arm64? ( https://down.oray.com/sunlogin/linux/sunloginclient_11.0.0.36662_arm.deb )
-_eclasses_=toolchain-funcs	fd9cde67030b26e479eeadaced488253	multilib	4fbbbc98f236f1b43acd99476bc3cd85	unpacker	697382d119fd3d195f110b7979184285	systemd	2736b403a83f194b59b767f3b344c2c1	desktop	c0d27bf73aa08ca05b663dbd31fbef28	xdg-utils	fffb53a53cf17c9c0c998a3c0a590c7e	xdg	6024fbc93167fad782e2032933654857
+_eclasses_=toolchain-funcs	fd9cde67030b26e479eeadaced488253	multilib	4fbbbc98f236f1b43acd99476bc3cd85	unpacker	697382d119fd3d195f110b7979184285	systemd	2736b403a83f194b59b767f3b344c2c1	desktop	22952d8f27cac191d75529d4c38e6bfa	xdg-utils	fffb53a53cf17c9c0c998a3c0a590c7e	xdg	6024fbc93167fad782e2032933654857
 _md5_=23c1b264219ed0dc6df3bafe2df4774d
