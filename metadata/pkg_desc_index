@@ -74,6 +74,7 @@ dev-python/reproject 0.5.1 0.8: Reproject astronomical images with Python
 dev-python/runnotebook 0.3.1 9999: IPython notebook sphinx extensions
 dev-python/sgp4 2.21: Python version of the SGP4 satellite position library
 dev-python/siosocks 0.2.0: Sans-io socks proxy client/server with couple io backends
+dev-python/skyfield 1.42: Elegant astronomy for Python
 dev-python/specutils 1.1.1 1.7.0: Python package for astronomy spectral operations
 dev-python/sphinx-asdf 0.1.2 0.1.3: Sphinx plugin for generating documentation from ASDF schemas
 dev-python/sphinx-astropy 1.6.0 1.7.0: Sphinx extensions and configuration specific to the Astropy project
