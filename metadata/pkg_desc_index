@@ -83,7 +83,7 @@ dev-python/sphinx-autobuild 2021.3.14: Rebuild Sphinx documentation on changes, 
 dev-python/sphinx-automodapi 0.12 0.14.1: Sphinx extension for generating API documentation
 dev-python/sphinx-book-theme 0.2.0: A clean book theme for scientific explanations and documentation with Sphinx
 dev-python/sphinx-changelog 1.1.2: A changelog renderer for sphinx
-dev-python/sunpy 4.0.0: Python library for solar physics
+dev-python/sunpy 4.0.2: Python library for solar physics
 dev-python/sunpy-sphinx-theme 1.2.32: The sphinx theme for the SunPy website and documentation
 dev-python/unyt 2.8.0: Handle, manipulate, and convert data with units in Python
 dev-qt/qtwebkit 5.212.0_pre20200309-r1 5.212.0_pre20200309-r2: WebKit rendering library for the Qt5 framework (deprecated)
