@@ -41,7 +41,7 @@ dev-python/extension-helpers 0.1: Helpers to assist with building Python pkgs wi
 dev-python/fast-histogram 0.11: Fast 1D and 2D histogram functions in Python
 dev-python/glymur 0.9.6 0.9.8 0.9.9: Tools for accessing JPEG2000 files
 dev-python/gwcs 0.17.1 0.18.1: Generalized World Coordinate System
-dev-python/h5netcdf 1.0.0: Pythonic interface to netCDF4 via h5py
+dev-python/h5netcdf 1.0.1: Pythonic interface to netCDF4 via h5py
 dev-python/h5pyd 0.10.1: h5py distributed - Python client library for HDF Rest API
 dev-python/healpy 1.11.0: Python wrapper for healpix
 dev-python/jplephem 2.17: Python version of NASA DE4xx ephemerides
