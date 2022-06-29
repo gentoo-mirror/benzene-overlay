@@ -68,6 +68,7 @@ dev-python/reproject:intersphinx - Enable intersphinx while doc building.
 dev-python/runnotebook:doc - Add an example documentation
 dev-python/specutils:intersphinx - Enable intersphinx while doc building.
 dev-python/sphinx-book-theme:code_style - Extra code_style support for development
+dev-python/sphinx-togglebutton:sphinx - Extra sphinx support
 dev-python/sunpy:asdf - Extra asdf support via dev-python/asdf-astropy
 dev-python/sunpy:dask - Extra dask support via dev-python/dask
 dev-python/sunpy:database - Extra database support via dev-python/sqlalchemy
