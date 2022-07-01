@@ -56,6 +56,7 @@ dev-python/drms:examples - Build examples in documentation which needs online da
 dev-python/echo:qt - Interfacing with Qt widgets
 dev-python/gwcs:intersphinx - Enable intersphinx while doc building.
 dev-python/msrest:async - Extra async support
+dev-python/myst_nb:code_style - Extra code_style support for development
 dev-python/ndcube:plotting - Extra plotting support
 dev-python/ndcube:reproject - Extra reproject support via dev-python/reproject
 dev-python/photutils:doc - Add extra documentation (cannot build figures as the doc building needs lots of online data).
