@@ -1,13 +1,14 @@
-BDEPEND=virtual/pkgconfig
-DEFINED_PHASES=-
+BDEPEND=virtual/pkgconfig >=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=unpack
 DEPEND=dev-libs/json-glib net-im/pidgin libaxon? ( net-libs/libaxon-bin[purple] )
 DESCRIPTION=libpurple protocol support for oicq
 EAPI=8
 HOMEPAGE=https://github.com/axon-oicq/purple-oicq
+INHERIT=git-r3
 IUSE=+libaxon
-KEYWORDS=~amd64 ~arm64
 LICENSE=Unlicense
+PROPERTIES=live
 RDEPEND=dev-libs/json-glib net-im/pidgin libaxon? ( net-libs/libaxon-bin[purple] )
 SLOT=0
-SRC_URI=https://github.com/axon-oicq/purple-oicq/archive/v1.0.2.tar.gz -> purple-oicq-1.0.2.tar.gz
+_eclasses_=git-r3	b9ac6f96d2a88edb5b351df634dc5e53
 _md5_=4b5389b1d41a575d18fcd8fb23a57341

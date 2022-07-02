@@ -122,4 +122,4 @@ sci-astronomy/topcat 4.8 4.8.5: Interactive graphical viewer and editor for astr
 sys-libs/libsystemd 250.4-r2 250.6 250.7 251.2 9999: A standalone package to provide libsystemd.so without systemd
 www-plugins/adobe-flash 32.0.0.465: Adobe Flash Player
 x11-libs/lain 9999 9999-r100: Layouts, asynchronous widgets and utilities for Awesome WM
-x11-plugins/purple-oicq 1.0.2: libpurple protocol support for oicq
+x11-plugins/purple-oicq 1.0.2 9999: libpurple protocol support for oicq
