@@ -6,7 +6,7 @@ app-text/eshelper 12.6.7: Proprietary Spanish dictionary software for linux
 app-text/eudic 12.6.7: Proprietary English dictionary software for linux
 app-text/frhelper 12.6.7: Proprietary French dictionary software for linux
 app-text/powerword 1.2: A Chinese-English dictionary tool by Kingsoft
-app-text/ydcv 0.7: YouDao Console Version - Simple wrapper for Youdao online translate service API
+app-text/ydcv 0.7 9999: YouDao Console Version - Simple wrapper for Youdao online translate service API
 app-text/youdao-dict 6.0.0-r1: YouDao Dictionary
 dev-python/PyQt5 5.15.4-r1 5.15.6: Python bindings for the Qt framework
 dev-python/adal 1.2.7: ADAL for Python
