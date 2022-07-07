@@ -63,6 +63,8 @@ dev-python/ndcube:reproject - Extra reproject support via dev-python/reproject
 dev-python/photutils:doc - Add extra documentation (cannot build figures as the doc building needs lots of online data).
 dev-python/photutils:intersphinx - Enable intersphinx while doc building.
 dev-python/pyregion:intersphinx - Enable intersphinx while doc building.
+dev-python/python-socketio:asyncio-client - Use asyncio client
+dev-python/python-socketio:client - Use standard Python client
 dev-python/pyvo:intersphinx - Enable intersphinx while doc building.
 dev-python/radio-beam:intersphinx - Enable intersphinx while doc building.
 dev-python/regions:intersphinx - Enable intersphinx and online data while doc building.
