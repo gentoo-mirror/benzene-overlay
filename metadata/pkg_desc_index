@@ -42,6 +42,7 @@ dev-python/extension-helpers 0.1: Helpers to assist with building Python pkgs wi
 dev-python/f90nml 1.4.2: Fortran 90 namelist parser
 dev-python/fast-histogram 0.11: Fast 1D and 2D histogram functions in Python
 dev-python/fastcache 1.1.0: C implementation of Python 3 functools.lru_cache
+dev-python/flask-socketio 5.2.0: Socket.IO integration for Flask applications
 dev-python/glymur 0.9.6 0.9.8 0.10.1: Tools for accessing JPEG2000 files
 dev-python/gwcs 0.17.1 0.18.1: Generalized World Coordinate System
 dev-python/h5netcdf 1.0.1: Pythonic interface to netCDF4 via h5py
