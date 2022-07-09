@@ -9,6 +9,7 @@ app-text/powerword 1.2: A Chinese-English dictionary tool by Kingsoft
 app-text/ydcv 0.7 9999: YouDao Console Version - Simple wrapper for Youdao online translate service API
 app-text/youdao-dict 6.0.0-r1: YouDao Dictionary
 dev-python/PyQt5 5.15.4-r1 5.15.6: Python bindings for the Qt framework
+dev-python/abg_python 1.0.5: Shared python utilities for https://github.com/agurvich 's packages
 dev-python/adal 1.2.7: ADAL for Python
 dev-python/aioftp 0.21.2: Ftp client/server for asyncio
 dev-python/aplpy 1.1.1 2.0.3 2.1.0: Astronomical Plotting Library in Python
