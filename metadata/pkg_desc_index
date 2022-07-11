@@ -55,6 +55,7 @@ dev-python/jplephem 2.17: Python version of NASA DE4xx ephemerides
 dev-python/jsonschema 3.2.0-r1: An implementation of JSON-Schema validation for Python
 dev-python/jupyter-cache 0.5.0: A defined interface for working with a cache of jupyter notebooks
 dev-python/jupyter_sphinx 0.4.0: Sphinx extension for rendering of Jupyter interactive widgets
+dev-python/libconf 2.0.1: Pure-Python libconfig file reader/writer with permissive licensing
 dev-python/mistune 0.8.4-r1: The fastest markdown parser in pure Python
 dev-python/montage-wrapper 0.9.9: Python wrapper for the Montage mosaicking toolkit
 dev-python/mpl-animators 1.0.1: An interative animation framework for matplotlib
