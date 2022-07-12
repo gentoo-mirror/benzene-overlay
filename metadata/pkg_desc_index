@@ -41,7 +41,7 @@ dev-python/drms 0.6.2: Access HMI, AIA and MDI data with Python from the public 
 dev-python/echo 0.6: Callback Properties in Python
 dev-python/eventlet 0.33.1: Highly concurrent networking library
 dev-python/extension-helpers 0.1: Helpers to assist with building Python pkgs with compiled C/Cython extensions
-dev-python/f90nml 1.4.2: Fortran 90 namelist parser
+dev-python/f90nml 1.4.3: Fortran 90 namelist parser
 dev-python/fast-histogram 0.11: Fast 1D and 2D histogram functions in Python
 dev-python/fastcache 1.1.0: C implementation of Python 3 functools.lru_cache
 dev-python/firefly-vis 2.0.4: A browser-based particle visualization platform
