@@ -60,8 +60,8 @@ dev-python/msrest:async - Extra async support
 dev-python/myst_nb:code_style - Extra code_style support for development
 dev-python/ndcube:plotting - Extra plotting support
 dev-python/ndcube:reproject - Extra reproject support via dev-python/reproject
-dev-python/photutils:doc - Add extra documentation (cannot build figures as the doc building needs lots of online data).
 dev-python/photutils:intersphinx - Enable intersphinx while doc building.
+dev-python/photutils:local-datasets - Add local data for photutils.datasets
 dev-python/pyregion:intersphinx - Enable intersphinx while doc building.
 dev-python/python-socketio:asyncio-client - Use asyncio client
 dev-python/python-socketio:client - Use standard Python client
