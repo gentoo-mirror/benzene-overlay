@@ -46,6 +46,7 @@ dev-python/fast-histogram 0.11: Fast 1D and 2D histogram functions in Python
 dev-python/fastcache 1.1.0: C implementation of Python 3 functools.lru_cache
 dev-python/firefly-vis 2.0.4: A browser-based particle visualization platform
 dev-python/flask-socketio 5.2.0: Socket.IO integration for Flask applications
+dev-python/fusepy 3.0.1: Simple ctypes bindings for FUSE
 dev-python/glymur 0.9.6 0.9.8 0.10.1: Tools for accessing JPEG2000 files
 dev-python/gwcs 0.17.1 0.18.1: Generalized World Coordinate System
 dev-python/h5netcdf 1.0.1: Pythonic interface to netCDF4 via h5py
@@ -102,6 +103,7 @@ dev-python/sphinx-copybutton 0.5.0: Add a copy button to code blocks in Sphinx
 dev-python/sphinx-examples 0.0.5: A lightweight example directive to make it easy to demonstrate code / results
 dev-python/sphinx-inline-tabs 2022.1.2_beta11: Add inline tabbed content to your Sphinx documentation
 dev-python/sphinx-togglebutton 0.3.1: Toggle page content and collapse admonitions in Sphinx
+dev-python/sphinx_contributors 0.2.6: Contributors extension for Sphinx
 dev-python/sphinx_design 0.2.0: A sphinx extension for designing beautiful, view size responsive web components
 dev-python/sunpy 4.0.2: Python library for solar physics
 dev-python/sunpy-sphinx-theme 1.2.32: The sphinx theme for the SunPy website and documentation
