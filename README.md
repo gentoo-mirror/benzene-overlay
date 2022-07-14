@@ -34,6 +34,7 @@ dev-python/f90nml                                                               
 dev-python/fastcache                                                                 | 1.1.0                                                         | Optional for yt
 dev-python/firefly-viz                                                               | 2.0.4                                                         | Optional for yt
 dev-python/flask-socketio                                                            | 5.2.0                                                         | Optional for yt
+dev-python/fusepy                                                                    | 3.0.1                                                         | Optional for yt
 dev-python/glymur                                                                    | 0.9.6; 0.9.8; 0.10.1                                          |
 dev-python/libconf                                                                   | 2.0.1                                                         | Optional for yt
 dev-python/miniballcpp                                                               | 0.2.2                                                         | Optional for yt
@@ -87,22 +88,23 @@ Information for some of the astropy related packages are listed [here](https://g
 
 Package name | Available version | Additional information
 ------------ | :---------------: | ----------------------
-dev-python/jupyter-cache       | 0.5.0            |
-dev-python/jupyter\_sphinx     | 0.4.0            |
-dev-python/myst\_nb            | 0.16.0           |
-dev-python/runnotebook         | 0.3.1; (live)    |
-dev-python/sphinx-astropy      | 1.6.0; 1.7.0     | See [here](https://github.com/Universebenzene/benzene-overlay/tree/master/dev-python#information-for-astropy-related-packages) for more information.
-dev-python/sphinx-asdf         | 0.1.3; 0.1.4     |
-dev-python/sphinx-autobuild    | 2022.3.14        |
-dev-python/sphinx-book-theme   | 0.2.0            |
-dev-python/sphinx-changelog    | 1.1.2            |
-dev-python/sphinx-copybutton   | 0.5.0            | Doc build failed due to some version dismatched.
-dev-python/sphinx-examples     | 0.0.5            |
-dev-python/sphinx-inline-tabs  | 2022.1.2\_beta11 |
-dev-python/sphinx-togglebutton | 0.3.1            |
-dev-python/sphinx\_design      | 0.2.0            |
-dev-python/sunpy-sphinx-theme  | 1.2.32           |
-dev-python/mistune             | 0.8.4-r1         | Only for sphinx-asdf that depends on old version
-dev-python/nbconvert           | 6.4.5            | Depends on old mistune
+dev-python/jupyter-cache        | 0.5.0            |
+dev-python/jupyter\_sphinx      | 0.4.0            |
+dev-python/myst\_nb             | 0.16.0           |
+dev-python/runnotebook          | 0.3.1; (live)    |
+dev-python/sphinx-astropy       | 1.6.0; 1.7.0     | See [here](https://github.com/Universebenzene/benzene-overlay/tree/master/dev-python#information-for-astropy-related-packages) for more information.
+dev-python/sphinx-asdf          | 0.1.3; 0.1.4     |
+dev-python/sphinx-autobuild     | 2022.3.14        |
+dev-python/sphinx-book-theme    | 0.2.0            |
+dev-python/sphinx-changelog     | 1.1.2            |
+dev-python/sphinx-copybutton    | 0.5.0            | Doc build failed due to some version dismatched.
+dev-python/sphinx-examples      | 0.0.5            |
+dev-python/sphinx-inline-tabs   | 2022.1.2\_beta11 |
+dev-python/sphinx-togglebutton  | 0.3.1            |
+dev-python/sphinx\_contributors | 0.2.6            |
+dev-python/sphinx\_design       | 0.2.0            |
+dev-python/sunpy-sphinx-theme   | 1.2.32           |
+dev-python/mistune              | 0.8.4-r1         | Only for sphinx-asdf that depends on old version
+dev-python/nbconvert            | 6.4.5            | Depends on old mistune
 
 <!--</details>-->
