@@ -36,14 +36,14 @@ dev-python/firefly-viz                                                          
 dev-python/flask-socketio                                                            | 5.2.0                                                         | Optional for yt
 dev-python/fusepy                                                                    | 3.0.1                                                         | Optional for yt
 dev-python/glymur                                                                    | 0.9.6; 0.9.8; 0.10.1                                          |
-dev-python/indexed\_bzip2                                                            | 1.3.1                                                         | Optional for yt
+dev-python/indexed\_{bzip2,zstd}                                                     | 1.3.1 / 1.5.0                                                 | Optional for yt
 dev-python/libconf                                                                   | 2.0.1                                                         | Optional for yt
 dev-python/miniballcpp                                                               | 0.2.2                                                         | Optional for yt
 dev-python/msrest                                                                    | 0.6.21                                                        |
 dev-python/msrestazure                                                               | 0.6.4                                                         |
 dev-python/oldest-supported-numpy                                                    | 2022.5.28                                                     | The numpy version limitations are changed from `==` into `>=`. If you have better solution, just bring issues or pull requests.
 dev-python/pykdtree                                                                  | 1.3.5                                                         | Optional for yt
-dev-python/python-socketio                                                           | 5.7.0                                                         | Optional for yt
+dev-python/python-socketio                                                           | 5.7.1                                                         | Optional for yt
 dev-python/parfive                                                                   | 1.5.1; 2.0.1                                                  |
 dev-python/PyQt5                                                                     | 5.15.4-r1; 5.15.6                                             | Add `webkit` USE flag (dropped by official portage) to get **youdao-dict** in this overlay work
 dev-python/pytest-mpl                                                                | 0.13; 0.16.0                                                  |
