@@ -12,6 +12,7 @@ dev-python/PyQt5 5.15.4-r1 5.15.6: Python bindings for the Qt framework
 dev-python/abg_python 1.0.5: Shared python utilities for https://github.com/agurvich 's packages
 dev-python/adal 1.2.7: ADAL for Python
 dev-python/aioftp 0.21.3: Ftp client/server for asyncio
+dev-python/aioitertools 0.10.0: Itertools and builtins for AsyncIO and mixed iterables
 dev-python/aplpy 1.1.1 2.0.3 2.1.0: Astronomical Plotting Library in Python
 dev-python/asdf 2.7.2 2.9.2 2.10.1 2.12.0: Python library for the Advanced Scientific Data Format
 dev-python/asdf-astropy 0.2.0 0.2.1: ASDF serialization support for astropy
