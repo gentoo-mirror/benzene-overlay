@@ -112,7 +112,7 @@ dev-python/sphinx-togglebutton 0.3.1: Toggle page content and collapse admonitio
 dev-python/sphinx_contributors 0.2.6: Contributors extension for Sphinx
 dev-python/sphinx_design 0.2.0: A sphinx extension for designing beautiful, view size responsive web components
 dev-python/sphinx_mdinclude 0.5.1: Markdown extension for Sphinx
-dev-python/sunpy 4.0.2: Python library for solar physics
+dev-python/sunpy 4.0.3: Python library for solar physics
 dev-python/sunpy-sphinx-theme 1.2.32: The sphinx theme for the SunPy website and documentation
 dev-python/unyt 2.9.2: Handle, manipulate, and convert data with units in Python
 dev-qt/qtwebkit 5.212.0_pre20200309-r1 5.212.0_pre20200309-r2: WebKit rendering library for the Qt5 framework (deprecated)
