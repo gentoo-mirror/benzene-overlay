@@ -71,6 +71,7 @@ dev-python/msrestazure 0.6.4: AutoRest swagger generator Python client runtime. 
 dev-python/myst_nb 0.16.0: Parse and execute ipynb files in Sphinx
 dev-python/nbconvert 6.4.5: Converting Jupyter Notebooks
 dev-python/ndcube 2.0.2: For multi-dimensional contiguious and non-contiguious coordinate aware arrays
+dev-python/numcodecs 0.10.1: Data storage buffer compression and transformation codecs
 dev-python/oldest-supported-numpy 2022.5.28: Meta-package providing oldest supported Numpy for given Python version
 dev-python/parfive 1.5.1 2.0.1: A HTTP and FTP parallel file downloader
 dev-python/photutils 1.5.0: Affiliated package for image photometry utilities

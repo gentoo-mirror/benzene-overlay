@@ -62,6 +62,7 @@ dev-python/msrest:async - Extra async support
 dev-python/myst_nb:code_style - Extra code_style support for development
 dev-python/ndcube:plotting - Extra plotting support
 dev-python/ndcube:reproject - Extra reproject support via dev-python/reproject
+dev-python/numcodecs:msgpack - Extra MsgPack support via dev-python/msgpack
 dev-python/photutils:intersphinx - Enable intersphinx while doc building.
 dev-python/photutils:local-datasets - Add local data for photutils.datasets
 dev-python/pyregion:intersphinx - Enable intersphinx while doc building.
