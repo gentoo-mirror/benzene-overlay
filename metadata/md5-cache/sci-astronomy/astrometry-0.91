@@ -10,6 +10,6 @@ LICENSE=BSD GPL-2 GPL-3
 RDEPEND=python_single_target_python3_8? ( dev-python/astropy[python_targets_python3_8(-)] dev-python/fitsio[python_targets_python3_8(-)] dev-python/numpy[python_targets_python3_8(-)] ) python_single_target_python3_9? ( dev-python/astropy[python_targets_python3_9(-)] dev-python/fitsio[python_targets_python3_9(-)] dev-python/numpy[python_targets_python3_9(-)] ) python_single_target_python3_10? ( dev-python/astropy[python_targets_python3_10(-)] dev-python/fitsio[python_targets_python3_10(-)] dev-python/numpy[python_targets_python3_10(-)] ) media-libs/libpng:0 media-libs/netpbm sci-astronomy/wcslib:0= sci-libs/cfitsio:0= sci-libs/gsl:0= sys-libs/zlib:0= virtual/jpeg:0 x11-libs/cairo python_single_target_python3_8? ( >=dev-lang/python-3.8.13:3.8 ) python_single_target_python3_9? ( >=dev-lang/python-3.9.12:3.9 ) python_single_target_python3_10? ( >=dev-lang/python-3.10.4:3.10 )
 REQUIRED_USE=^^ ( python_single_target_python3_8 python_single_target_python3_9 python_single_target_python3_10 )
 SLOT=0
-SRC_URI=https://github.com/dstndstn/astrometry.net/releases/download/0.89/astrometry.net-0.89.tar.gz
+SRC_URI=https://github.com/dstndstn/astrometry.net/releases/download/0.91/astrometry.net-0.91.tar.gz
 _eclasses_=toolchain-funcs	1542e649be915f43f6908a9e93909961	multilib	5ca4e49abed8e3a2f7b56920eadee157	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	python-utils-r1	dd5e1098e305ad508d21f496e9e37046	python-single-r1	a5747fe6dc0651d95cb78eddd5e160a8
 _md5_=2786833fe380f8cd7669b0fe94b4ef41
