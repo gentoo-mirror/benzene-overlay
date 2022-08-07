@@ -1,0 +1,16 @@
+BDEPEND=virtual/pkgconfig
+DEFINED_PHASES=install postinst postrm preinst unpack
+DESCRIPTION=Remote control and team work
+EAPI=8
+HOMEPAGE=https://www.todesk.com
+IDEPEND=dev-util/desktop-file-utils x11-misc/shared-mime-info
+INHERIT=unpacker systemd desktop optfeature xdg
+IUSE=keep-server
+KEYWORDS=-* ~amd64
+LICENSE=ToDesk
+RDEPEND=x11-libs/gtk+:3
+RESTRICT=mirror
+SLOT=0
+SRC_URI=amd64? ( https://dl.todesk.com/linux/todesk-v4.3.0.0-amd64.deb )
+_eclasses_=toolchain-funcs	1542e649be915f43f6908a9e93909961	multilib	5ca4e49abed8e3a2f7b56920eadee157	unpacker	697382d119fd3d195f110b7979184285	systemd	2736b403a83f194b59b767f3b344c2c1	desktop	22952d8f27cac191d75529d4c38e6bfa	optfeature	1a2157392a869265b2afcb63a26c12ac	xdg-utils	fffb53a53cf17c9c0c998a3c0a590c7e	xdg	6024fbc93167fad782e2032933654857
+_md5_=7731a952d600338356bada0a28cba4e1
