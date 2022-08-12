@@ -40,6 +40,7 @@ dev-python/casa-formats-io 0.1: Code to handle I/O from/to data in CASA format R
 dev-python/ccdproc 1.3.0_p1 2.1.0 2.3.1: Astropy affiliated package for reducing optical/IR CCD data
 dev-python/cdflib 0.4.4: A python module for reading NASA's Common Data Format (cdf) files Resources
 dev-python/cmyt 1.1.2: A collection of Matplotlib colormaps from the yt project
+dev-python/dask-sphinx-theme 3.0.3: Sphinx theme for Dask documentation
 dev-python/drms 0.6.2: Access HMI, AIA and MDI data with Python from the public JSOC DRMS server
 dev-python/echo 0.6: Callback Properties in Python
 dev-python/eventlet 0.33.1: Highly concurrent networking library
@@ -50,7 +51,7 @@ dev-python/fastcache 1.1.0: C implementation of Python 3 functools.lru_cache
 dev-python/firefly-vis 2.0.4: A browser-based particle visualization platform
 dev-python/flask-socketio 5.2.0: Socket.IO integration for Flask applications
 dev-python/fusepy 3.0.1: Simple ctypes bindings for FUSE
-dev-python/glymur 0.10.2: Tools for accessing JPEG2000 files
+dev-python/glymur 0.11.2: Tools for accessing JPEG2000 files
 dev-python/gwcs 0.17.1 0.18.1: Generalized World Coordinate System
 dev-python/h5netcdf 1.0.2: Pythonic interface to netCDF4 via h5py
 dev-python/h5pyd 0.10.1: h5py distributed - Python client library for HDF Rest API
