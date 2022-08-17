@@ -52,7 +52,7 @@ dev-python/fastcache 1.1.0: C implementation of Python 3 functools.lru_cache
 dev-python/firefly-vis 2.0.4: A browser-based particle visualization platform
 dev-python/flask-socketio 5.2.0: Socket.IO integration for Flask applications
 dev-python/fusepy 3.0.1: Simple ctypes bindings for FUSE
-dev-python/glymur 0.11.2: Tools for accessing JPEG2000 files
+dev-python/glymur 0.11.3: Tools for accessing JPEG2000 files
 dev-python/gwcs 0.17.1 0.18.1: Generalized World Coordinate System
 dev-python/h5netcdf 1.0.2: Pythonic interface to netCDF4 via h5py
 dev-python/h5pyd 0.10.1: h5py distributed - Python client library for HDF Rest API
