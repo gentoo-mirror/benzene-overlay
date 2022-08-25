@@ -53,6 +53,7 @@ dev-python/firefly-vis 2.0.4: A browser-based particle visualization platform
 dev-python/flask-socketio 5.2.0: Socket.IO integration for Flask applications
 dev-python/freetype-py 2.3.0: Python binding for the freetype library
 dev-python/fusepy 3.0.1: Simple ctypes bindings for FUSE
+dev-python/glue-core 1.5.0: Linked Data Visualizations Across Multiple Files
 dev-python/glymur 0.11.3: Tools for accessing JPEG2000 files
 dev-python/gwcs 0.17.1 0.18.1: Generalized World Coordinate System
 dev-python/h5netcdf 1.0.2: Pythonic interface to netCDF4 via h5py
@@ -125,7 +126,7 @@ dev-python/sphinx_contributors 0.2.6: Contributors extension for Sphinx
 dev-python/sphinx_design 0.2.0: A sphinx extension for designing beautiful, view size responsive web components
 dev-python/sphinx_mdinclude 0.5.1: Markdown extension for Sphinx
 dev-python/sunpy 4.0.4: Python library for solar physics
-dev-python/sunpy-sphinx-theme 1.2.33: The sphinx theme for the SunPy website and documentation
+dev-python/sunpy-sphinx-theme 1.2.34: The sphinx theme for the SunPy website and documentation
 dev-python/unyt 2.9.2: Handle, manipulate, and convert data with units in Python
 dev-python/zarr 2.12.0: An implementation of chunked, compressed, N-dimensional arrays for Python
 dev-python/zict 2.2.0: Mutable mapping tools
