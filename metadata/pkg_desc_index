@@ -9,7 +9,7 @@ app-text/powerword 1.2: A Chinese-English dictionary tool by Kingsoft
 app-text/ydcv 0.7 9999: YouDao Console Version - Simple wrapper for Youdao online translate service API
 app-text/youdao-dict 6.0.0-r1: YouDao Dictionary
 dev-python/PyQt5 5.15.4-r1 5.15.6: Python bindings for the Qt framework
-dev-python/abg_python 1.0.5: Shared python utilities for https://github.com/agurvich 's packages
+dev-python/abg_python 1.1.0: Shared python utilities for https://github.com/agurvich 's packages
 dev-python/adal 1.2.7: ADAL for Python
 dev-python/aiobotocore 2.4.0: Async client for aws services using botocore and aiohttp
 dev-python/aioftp 0.21.3: Ftp client/server for asyncio
@@ -143,7 +143,7 @@ media-video/gnome-mplayer 1.0.9-r1: A GTK+ interface to MPlayer
 net-im/electron-qq-bin 1.5.7 2.1.4: A cross-platform QQ made with Electron (Deprecated. Moved to Icalingua)
 net-im/electron-wechat-bin 1.0.0: For creating the most usable Linux/MacOS WeChat client. A.k.a. Freechat
 net-im/electronic-wechat-bin 2.3.1: A better WeChat on macOS and Linux. Built with Electron
-net-im/icalingua++-bin 2.6.8: A Linux client for QQ and more (forked branch). Previously called Electron QQ
+net-im/icalingua++-bin 2.7.0: A Linux client for QQ and more (forked branch). Previously called Electron QQ
 net-im/wemeet 2.8.0.3 2.8.0.4 3.9.0.1: Wemeet - Tencent Video Conferencing. A.k.a Tencent Meeting
 net-libs/libaxon-bin 1.0.2: Nodejs backend for purple-oicq
 net-misc/baidunetdisk 3.0.1 4.3.0 4.11.5: Baidu Net Disk is a cloud storage client (Linux Version)
