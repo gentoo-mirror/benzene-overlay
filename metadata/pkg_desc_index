@@ -55,6 +55,7 @@ dev-python/freetype-py 2.3.0: Python binding for the freetype library
 dev-python/fusepy 3.0.1: Simple ctypes bindings for FUSE
 dev-python/glue-core 1.5.0: Linked Data Visualizations Across Multiple Files
 dev-python/glue-vispy-viewers 1.0.5: 3-d data viewers for glue based on VisPy
+dev-python/glueviz 1.2.0: Meta-package for glue and plugin packages
 dev-python/glymur 0.11.3: Tools for accessing JPEG2000 files
 dev-python/gwcs 0.17.1 0.18.1: Generalized World Coordinate System
 dev-python/h5netcdf 1.0.2: Pythonic interface to netCDF4 via h5py
