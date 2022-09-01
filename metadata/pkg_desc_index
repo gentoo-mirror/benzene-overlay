@@ -85,6 +85,7 @@ dev-python/oldest-supported-numpy 2022.8.16: Meta-package providing oldest suppo
 dev-python/parfive 1.5.1 2.0.1: A HTTP and FTP parallel file downloader
 dev-python/photutils 1.5.0: Affiliated package for image photometry utilities
 dev-python/pvextractor 0.3: Position-velocity diagram extractor
+dev-python/pyaml 21.10.1: PyYAML-based module to produce pretty and readable YAML-serialized data
 dev-python/pyavm 0.9.5: Simple pure-python AVM meta-data handling
 dev-python/pyerfa 1.7.2 2.0.0.1: Python bindings for ERFA
 dev-python/pykdtree 1.3.5: Fast kd-tree implementation with OpenMP-enabled queries
