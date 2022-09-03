@@ -108,7 +108,7 @@ dev-python/ratarmountcore 0.3.2: Random Access Read-Only Tar Mount Library
 dev-python/regions 0.4 0.5: Astropy affiliated package for region handling
 dev-python/reproject 0.5.1 0.8: Reproject astronomical images with Python
 dev-python/runnotebook 0.3.1 9999: IPython notebook sphinx extensions
-dev-python/s3fs 2022.7.1: Convenient Filesystem interface over S3
+dev-python/s3fs 2022.8.2: Convenient Filesystem interface over S3
 dev-python/sgp4 2.21: Python version of the SGP4 satellite position library
 dev-python/siosocks 0.2.0: Sans-io socks proxy client/server with couple io backends
 dev-python/skyfield 1.43.1: Elegant astronomy for Python
@@ -129,7 +129,7 @@ dev-python/sphinx_contributors 0.2.6: Contributors extension for Sphinx
 dev-python/sphinx_design 0.2.0: A sphinx extension for designing beautiful, view size responsive web components
 dev-python/sphinx_mdinclude 0.5.2: Markdown extension for Sphinx
 dev-python/sunpy 4.0.4: Python library for solar physics
-dev-python/sunpy-sphinx-theme 1.2.34: The sphinx theme for the SunPy website and documentation
+dev-python/sunpy-sphinx-theme 1.2.35: The sphinx theme for the SunPy website and documentation
 dev-python/unyt 2.9.2: Handle, manipulate, and convert data with units in Python
 dev-python/vispy 0.11.0: Interactive visualization in Python
 dev-python/zarr 2.12.0: An implementation of chunked, compressed, N-dimensional arrays for Python
