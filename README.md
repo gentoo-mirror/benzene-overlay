@@ -104,7 +104,7 @@ dev-python/pykdtree              | 1.3.5         | Optional for yt
 dev-python/python-socketio       | 5.7.1         | Optional for yt
 dev-python/python-xz             | 0.4.0         | Optional for yt
 dev-python/ratarmount            | 0.11.3        | Optional for yt. Dependency ratarmountcore is also included in this overlay but not listed in the table
-dev-python/s3fs                  | 2022.7.1      | Test dependency for zarr
+dev-python/s3fs                  | 2022.8.2      | Test dependency for zarr
 dev-python/cmyt                  | 1.1.2         | yt related
 dev-python/unyt                  | 2.9.2         | yt related
 dev-python/zict                  | 2.2.0         | Pulled in by distributed
@@ -136,7 +136,7 @@ dev-python/sphinx\_contributors | 0.2.6            |
 dev-python/sphinx\_design       | 0.2.0            |
 dev-python/sphinx\_mdinclude    | 0.5.2            |
 dev-python/dask-sphinx-theme    | 3.0.3            |
-dev-python/sunpy-sphinx-theme   | 1.2.34           |
+dev-python/sunpy-sphinx-theme   | 1.2.35           |
 dev-python/mistune              | 0.8.4-r1         | Only for sphinx-asdf that depends on old version
 dev-python/nbconvert            | 6.4.5            | Depends on old mistune
 
