@@ -1,0 +1,14 @@
+BDEPEND=>=dev-lang/go-1.18 app-arch/unzip
+DEFINED_PHASES=compile install prepare test unpack
+DESCRIPTION=Command-line tool for one-click proxy without v2ray or others (A.k.a. go-craft).
+EAPI=8
+HOMEPAGE=https://github.com/mzz2017/gg
+INHERIT=go-module bash-completion-r1
+KEYWORDS=~amd64 ~arm ~arm64
+LICENSE=AGPL-3
+RDEPEND=!net-proxy/gg-bin
+RESTRICT=strip
+SLOT=0
+SRC_URI=https://github.com/mzz2017/gg/archive/v0.2.9.tar.gz -> gg-0.2.9.tar.gz https://github.com/Universebenzene/ebuild-vendors/archive/refs/tags/gg-vendor-0.2.9.tar.gz
+_eclasses_=go-module	05668e36c51c78c9681fdf4aefa0abec	toolchain-funcs	1542e649be915f43f6908a9e93909961	multilib	5ca4e49abed8e3a2f7b56920eadee157	bash-completion-r1	f5e7a020fd9c741740756aac61bf75ff
+_md5_=2d68eb5e14d64f99f2a3ec5ec760499b
