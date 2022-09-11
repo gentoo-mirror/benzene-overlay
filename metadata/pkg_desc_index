@@ -11,6 +11,7 @@ app-text/youdao-dict 6.0.0-r1: YouDao Dictionary
 dev-python/PyQt5 5.15.4-r1 5.15.6: Python bindings for the Qt framework
 dev-python/abg_python 1.1.0: Shared python utilities for https://github.com/agurvich 's packages
 dev-python/adal 1.2.7: ADAL for Python
+dev-python/aggdraw 1.3.15: High quality drawing interface for PIL
 dev-python/aiobotocore 2.4.0: Async client for aws services using botocore and aiohttp
 dev-python/aioftp 0.21.3: Ftp client/server for asyncio
 dev-python/aioitertools 0.10.0: Itertools and builtins for AsyncIO and mixed iterables
@@ -57,7 +58,7 @@ dev-python/fusepy 3.0.1: Simple ctypes bindings for FUSE
 dev-python/glue-core 1.5.0: Linked Data Visualizations Across Multiple Files
 dev-python/glue-vispy-viewers 1.0.5: 3-d data viewers for glue based on VisPy
 dev-python/glueviz 1.2.0: Meta-package for glue and plugin packages
-dev-python/glymur 0.11.3: Tools for accessing JPEG2000 files
+dev-python/glymur 0.11.5: Tools for accessing JPEG2000 files
 dev-python/gwcs 0.17.1 0.18.2: Generalized World Coordinate System
 dev-python/h5netcdf 1.0.2: Pythonic interface to netCDF4 via h5py
 dev-python/h5pyd 0.10.3: h5py distributed - Python client library for HDF Rest API
