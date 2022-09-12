@@ -1,5 +1,5 @@
 app-i18n/fcitx-table-other 0.2.4: Provides some other tables for Fcitx
-app-office/wps-office 11.1.0.10976-r1 11.1.0.11664: WPS Office is an office productivity suite
+app-office/wps-office 11.1.0.10976-r2 11.1.0.11664-r1: WPS Office is an office productivity suite
 app-pda/i4tools 1.0.038 1.0.038-r1 1.0.055 1.0.055-r1: A third-party tool for managing Apple (iOS) devices
 app-text/dehelper 12.6.7: Proprietary German dictionary software for linux
 app-text/eshelper 12.6.7: Proprietary Spanish dictionary software for linux
@@ -52,7 +52,7 @@ dev-python/f90nml 1.4.3: Fortran 90 namelist parser
 dev-python/fast-histogram 0.11: Fast 1D and 2D histogram functions in Python
 dev-python/fastcache 1.1.0: C implementation of Python 3 functools.lru_cache
 dev-python/firefly-vis 2.0.4: A browser-based particle visualization platform
-dev-python/flask-socketio 5.2.0: Socket.IO integration for Flask applications
+dev-python/flask-socketio 5.3.1: Socket.IO integration for Flask applications
 dev-python/freetype-py 2.3.0: Python binding for the freetype library
 dev-python/fusepy 3.0.1: Simple ctypes bindings for FUSE
 dev-python/glue-core 1.5.0: Linked Data Visualizations Across Multiple Files
