@@ -62,6 +62,12 @@ dev-python/ccdproc:intersphinx - Enable intersphinx while doc building.
 dev-python/drms:examples - Build examples in documentation which needs online data.
 dev-python/echo:qt - Interfacing with Qt widgets
 dev-python/f90nml:yaml - Extra yaml support
+dev-python/ginga:gtk3 - Enable support for GTK3 backend
+dev-python/ginga:intersphinx - Enable intersphinx while doc building.
+dev-python/ginga:qt5 - Enable support for Qt5 backend via dev-python/PyQt5
+dev-python/ginga:recommended - Recommended for more features
+dev-python/ginga:tk - Enable support for Tk backend via dev-python/aggdraw
+dev-python/ginga:web - Enable support for web backend via www-servers/tornado
 dev-python/glue-core:all - Most function support
 dev-python/glue-core:astronomy - More astronomy support
 dev-python/glue-core:qt - Include PyQt5 library
