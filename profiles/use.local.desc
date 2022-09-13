@@ -150,7 +150,6 @@ net-proxy/v2raya-bin:xray - To be able to use xray-core. Disable the v2ray usefl
 sci-astronomy/astrometry:netpbm - Compile and link netpbm
 sci-astronomy/topcat:extra - Install the bloated version including Parquet file format support
 sci-astronomy/topcat:standard - Install the stardard version
-sys-libs/libsystemd:apparmor - Enable AppArmor support
 sys-libs/libsystemd:audit - Enable support for sys-process/audit
 sys-libs/libsystemd:cgroup-hybrid - Default to hybrid (legacy) cgroup hierarchy instead of unified (modern).
 sys-libs/libsystemd:cryptsetup - Enable cryptsetup tools (includes unit generator for crypttab)
