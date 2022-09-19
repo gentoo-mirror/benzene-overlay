@@ -67,7 +67,7 @@ net-misc/baidupcs-go-bin                                                        
 [sci-astronomy/aladin](https://aladin.u-strasbg.fr/aladin.gml)                       | [11.024](https://github.com/Universebenzene/benzene-overlay/blob/master/sci-astronomy/aladin/aladin-11.024.ebuild)                                         |
 [sci-astronomy/astrometry](https://astrometry.net)                                   | 0.78; 0.80; 0.85; [0.91](https://github.com/Universebenzene/benzene-overlay/blob/master/sci-astronomy/astrometry/astrometry-0.91.ebuild)                   | Add USE for switching the netpbm support
 [sci-astronomy/topcat](http://www.star.bris.ac.uk/~mbt/topcat)                       | 4.8; [4.8.6](https://github.com/Universebenzene/benzene-overlay/blob/master/sci-astronomy/topcat/topcat-4.8.6.ebuild)                                      |
-sys-libs/libsystemd                                                                  | 250.7; 251.2; 251.3; 251.4; (live)                            | A standalone package to provide `libsystemd.so` for packages depend on the lib on non-systemd system. [Still on trial](https://github.com/Universebenzene/benzene-overlay/tree/master/sys-libs/libsystemd). **IF YOU HAVE ANY IDEA TO IMPROVE THIS PACKAGE JUST BRING ISSUES OR PULL REQUESTS.**
+sys-libs/libsystemd                                                                  | 251.3; 251.4; (live)                                          | A standalone package to provide `libsystemd.so` for packages depend on the lib on non-systemd system. [Still on trial](https://github.com/Universebenzene/benzene-overlay/tree/master/sys-libs/libsystemd). **IF YOU HAVE ANY IDEA TO IMPROVE THIS PACKAGE JUST BRING ISSUES OR PULL REQUESTS.**
 www-plugins/adobe-flash                                                              | [32.0.0.465](https://github.com/Universebenzene/benzene-overlay/blob/master/www-plugins/adobe-flash/adobe-flash-32.0.0.465.ebuild)                         | Dropped by official portage
 [x11-libs/lain](https://github.com/lcpz/lain)                                        | [(live version)](https://github.com/Universebenzene/benzene-overlay/blob/master/x11-libs/lain/lain-9999-r100.ebuild)                                       | 9999 for old ebuild without lua targets support (masked); 9999-r100 with the new `lua-single` eclass
 [x11-plugins/purple-oicq](https://codeberg.org/goodspeed/purple-oicq)                | [1.0.2](https://github.com/Universebenzene/benzene-overlay/blob/master/x11-plugins/purple-oicq/purple-oicq-1.0.2.ebuild); (live)                           | OICQ plugin (Tencent QQ support) for Pidgin/libpurple.
@@ -87,7 +87,7 @@ dev-python/adal                  | 1.2.7         | SunPy, h5pyd related
 dev-python/abg\_python           | 1.1.0         | Optional for yt
 dev-python/aggdraw               | 1.3.15        | Optional for ginga
 dev-python/aiobotocore           | 2.4.0         | Pulled in by zarr
-dev-python/aioitertools          | 0.10.0        | Pulled in by zarr
+dev-python/aioitertools          | 0.11.0        | Pulled in by zarr
 dev-python/asciitree             | 0.3.3         | Pulled in by zarr
 dev-python/bidict                | 0.22.0        | Optional for yt
 dev-python/f90nml                | 1.4.3         | Optional for yt
