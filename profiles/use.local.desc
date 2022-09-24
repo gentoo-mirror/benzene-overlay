@@ -82,6 +82,7 @@ dev-python/numcodecs:msgpack - Extra MsgPack support via dev-python/msgpack
 dev-python/photutils:intersphinx - Enable intersphinx while doc building.
 dev-python/photutils:local-datasets - Add local data for photutils.datasets
 dev-python/pvextractor:intersphinx - Enable intersphinx while doc building.
+dev-python/pydl:all - More function support
 dev-python/pydl:intersphinx - Enable intersphinx while doc building.
 dev-python/pyregion:intersphinx - Enable intersphinx while doc building.
 dev-python/python-socketio:asyncio-client - Use asyncio client
