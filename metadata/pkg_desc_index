@@ -37,7 +37,7 @@ dev-python/astroscrappy 1.0.8 1.1.0: Optimized cosmic ray annihilation astropy p
 dev-python/asynctest 0.13.0: Enhance standard unittest package with features for testing asyncio libraries
 dev-python/atpy 0.9.7: Astronomical tables support for Python
 dev-python/bidict 0.22.0: The bidirectional mapping library for Python
-dev-python/casa-formats-io 0.1: Code to handle I/O from/to data in CASA format Resources
+dev-python/casa-formats-io 0.2: Code to handle I/O from/to data in CASA format Resources
 dev-python/ccdproc 1.3.0_p1 2.1.0 2.3.1: Astropy affiliated package for reducing optical/IR CCD data
 dev-python/cdflib 0.4.7: A python module for reading NASA's Common Data Format (cdf) files Resources
 dev-python/cmyt 1.1.2: A collection of Matplotlib colormaps from the yt project
@@ -107,7 +107,7 @@ dev-python/pytest-socket 0.5.0 0.5.1: Pytest Plugin to disable socket calls duri
 dev-python/python-socketio 5.7.1: Python Socket.IO server and client
 dev-python/python-xz 0.4.0: Pure Python implementation of the XZ file format with random access support
 dev-python/pyvo 1.2.1 1.3: Astropy affiliated package for accessing Virtual Observatory data and services
-dev-python/radio-beam 0.3.3: Operations for radio astronomy beams with astropy
+dev-python/radio-beam 0.3.4: Operations for radio astronomy beams with astropy
 dev-python/ratarmount 0.11.3: Random Access Read-Only Tar Mount
 dev-python/ratarmountcore 0.3.2: Random Access Read-Only Tar Mount Library
 dev-python/regions 0.4 0.5: Astropy affiliated package for region handling

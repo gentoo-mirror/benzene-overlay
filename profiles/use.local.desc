@@ -88,6 +88,7 @@ dev-python/pyregion:intersphinx - Enable intersphinx while doc building.
 dev-python/python-socketio:asyncio-client - Use asyncio client
 dev-python/python-socketio:client - Use standard Python client
 dev-python/pyvo:intersphinx - Enable intersphinx while doc building.
+dev-python/radio-beam:all - Full function support
 dev-python/radio-beam:intersphinx - Enable intersphinx while doc building.
 dev-python/ratarmountcore:bzip2 - Add extra support for bzip2
 dev-python/ratarmountcore:full - Include all extra dependencies
