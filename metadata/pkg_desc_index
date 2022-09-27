@@ -8,7 +8,7 @@ app-text/frhelper 12.6.7: Proprietary French dictionary software for linux
 app-text/powerword 1.2: A Chinese-English dictionary tool by Kingsoft
 app-text/ydcv 0.7 9999: YouDao Console Version - Simple wrapper for Youdao online translate service API
 app-text/youdao-dict 6.0.0-r1: YouDao Dictionary
-dev-python/PyQt5 5.15.4-r1 5.15.6: Python bindings for the Qt framework
+dev-python/PyQt5 5.15.6: Python bindings for the Qt framework
 dev-python/abg_python 1.1.3: Shared python utilities for https://github.com/agurvich 's packages
 dev-python/adal 1.2.7: ADAL for Python
 dev-python/aggdraw 1.3.15: High quality drawing interface for PIL
@@ -98,7 +98,7 @@ dev-python/pytest-arraydiff 0.3 0.5.0: Pytest plugin to facilitate comparison of
 dev-python/pytest-astropy 0.8.0 0.10.0: Metapackage for all the testing machinery used by the Astropy Project
 dev-python/pytest-astropy-header 0.1.2 0.2.2: Pytest plugin to add diagnostic information to the header of the test output
 dev-python/pytest-cython 0.2.0: A plugin for testing Cython extension modules
-dev-python/pytest-doctestplus 0.9.0 0.12.0: Pytest plugin with advanced doctest features
+dev-python/pytest-doctestplus 0.9.0 0.12.1: Pytest plugin with advanced doctest features
 dev-python/pytest-filter-subpackage 0.1.1: Pytest plugin for filtering based on sub-packages
 dev-python/pytest-mpl 0.13 0.16.1: Pytest plugin to faciliate image comparison for matplotlib figures
 dev-python/pytest-openfiles 0.5.0: Pytest plugin to check for files left open at the end of a test run
