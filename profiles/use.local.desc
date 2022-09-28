@@ -87,6 +87,7 @@ dev-python/pydl:intersphinx - Enable intersphinx while doc building.
 dev-python/pyregion:intersphinx - Enable intersphinx while doc building.
 dev-python/python-socketio:asyncio-client - Use asyncio client
 dev-python/python-socketio:client - Use standard Python client
+dev-python/pyvo:all - Full functionality
 dev-python/pyvo:intersphinx - Enable intersphinx while doc building.
 dev-python/radio-beam:all - Full function support
 dev-python/radio-beam:intersphinx - Enable intersphinx while doc building.
