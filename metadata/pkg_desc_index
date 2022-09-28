@@ -165,7 +165,7 @@ net-misc/todesk 4.1.0-r3 4.3.1.0: Remote control and team work
 net-misc/xunlei-download 1.0.0.2: Xunlei download
 net-proxy/gg 0.2.11: Command-line tool for one-click proxy without v2ray or others (A.k.a. go-craft).
 net-proxy/v2raya-bin 1.5.8.1 1.5.9.1698.1: Web client of Project V for VMess, VLESS, SS, SSR, Trojan & Pingtunnel protocols
-sci-astronomy/aladin 11.024: Interactive software sky atlas
+sci-astronomy/aladin-bin 12.001: Interactive software sky atlas
 sci-astronomy/astrometry 0.78 0.80 0.85 0.91: Automated astrometric calibration programs and service
 sci-astronomy/erfa 1.7.2 2.0.0: Essential Routines for Fundamental Astronomy
 sci-astronomy/healpix 3.82: Hierarchical Equal Area isoLatitude Pixelization of a sphere
