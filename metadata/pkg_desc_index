@@ -44,7 +44,7 @@ dev-python/cmyt 1.1.2: A collection of Matplotlib colormaps from the yt project
 dev-python/dask-sphinx-theme 3.0.3: Sphinx theme for Dask documentation
 dev-python/distributed 2022.9.0 2022.9.1: Distributed scheduler for Dask
 dev-python/drms 0.6.2: Access HMI, AIA and MDI data with Python from the public JSOC DRMS server
-dev-python/echo 0.6: Callback Properties in Python
+dev-python/echo 0.7: Callback Properties in Python
 dev-python/eventlet 0.33.1: Highly concurrent networking library
 dev-python/exifread 3.0.0: Easy to use Python module to extract Exif metadata from digital image files
 dev-python/extension-helpers 1.0.0: Helpers to assist with building Python pkgs with compiled C/Cython extensions
@@ -124,14 +124,14 @@ dev-python/sphinx-astropy 1.6.0 1.7.0: Sphinx extensions and configuration speci
 dev-python/sphinx-autobuild 2021.3.14: Rebuild Sphinx documentation on changes, with live-reload in the browser
 dev-python/sphinx-automodapi 0.12 0.14.1: Sphinx extension for generating API documentation
 dev-python/sphinx-book-theme 0.2.0: A clean book theme for scientific explanations and documentation with Sphinx
-dev-python/sphinx-changelog 1.1.2: A changelog renderer for sphinx
+dev-python/sphinx-changelog 1.2.0: A changelog renderer for sphinx
 dev-python/sphinx-click 4.3.0: Sphinx plugin to automatically document click-based applications
 dev-python/sphinx-copybutton 0.5.0: Add a copy button to code blocks in Sphinx
 dev-python/sphinx-examples 0.0.5: A lightweight example directive to make it easy to demonstrate code / results
 dev-python/sphinx-inline-tabs 2022.1.2_beta11: Add inline tabbed content to your Sphinx documentation
 dev-python/sphinx-togglebutton 0.3.1: Toggle page content and collapse admonitions in Sphinx
 dev-python/sphinx_contributors 0.2.6: Contributors extension for Sphinx
-dev-python/sphinx_design 0.2.0: A sphinx extension for designing beautiful, view size responsive web components
+dev-python/sphinx_design 0.3.0: A sphinx extension for designing beautiful, view size responsive web components
 dev-python/sphinx_mdinclude 0.5.2: Markdown extension for Sphinx
 dev-python/sunpy 4.0.5: Python library for solar physics
 dev-python/sunpy-sphinx-theme 1.2.36: The sphinx theme for the SunPy website and documentation
