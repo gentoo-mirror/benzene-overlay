@@ -32,7 +32,7 @@ dev-python/gwcs                | 0.17.1; 0.18.2                       | `network
 dev-python/h5netcdf            | 1.0.2                                |
 dev-python/h5pyd               | 0.11.0                               |
 dev-python/healpy              | 1.16.1                               |
-dev-python/jplephem            | 2.17                                 |
+dev-python/jplephem            | 2.18                                 |
 dev-python/jsonschema          | 3.2.0-r1; 4.9.1                      | Old version for dev-python/asdf
 dev-python/montage-wrapper     | 0.9.9                                |
 dev-python/mpl-animator        | 1.0.1                                |
@@ -51,6 +51,6 @@ dev-python/reproject           | 0.5.1; 0.9                           | `network
 dev-python/sgp4                | 2.21                                 |
 dev-python/skyfield            | 1.45                                 |
 dev-python/spectral-cube       | 0.6.0                                | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
-dev-python/specutils           | 1.1.1; 1.8.0                         | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
+dev-python/specutils           | 1.1.1; 1.8.1                         | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
 dev-python/sunpy               | 4.0.5                                | Testing and doc building are really hard to run, so not supported right now.
 dev-python/sunpy-sphinx-theme  | 1.2.32                               |
