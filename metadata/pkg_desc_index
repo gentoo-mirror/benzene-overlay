@@ -43,6 +43,7 @@ dev-python/ccdproc 1.3.0_p1 2.1.0 2.3.1: Astropy affiliated package for reducing
 dev-python/cdflib 0.4.7: A python module for reading NASA's Common Data Format (cdf) files Resources
 dev-python/cmdstanpy 1.0.7: Python interface to CmdStan
 dev-python/cmyt 1.1.2: A collection of Matplotlib colormaps from the yt project
+dev-python/corner 2.2.1: Make scatter matrix corner plots
 dev-python/dask-sphinx-theme 3.0.3: Sphinx theme for Dask documentation
 dev-python/distributed 2022.9.0 2022.9.1 2022.9.2 2022.10.0: Distributed scheduler for Dask
 dev-python/drms 0.6.2: Access HMI, AIA and MDI data with Python from the public JSOC DRMS server
