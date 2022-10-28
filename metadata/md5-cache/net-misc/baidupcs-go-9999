@@ -1,5 +1,5 @@
 BDEPEND=>=dev-lang/go-1.18 app-arch/unzip >=dev-vcs/git-1.8.2.1[curl]
-DEFINED_PHASES=compile install prepare unpack
+DEFINED_PHASES=compile install unpack
 DESCRIPTION=The terminal utility for Baidu Network Disk (Golang Version).
 EAPI=8
 HOMEPAGE=https://github.com/qjfoidnh/BaiduPCS-Go
@@ -9,5 +9,5 @@ PROPERTIES=live
 RDEPEND=!net-misc/baidupcs-go-bin
 RESTRICT=strip
 SLOT=0
-_eclasses_=go-module-vendor	5ec67977a3cb341077413aba824c42a2	git-r3	b9ac6f96d2a88edb5b351df634dc5e53
-_md5_=e94e41b0e67220c56c4e0512bcd82233
+_eclasses_=go-module-vendor	ff9680967dcc1c953e1185ef20bd14e9	git-r3	b9ac6f96d2a88edb5b351df634dc5e53
+_md5_=5fbc1eb2a2963ac9840d2e56ee5369bc
