@@ -31,7 +31,7 @@ dev-python/aioftp                                                               
 dev-python/astlib                                                                    | 0.11.3; 0.11.8                                                |
 dev-python/corner                                                                    | 2.2.1                                                         |
 dev-python/exifread                                                                  | 3.0.0                                                         |
-dev-python/distributed                                                               | 2022.9.2; 2022.10.0                                           |
+dev-python/distributed                                                               | 2022.9.2; 2022.10.0; 2022.10.1                                |
 dev-python/glymur                                                                    | 0.11.5; 0.11.7                                                |
 dev-python/hsluv                                                                     | 5.0.3                                                         |
 dev-python/oldest-supported-numpy                                                    | 2022.8.16                                                     | The numpy version limitations are changed from `==` into `>=`. If you have better solution, just bring issues or pull requests.
@@ -108,7 +108,7 @@ dev-python/msrest                | 0.6.21        | SunPy, h5pyd related
 dev-python/msrestazure           | 0.6.4         | SunPy, h5pyd related
 dev-python/numcodecs             | 0.10.2        | Pulled in by zarr
 dev-python/pyaml                 | 21.10.1       | Optional for yt
-dev-python/pykdtree              | 1.3.5         | Optional for yt
+dev-python/pykdtree              | 1.3.6         | Optional for yt
 dev-python/python-socketio       | 5.7.1         | Optional for yt
 dev-python/python-xz             | 0.4.0         | Optional for yt
 dev-python/ratarmount            | 0.11.3        | Optional for yt. Dependency ratarmountcore is also included in this overlay but not listed in the table
