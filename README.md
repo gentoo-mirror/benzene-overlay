@@ -93,7 +93,7 @@ dev-python/aioitertools          | 0.11.0        | Pulled in by zarr
 dev-python/arviz                 | 0.12.0        | Optional for corner.py. 0.12.1 not included for missing dep `xarray-einstats`
 dev-python/asciitree             | 0.3.3         | Pulled in by zarr
 dev-python/bidict                | 0.22.0        | Optional for yt
-dev-python/cmdstanpy             | 1.0.7         | Test dependency for arviz
+dev-python/cmdstanpy             | 1.0.8         | Test dependency for arviz
 dev-python/f90nml                | 1.4.3         | Optional for yt
 dev-python/fastcache             | 1.1.0         | Optional for yt
 dev-python/firefly-viz           | 2.0.4         | Optional for yt
@@ -109,7 +109,7 @@ dev-python/msrestazure           | 0.6.4         | SunPy, h5pyd related
 dev-python/numcodecs             | 0.10.2        | Pulled in by zarr
 dev-python/pyaml                 | 21.10.1       | Optional for yt
 dev-python/pykdtree              | 1.3.6         | Optional for yt
-dev-python/python-socketio       | 5.7.1         | Optional for yt
+dev-python/python-socketio       | 5.7.2         | Optional for yt
 dev-python/python-xz             | 0.4.0         | Optional for yt
 dev-python/ratarmount            | 0.11.3        | Optional for yt. Dependency ratarmountcore is also included in this overlay but not listed in the table
 dev-python/s3fs                  | 2022.8.2      | Test dependency for zarr
