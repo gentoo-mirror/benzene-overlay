@@ -1,10 +1,10 @@
 app-i18n/fcitx-table-other 0.2.4: Provides some other tables for Fcitx
 app-office/wps-office 11.1.0.10976-r2 11.1.0.11664-r1: WPS Office is an office productivity suite
 app-pda/i4tools 1.0.038 1.0.038-r1 1.0.055 1.0.055-r1: A third-party tool for managing Apple (iOS) devices
-app-text/dehelper 12.6.7: Proprietary German dictionary software for linux
-app-text/eshelper 12.6.7: Proprietary Spanish dictionary software for linux
-app-text/eudic 12.6.7: Proprietary English dictionary software for linux
-app-text/frhelper 12.6.7: Proprietary French dictionary software for linux
+app-text/dehelper 12.7.1: Proprietary German dictionary software for linux
+app-text/eshelper 12.7.1: Proprietary Spanish dictionary software for linux
+app-text/eudic 12.7.1: Proprietary English dictionary software for linux
+app-text/frhelper 12.7.1: Proprietary French dictionary software for linux
 app-text/powerword 1.2: A Chinese-English dictionary tool by Kingsoft
 app-text/ydcv 0.7 9999: YouDao Console Version - Simple wrapper for Youdao online translate service API
 app-text/youdao-dict 6.0.0-r1: YouDao Dictionary
