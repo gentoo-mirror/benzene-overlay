@@ -101,6 +101,7 @@ dev-python/ratarmountcore:gzip - Add extra support for gzip
 dev-python/ratarmountcore:rar - Add extra support for rar
 dev-python/ratarmountcore:xz - Add extra support for xz
 dev-python/ratarmountcore:zstd - Add extra support for zstd
+dev-python/regions:all - Full functionality
 dev-python/regions:intersphinx - Enable intersphinx and online data while doc building.
 dev-python/reproject:intersphinx - Enable intersphinx while doc building.
 dev-python/runnotebook:doc - Add an example documentation

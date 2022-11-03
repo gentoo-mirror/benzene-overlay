@@ -115,7 +115,7 @@ dev-python/pyvo 1.2.1 1.4: Astropy affiliated package for accessing Virtual Obse
 dev-python/radio-beam 0.3.4: Operations for radio astronomy beams with astropy
 dev-python/ratarmount 0.11.3: Random Access Read-Only Tar Mount
 dev-python/ratarmountcore 0.3.2: Random Access Read-Only Tar Mount Library
-dev-python/regions 0.4 0.5: Astropy affiliated package for region handling
+dev-python/regions 0.4 0.7: Astropy affiliated package for region handling
 dev-python/reproject 0.5.1 0.9: Reproject astronomical images with Python
 dev-python/runnotebook 0.3.1 9999: IPython notebook sphinx extensions
 dev-python/s3fs 2022.8.2: Convenient Filesystem interface over S3
