@@ -5,12 +5,12 @@ EAPI=8
 HOMEPAGE=https://sunlogin.oray.com
 IDEPEND=dev-util/desktop-file-utils x11-misc/shared-mime-info
 INHERIT=unpacker systemd desktop xdg
-IUSE=libsystemd keep-server
+IUSE=keep-server systemd
 KEYWORDS=-* ~amd64 ~arm64
 LICENSE=Sunlogin
-RDEPEND=dev-libs/libappindicator:3 x11-apps/xhost virtual/libcrypt:= libsystemd? ( sys-libs/libsystemd )
+RDEPEND=dev-libs/libappindicator:3 x11-apps/xhost virtual/libcrypt:= virtual/libsystemd[systemd=]
 RESTRICT=mirror
 SLOT=0
 SRC_URI=amd64? ( https://down.oray.com/sunlogin/linux/sunloginclient-11.0.0.36662-amd64.deb ) arm64? ( https://down.oray.com/sunlogin/linux/sunloginclient_11.0.0.36662_arm.deb )
 _eclasses_=multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	441f754fd75cd4fd1fa06fbc17da6144	multilib	5ca4e49abed8e3a2f7b56920eadee157	unpacker	bc57272a0491765c71d973c8cfd35063	systemd	5f4bb0758df2e483babf68cd517078ca	desktop	7eb20ad915a0a318176d51bc2508ff5c	xdg-utils	ac0e315a3688929e34ac75b139e7349a	xdg	6024fbc93167fad782e2032933654857
-_md5_=23c1b264219ed0dc6df3bafe2df4774d
+_md5_=f104f6f0be8d41d6de6626539c920e1c
