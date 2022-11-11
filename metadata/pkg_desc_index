@@ -40,13 +40,13 @@ dev-python/atpy 0.9.7: Astronomical tables support for Python
 dev-python/bidict 0.22.0: The bidirectional mapping library for Python
 dev-python/casa-formats-io 0.2: Code to handle I/O from/to data in CASA format Resources
 dev-python/ccdproc 1.3.0_p1 2.1.0 2.3.1: Astropy affiliated package for reducing optical/IR CCD data
-dev-python/cdflib 0.4.8: A python module for reading NASA's Common Data Format (cdf) files Resources
+dev-python/cdflib 0.4.9: A python module for reading NASA's Common Data Format (cdf) files Resources
 dev-python/cmdstanpy 1.0.8: Python interface to CmdStan
 dev-python/cmyt 1.1.2: A collection of Matplotlib colormaps from the yt project
 dev-python/corner 2.2.1: Make scatter matrix corner plots
 dev-python/dask-sphinx-theme 3.0.3: Sphinx theme for Dask documentation
 dev-python/distributed 2022.9.2 2022.10.0 2022.10.1: Distributed scheduler for Dask
-dev-python/drms 0.6.2: Access HMI, AIA and MDI data with Python from the public JSOC DRMS server
+dev-python/drms 0.6.3: Access HMI, AIA and MDI data with Python from the public JSOC DRMS server
 dev-python/echo 0.8.0: Callback Properties in Python
 dev-python/eventlet 0.33.1: Highly concurrent networking library
 dev-python/exifread 3.0.0: Easy to use Python module to extract Exif metadata from digital image files
@@ -62,7 +62,7 @@ dev-python/ginga 3.4.1: A scientific image viewer and toolkit
 dev-python/glue-core 1.5.0: Linked Data Visualizations Across Multiple Files
 dev-python/glue-vispy-viewers 1.0.5: 3-d data viewers for glue based on VisPy
 dev-python/glueviz 1.2.0: Meta-package for glue and plugin packages
-dev-python/glymur 0.11.5 0.11.7: Tools for accessing JPEG2000 files
+dev-python/glymur 0.11.7 0.12.0: Tools for accessing JPEG2000 files
 dev-python/gwcs 0.17.1 0.18.2: Generalized World Coordinate System
 dev-python/h5netcdf 1.0.2: Pythonic interface to netCDF4 via h5py
 dev-python/h5pyd 0.11.0: h5py distributed - Python client library for HDF Rest API
@@ -117,7 +117,7 @@ dev-python/radio-beam 0.3.4: Operations for radio astronomy beams with astropy
 dev-python/ratarmount 0.11.3: Random Access Read-Only Tar Mount
 dev-python/ratarmountcore 0.3.2: Random Access Read-Only Tar Mount Library
 dev-python/regions 0.4 0.7: Astropy affiliated package for region handling
-dev-python/reproject 0.5.1 0.9: Reproject astronomical images with Python
+dev-python/reproject 0.5.1 0.9.1: Reproject astronomical images with Python
 dev-python/runnotebook 0.3.1 9999: IPython notebook sphinx extensions
 dev-python/s3fs 2022.8.2: Convenient Filesystem interface over S3
 dev-python/sep 1.2.1: Python and C library for source extraction and photometry
@@ -162,7 +162,7 @@ net-im/electron-qq-bin 1.5.7 2.1.4: A cross-platform QQ made with Electron (Depr
 net-im/electron-wechat-bin 1.0.0: For creating the most usable Linux/MacOS WeChat client. A.k.a. Freechat
 net-im/electronic-wechat-bin 2.3.1 2.3.1_p0: A better WeChat on macOS and Linux. Built with Electron
 net-im/icalingua++-bin 2.7.7: A Linux client for QQ and more (forked branch). Previously called Electron QQ
-net-im/wemeet 2.8.0.3 2.8.0.4 3.10.0.401 3.11.0.402: Wemeet - Tencent Video Conferencing. A.k.a Tencent Meeting
+net-im/wemeet 2.8.0.3 3.10.0.401 3.11.0.402: Wemeet - Tencent Video Conferencing. A.k.a Tencent Meeting
 net-libs/libaxon-bin 1.0.2: Nodejs backend for purple-oicq
 net-misc/baidunetdisk 3.0.1 4.3.0 4.14.5: Baidu Net Disk is a cloud storage client (Linux Version)
 net-misc/baidupcs-go 3.6.2 3.8.1 3.8.7 9999: The terminal utility for Baidu Network Disk (Golang Version).
