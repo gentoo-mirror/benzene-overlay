@@ -20,8 +20,8 @@ dev-python/astroscrappy        | 1.0.8; 1.1.0                         | `network
 dev-python/atpy                | 0.9.7                                | Old package, so the test phase may fail
 dev-python/ccdproc             | 1.3.0\_p1; 2.3.1                     | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
 dev-python/casa-formats-io     | 0.2                                  |
-dev-python/cdflib              | 0.4.8                                | SunPy releated.
-dev-python/drms                | 0.6.2                                | SunPy releated. `network-sandbox` FEATURE will be disabled if you enable `examples` flag for doc building
+dev-python/cdflib              | 0.4.9                                | SunPy releated.
+dev-python/drms                | 0.6.3                                | SunPy releated. `network-sandbox` FEATURE will be disabled if you enable `examples` flag for doc building
 dev-python/echo                | 0.8.0                                | Glueviz releated.
 dev-python/extension-helpers   | 1.0.0                                |
 dev-python/fast-histogram      | 0.11                                 | Glueviz releated.
@@ -50,7 +50,7 @@ dev-python/pyregion            | 2.0; 2.1.1                           | `network
 dev-python/pyvo                | 1.2.1; 1.4                           | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
 dev-python/radio-beam          | 0.3.4                                | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
 dev-python/regions             | 0.4; 0.7                             | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
-dev-python/reproject           | 0.5.1; 0.9                           | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
+dev-python/reproject           | 0.5.1; 0.9.1                         | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
 dev-python/sep                 | 1.2.1                                |
 dev-python/sgp4                | 2.21                                 |
 dev-python/sherpa              | 4.15.0                               | `XSPEC` support is not included while building. See [here](https://sherpa.readthedocs.io/en/4.15.0/install.html#building-from-source) for more details to build with `XSPEC` manually.
