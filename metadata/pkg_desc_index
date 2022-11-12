@@ -45,7 +45,7 @@ dev-python/cmdstanpy 1.0.8: Python interface to CmdStan
 dev-python/cmyt 1.1.2: A collection of Matplotlib colormaps from the yt project
 dev-python/corner 2.2.1: Make scatter matrix corner plots
 dev-python/dask-sphinx-theme 3.0.3: Sphinx theme for Dask documentation
-dev-python/distributed 2022.9.2 2022.10.0 2022.10.1: Distributed scheduler for Dask
+dev-python/distributed 2022.9.2 2022.10.0 2022.10.1 2022.10.2: Distributed scheduler for Dask
 dev-python/drms 0.6.3: Access HMI, AIA and MDI data with Python from the public JSOC DRMS server
 dev-python/echo 0.8.0: Callback Properties in Python
 dev-python/eventlet 0.33.1: Highly concurrent networking library
@@ -119,7 +119,7 @@ dev-python/ratarmountcore 0.3.2: Random Access Read-Only Tar Mount Library
 dev-python/regions 0.4 0.7: Astropy affiliated package for region handling
 dev-python/reproject 0.5.1 0.9.1: Reproject astronomical images with Python
 dev-python/runnotebook 0.3.1 9999: IPython notebook sphinx extensions
-dev-python/s3fs 2022.8.2: Convenient Filesystem interface over S3
+dev-python/s3fs 2022.11.0: Convenient Filesystem interface over S3
 dev-python/sep 1.2.1: Python and C library for source extraction and photometry
 dev-python/sgp4 2.21: Python version of the SGP4 satellite position library
 dev-python/sherpa 4.15.0: Modeling and fitting package for scientific data analysis
