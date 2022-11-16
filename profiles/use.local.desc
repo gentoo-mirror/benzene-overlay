@@ -115,6 +115,7 @@ dev-python/spectral-cube:novis - Extra novis support
 dev-python/specutils:intersphinx - Enable intersphinx while doc building.
 dev-python/sphinx-book-theme:code_style - Extra code_style support for development
 dev-python/sphinx-copybutton:code_style - Extra code_style support for development
+dev-python/sphinx-copybutton:rtd - Extra rtd support
 dev-python/sphinx-togglebutton:sphinx - Extra sphinx support
 dev-python/sunpy:asdf - Extra asdf support via dev-python/asdf-astropy
 dev-python/sunpy:dask - Extra dask support via dev-python/dask
