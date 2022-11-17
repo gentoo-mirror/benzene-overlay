@@ -45,7 +45,7 @@ dev-python/cmdstanpy 1.0.8: Python interface to CmdStan
 dev-python/cmyt 1.1.2: A collection of Matplotlib colormaps from the yt project
 dev-python/corner 2.2.1: Make scatter matrix corner plots
 dev-python/dask-sphinx-theme 3.0.3: Sphinx theme for Dask documentation
-dev-python/distributed 2022.9.2 2022.10.0 2022.10.1 2022.10.2 2022.11.0: Distributed scheduler for Dask
+dev-python/distributed 2022.9.2 2022.10.0 2022.10.1 2022.11.0: Distributed scheduler for Dask
 dev-python/drms 0.6.3: Access HMI, AIA and MDI data with Python from the public JSOC DRMS server
 dev-python/echo 0.8.0: Callback Properties in Python
 dev-python/eventlet 0.33.1: Highly concurrent networking library
