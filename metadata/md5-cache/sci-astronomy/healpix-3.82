@@ -1,4 +1,4 @@
-BDEPEND=>=sci-libs/cfitsio-3.440 cxx? ( sci-libs/libsharp:= ) idl? ( dev-lang/gdl sci-astronomy/idlastro ) java? ( >=virtual/jre-1.8:* ) virtual/pkgconfig java? ( >=virtual/jdk-1.8:* test? ( dev-java/ant-junit4:0 ) ) sys-devel/gnuconfig >=app-portage/elt-patches-20170815 || ( >=sys-devel/automake-1.16.5:1.16 ) >=sys-devel/autoconf-2.71 >=sys-devel/libtool-2.4
+BDEPEND=>=sci-libs/cfitsio-3.440:= cxx? ( sci-libs/libsharp:= ) idl? ( dev-lang/gdl sci-astronomy/idlastro ) java? ( >=virtual/jre-1.8:* ) virtual/pkgconfig java? ( >=virtual/jdk-1.8:* test? ( dev-java/ant-junit4:0 ) ) sys-devel/gnuconfig >=app-portage/elt-patches-20170815 || ( >=sys-devel/automake-1.16.5:1.16 ) >=sys-devel/autoconf-2.71 >=sys-devel/libtool-2.4
 DEFINED_PHASES=compile configure install preinst prepare pretend setup test
 DEPEND=java? ( >=dev-java/java-config-2.2.0-r3 ) java? ( >=dev-java/ant-core-1.8.2:0 dev-java/javatoolkit )
 DESCRIPTION=Hierarchical Equal Area isoLatitude Pixelization of a sphere
@@ -8,9 +8,9 @@ INHERIT=autotools toolchain-funcs java-pkg-opt-2 java-ant-2
 IUSE=cxx doc idl java openmp static-libs test java
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2
-RDEPEND=>=sci-libs/cfitsio-3.440 cxx? ( sci-libs/libsharp:= ) idl? ( dev-lang/gdl sci-astronomy/idlastro ) java? ( >=virtual/jre-1.8:* ) java? ( >=dev-java/java-config-2.2.0-r3 )
+RDEPEND=>=sci-libs/cfitsio-3.440:= cxx? ( sci-libs/libsharp:= ) idl? ( dev-lang/gdl sci-astronomy/idlastro ) java? ( >=virtual/jre-1.8:* ) java? ( >=dev-java/java-config-2.2.0-r3 )
 RESTRICT=!test? ( test )
 SLOT=0/0-3
 SRC_URI=mirror://sourceforge/healpix/Healpix_3.82/Healpix_3.82_2022Jul28.tar.gz
 _eclasses_=gnuconfig	b6b3e92f8b8c996400074b5f61a59256	toolchain-funcs	441f754fd75cd4fd1fa06fbc17da6144	multilib	5ca4e49abed8e3a2f7b56920eadee157	libtool	241a8f577b9781a42a7421e53448a44e	autotools	9e6965bfaa00f52cc61e0d4bc44c87b3	java-utils-2	c79d65661a9f4f72b60376c9e4b3dfa1	java-pkg-opt-2	a71433e535af8faae0c0f6c861a32054	java-ant-2	5cf479aa9e0ac9cc55899f2762c2aaa0
-_md5_=0276d8d9daf52f116f41e5876ae21857
+_md5_=20d1c622368a15241006045419378879
