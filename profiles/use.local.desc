@@ -51,6 +51,7 @@ dev-python/asdf-standard:doc - Build extra documentation. Should only be enabled
 dev-python/asdf-standard:intersphinx - Enable intersphinx while doc building.
 dev-python/asdf_transform_schemas:doc - Build extra documentation. Should only be enabled for re-merge instead of new merge.
 dev-python/asdf_transform_schemas:intersphinx - Enable intersphinx while doc building.
+dev-python/asdf_wcs_schemas:intersphinx - Enable intersphinx while doc building.
 dev-python/astroplan:doc - Add extra documentation (building may not complete as it needs lots of online data).
 dev-python/astroplan:intersphinx - Enable intersphinx and online data while doc building.
 dev-python/astroplan:plotting - Extra plotting support
