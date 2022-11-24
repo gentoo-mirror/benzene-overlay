@@ -55,7 +55,7 @@ dev-python/f90nml 1.4.3: Fortran 90 namelist parser
 dev-python/fast-histogram 0.11: Fast 1D and 2D histogram functions in Python
 dev-python/fastcache 1.1.0: C implementation of Python 3 functools.lru_cache
 dev-python/firefly-vis 2.0.4: A browser-based particle visualization platform
-dev-python/flask-socketio 5.3.1: Socket.IO integration for Flask applications
+dev-python/flask-socketio 5.3.2: Socket.IO integration for Flask applications
 dev-python/freetype-py 2.3.0: Python binding for the freetype library
 dev-python/fusepy 3.0.1: Simple ctypes bindings for FUSE
 dev-python/ginga 3.4.1: A scientific image viewer and toolkit
@@ -64,7 +64,7 @@ dev-python/glue-vispy-viewers 1.0.5: 3-d data viewers for glue based on VisPy
 dev-python/glueviz 1.2.0: Meta-package for glue and plugin packages
 dev-python/glymur 0.11.7 0.12.0: Tools for accessing JPEG2000 files
 dev-python/gwcs 0.17.1 0.18.2: Generalized World Coordinate System
-dev-python/h5netcdf 1.0.2: Pythonic interface to netCDF4 via h5py
+dev-python/h5netcdf 1.1.0: Pythonic interface to netCDF4 via h5py
 dev-python/h5pyd 0.11.0: h5py distributed - Python client library for HDF Rest API
 dev-python/healpy 1.16.1: Python wrapper for healpix
 dev-python/heapdict 1.0.1: Heap with decrease-key and increase-key operations
@@ -164,7 +164,7 @@ net-im/electronic-wechat-bin 2.3.1 2.3.1_p0: A better WeChat on macOS and Linux.
 net-im/icalingua++-bin 2.7.7: A Linux client for QQ and more (forked branch). Previously called Electron QQ
 net-im/wemeet 2.8.0.3 3.10.0.401 3.11.0.402: Wemeet - Tencent Video Conferencing. A.k.a Tencent Meeting
 net-libs/libaxon-bin 1.0.2: Nodejs backend for purple-oicq
-net-misc/baidunetdisk 3.0.1 4.3.0 4.14.5: Baidu Net Disk is a cloud storage client (Linux Version)
+net-misc/baidunetdisk 3.0.1 4.3.0 4.15.5: Baidu Net Disk is a cloud storage client (Linux Version)
 net-misc/baidupcs-go 3.6.2 3.8.1 3.8.8 9999: The terminal utility for Baidu Network Disk (Golang Version).
 net-misc/baidupcs-go-bin 3.6.2 3.8.8: The terminal utility for Baidu Network Disk (Golang Version).
 net-misc/landrop 0.4.0 9999: Drop any files to any devices on your LAN
