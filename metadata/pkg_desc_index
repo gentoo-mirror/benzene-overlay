@@ -1,5 +1,5 @@
 app-i18n/fcitx-table-other 0.2.4: Provides some other tables for Fcitx
-app-office/wps-office 11.1.0.10976-r2 11.1.0.11664-r1: WPS Office is an office productivity suite
+app-office/wps-office 11.1.0.10976-r2 11.1.0.11664-r3: WPS Office is an office productivity suite
 app-pda/i4tools 1.0.038 1.0.038-r1 1.0.055 1.0.055-r1: A third-party tool for managing Apple (iOS) devices
 app-text/dehelper 12.7.1: Proprietary German dictionary software for linux
 app-text/eshelper 12.7.1: Proprietary Spanish dictionary software for linux
@@ -181,7 +181,7 @@ sci-astronomy/healpix 3.82: Hierarchical Equal Area isoLatitude Pixelization of 
 sci-astronomy/topcat 4.8 4.8.7: Interactive graphical viewer and editor for astronomical tables
 sci-libs/libsharp 1.0.0 1.0.0_p20220728: Library for fast spherical harmonic transforms
 sys-libs/elogind-libsystemd 0: Provide standalone libsystemd.so without systemd by linking libelogind.so
-sys-libs/libsystemd 251.4 251.7 251.8 252 252.1 9999: A standalone package to provide libsystemd.so without systemd
+sys-libs/libsystemd 251.4 251.7 251.8 252.2 9999: A standalone package to provide libsystemd.so without systemd
 virtual/libsystemd 0: Virtual for libsystemd.so
 www-plugins/adobe-flash 32.0.0.465: Adobe Flash Player
 x11-libs/lain 9999 9999-r100: Layouts, asynchronous widgets and utilities for Awesome WM
