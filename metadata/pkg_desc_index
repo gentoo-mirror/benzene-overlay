@@ -63,7 +63,7 @@ dev-python/ginga 3.4.1: A scientific image viewer and toolkit
 dev-python/glue-core 1.6.0: Linked Data Visualizations Across Multiple Files
 dev-python/glue-vispy-viewers 1.0.5: 3-d data viewers for glue based on VisPy
 dev-python/glueviz 1.2.0: Meta-package for glue and plugin packages
-dev-python/glymur 0.11.7 0.12.0: Tools for accessing JPEG2000 files
+dev-python/glymur 0.12.0 0.12.1: Tools for accessing JPEG2000 files
 dev-python/gwcs 0.17.1 0.18.2: Generalized World Coordinate System
 dev-python/h5netcdf 1.1.0: Pythonic interface to netCDF4 via h5py
 dev-python/h5pyd 0.11.0: h5py distributed - Python client library for HDF Rest API
