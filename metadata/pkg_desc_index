@@ -176,7 +176,7 @@ net-news/quiterss 0.19.4 9999: Qt-based RSS/Atom feed reader
 net-proxy/gg 0.2.13 0.2.15: Command-line tool for one-click proxy without v2ray or others (A.k.a. go-craft).
 net-proxy/v2raya-bin 1.5.8.1 1.5.9.1698.1: Web client of Project V for VMess, VLESS, SS, SSR, Trojan & Pingtunnel protocols
 sci-astronomy/aladin-bin 12.001: Interactive software sky atlas
-sci-astronomy/astrometry 0.78 0.80 0.85 0.91: Automated astrometric calibration programs and service
+sci-astronomy/astrometry 0.78 0.80 0.85 0.92: Automated astrometric calibration programs and service
 sci-astronomy/erfa 1.7.2 2.0.0: Essential Routines for Fundamental Astronomy
 sci-astronomy/healpix 3.82: Hierarchical Equal Area isoLatitude Pixelization of a sphere
 sci-astronomy/topcat 4.8 4.8.7: Interactive graphical viewer and editor for astronomical tables
