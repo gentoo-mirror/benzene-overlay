@@ -12,7 +12,7 @@ dev-python/PyQt5 5.15.6 5.15.7: Python bindings for the Qt framework
 dev-python/abg_python 1.1.3: Shared python utilities for https://github.com/agurvich 's packages
 dev-python/adal 1.2.7: ADAL for Python
 dev-python/aggdraw 1.3.15: High quality drawing interface for PIL
-dev-python/aiobotocore 2.4.0: Async client for aws services using botocore and aiohttp
+dev-python/aiobotocore 2.4.1: Async client for aws services using botocore and aiohttp
 dev-python/aioftp 0.21.4: Ftp client/server for asyncio
 dev-python/aioitertools 0.11.0: Itertools and builtins for AsyncIO and mixed iterables
 dev-python/aplpy 1.1.1 2.0.3 2.1.0: Astronomical Plotting Library in Python
@@ -30,7 +30,7 @@ dev-python/astlib 0.11.3 0.11.8: Python astronomy modules for image and coordina
 dev-python/astrodendro 0.2.0-r1 9999: Python package for computation of astronomical dendrograms
 dev-python/astroml 0.4.1 1.0.2_p1: Python Machine Learning library for astronomy
 dev-python/astroplan 0.6 0.8: Observation planning package for astronomers
-dev-python/astropy 2.0.16 3.0.5 3.1.2 4.2.1 5.0.2 5.0.4 5.1: Core functionality for performing astrophysics with Python
+dev-python/astropy 2.0.16 3.0.5 3.1.2 4.2.1 5.0.4 5.1 5.1.1: Core functionality for performing astrophysics with Python
 dev-python/astropy-healpix 0.5 0.7: BSD-licensed HEALPix for Astropy
 dev-python/astropy-helpers 2.0.11 3.0.2 3.1.1 4.0.1: Helpers for Astropy and Affiliated packages
 dev-python/astropy-sphinx-theme 1.1: The sphinx theme for Astropy and affiliated packages
