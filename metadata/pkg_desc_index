@@ -12,7 +12,7 @@ dev-python/PyQt5 5.15.7: Python bindings for the Qt framework
 dev-python/abg_python 1.1.3: Shared python utilities for https://github.com/agurvich 's packages
 dev-python/adal 1.2.7: ADAL for Python
 dev-python/aggdraw 1.3.15: High quality drawing interface for PIL
-dev-python/aiobotocore 2.4.1: Async client for aws services using botocore and aiohttp
+dev-python/aiobotocore 2.4.2: Async client for aws services using botocore and aiohttp
 dev-python/aioftp 0.21.4: Ftp client/server for asyncio
 dev-python/aioitertools 0.11.0: Itertools and builtins for AsyncIO and mixed iterables
 dev-python/aplpy 1.1.1 2.0.3 2.1.0: Astronomical Plotting Library in Python
