@@ -184,6 +184,5 @@ sci-libs/libsharp 1.0.0 1.0.0_p20220728: Library for fast spherical harmonic tra
 sys-libs/elogind-libsystemd 0: Provide standalone libsystemd.so without systemd by linking libelogind.so
 sys-libs/libsystemd 251.8 251.9 251.10 252.3 252.4 9999: A standalone package to provide libsystemd.so without systemd
 virtual/libsystemd 0: Virtual for libsystemd.so
-www-plugins/adobe-flash 32.0.0.465: Adobe Flash Player
 x11-libs/lain 9999 9999-r100: Layouts, asynchronous widgets and utilities for Awesome WM
 x11-plugins/purple-oicq 1.0.2 9999: libpurple protocol support for oicq
