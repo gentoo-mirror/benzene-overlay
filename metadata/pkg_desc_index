@@ -66,7 +66,7 @@ dev-python/glueviz 1.2.0: Meta-package for glue and plugin packages
 dev-python/glymur 0.12.0 0.12.1: Tools for accessing JPEG2000 files
 dev-python/gwcs 0.17.1 0.18.2: Generalized World Coordinate System
 dev-python/h5netcdf 1.1.0: Pythonic interface to netCDF4 via h5py
-dev-python/h5pyd 0.12.0: h5py distributed - Python client library for HDF Rest API
+dev-python/h5pyd 0.12.2 0.12.4: h5py distributed - Python client library for HDF Rest API
 dev-python/healpy 1.16.1: Python wrapper for healpix
 dev-python/heapdict 1.0.1: Heap with decrease-key and increase-key operations
 dev-python/hsluv 5.0.3: Python implementation of HSLuv (revision 4)
