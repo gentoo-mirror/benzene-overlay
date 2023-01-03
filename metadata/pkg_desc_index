@@ -49,7 +49,7 @@ dev-python/dask-sphinx-theme 3.0.3: Sphinx theme for Dask documentation
 dev-python/distributed 2022.12.0 2022.12.1: Distributed scheduler for Dask
 dev-python/drms 0.6.3: Access HMI, AIA and MDI data with Python from the public JSOC DRMS server
 dev-python/echo 0.8.0: Callback Properties in Python
-dev-python/eventlet 0.33.1: Highly concurrent networking library
+dev-python/eventlet 0.33.2: Highly concurrent networking library
 dev-python/exifread 3.0.0: Easy to use Python module to extract Exif metadata from digital image files
 dev-python/extension-helpers 1.0.0: Helpers to assist with building Python pkgs with compiled C/Cython extensions
 dev-python/f90nml 1.4.3: Fortran 90 namelist parser
