@@ -1,0 +1,12 @@
+BDEPEND=app-arch/cpio app-arch/gzip app-arch/xz-utils net-misc/curl sys-apps/coreutils >=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=install unpack
+DESCRIPTION=Firmware for the Broadcom 1570 PCIe webcam
+EAPI=8
+HOMEPAGE=https://github.com/patjak/facetimehd-firmware
+INHERIT=git-r3
+LICENSE=APPLE_LICENSE
+PROPERTIES=live
+RESTRICT=bindist mirror
+SLOT=0
+_eclasses_=git-r3	2347f8fe2d392b2a091191f94be37e6f
+_md5_=f830f3077568cbdd54a5bd278063cbec
