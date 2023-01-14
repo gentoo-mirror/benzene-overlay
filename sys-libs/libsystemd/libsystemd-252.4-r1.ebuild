@@ -4,6 +4,15 @@
 EAPI=7
 PYTHON_COMPAT=( python3_{8..11} )
 
+if [[ ${PV} != 252.* ]] ; then
+	# The F_S=3 issues should be fixed in 253.
+	# - https://github.com/systemd/systemd/issues/22801
+	# - https://github.com/systemd/systemd/pull/25967
+	# - https://github.com/systemd/systemd/commit/7929e180aa47a2692ad4f053afac2857d7198758
+	# - https://github.com/systemd/systemd/commit/4f79f545b3c46c358666c9f5f2b384fe50aac4b4
+	die "Please remove the FORTIFY_SOURCE hacks in src_configure."
+fi
+
 # Avoid QA warnings
 TMPFILES_OPTIONAL=1
 
@@ -25,7 +34,7 @@ else
 	KEYWORDS="~alpha ~amd64 ~arm ~arm64 ~hppa ~ia64 ~loong ~m68k ~mips ~ppc ~ppc64 ~riscv ~s390 ~sparc ~x86"
 fi
 
-inherit bash-completion-r1 linux-info meson-multilib ninja-utils pam
+inherit bash-completion-r1 flag-o-matic linux-info meson-multilib ninja-utils pam
 
 inherit python-any-r1 toolchain-funcs #systemd udev usr-ldscript
 
@@ -186,6 +195,8 @@ src_unpack() {
 
 src_prepare() {
 	local PATCHES=(
+		"${FILESDIR}/252-tmpfiles-ub.patch"
+		"${FILESDIR}/252-no-stack-protector-bpf.patch"
 	)
 
 	if ! use vanilla; then
@@ -205,6 +216,20 @@ src_prepare() {
 src_configure() {
 	# Prevent conflicts with i686 cross toolchain, bug 559726
 	tc-export AR CC NM OBJCOPY RANLIB
+
+	# Broken with FORTIFY_SOURCE=3: bug #841770.
+	#
+	# Our toolchain sets F_S=2 by default w/ >= -O2, so we need
+	# to unset F_S first, then explicitly set 2, to negate any default
+	# and anything set by the user if they're choosing 3 (or if they've
+	# modified GCC to set 3).
+	#
+	if is-flagq '-O[23]' || is-flagq '-Ofast' ; then
+		# We can't unconditionally do this b/c we fortify needs
+		# some level of optimisation.
+		filter-flags -D_FORTIFY_SOURCE=3
+		append-cppflags -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2
+	fi
 
 	python_setup
 
