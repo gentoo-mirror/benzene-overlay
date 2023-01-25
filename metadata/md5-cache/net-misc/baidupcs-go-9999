@@ -9,5 +9,5 @@ PROPERTIES=live
 RDEPEND=!net-misc/baidupcs-go-bin
 RESTRICT=strip
 SLOT=0
-_eclasses_=edo	c0eb9cbe6b0bd01fcb4918f12598a4d3	go-module-vendor	70aadc7884c59038221171e2b596c767	git-r3	2347f8fe2d392b2a091191f94be37e6f
+_eclasses_=edo	c0eb9cbe6b0bd01fcb4918f12598a4d3	go-module-vendor	ad59e923cbf7c87c4d1db22cbab5f964	git-r3	2347f8fe2d392b2a091191f94be37e6f
 _md5_=a9668ecb90504263ec59548d818c9024
