@@ -12,5 +12,5 @@ RDEPEND=>=sci-libs/cfitsio-3.440:= cxx? ( sci-libs/libsharp:= ) idl? ( dev-lang/
 RESTRICT=!test? ( test )
 SLOT=0/0-3
 SRC_URI=mirror://sourceforge/healpix/Healpix_3.82/Healpix_3.82_2022Jul28.tar.gz
-_eclasses_=gnuconfig	b6b3e92f8b8c996400074b5f61a59256	toolchain-funcs	ec8bbc28394c7305b43ea07164bd8f5f	multilib	5ca4e49abed8e3a2f7b56920eadee157	libtool	241a8f577b9781a42a7421e53448a44e	autotools	6dcd6b6a486e79928e1243ff9ba41fcc	java-utils-2	c79d65661a9f4f72b60376c9e4b3dfa1	java-pkg-opt-2	a71433e535af8faae0c0f6c861a32054	java-ant-2	5cf479aa9e0ac9cc55899f2762c2aaa0
+_eclasses_=gnuconfig	b6b3e92f8b8c996400074b5f61a59256	toolchain-funcs	9a610728b9bcca1919234cceb35a1027	multilib	5ca4e49abed8e3a2f7b56920eadee157	libtool	241a8f577b9781a42a7421e53448a44e	autotools	6dcd6b6a486e79928e1243ff9ba41fcc	java-utils-2	c79d65661a9f4f72b60376c9e4b3dfa1	java-pkg-opt-2	a71433e535af8faae0c0f6c861a32054	java-ant-2	5cf479aa9e0ac9cc55899f2762c2aaa0
 _md5_=20d1c622368a15241006045419378879
