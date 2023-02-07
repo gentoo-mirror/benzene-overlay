@@ -14,7 +14,7 @@ app-text/dehelper:ibus - Enable support for app-i18n/ibus
 app-text/eshelper:ibus - Enable support for app-i18n/ibus
 app-text/eudic:ibus - Enable support for app-i18n/ibus
 app-text/frhelper:ibus - Enable support for app-i18n/ibus
-app-text/ydcv:pkg-info - Add discriptions to PKG-INFO file
+app-text/ydcv:pkg-info - Add descriptions to PKG-INFO file
 dev-python/PyQt5:bluetooth - Build bindings for the QtBluetooth module
 dev-python/PyQt5:dbus - Build bindings for the QtDBus module
 dev-python/PyQt5:declarative - Build bindings for the QtQml and QtQuick modules and enable the qmlscene plugin
