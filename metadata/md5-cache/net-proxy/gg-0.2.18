@@ -9,6 +9,6 @@ LICENSE=AGPL-3
 RDEPEND=!net-proxy/gg-bin
 RESTRICT=strip
 SLOT=0
-SRC_URI=https://github.com/mzz2017/gg/archive/v0.2.17.tar.gz -> gg-0.2.17.tar.gz https://github.com/Universebenzene/ebuild-vendors/archive/refs/tags/gg-0.2.17.tar.gz -> gg-0.2.17-vendor.tar.gz
+SRC_URI=https://github.com/mzz2017/gg/archive/v0.2.18.tar.gz -> gg-0.2.18.tar.gz https://github.com/Universebenzene/ebuild-vendors/archive/refs/tags/gg-0.2.18.tar.gz -> gg-0.2.18-vendor.tar.gz
 _eclasses_=edo	c0eb9cbe6b0bd01fcb4918f12598a4d3	go-module-vendor	ad59e923cbf7c87c4d1db22cbab5f964	toolchain-funcs	9a610728b9bcca1919234cceb35a1027	multilib	5ca4e49abed8e3a2f7b56920eadee157	bash-completion-r1	f5e7a020fd9c741740756aac61bf75ff
 _md5_=0e21afe5aab418d7ed9612b90eb8e28f
