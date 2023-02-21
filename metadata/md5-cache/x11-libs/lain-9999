@@ -6,11 +6,10 @@ EAPI=7
 HOMEPAGE=https://github.com/lcpz/lain
 INHERIT=git-r3 toolchain-funcs
 IUSE=+curl luajit test
-KEYWORDS=~amd64 ~arm ~ppc ~ppc64 ~x86
 LICENSE=GPL-2
 PROPERTIES=live
 RDEPEND=!luajit? ( >=dev-lang/lua-5.1:0= ) luajit? ( dev-lang/luajit:2= ) >=x11-wm/awesome-4.0[luajit=] curl? ( net-misc/curl )
 RESTRICT=!test? ( test )
 SLOT=0
 _eclasses_=git-r3	2347f8fe2d392b2a091191f94be37e6f	toolchain-funcs	6001248ef162a5fa2a21ce132a212f6b	multilib	5ca4e49abed8e3a2f7b56920eadee157
-_md5_=872db4f276beb2fcede9d631ede89d2d
+_md5_=2eec28d9f14ca80fd1c3ccdfc4165662
