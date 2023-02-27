@@ -44,6 +44,7 @@ dev-python/aiobotocore:boto3 - Extra require via dev-python/boto3
 dev-python/aioftp:socks - Client socks proxy via dev-python/siosocks
 dev-python/aplpy:intersphinx - Enable intersphinx while doc building.
 dev-python/arviz:all - further enhanced ArviZ with all of optional dependencies
+dev-python/asdf:all - Including optional support for lz4 compression provided by dev-python/lz4.
 dev-python/asdf:doc - Build extra documentation. Should only be enabled for re-merge instead of new merge.
 dev-python/asdf:intersphinx - Enable intersphinx while doc building.
 dev-python/asdf-astropy:intersphinx - Enable intersphinx while doc building.
@@ -58,6 +59,7 @@ dev-python/astroplan:doc - Add extra documentation (building may not complete as
 dev-python/astroplan:intersphinx - Enable intersphinx and online data while doc building.
 dev-python/astroplan:plotting - Extra plotting support
 dev-python/astropy:doc - Build extra documentation (the network-sandbox FEATURE need to be temporarily disabled)
+dev-python/astropy:intersphinx - Enable intersphinx while doc building.
 dev-python/astropy-healpix:intersphinx - Enable intersphinx while doc building.
 dev-python/astroquery:intersphinx - Enable intersphinx while doc building.
 dev-python/astroscrappy:intersphinx - Enable intersphinx while doc building.
