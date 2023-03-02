@@ -144,6 +144,7 @@ dev-python/sphinx_contributors 0.2.7: Contributors extension for Sphinx
 dev-python/sphinx_design 0.3.0: A sphinx extension for designing beautiful, view size responsive web components
 dev-python/sphinx_mdinclude 0.5.3: Markdown extension for Sphinx
 dev-python/sphinxcontrib-jquery 3.0.0: Extension to include jQuery on newer Sphinx releases
+dev-python/sphinxext-opengraph 0.8.1: Sphinx extension to generate unique OpenGraph metadata
 dev-python/sunpy 4.1.2: Python library for solar physics
 dev-python/sunpy-sphinx-theme 1.2.37: The sphinx theme for the SunPy website and documentation
 dev-python/unyt 2.9.2: Handle, manipulate, and convert data with units in Python
