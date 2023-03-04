@@ -68,7 +68,7 @@ dev-python/glymur 0.12.0 0.12.2: Tools for accessing JPEG2000 files
 dev-python/gwcs 0.17.1 0.18.3: Generalized World Coordinate System
 dev-python/h5netcdf 1.1.0: Pythonic interface to netCDF4 via h5py
 dev-python/h5pyd 0.12.2 0.13.1: h5py distributed - Python client library for HDF Rest API
-dev-python/healpy 1.16.1: Python wrapper for healpix
+dev-python/healpy 1.16.2: Python wrapper for healpix
 dev-python/heapdict 1.0.1: Heap with decrease-key and increase-key operations
 dev-python/hsluv 5.0.3: Python implementation of HSLuv (revision 4)
 dev-python/imexam 0.9.1: Position-velocity diagram extractor
@@ -187,7 +187,7 @@ sci-astronomy/healpix 3.82: Hierarchical Equal Area isoLatitude Pixelization of 
 sci-astronomy/topcat 4.8 4.8.7: Interactive graphical viewer and editor for astronomical tables
 sci-libs/libsharp 1.0.0 1.0.0_p20220728: Library for fast spherical harmonic transforms
 sys-libs/elogind-libsystemd 0: Provide standalone libsystemd.so without systemd by linking libelogind.so
-sys-libs/libsystemd 252.4-r1 252.5 252.6 253-r1 9999: A standalone package to provide libsystemd.so without systemd
+sys-libs/libsystemd 252.4-r1 252.5 252.6 252.7 253-r1 253.1 9999: A standalone package to provide libsystemd.so without systemd
 virtual/libsystemd 0: Virtual for libsystemd.so
 www-plugins/adobe-flash 32.0.0.465: Adobe Flash Player
 x11-libs/lain 9999 9999-r100: Layouts, asynchronous widgets and utilities for Awesome WM
