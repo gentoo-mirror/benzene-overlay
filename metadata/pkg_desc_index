@@ -113,7 +113,7 @@ dev-python/pytest-openfiles 0.5.0: Pytest plugin to check for files left open at
 dev-python/pytest-remotedata 0.4.0: Pytest plugin used for controlling access to data files hosted online
 dev-python/pytest-socket 0.5.0 0.6.0: Pytest Plugin to disable socket calls during tests
 dev-python/python-socketio 5.7.2: Python Socket.IO server and client
-dev-python/python-xz 0.4.0: Pure Python implementation of the XZ file format with random access support
+dev-python/python-xz 0.5.0: Pure Python implementation of the XZ file format with random access support
 dev-python/pyvo 1.2.1 1.4: Astropy affiliated package for accessing Virtual Observatory data and services
 dev-python/radio-beam 0.3.4: Operations for radio astronomy beams with astropy
 dev-python/ratarmount 0.12.0: Random Access Read-Only Tar Mount
