@@ -83,6 +83,7 @@ dev-python/glue-core:recommended - Slightly more function support
 dev-python/glue-vispy-viewers:qt - Extra qt support via dev-python/PyQt5
 dev-python/gwcs:intersphinx - Enable intersphinx while doc building.
 dev-python/imexam:photometry - Enable photometry features of the imexam() analysis via dev-python/photutils
+dev-python/mpl-animators:all - Full function includes WCS support
 dev-python/msrest:async - Extra async support
 dev-python/myst_nb:code_style - Extra code_style support for development
 dev-python/naima:intersphinx - Enable intersphinx while doc building.

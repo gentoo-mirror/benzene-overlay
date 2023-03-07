@@ -83,7 +83,7 @@ dev-python/libconf 2.0.1: Pure-Python libconfig file reader/writer with permissi
 dev-python/miniballcpp 0.2.3: Smallest Enclosing Balls of Points
 dev-python/mistune 0.8.4-r1: The fastest markdown parser in pure Python
 dev-python/montage-wrapper 0.9.9: Python wrapper for the Montage mosaicking toolkit
-dev-python/mpl-animators 1.0.1: An interative animation framework for matplotlib
+dev-python/mpl-animators 1.1.0: An interative animation framework for matplotlib
 dev-python/mpl-scatter-density 0.7: Matplotlib helpers to make density scatter plots
 dev-python/msrest 0.7.1: AutoRest swagger generator Python client runtime
 dev-python/msrestazure 0.6.4: AutoRest swagger generator Python client runtime. Azure-specific module
