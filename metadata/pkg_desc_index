@@ -117,7 +117,7 @@ dev-python/python-socketio 5.7.2: Python Socket.IO server and client
 dev-python/python-xz 0.5.0: Pure Python implementation of the XZ file format with random access support
 dev-python/pyvo 1.2.1 1.4.1: Astropy affiliated package for accessing Virtual Observatory data and services
 dev-python/radio-beam 0.3.4: Operations for radio astronomy beams with astropy
-dev-python/ratarmount 0.12.0: Random Access Read-Only Tar Mount
+dev-python/ratarmount 0.13.0: Random Access Read-Only Tar Mount
 dev-python/ratarmountcore 0.5.0: Random Access Read-Only Tar Mount Library
 dev-python/regions 0.4 0.7: Astropy affiliated package for region handling
 dev-python/reproject 0.5.1 0.9.1: Reproject astronomical images with Python
