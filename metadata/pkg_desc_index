@@ -48,7 +48,7 @@ dev-python/cmdstanpy 1.0.8: Python interface to CmdStan
 dev-python/cmyt 1.1.2: A collection of Matplotlib colormaps from the yt project
 dev-python/corner 2.2.1: Make scatter matrix corner plots
 dev-python/dask-sphinx-theme 3.0.3: Sphinx theme for Dask documentation
-dev-python/distributed 2023.2.1 2023.3.0: Distributed scheduler for Dask
+dev-python/distributed 2023.2.1 2023.3.0 2023.3.1: Distributed scheduler for Dask
 dev-python/drms 0.6.3: Access HMI, AIA and MDI data with Python from the public JSOC DRMS server
 dev-python/echo 0.8.0: Callback Properties in Python
 dev-python/eventlet 0.33.2: Highly concurrent networking library
@@ -102,7 +102,7 @@ dev-python/pydl 0.7.0 1.0.0_rc2: Astropy affiliated package for accessing Virtua
 dev-python/pyerfa 1.7.2 2.0.0.1: Python bindings for ERFA
 dev-python/pykdtree 1.3.6: Fast kd-tree implementation with OpenMP-enabled queries
 dev-python/pymoc 0.5.0: Multi-Order Coverage map module for Python
-dev-python/pyregion 2.0 2.1.1: Python module to parse ds9 region file
+dev-python/pyregion 2.1.1 2.2.0: Python module to parse ds9 region file
 dev-python/pytest-arraydiff 0.3 0.5.0: Pytest plugin to facilitate comparison of arrays
 dev-python/pytest-astropy 0.8.0 0.10.0: Metapackage for all the testing machinery used by the Astropy Project
 dev-python/pytest-astropy-header 0.1.2 0.2.2: Pytest plugin to add diagnostic information to the header of the test output
