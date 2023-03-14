@@ -9,5 +9,5 @@ PROPERTIES=live
 RDEPEND=!net-misc/baidupcs-go-bin
 RESTRICT=strip
 SLOT=0
-_eclasses_=edo	c0eb9cbe6b0bd01fcb4918f12598a4d3	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	go-module-vendor	d980aec6914aaa533901855ad820ff0c	git-r3	2347f8fe2d392b2a091191f94be37e6f
+_eclasses_=edo	c0eb9cbe6b0bd01fcb4918f12598a4d3	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	6001248ef162a5fa2a21ce132a212f6b	multilib	5ca4e49abed8e3a2f7b56920eadee157	go-module-vendor	f8e752823402068ceffdc5407ddc495a	git-r3	2347f8fe2d392b2a091191f94be37e6f
 _md5_=a9668ecb90504263ec59548d818c9024
