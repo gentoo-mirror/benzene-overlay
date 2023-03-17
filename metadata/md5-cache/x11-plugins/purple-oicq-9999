@@ -10,5 +10,5 @@ LICENSE=Unlicense
 PROPERTIES=live
 RDEPEND=dev-libs/json-glib net-im/pidgin libaxon? ( net-libs/libaxon-bin[purple] )
 SLOT=0
-_eclasses_=git-r3	2347f8fe2d392b2a091191f94be37e6f
+_eclasses_=git-r3	c57c50c922e121043788de0b40ada60a
 _md5_=f8e7342a28ea7b23e02a149b7ff29a3c
