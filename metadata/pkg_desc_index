@@ -58,7 +58,7 @@ dev-python/f90nml 1.4.3: Fortran 90 namelist parser
 dev-python/fast-histogram 0.11: Fast 1D and 2D histogram functions in Python
 dev-python/fastcache 1.1.0: C implementation of Python 3 functools.lru_cache
 dev-python/firefly-vis 2.0.4: A browser-based particle visualization platform
-dev-python/flask-socketio 5.3.2: Socket.IO integration for Flask applications
+dev-python/flask-socketio 5.3.3: Socket.IO integration for Flask applications
 dev-python/freetype-py 2.3.0: Python binding for the freetype library
 dev-python/fusepy 3.0.1: Simple ctypes bindings for FUSE
 dev-python/ginga 3.4.1: A scientific image viewer and toolkit
@@ -113,7 +113,7 @@ dev-python/pytest-mpl 0.13 0.16.1: Pytest plugin to faciliate image comparison f
 dev-python/pytest-openfiles 0.5.0: Pytest plugin to check for files left open at the end of a test run
 dev-python/pytest-remotedata 0.4.0: Pytest plugin used for controlling access to data files hosted online
 dev-python/pytest-socket 0.5.0 0.6.0: Pytest Plugin to disable socket calls during tests
-dev-python/python-socketio 5.7.2: Python Socket.IO server and client
+dev-python/python-socketio 5.8.0: Python Socket.IO server and client
 dev-python/python-xz 0.5.0: Pure Python implementation of the XZ file format with random access support
 dev-python/pyvo 1.2.1 1.4.1: Astropy affiliated package for accessing Virtual Observatory data and services
 dev-python/radio-beam 0.3.4: Operations for radio astronomy beams with astropy
