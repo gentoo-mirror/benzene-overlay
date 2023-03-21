@@ -97,6 +97,7 @@ dev-python/photutils:local-datasets - Add local data for photutils.datasets
 dev-python/pvextractor:intersphinx - Enable intersphinx while doc building.
 dev-python/pydl:all - More function support
 dev-python/pydl:intersphinx - Enable intersphinx while doc building.
+dev-python/pyerfa:intersphinx - Enable intersphinx while doc building.
 dev-python/pyregion:intersphinx - Enable intersphinx while doc building.
 dev-python/python-socketio:asyncio-client - Use asyncio client
 dev-python/python-socketio:client - Use standard Python client
