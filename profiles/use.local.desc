@@ -48,6 +48,7 @@ dev-python/asdf:all - Including optional support for lz4 compression provided by
 dev-python/asdf:doc - Build extra documentation. Should only be enabled for re-merge instead of new merge.
 dev-python/asdf:intersphinx - Enable intersphinx while doc building.
 dev-python/asdf-astropy:intersphinx - Enable intersphinx while doc building.
+dev-python/asdf-coordinates-schemas:intersphinx - Enable intersphinx while doc building.
 dev-python/asdf-standard:doc - Build extra documentation. Should only be enabled for re-merge instead of new merge.
 dev-python/asdf-standard:intersphinx - Enable intersphinx while doc building.
 dev-python/asdf_transform_schemas:doc - Build extra documentation. Should only be enabled for re-merge instead of new merge.
