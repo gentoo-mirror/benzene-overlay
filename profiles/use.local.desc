@@ -128,6 +128,7 @@ dev-python/sphinx-book-theme:code_style - Extra code_style support for developme
 dev-python/sphinx-copybutton:code_style - Extra code_style support for development
 dev-python/sphinx-copybutton:rtd - Extra rtd support
 dev-python/sphinx-togglebutton:sphinx - Extra sphinx support
+dev-python/sphinxcontrib-youtube:doc-demo - Include online demo video in documentation
 dev-python/sunpy:asdf - Extra asdf support via dev-python/asdf-astropy
 dev-python/sunpy:dask - Extra dask support via dev-python/dask
 dev-python/sunpy:database - Extra database support via dev-python/sqlalchemy
@@ -146,7 +147,7 @@ dev-python/vispy:pyside2 - Enable support for pyside2 backend via dev-python/pys
 dev-python/vispy:pyside6 - Enable support for pyside6 backend via dev-python/pyside6
 dev-python/vispy:sdl2 - Enable support for sdl backend via dev-python/PySDL2
 dev-python/vispy:wx - Enable support for wx backend via dev-python/wxpython
-dev-python/yt:doc - Add extra documentation (full doc building needs huge amount of data. Can complete locally).
+dev-python/yt:doc - Add extra documentation (full doc building needs huge amount of data. Can't really complete locally).
 dev-python/yt:full - Include all dependencies for full function
 dev-python/zarr:jupyter - Extra jupyter support
 dev-qt/qtwebkit:geolocation - Enable physical position determination via dev-qt/qtpositioning
