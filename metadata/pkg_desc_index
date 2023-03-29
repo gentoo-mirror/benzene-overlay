@@ -45,7 +45,7 @@ dev-python/casa-formats-io 0.2.1: Code to handle I/O from/to data in CASA format
 dev-python/ccdproc 1.3.0_p1 2.1.0 2.4.0: Astropy affiliated package for reducing optical/IR CCD data
 dev-python/cdflib 0.4.9: A python module for reading NASA's Common Data Format (cdf) files Resources
 dev-python/cmdstanpy 1.0.8: Python interface to CmdStan
-dev-python/cmyt 1.1.2: A collection of Matplotlib colormaps from the yt project
+dev-python/cmyt 1.1.3: A collection of Matplotlib colormaps from the yt project
 dev-python/colorspacious 1.1.2: Powerful, accurate, and easy-to-use Python library for colorspace conversions
 dev-python/corner 2.2.1: Make scatter matrix corner plots
 dev-python/dask-sphinx-theme 3.0.3: Sphinx theme for Dask documentation
@@ -126,6 +126,7 @@ dev-python/s3fs 2023.3.0: Convenient Filesystem interface over S3
 dev-python/sep 1.2.1: Python and C library for source extraction and photometry
 dev-python/sgp4 2.21: Python version of the SGP4 satellite position library
 dev-python/sherpa 4.15.0: Modeling and fitting package for scientific data analysis
+dev-python/should-dsl 2.1.2: Should assertions in Python as clear and readable as possible
 dev-python/siosocks 0.3.0: Sans-io socks proxy client/server with couple io backends
 dev-python/skyfield 1.45: Elegant astronomy for Python
 dev-python/spectral-cube 0.6.0: Library for reading and analyzing astrophysical spectral data cubes
