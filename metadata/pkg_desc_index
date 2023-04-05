@@ -19,7 +19,7 @@ dev-python/aioitertools 0.11.0: Itertools and builtins for AsyncIO and mixed ite
 dev-python/aplpy 1.1.1 2.0.3 2.1.0: Astronomical Plotting Library in Python
 dev-python/arviz 0.12.0: Exploratory analysis of Bayesian models with Python
 dev-python/asciitree 0.3.3: Draws ASCII trees in Python
-dev-python/asdf 2.7.2 2.9.2 2.10.1 2.13.0 2.14.4: Python library for the Advanced Scientific Data Format
+dev-python/asdf 2.7.2 2.9.2 2.10.1 2.13.0 2.15.0: Python library for the Advanced Scientific Data Format
 dev-python/asdf-astropy 0.2.1 0.4.0: ASDF serialization support for astropy
 dev-python/asdf-coordinates-schemas 0.2.0: ASDF schemas for coordinates
 dev-python/asdf-standard 1.0.1 1.0.2 1.0.3: Standards document describing ASDF, Advanced Scientific Data Format
@@ -82,6 +82,7 @@ dev-python/jplephem 2.18: Python version of NASA DE4xx ephemerides
 dev-python/jsonschema 3.2.0-r1 4.9.1: An implementation of JSON-Schema validation for Python
 dev-python/jupyter-cache 0.5.0: A defined interface for working with a cache of jupyter notebooks
 dev-python/jupyter_sphinx 0.4.0: Sphinx extension for rendering of Jupyter interactive widgets
+dev-python/lexicon 2.0.1: Powerful dict subclass(es) with aliasing & attribute access
 dev-python/libconf 2.0.1: Pure-Python libconfig file reader/writer with permissive licensing
 dev-python/miniballcpp 0.2.3: Smallest Enclosing Balls of Points
 dev-python/mistune 0.8.4-r1: The fastest markdown parser in pure Python
