@@ -39,6 +39,8 @@ dev-python/PyQt5:websockets - Build bindings for the QtWebSockets module
 dev-python/PyQt5:widgets - Build bindings for the QtWidgets module
 dev-python/PyQt5:x11extras - Build bindings for the QtX11Extras module
 dev-python/PyQt5:xmlpatterns - Build bindings for the QtXmlPatterns module
+dev-python/ablog:markdown - Extra markdown support via dev-python/myst-parser
+dev-python/ablog:notebook - Extra notebook support
 dev-python/aiobotocore:awscli - Extra require via app-admin/awscli
 dev-python/aiobotocore:boto3 - Extra require via dev-python/boto3
 dev-python/aioftp:socks - Client socks proxy via dev-python/siosocks

@@ -11,6 +11,7 @@ app-text/ydcv 0.7 9999: YouDao Console Version - Simple wrapper for Youdao onlin
 app-text/youdao-dict 6.0.0-r1: YouDao Dictionary
 dev-python/PyQt5 5.15.7 5.15.9: Python bindings for the Qt framework
 dev-python/abg_python 1.1.3: Shared python utilities for https://github.com/agurvich 's packages
+dev-python/ablog 0.11.2: ABlog for blogging with Sphinx
 dev-python/adal 1.2.7: ADAL for Python
 dev-python/affine 2.4.0: Matrices describing affine transformation of the plane
 dev-python/aggdraw 1.3.16: High quality drawing interface for PIL
@@ -102,7 +103,7 @@ dev-python/ndcube 2.1.1: For multi-dimensional contiguious and non-contiguious c
 dev-python/numcodecs 0.11.0: Data storage buffer compression and transformation codecs
 dev-python/oldest-supported-numpy 2022.11.19: Meta-package providing oldest supported Numpy for given Python version
 dev-python/parfive 1.5.1 2.0.2: A HTTP and FTP parallel file downloader
-dev-python/photutils 1.6.0: Affiliated package for image photometry utilities
+dev-python/photutils 1.7.0: Affiliated package for image photometry utilities
 dev-python/pvextractor 0.3: Position-velocity diagram extractor
 dev-python/pyaml 21.10.1: PyYAML-based module to produce pretty and readable YAML-serialized data
 dev-python/pyavm 0.9.5: Simple pure-python AVM meta-data handling
