@@ -61,7 +61,6 @@ dev-python/asdf_wcs_schemas:intersphinx - Enable intersphinx while doc building.
 dev-python/astroplan:doc - Add extra documentation (building may not complete as it needs lots of online data).
 dev-python/astroplan:intersphinx - Enable intersphinx and online data while doc building.
 dev-python/astroplan:plotting - Extra plotting support
-dev-python/astropy:doc - Build extra documentation (the network-sandbox FEATURE need to be temporarily disabled)
 dev-python/astropy:intersphinx - Enable intersphinx while doc building.
 dev-python/astropy-healpix:intersphinx - Enable intersphinx while doc building.
 dev-python/astroquery:intersphinx - Enable intersphinx while doc building.
