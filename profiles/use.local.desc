@@ -130,8 +130,10 @@ dev-python/spectral-cube:intersphinx - Enable intersphinx while doc building.
 dev-python/spectral-cube:novis - Extra novis support
 dev-python/specutils:intersphinx - Enable intersphinx while doc building.
 dev-python/sphinx-book-theme:code_style - Extra code_style support for development
+dev-python/sphinx-book-theme:doc - Build extra documentation. network-sandbox will be disabled as doc building needs online data.
 dev-python/sphinx-copybutton:code_style - Extra code_style support for development
 dev-python/sphinx-copybutton:rtd - Extra rtd support
+dev-python/sphinx-thebe:sphinx - Extra sphinx support
 dev-python/sphinx-togglebutton:sphinx - Extra sphinx support
 dev-python/sphinxcontrib-youtube:doc-demo - Include online demo video in documentation
 dev-python/sunpy:asdf - Extra asdf support via dev-python/asdf-astropy
