@@ -11,7 +11,7 @@ app-text/ydcv 0.7 9999: YouDao Console Version - Simple wrapper for Youdao onlin
 app-text/youdao-dict 6.0.0-r1: YouDao Dictionary
 dev-python/PyQt5 5.15.7 5.15.9: Python bindings for the Qt framework
 dev-python/abg_python 1.1.3: Shared python utilities for https://github.com/agurvich 's packages
-dev-python/ablog 0.11.2: ABlog for blogging with Sphinx
+dev-python/ablog 0.11.3: ABlog for blogging with Sphinx
 dev-python/adal 1.2.7: ADAL for Python
 dev-python/affine 2.4.0: Matrices describing affine transformation of the plane
 dev-python/aggdraw 1.3.16: High quality drawing interface for PIL
@@ -50,7 +50,7 @@ dev-python/cligj 0.7.2: Click params for commmand line interfaces to GeoJSON
 dev-python/cmdstanpy 1.0.8 1.1.0: Python interface to CmdStan
 dev-python/cmyt 1.1.3: A collection of Matplotlib colormaps from the yt project
 dev-python/colorspacious 1.1.2: Powerful, accurate, and easy-to-use Python library for colorspace conversions
-dev-python/corner 2.2.1: Make scatter matrix corner plots
+dev-python/corner 2.2.2: Make scatter matrix corner plots
 dev-python/dask-sphinx-theme 3.0.3: Sphinx theme for Dask documentation
 dev-python/distributed 2023.3.2: Distributed scheduler for Dask
 dev-python/drms 0.6.3: Access HMI, AIA and MDI data with Python from the public JSOC DRMS server
