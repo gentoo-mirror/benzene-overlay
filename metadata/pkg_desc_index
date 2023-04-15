@@ -151,7 +151,7 @@ dev-python/sphinx-automodapi 0.12 0.15.0: Sphinx extension for generating API do
 dev-python/sphinx-book-theme 0.2.0 1.0.1: A clean book theme for scientific explanations and documentation with Sphinx
 dev-python/sphinx-changelog 1.3.0: A changelog renderer for sphinx
 dev-python/sphinx-click 4.4.0: Sphinx plugin to automatically document click-based applications
-dev-python/sphinx-copybutton 0.5.1: Add a copy button to code blocks in Sphinx
+dev-python/sphinx-copybutton 0.5.2: Add a copy button to code blocks in Sphinx
 dev-python/sphinx-design 0.3.0: A sphinx extension for designing beautiful, view size responsive web components
 dev-python/sphinx-examples 0.0.5: A lightweight example directive to make it easy to demonstrate code / results
 dev-python/sphinx-inline-tabs 2022.1.2_beta11: Add inline tabbed content to your Sphinx documentation
