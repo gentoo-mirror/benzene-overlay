@@ -132,6 +132,12 @@ dev-python/sphinx-book-theme:code_style - Extra code_style support for developme
 dev-python/sphinx-book-theme:doc - Build extra documentation. network-sandbox will be disabled as doc building needs online data.
 dev-python/sphinx-copybutton:code_style - Extra code_style support for development
 dev-python/sphinx-copybutton:rtd - Extra rtd support
+dev-python/sphinx-design:code_style - Extra code_style support for development via dev-vcs/pre-commit
+dev-python/sphinx-design:rtd - Extra rtd support via dev-python/myst-parser
+dev-python/sphinx-design:theme_furo - Furo theme support via dev-python/furo
+dev-python/sphinx-design:theme_pydata - PyData theme support via dev-python/pydata-sphinx-theme
+dev-python/sphinx-design:theme_rtd - RTD theme support via dev-python/sphinx-rtd-theme
+dev-python/sphinx-design:theme_sbt - Book theme support via dev-python/sphinx-book-theme
 dev-python/sphinx-thebe:sphinx - Extra sphinx support
 dev-python/sphinx-togglebutton:sphinx - Extra sphinx support
 dev-python/sphinxcontrib-youtube:doc-demo - Include online demo video in documentation
