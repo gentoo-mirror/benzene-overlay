@@ -160,7 +160,7 @@ dev-python/sphinx-togglebutton 0.3.1: Toggle page content and collapse admonitio
 dev-python/sphinx_contributors 0.2.7: Contributors extension for Sphinx
 dev-python/sphinx_mdinclude 0.5.3: Markdown extension for Sphinx
 dev-python/sphinxcontrib-youtube 1.2.0: A Sphinx extension to embed videos from YouTube
-dev-python/sphinxext-opengraph 0.8.1: Sphinx extension to generate unique OpenGraph metadata
+dev-python/sphinxext-opengraph 0.8.2: Sphinx extension to generate unique OpenGraph metadata
 dev-python/starlink-pyast 3.15.4: Python interface to the Starlink AST library
 dev-python/sunpy 4.1.4: Python library for solar physics
 dev-python/sunpy-sphinx-theme 1.2.40: The sphinx theme for the SunPy website and documentation
