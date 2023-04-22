@@ -205,7 +205,7 @@ sci-astronomy/healpix 3.82: Hierarchical Equal Area isoLatitude Pixelization of 
 sci-astronomy/topcat 4.8 4.8.7: Interactive graphical viewer and editor for astronomical tables
 sci-libs/libsharp 1.0.0 1.0.0_p20220728: Library for fast spherical harmonic transforms
 sys-libs/elogind-libsystemd 0: Provide standalone libsystemd.so without systemd by linking libelogind.so
-sys-libs/libsystemd 252.4-r1 252.5 252.6 252.7 252.8 252.9 253-r1 253.1 253.2 253.3 9999: A standalone package to provide libsystemd.so without systemd
+sys-libs/libsystemd 252.7 253.3 9999: A standalone package to provide libsystemd.so without systemd
 virtual/libsystemd 0: Virtual for libsystemd.so
 www-plugins/adobe-flash 32.0.0.465: Adobe Flash Player
 x11-libs/lain 9999 9999-r100: Layouts, asynchronous widgets and utilities for Awesome WM
