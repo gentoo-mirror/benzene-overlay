@@ -202,7 +202,7 @@ sci-astronomy/aladin-bin 12.001: Interactive software sky atlas
 sci-astronomy/astrometry 0.80 0.85 0.93: Automated astrometric calibration programs and service
 sci-astronomy/erfa 1.7.2 2.0.0: Essential Routines for Fundamental Astronomy
 sci-astronomy/healpix 3.82: Hierarchical Equal Area isoLatitude Pixelization of a sphere
-sci-astronomy/topcat 4.8 4.8.7: Interactive graphical viewer and editor for astronomical tables
+sci-astronomy/topcat 4.8 4.8.8: Interactive graphical viewer and editor for astronomical tables
 sci-libs/libsharp 1.0.0 1.0.0_p20220728: Library for fast spherical harmonic transforms
 sys-libs/elogind-libsystemd 0: Provide standalone libsystemd.so without systemd by linking libelogind.so
 sys-libs/libsystemd 252.7 253.3 9999: A standalone package to provide libsystemd.so without systemd
