@@ -10,7 +10,7 @@ app-text/powerword 1.2: A Chinese-English dictionary tool by Kingsoft
 app-text/ydcv 0.7 9999: YouDao Console Version - Simple wrapper for Youdao online translate service API
 app-text/youdao-dict 6.0.0-r1: YouDao Dictionary
 dev-python/PyQt5 5.15.7 5.15.9: Python bindings for the Qt framework
-dev-python/abg_python 1.1.3: Shared python utilities for https://github.com/agurvich 's packages
+dev-python/abg-python 1.1.3: Shared python utilities for https://github.com/agurvich 's packages
 dev-python/ablog 0.11.3: ABlog for blogging with Sphinx
 dev-python/adal 1.2.7: ADAL for Python
 dev-python/affine 2.4.0: Matrices describing affine transformation of the plane
@@ -63,6 +63,7 @@ dev-python/f90nml 1.4.3: Fortran 90 namelist parser
 dev-python/fast-histogram 0.11: Fast 1D and 2D histogram functions in Python
 dev-python/fastcache 1.1.0: C implementation of Python 3 functools.lru_cache
 dev-python/feedgen 0.9.0: Python module to generate ATOM feeds, RSS feeds and Podcasts
+dev-python/firefly 3.2.1: A browser-based particle visualization platform
 dev-python/firefly-vis 2.0.4: A browser-based particle visualization platform
 dev-python/flask-socketio 5.3.3: Socket.IO integration for Flask applications
 dev-python/fluidity 0.2.1: State machine implementation for Python objects
@@ -162,7 +163,7 @@ dev-python/sphinx_mdinclude 0.5.3: Markdown extension for Sphinx
 dev-python/sphinxcontrib-youtube 1.2.0: A Sphinx extension to embed videos from YouTube
 dev-python/sphinxext-opengraph 0.8.2: Sphinx extension to generate unique OpenGraph metadata
 dev-python/starlink-pyast 3.15.4: Python interface to the Starlink AST library
-dev-python/sunpy 4.1.4: Python library for solar physics
+dev-python/sunpy 4.1.5: Python library for solar physics
 dev-python/sunpy-sphinx-theme 1.2.40: The sphinx theme for the SunPy website and documentation
 dev-python/unyt 2.9.5: Handle, manipulate, and convert data with units in Python
 dev-python/vispy 0.12.2: Interactive visualization in Python
