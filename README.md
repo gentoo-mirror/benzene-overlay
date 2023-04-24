@@ -90,7 +90,7 @@ Packages in this table might just be pulled in as dependencies by some sicense r
 Package name | Available version | Additional information
 ------------ | :---------------: | ----------------------
 dev-python/adal                  | 1.2.7                                             | SunPy, h5pyd related
-dev-python/abg\_python           | 1.1.3                                             | Optional for yt
+dev-python/abg-python            | 1.1.3                                             | Optional for yt
 dev-python/aggdraw               | 1.3.16                                            | Optional for ginga
 dev-python/aiobotocore           | 2.5.0                                             | Pulled in by zarr
 dev-python/aioitertools          | 0.11.0                                            | Pulled in by zarr
@@ -100,10 +100,11 @@ dev-python/azure-core            | 1.26.3                                       
 dev-python/bidict                | 0.22.0; 0.22.1                                    | Optional for yt
 dev-python/cmdstanpy             | 1.0.8; 1.1.0                                      | Test dependency for arviz
 dev-python/distributed           | 2023.3.2; 2023.4.0                                | Optional for arviz and spectral-cube
-dev-python/eventlet              | 0.33.2                                            | Dropped by official portage. Required by firefly-viz
+dev-python/eventlet              | 0.33.2                                            | Dropped by official portage. Required by firefly{,-viz}
 dev-python/f90nml                | 1.4.3                                             | Optional for yt
 dev-python/fastcache             | 1.1.0                                             | Optional for yt
 dev-python/firefly-viz           | 2.0.4                                             | Optional for yt
+dev-python/firefly               | 3.2.1                                             | Optional for new yt
 dev-python/flask-socketio        | 5.3.3                                             | Optional for yt
 dev-python/freetype-py           | 2.3.0                                             | Pulled in py vispy
 dev-python/fusepy                | 3.0.1                                             | Optional for yt

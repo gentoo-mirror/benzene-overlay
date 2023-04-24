@@ -6,18 +6,15 @@ EAPI=8
 DISTUTILS_USE_PEP517=setuptools
 PYTHON_COMPAT=( python3_{10..11} )
 
-MY_PN=${PN^}
-MY_P=${MY_PN}-${PV}
-
-inherit distutils-r1
+inherit distutils-r1 pypi
 
 DESCRIPTION="A browser-based particle visualization platform"
 HOMEPAGE="https://github.com/ageller/Firefly"
-SRC_URI="mirror://pypi/${MY_PN:0:1}/${MY_PN}/${MY_P}.tar.gz"
 
-LICENSE="MIT"
+LICENSE="AGPL-3"
 SLOT="0"
-KEYWORDS="~amd64"	# socketio bidict copybutton myst-nb no x86
+KEYWORDS="~amd64"	# flask bidict copybutton myst-nb no x86
+RESTRICT="test"	# TypeError: value type <class 'bool'> does not match default value type <class 'dict'>
 
 RDEPEND="dev-python/numpy[${PYTHON_USEDEP}]
 	dev-python/h5py[${PYTHON_USEDEP}]
@@ -26,9 +23,14 @@ RDEPEND="dev-python/numpy[${PYTHON_USEDEP}]
 	dev-python/flask-socketio[${PYTHON_USEDEP}]
 	dev-python/flask[${PYTHON_USEDEP}]
 	dev-python/requests[${PYTHON_USEDEP}]
-	>=dev-python/abg-python-1.0.5[${PYTHON_USEDEP}]
+	>=dev-python/abg-python-1.1.1[${PYTHON_USEDEP}]
 "
+BDEPEND="test? ( dev-python/matplotlib[${PYTHON_USEDEP}] )"
 
-S="${WORKDIR}/${MY_P}"
+distutils_enable_tests pytest
 
-distutils_enable_tests nose
+python_prepare_all() {
+	use test && { sed -i 's/Default/default/g' src/firefly/tests/test_settings.py || die ; }
+
+	distutils-r1_python_prepare_all
+}
