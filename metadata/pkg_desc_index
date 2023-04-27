@@ -124,6 +124,7 @@ dev-python/pytest-filter-subpackage 0.1.2: Pytest plugin for filtering based on 
 dev-python/pytest-openfiles 0.5.0: Pytest plugin to check for files left open at the end of a test run
 dev-python/pytest-relaxed 2.0.0: Relaxed test discovery/organization for pytest
 dev-python/pytest-remotedata 0.4.0: Pytest plugin used for controlling access to data files hosted online
+dev-python/pytest-repeat 0.9.1: Pytest plugin for repeating test execution
 dev-python/pytest-socket 0.5.0 0.6.0: Pytest Plugin to disable socket calls during tests
 dev-python/python-socketio 5.8.0: Python Socket.IO server and client
 dev-python/python-xz 0.5.0: Pure Python implementation of the XZ file format with random access support
@@ -170,7 +171,7 @@ dev-python/vispy 0.12.2: Interactive visualization in Python
 dev-python/xarray-einstats 0.5.1: Stats, linear algebra and einops for xarray
 dev-python/yt 4.0.5: An analysis and visualization toolkit for volumetric data
 dev-python/zarr 2.14.2: An implementation of chunked, compressed, N-dimensional arrays for Python
-dev-python/zict 2.2.0: Mutable mapping tools
+dev-python/zict 2.2.0 3.0.0: Mutable mapping tools
 dev-qt/qtwebkit 5.212.0_pre20200309-r1 5.212.0_pre20200309-r2: WebKit rendering library for the Qt5 framework (deprecated)
 media-fonts/wps-office-fonts 1.0: The wps-office-fonts package contains Founder Chinese fonts
 media-gfx/fontweak 1.3.1: A GUI front-end of fontconfig
