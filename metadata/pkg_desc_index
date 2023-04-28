@@ -157,6 +157,7 @@ dev-python/sphinx-copybutton 0.5.2: Add a copy button to code blocks in Sphinx
 dev-python/sphinx-design 0.4.1: A sphinx extension for designing beautiful, view size responsive web components
 dev-python/sphinx-examples 0.0.5: A lightweight example directive to make it easy to demonstrate code / results
 dev-python/sphinx-inline-tabs 2022.1.2_beta11: Add inline tabbed content to your Sphinx documentation
+dev-python/sphinx-readable-theme 1.3.0: A clean and readable Sphinx theme with focus on autodoc
 dev-python/sphinx-thebe 0.2.1: Integrate interactive code blocks into your documentation with Thebe and Binder
 dev-python/sphinx-togglebutton 0.3.1: Toggle page content and collapse admonitions in Sphinx
 dev-python/sphinx_contributors 0.2.7: Contributors extension for Sphinx
