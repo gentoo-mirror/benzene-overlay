@@ -32,7 +32,7 @@ dev-python/aioftp                                                               
 dev-python/astlib                                                                    | 0.11.3; 0.11.8                                                                   |
 dev-python/corner                                                                    | 2.2.2                                                                            |
 dev-python/exifread                                                                  | 3.0.0                                                                            |
-dev-python/glymur                                                                    | 0.12.0; 0.12.3                                                                   |
+dev-python/glymur                                                                    | 0.12.0; 0.12.4                                                                   |
 dev-python/hsluv                                                                     | 5.0.3                                                                            |
 dev-python/oldest-supported-numpy                                                    | 2022.11.19                                                                       | The numpy version limitations are changed from `==` into `>=`. If you have better solution, just bring issues or pull requests.
 dev-python/parfive                                                                   | 1.5.1; 2.0.2                                                                     |
@@ -99,7 +99,7 @@ dev-python/asciitree             | 0.3.3                                        
 dev-python/azure-core            | 1.26.3                                            | Required by new msrest
 dev-python/bidict                | 0.22.0; 0.22.1                                    | Optional for yt
 dev-python/cmdstanpy             | 1.0.8; 1.1.0                                      | Test dependency for arviz
-dev-python/distributed           | 2023.3.2; 2023.4.0                                | Optional for arviz and spectral-cube
+dev-python/distributed           | 2023.3.2; 2023.4.0; 2023.4.1                      | Optional for arviz and spectral-cube
 dev-python/eventlet              | 0.33.2                                            | Dropped by official portage. Required by firefly{,-viz}
 dev-python/f90nml                | 1.4.3                                             | Optional for yt
 dev-python/fastcache             | 1.1.0                                             | Optional for yt
@@ -153,7 +153,7 @@ dev-python/sphinx-click          | 4.4.0            |
 dev-python/sphinx-copybutton     | 0.5.2            |
 dev-python/sphinx-design         | 0.4.1            |
 dev-python/sphinx-examples       | 0.0.5            |
-dev-python/sphinx-inline-tabs    | 2022.1.2\_beta11 |
+dev-python/sphinx-inline-tabs    | 2023.4.21        |
 dev-python/sphinx-readable-theme | 1.3.0            |
 dev-python/sphinx-thebe          | 0.2.1            |
 dev-python/sphinx-togglebutton   | 0.3.1            |
