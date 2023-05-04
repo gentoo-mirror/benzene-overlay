@@ -51,7 +51,7 @@ dev-python/cmdstanpy 1.0.8 1.1.0: Python interface to CmdStan
 dev-python/cmyt 1.2.0: A collection of Matplotlib colormaps from the yt project
 dev-python/colorspacious 1.1.2: Powerful, accurate, and easy-to-use Python library for colorspace conversions
 dev-python/corner 2.2.2: Make scatter matrix corner plots
-dev-python/dask-sphinx-theme 3.0.3: Sphinx theme for Dask documentation
+dev-python/dask-sphinx-theme 3.0.4: Sphinx theme for Dask documentation
 dev-python/distributed 2023.3.2 2023.4.0 2023.4.1: Distributed scheduler for Dask
 dev-python/drms 0.6.3: Access HMI, AIA and MDI data with Python from the public JSOC DRMS server
 dev-python/echo 0.8.0: Callback Properties in Python
@@ -63,9 +63,9 @@ dev-python/f90nml 1.4.3: Fortran 90 namelist parser
 dev-python/fast-histogram 0.11: Fast 1D and 2D histogram functions in Python
 dev-python/fastcache 1.1.0: C implementation of Python 3 functools.lru_cache
 dev-python/feedgen 0.9.0: Python module to generate ATOM feeds, RSS feeds and Podcasts
-dev-python/firefly 3.2.1: A browser-based particle visualization platform
+dev-python/firefly 3.2.3: A browser-based particle visualization platform
 dev-python/firefly-vis 2.0.4: A browser-based particle visualization platform
-dev-python/flask-socketio 5.3.3: Socket.IO integration for Flask applications
+dev-python/flask-socketio 5.3.4: Socket.IO integration for Flask applications
 dev-python/fluidity 0.2.1: State machine implementation for Python objects
 dev-python/freetype-py 2.3.0: Python binding for the freetype library
 dev-python/fusepy 3.0.1: Simple ctypes bindings for FUSE
