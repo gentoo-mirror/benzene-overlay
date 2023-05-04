@@ -104,8 +104,8 @@ dev-python/eventlet              | 0.33.2                                       
 dev-python/f90nml                | 1.4.3                                             | Optional for yt
 dev-python/fastcache             | 1.1.0                                             | Optional for yt
 dev-python/firefly-viz           | 2.0.4                                             | Optional for yt
-dev-python/firefly               | 3.2.1                                             | Optional for new yt
-dev-python/flask-socketio        | 5.3.3                                             | Optional for yt
+dev-python/firefly               | 3.2.3                                             | Optional for new yt
+dev-python/flask-socketio        | 5.3.4                                             | Optional for yt
 dev-python/freetype-py           | 2.3.0                                             | Pulled in py vispy
 dev-python/fusepy                | 3.0.1                                             | Optional for yt
 dev-python/heapdict              | 1.0.1                                             | Pulled in by zict and distributed
@@ -162,7 +162,7 @@ dev-python/sphinx\_contributors  | 0.2.7            |
 dev-python/sphinx\_mdinclude     | 0.5.3            |
 dev-python/sphinxcontrib-youtube | 1.2.0            | `network-sandbox` FEATURE will be disabled if you enable demo videos for doc building.
 dev-python/sphinxext-opengraph   | 0.8.2            |
-dev-python/dask-sphinx-theme     | 3.0.3            |
+dev-python/dask-sphinx-theme     | 3.0.4            |
 dev-python/sunpy-sphinx-theme    | 1.2.40           |
 dev-python/mistune               | 0.8.4-r1         | Only for sphinx-asdf that depends on old version
 dev-python/nbconvert             | 6.4.5            | Depends on old mistune
