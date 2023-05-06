@@ -73,7 +73,7 @@ dev-python/ginga 4.0.1: A scientific image viewer and toolkit
 dev-python/glue-core 1.9.1: Linked Data Visualizations Across Multiple Files
 dev-python/glue-vispy-viewers 1.0.7: 3-d data viewers for glue based on VisPy
 dev-python/glueviz 1.2.0: Meta-package for glue and plugin packages
-dev-python/glymur 0.12.0 0.12.4: Tools for accessing JPEG2000 files
+dev-python/glymur 0.12.0 0.12.5: Tools for accessing JPEG2000 files
 dev-python/gwcs 0.17.1 0.18.3: Generalized World Coordinate System
 dev-python/h5netcdf 1.1.0: Pythonic interface to netCDF4 via h5py
 dev-python/h5pyd 0.12.2 0.13.1 0.14.0: h5py distributed - Python client library for HDF Rest API
@@ -139,11 +139,11 @@ dev-python/reproject 0.5.1 0.10.0: Reproject astronomical images with Python
 dev-python/runnotebook 0.3.1 9999: IPython notebook sphinx extensions
 dev-python/s3fs 2023.4.0: Convenient Filesystem interface over S3
 dev-python/sep 1.2.1: Python and C library for source extraction and photometry
-dev-python/sgp4 2.21: Python version of the SGP4 satellite position library
+dev-python/sgp4 2.22: Python version of the SGP4 satellite position library
 dev-python/sherpa 4.15.0: Modeling and fitting package for scientific data analysis
 dev-python/should-dsl 2.1.2: Should assertions in Python as clear and readable as possible
 dev-python/siosocks 0.3.0: Sans-io socks proxy client/server with couple io backends
-dev-python/skyfield 1.45: Elegant astronomy for Python
+dev-python/skyfield 1.45 1.46: Elegant astronomy for Python
 dev-python/snuggs 1.4.7: S-expressions for Numpy
 dev-python/spectral-cube 0.6.0: Library for reading and analyzing astrophysical spectral data cubes
 dev-python/specutils 1.1.1 1.10.0: Python package for astronomy spectral operations
