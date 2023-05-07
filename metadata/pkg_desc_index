@@ -67,7 +67,7 @@ dev-python/firefly 3.2.3: A browser-based particle visualization platform
 dev-python/firefly-vis 2.0.4: A browser-based particle visualization platform
 dev-python/flask-socketio 5.3.4: Socket.IO integration for Flask applications
 dev-python/fluidity 0.2.1: State machine implementation for Python objects
-dev-python/freetype-py 2.3.0: Python binding for the freetype library
+dev-python/freetype-py 2.3.0 2.4.0: Python binding for the freetype library
 dev-python/fusepy 3.0.1: Simple ctypes bindings for FUSE
 dev-python/ginga 4.0.1: A scientific image viewer and toolkit
 dev-python/glue-core 1.9.1: Linked Data Visualizations Across Multiple Files
@@ -76,7 +76,7 @@ dev-python/glueviz 1.2.0: Meta-package for glue and plugin packages
 dev-python/glymur 0.12.0 0.12.5: Tools for accessing JPEG2000 files
 dev-python/gwcs 0.17.1 0.18.3: Generalized World Coordinate System
 dev-python/h5netcdf 1.1.0: Pythonic interface to netCDF4 via h5py
-dev-python/h5pyd 0.12.2 0.13.1 0.14.0: h5py distributed - Python client library for HDF Rest API
+dev-python/h5pyd 0.12.2 0.13.1 0.14.1: h5py distributed - Python client library for HDF Rest API
 dev-python/healpy 1.16.2: Python wrapper for healpix
 dev-python/heapdict 1.0.1: Heap with decrease-key and increase-key operations
 dev-python/hsluv 5.0.3: Python implementation of HSLuv (revision 4)
