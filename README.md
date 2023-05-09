@@ -15,7 +15,7 @@ It's recommended to mask the whole overlay and then unmask just the packages you
 
 Some science related miscellaneous python package are listed in a separate table [below](https://github.com/Universebenzene/benzene-overlay#some-science-related-miscellaneous-python-packages), in order to simplify the main table.
 
-Doc/sphinx related packages are listed in [another saperate table](https://github.com/Universebenzene/benzene-overlay#docsphinx-related-packages)
+Doc/sphinx and Doc/MkDocs related packages are listed in separate tables [here](https://github.com/Universebenzene/benzene-overlay#docsphinx-related-packages) and [here](https://github.com/Universebenzene/benzene-overlay#docmkdocs-related-packages)
 
 Package name | Available version | Additional information
 ------------ | :---------------: | ----------------------
@@ -122,7 +122,7 @@ dev-python/python-socketio       | 5.8.0                                        
 dev-python/python-xz             | 0.5.0                                             | Optional for yt
 dev-python/rasterio              | 1.3.6                                             | Optional for photutils. Dependencies are not all listed in the table
 dev-python/ratarmount            | 0.13.0                                            | Optional for yt. Dependency ratarmountcore is also included in this overlay but not listed in the table
-dev-python/s3fs                  | 2023.4.0                                          | Test dependency for zarr
+dev-python/s3fs                  | 2023.4.0; 2023.5.0                                | Test dependency for zarr and astropy>=5.2
 dev-python/siosocks              | 0.3.0                                             | Optional for aioftp
 dev-python/colorspacious         | 1.1.2                                             | Pulled in by cmyt. Dropped by official portage
 dev-python/cmyt                  | 1.2.0                                             | Pulled in by yt
@@ -167,5 +167,16 @@ dev-python/dask-sphinx-theme     | 3.0.4            |
 dev-python/sunpy-sphinx-theme    | 1.2.40           |
 dev-python/mistune               | 0.8.4-r1         | Only for sphinx-asdf that depends on old version
 dev-python/nbconvert             | 6.4.5            | Depends on old mistune
+
+<!--</details>-->
+
+### Doc/MkDocs related packages
+
+<!--<details>
+<summary>(Click to unfold)</summary>-->
+
+Package name | Available version | Additional information
+------------ | :---------------: | ----------------------
+dev-python/mkdocs-autorefs       | 0.4.1           |
 
 <!--</details>-->
