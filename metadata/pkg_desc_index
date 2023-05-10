@@ -67,7 +67,6 @@ dev-python/firefly 3.2.3: A browser-based particle visualization platform
 dev-python/firefly-vis 2.0.4: A browser-based particle visualization platform
 dev-python/flask-socketio 5.3.4: Socket.IO integration for Flask applications
 dev-python/fluidity 0.2.1: State machine implementation for Python objects
-dev-python/freetype-py 2.3.0 2.4.0: Python binding for the freetype library
 dev-python/fusepy 3.0.1: Simple ctypes bindings for FUSE
 dev-python/ginga 4.0.1: A scientific image viewer and toolkit
 dev-python/glue-core 1.10.0: Linked Data Visualizations Across Multiple Files
