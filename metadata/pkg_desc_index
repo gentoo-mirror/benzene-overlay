@@ -94,6 +94,7 @@ dev-python/libconf 2.0.1: Pure-Python libconfig file reader/writer with permissi
 dev-python/miniballcpp 0.2.3: Smallest Enclosing Balls of Points
 dev-python/mistune 0.8.4-r1: The fastest markdown parser in pure Python
 dev-python/mkdocs-autorefs 0.4.1: Automatically link across pages in MkDocs
+dev-python/mkdocs-gen-files 0.5.0: MkDocs plugin to programmatically generate documentation pages during the build
 dev-python/montage-wrapper 0.9.9: Python wrapper for the Montage mosaicking toolkit
 dev-python/mpl-animators 1.1.0: An interative animation framework for matplotlib
 dev-python/mpl-scatter-density 0.7: Matplotlib helpers to make density scatter plots
@@ -169,7 +170,7 @@ dev-python/sphinxcontrib-youtube 1.2.0: A Sphinx extension to embed videos from 
 dev-python/sphinxext-opengraph 0.8.2: Sphinx extension to generate unique OpenGraph metadata
 dev-python/starlink-pyast 3.15.4: Python interface to the Starlink AST library
 dev-python/sunpy 4.1.5: Python library for solar physics
-dev-python/sunpy-sphinx-theme 1.2.40: The sphinx theme for the SunPy website and documentation
+dev-python/sunpy-sphinx-theme 1.2.41: The sphinx theme for the SunPy website and documentation
 dev-python/unyt 2.9.5: Handle, manipulate, and convert data with units in Python
 dev-python/vispy 0.12.2: Interactive visualization in Python
 dev-python/xarray-einstats 0.5.1: Stats, linear algebra and einops for xarray
@@ -191,7 +192,7 @@ media-video/gnome-mplayer 1.0.9-r1: A GTK+ interface to MPlayer
 net-im/electron-qq-bin 1.5.7 2.1.4: A cross-platform QQ made with Electron (Deprecated. Moved to Icalingua)
 net-im/electron-wechat-bin 1.0.0: For creating the most usable Linux/MacOS WeChat client. A.k.a. Freechat
 net-im/electronic-wechat-bin 2.3.1 2.3.2: A better WeChat on macOS and Linux. Built with Electron
-net-im/icalingua++-bin 2.7.7 2.9.10: A Linux client for QQ and more (forked branch). Previously called Electron QQ
+net-im/icalingua++-bin 2.7.7 2.9.12: A Linux client for QQ and more (forked branch). Previously called Electron QQ
 net-im/wemeet 2.8.0.3 3.10.0.401 3.14.0.402: Wemeet - Tencent Video Conferencing. A.k.a Tencent Meeting
 net-libs/libaxon-bin 1.0.2: Nodejs backend for purple-oicq
 net-misc/baidunetdisk 3.0.1 4.3.0 4.17.7: Baidu Net Disk is a cloud storage client (Linux Version)
