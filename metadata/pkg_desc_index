@@ -11,7 +11,7 @@ app-text/ydcv 0.7 9999: YouDao Console Version - Simple wrapper for Youdao onlin
 app-text/youdao-dict 6.0.0-r2: YouDao Dictionary
 dev-python/PyQt5 5.15.9: Python bindings for the Qt framework
 dev-python/abg-python 1.1.3: Shared python utilities for https://github.com/agurvich 's packages
-dev-python/ablog 0.11.3: ABlog for blogging with Sphinx
+dev-python/ablog 0.11.4: ABlog for blogging with Sphinx
 dev-python/adal 1.2.7: ADAL for Python
 dev-python/affine 2.4.0: Matrices describing affine transformation of the plane
 dev-python/aggdraw 1.3.16: High quality drawing interface for PIL
@@ -95,6 +95,7 @@ dev-python/miniballcpp 0.2.3: Smallest Enclosing Balls of Points
 dev-python/mistune 0.8.4-r1: The fastest markdown parser in pure Python
 dev-python/mkdocs-autorefs 0.4.1: Automatically link across pages in MkDocs
 dev-python/mkdocs-gen-files 0.5.0: MkDocs plugin to programmatically generate documentation pages during the build
+dev-python/mkdocs-literate-nav 0.6.0: MkDocs plugin to specify the navigation in Markdown instead of YAML
 dev-python/montage-wrapper 0.9.9: Python wrapper for the Montage mosaicking toolkit
 dev-python/mpl-animators 1.1.0: An interative animation framework for matplotlib
 dev-python/mpl-scatter-density 0.7: Matplotlib helpers to make density scatter plots
