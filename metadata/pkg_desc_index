@@ -91,6 +91,7 @@ dev-python/jupyter_sphinx 0.4.0: Sphinx extension for rendering of Jupyter inter
 dev-python/jupytext 1.14.5: Jupyter notebooks as Markdown documents, Julia, Python or R scripts
 dev-python/lexicon 2.0.1: Powerful dict subclass(es) with aliasing & attribute access
 dev-python/libconf 2.0.1: Pure-Python libconfig file reader/writer with permissive licensing
+dev-python/markdown-callouts 0.3.0: Markdown extension: a classier syntax for admonitions
 dev-python/miniballcpp 0.2.3: Smallest Enclosing Balls of Points
 dev-python/mistune 0.8.4-r1: The fastest markdown parser in pure Python
 dev-python/mkdocs-gen-files 0.5.0: MkDocs plugin to programmatically generate documentation pages during the build
