@@ -39,7 +39,7 @@ dev-python/parfive                                                              
 dev-python/PyQt5                                                                     | 5.15.9                                                                           | Add `webkit` USE flag (dropped by official portage) to get **youdao-dict** in this overlay work
 dev-python/pytest-cython                                                             | 0.2.1                                                                            |
 dev-python/pytest-socket                                                             | 0.5.0; 0.6.0                                                                     |
-dev-python/vispy                                                                     | 0.12.2                                                                           |
+dev-python/vispy                                                                     | 0.13.0                                                                           | Doc building may have problems with sandbox permission
 dev-python/yt                                                                        | 4.0.5                                                                            | Full doc building needs huge amount of data, so cannot complete locally.
 dev-python/zarr                                                                      | 2.14.2                                                                           |
 dev-qt/qtwebkit                                                                      | 5.212.0\_pre20200309-{r1,r2}                                                     | Add [patch](https://github.com/Universebenzene/benzene-overlay/blob/master/dev-qt/qtwebkit/files/qtwebkit-5.212.0_pre20200309-position.patch) to get **youdao-dict** in this overlay work (the -r2 is a test for upgrade EAPI to 8, and might be a little buggy with youdao-dict.)
@@ -177,6 +177,7 @@ dev-python/nbconvert             | 6.4.5            | Depends on old mistune
 Package name | Available version | Additional information
 ------------ | :---------------: | ----------------------
 dev-python/markdown-callouts     | 0.3.0           | mkdocstrings related (should be test depend)
+dev-python/markdown-exec         | 1.6.0           | mkdocstrings related (should be test depend)
 dev-python/mkdocs-gen-files      | 0.5.0           | mkdocstrings related (should be test depend)
 dev-python/mkdocs-literate-nav   | 0.6.0           | mkdocstrings related (should be test depend)
 dev-python/mkdocs-section-index  | 0.3.5           | mkdocstrings related (should be test depend)
