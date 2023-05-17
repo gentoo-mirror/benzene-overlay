@@ -92,6 +92,7 @@ dev-python/jupytext 1.14.5: Jupyter notebooks as Markdown documents, Julia, Pyth
 dev-python/lexicon 2.0.1: Powerful dict subclass(es) with aliasing & attribute access
 dev-python/libconf 2.0.1: Pure-Python libconfig file reader/writer with permissive licensing
 dev-python/markdown-callouts 0.3.0: Markdown extension: a classier syntax for admonitions
+dev-python/markdown-exec 1.6.0: Utilities to execute code blocks in Markdown files
 dev-python/miniballcpp 0.2.3: Smallest Enclosing Balls of Points
 dev-python/mistune 0.8.4-r1: The fastest markdown parser in pure Python
 dev-python/mkdocs-gen-files 0.5.0: MkDocs plugin to programmatically generate documentation pages during the build
@@ -173,7 +174,7 @@ dev-python/starlink-pyast 3.15.4: Python interface to the Starlink AST library
 dev-python/sunpy 4.1.5: Python library for solar physics
 dev-python/sunpy-sphinx-theme 1.2.41: The sphinx theme for the SunPy website and documentation
 dev-python/unyt 2.9.5: Handle, manipulate, and convert data with units in Python
-dev-python/vispy 0.12.2: Interactive visualization in Python
+dev-python/vispy 0.13.0: Interactive visualization in Python
 dev-python/xarray-einstats 0.5.1: Stats, linear algebra and einops for xarray
 dev-python/yt 4.0.5: An analysis and visualization toolkit for volumetric data
 dev-python/zarr 2.14.2: An implementation of chunked, compressed, N-dimensional arrays for Python
