@@ -95,6 +95,7 @@ dev-python/markdown-callouts 0.3.0: Markdown extension: a classier syntax for ad
 dev-python/markdown-exec 1.6.0: Utilities to execute code blocks in Markdown files
 dev-python/miniballcpp 0.2.3: Smallest Enclosing Balls of Points
 dev-python/mistune 0.8.4-r1: The fastest markdown parser in pure Python
+dev-python/mkdocs-coverage 0.2.7: MkDocs plugin to integrate your coverage HTML report into your site
 dev-python/mkdocs-gen-files 0.5.0: MkDocs plugin to programmatically generate documentation pages during the build
 dev-python/mkdocs-literate-nav 0.6.0: MkDocs plugin to specify the navigation in Markdown instead of YAML
 dev-python/mkdocs-section-index 0.3.5: MkDocs plugin to allow clickable sections that lead to an index page
@@ -207,7 +208,7 @@ net-misc/xunlei-download 1.0.0.2: Xunlei download
 net-news/quiterss 0.19.4 9999: Qt-based RSS/Atom feed reader
 net-proxy/gg 0.2.13 0.2.18: Command-line tool for one-click proxy without v2ray or others (A.k.a. go-craft).
 net-proxy/v2raya-bin 1.5.9.1698.1 2.0.5: Web client of Project V for VMess, VLESS, SS, SSR, Trojan & Pingtunnel protocols
-sci-astronomy/aladin-bin 12.001: Interactive software sky atlas
+sci-astronomy/aladin-bin 12.060: Interactive software sky atlas
 sci-astronomy/astrometry 0.80 0.85 0.93: Automated astrometric calibration programs and service
 sci-astronomy/erfa 1.7.2 2.0.0: Essential Routines for Fundamental Astronomy
 sci-astronomy/healpix 3.82: Hierarchical Equal Area isoLatitude Pixelization of a sphere
