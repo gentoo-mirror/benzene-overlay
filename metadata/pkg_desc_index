@@ -135,6 +135,7 @@ dev-python/pytest-repeat 0.9.1: Pytest plugin for repeating test execution
 dev-python/pytest-socket 0.5.0 0.6.0: Pytest Plugin to disable socket calls during tests
 dev-python/python-socketio 5.8.0: Python Socket.IO server and client
 dev-python/python-xz 0.5.0: Pure Python implementation of the XZ file format with random access support
+dev-python/pytkdocs 0.16.1: Load Python objects documentation
 dev-python/pyvo 1.2.1 1.4.1: Astropy affiliated package for accessing Virtual Observatory data and services
 dev-python/radio-beam 0.3.4: Operations for radio astronomy beams with astropy
 dev-python/rasterio 1.3.6: Fast and direct raster I/O for use with Numpy and SciPy
