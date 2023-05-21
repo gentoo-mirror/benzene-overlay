@@ -73,7 +73,7 @@ dev-python/ginga 4.0.1: A scientific image viewer and toolkit
 dev-python/glue-core 1.10.0: Linked Data Visualizations Across Multiple Files
 dev-python/glue-vispy-viewers 1.0.7: 3-d data viewers for glue based on VisPy
 dev-python/glueviz 1.2.0: Meta-package for glue and plugin packages
-dev-python/glymur 0.12.0 0.12.5: Tools for accessing JPEG2000 files
+dev-python/glymur 0.12.0 0.12.5 0.12.6_p1: Tools for accessing JPEG2000 files
 dev-python/gwcs 0.17.1 0.18.3: Generalized World Coordinate System
 dev-python/h5netcdf 1.1.0: Pythonic interface to netCDF4 via h5py
 dev-python/h5pyd 0.12.2 0.13.1 0.14.1: h5py distributed - Python client library for HDF Rest API
@@ -98,6 +98,7 @@ dev-python/miniballcpp 0.2.3: Smallest Enclosing Balls of Points
 dev-python/mistune 0.8.4-r1: The fastest markdown parser in pure Python
 dev-python/mkdocs-coverage 0.2.7: MkDocs plugin to integrate your coverage HTML report into your site
 dev-python/mkdocs-gen-files 0.5.0: MkDocs plugin to programmatically generate documentation pages during the build
+dev-python/mkdocs-jupyter 0.24.1: Use Jupyter in mkdocs websites
 dev-python/mkdocs-literate-nav 0.6.0: MkDocs plugin to specify the navigation in Markdown instead of YAML
 dev-python/mkdocs-section-index 0.3.5: MkDocs plugin to allow clickable sections that lead to an index page
 dev-python/montage-wrapper 0.9.9: Python wrapper for the Montage mosaicking toolkit
