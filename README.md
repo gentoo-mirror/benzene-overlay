@@ -32,7 +32,7 @@ dev-python/aioftp                                                               
 dev-python/astlib                                                                    | 0.11.3; 0.11.8                                                                   |
 dev-python/corner                                                                    | 2.2.2                                                                            |
 dev-python/exifread                                                                  | 3.0.0                                                                            |
-dev-python/glymur                                                                    | 0.12.0; 0.12.5                                                                   |
+dev-python/glymur                                                                    | 0.12.0; 0.12.5; 0.12.6\_p1                                                       |
 dev-python/hsluv                                                                     | 5.0.3                                                                            |
 dev-python/oldest-supported-numpy                                                    | 2022.11.19                                                                       | The numpy version limitations are changed from `==` into `>=`. If you have better solution, just bring issues or pull requests.
 dev-python/parfive                                                                   | 1.5.1; 2.0.2                                                                     |
@@ -181,6 +181,7 @@ dev-python/markdown-callouts     | 0.3.0           | mkdocstrings related (shoul
 dev-python/markdown-exec         | 1.6.0           | mkdocstrings related (should be test depend)
 dev-python/mkdocs-coverage       | 0.2.7           | mkdocstrings related (should be test depend)
 dev-python/mkdocs-gen-files      | 0.5.0           | mkdocstrings related (should be test depend)
+dev-python/mkdocs-jupyter        | 0.24.1          |
 dev-python/mkdocs-literate-nav   | 0.6.0           | mkdocstrings related (should be test depend)
 dev-python/mkdocs-section-index  | 0.3.5           | mkdocstrings related (should be test depend)
 dev-python/pytkdocs              | 0.16.1          | Dependency of mkdocstrings-python-legacy
