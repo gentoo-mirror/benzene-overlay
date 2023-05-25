@@ -56,7 +56,7 @@ dev-python/distributed 2023.4.0 2023.4.1 2023.5.0: Distributed scheduler for Das
 dev-python/docstring-parser 0.15: Parse Python docstrings in reST, Google and Numpydoc format
 dev-python/drms 0.6.3: Access HMI, AIA and MDI data with Python from the public JSOC DRMS server
 dev-python/echo 0.8.0: Callback Properties in Python
-dev-python/einops 0.6.0: A new flavour of deep learning operations
+dev-python/einops 0.6.0 0.6.1: A new flavour of deep learning operations
 dev-python/eventlet 0.33.2: Highly concurrent networking library
 dev-python/exifread 3.0.0: Easy to use Python module to extract Exif metadata from digital image files
 dev-python/extension-helpers 1.0.0: Helpers to assist with building Python pkgs with compiled C/Cython extensions
