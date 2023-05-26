@@ -33,7 +33,7 @@ dev-python/astlib 0.11.3 0.11.8: Python astronomy modules for image and coordina
 dev-python/astrodendro 0.2.0-r2 9999: Python package for computation of astronomical dendrograms
 dev-python/astroml 0.4.1 1.0.2_p1: Python Machine Learning library for astronomy
 dev-python/astroplan 0.6 0.8: Observation planning package for astronomers
-dev-python/astropy 2.0.16 3.0.5 3.1.2 4.2.1 5.0.6 5.1.1 5.2.2: Core functionality for performing astrophysics with Python
+dev-python/astropy 2.0.16 3.0.5 3.1.2 4.2.1 5.0.6 5.2.2 5.3: Core functionality for performing astrophysics with Python
 dev-python/astropy-healpix 0.5 0.7: BSD-licensed HEALPix for Astropy
 dev-python/astropy-helpers 2.0.11 3.0.2 3.1.1 4.0.1: Helpers for Astropy and Affiliated packages
 dev-python/astropy-sphinx-theme 1.1: The sphinx theme for Astropy and affiliated packages
@@ -57,7 +57,7 @@ dev-python/docstring-parser 0.15: Parse Python docstrings in reST, Google and Nu
 dev-python/drms 0.6.3: Access HMI, AIA and MDI data with Python from the public JSOC DRMS server
 dev-python/echo 0.8.0: Callback Properties in Python
 dev-python/einops 0.6.0 0.6.1: A new flavour of deep learning operations
-dev-python/eventlet 0.33.2: Highly concurrent networking library
+dev-python/eventlet 0.33.3: Highly concurrent networking library
 dev-python/exifread 3.0.0: Easy to use Python module to extract Exif metadata from digital image files
 dev-python/extension-helpers 1.0.0: Helpers to assist with building Python pkgs with compiled C/Cython extensions
 dev-python/f90nml 1.4.3: Fortran 90 namelist parser
