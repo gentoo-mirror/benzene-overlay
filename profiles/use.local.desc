@@ -195,6 +195,7 @@ sci-astronomy/healpix:idl - Install healpix IDL/GDL routines
 sci-astronomy/topcat:extra - Install the bloated version including Parquet file format support
 sci-astronomy/topcat:standard - Install the stardard version
 sys-libs/libsystemd:audit - Enable support for sys-process/audit
+sys-libs/libsystemd:boot - Enable EFI boot manager and stub loader
 sys-libs/libsystemd:cgroup-hybrid - Default to hybrid (legacy) cgroup hierarchy instead of unified (modern).
 sys-libs/libsystemd:cryptsetup - Enable cryptsetup tools (includes unit generator for crypttab)
 sys-libs/libsystemd:curl - Enable support for uploading journals
