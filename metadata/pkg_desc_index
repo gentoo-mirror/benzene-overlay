@@ -73,7 +73,7 @@ dev-python/ginga 4.0.1: A scientific image viewer and toolkit
 dev-python/glue-core 1.10.0: Linked Data Visualizations Across Multiple Files
 dev-python/glue-vispy-viewers 1.0.7: 3-d data viewers for glue based on VisPy
 dev-python/glueviz 1.2.0: Meta-package for glue and plugin packages
-dev-python/glymur 0.12.0 0.12.5 0.12.6_p1: Tools for accessing JPEG2000 files
+dev-python/glymur 0.12.0 0.12.6_p1 0.12.7: Tools for accessing JPEG2000 files
 dev-python/gwcs 0.17.1 0.18.3: Generalized World Coordinate System
 dev-python/h5netcdf 1.1.0: Pythonic interface to netCDF4 via h5py
 dev-python/h5pyd 0.12.2 0.13.1 0.14.1: h5py distributed - Python client library for HDF Rest API
@@ -116,7 +116,7 @@ dev-python/ndcube 2.1.1: For multi-dimensional contiguious and non-contiguious c
 dev-python/numcodecs 0.11.0: Data storage buffer compression and transformation codecs
 dev-python/oldest-supported-numpy 2022.11.19: Meta-package providing oldest supported Numpy for given Python version
 dev-python/parfive 1.5.1 2.0.2: A HTTP and FTP parallel file downloader
-dev-python/photutils 1.7.0: Affiliated package for image photometry utilities
+dev-python/photutils 1.8.0: Affiliated package for image photometry utilities
 dev-python/pvextractor 0.3: Position-velocity diagram extractor
 dev-python/pyavm 0.9.5: Simple pure-python AVM meta-data handling
 dev-python/pydl 0.7.0 1.0.0_rc2: Astropy affiliated package for accessing Virtual Observatory data and services
