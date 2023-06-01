@@ -5,7 +5,7 @@ app-text/dehelper 12.7.1: Proprietary German dictionary software for linux
 app-text/eshelper 12.7.1: Proprietary Spanish dictionary software for linux
 app-text/eudic 12.7.1: Proprietary English dictionary software for linux
 app-text/frhelper 12.7.1: Proprietary French dictionary software for linux
-app-text/goldendict 9999: Feature-rich dictionary lookup program
+app-text/goldendict 1.5.0 9999: Feature-rich dictionary lookup program
 app-text/powerword 1.2: A Chinese-English dictionary tool by Kingsoft
 app-text/ydcv 0.7 9999: YouDao Console Version - Simple wrapper for Youdao online translate service API
 app-text/youdao-dict 6.0.0-r2: YouDao Dictionary
@@ -44,7 +44,7 @@ dev-python/atpy 0.9.7: Astronomical tables support for Python
 dev-python/azure-core 1.26.3: Microsoft Azure Core Library for Python
 dev-python/bidict 0.22.0 0.22.1: The bidirectional mapping library for Python
 dev-python/casa-formats-io 0.2.1: Code to handle I/O from/to data in CASA format Resources
-dev-python/ccdproc 1.3.0_p1 2.1.0 2.4.0: Astropy affiliated package for reducing optical/IR CCD data
+dev-python/ccdproc 1.3.0_p1 2.1.0 2.4.1: Astropy affiliated package for reducing optical/IR CCD data
 dev-python/cdflib 0.4.9: A python module for reading NASA's Common Data Format (cdf) files Resources
 dev-python/cligj 0.7.2: Click params for commmand line interfaces to GeoJSON
 dev-python/cmdstanpy 1.0.8 1.1.0: Python interface to CmdStan
@@ -82,7 +82,7 @@ dev-python/heapdict 1.0.1: Heap with decrease-key and increase-key operations
 dev-python/hsluv 5.0.3: Python implementation of HSLuv (revision 4)
 dev-python/icecream 2.1.3: Sweet and creamy print debugging
 dev-python/imexam 0.9.1: Position-velocity diagram extractor
-dev-python/indexed_bzip2 1.4.0: Fast random access to bzip2 files in Python
+dev-python/indexed_bzip2 1.5.0: Fast random access to bzip2 files in Python
 dev-python/indexed_zstd 1.6.0: Fast random access to zstd files
 dev-python/invoke 2.1.2: Pythonic task management & command execution
 dev-python/jplephem 2.18: Python version of NASA DE4xx ephemerides
