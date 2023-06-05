@@ -45,7 +45,7 @@ dev-python/azure-core 1.26.3: Microsoft Azure Core Library for Python
 dev-python/bidict 0.22.0 0.22.1: The bidirectional mapping library for Python
 dev-python/casa-formats-io 0.2.1: Code to handle I/O from/to data in CASA format Resources
 dev-python/ccdproc 1.3.0_p1 2.1.0 2.4.1: Astropy affiliated package for reducing optical/IR CCD data
-dev-python/cdflib 0.4.9: A python module for reading NASA's Common Data Format (cdf) files Resources
+dev-python/cdflib 0.4.9 1.0.2: A python module for reading NASA's Common Data Format (cdf) files Resources
 dev-python/cligj 0.7.2: Click params for commmand line interfaces to GeoJSON
 dev-python/cmdstanpy 1.0.8 1.1.0: Python interface to CmdStan
 dev-python/cmyt 1.2.0: A collection of Matplotlib colormaps from the yt project
@@ -101,7 +101,7 @@ dev-python/mkdocs-gen-files 0.5.0: MkDocs plugin to programmatically generate do
 dev-python/mkdocs-jupyter 0.24.1: Use Jupyter in mkdocs websites
 dev-python/mkdocs-literate-nav 0.6.0: MkDocs plugin to specify the navigation in Markdown instead of YAML
 dev-python/mkdocs-section-index 0.3.5: MkDocs plugin to allow clickable sections that lead to an index page
-dev-python/mkdocstrings-crystal 0.3.5: Crystal language doc generator for mkdocstrings
+dev-python/mkdocstrings-crystal 0.3.5 0.3.6: Crystal language doc generator for mkdocstrings
 dev-python/mkdocstrings-python-legacy 0.2.3: A legacy Python handler for mkdocstrings
 dev-python/montage-wrapper 0.9.9: Python wrapper for the Montage mosaicking toolkit
 dev-python/mpl-animators 1.1.0: An interative animation framework for matplotlib
