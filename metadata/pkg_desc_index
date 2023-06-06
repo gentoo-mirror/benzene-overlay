@@ -45,7 +45,7 @@ dev-python/azure-core 1.26.3: Microsoft Azure Core Library for Python
 dev-python/bidict 0.22.0 0.22.1: The bidirectional mapping library for Python
 dev-python/casa-formats-io 0.2.1: Code to handle I/O from/to data in CASA format Resources
 dev-python/ccdproc 1.3.0_p1 2.1.0 2.4.1: Astropy affiliated package for reducing optical/IR CCD data
-dev-python/cdflib 0.4.9 1.0.2: A python module for reading NASA's Common Data Format (cdf) files Resources
+dev-python/cdflib 0.4.9 1.0.3: A python module for reading NASA's Common Data Format (cdf) files Resources
 dev-python/cligj 0.7.2: Click params for commmand line interfaces to GeoJSON
 dev-python/cmdstanpy 1.0.8 1.1.0: Python interface to CmdStan
 dev-python/cmyt 1.2.0: A collection of Matplotlib colormaps from the yt project
@@ -89,7 +89,7 @@ dev-python/jplephem 2.18: Python version of NASA DE4xx ephemerides
 dev-python/jsonschema 3.2.0-r1 4.9.1: An implementation of JSON-Schema validation for Python
 dev-python/jupyter-cache 0.6.1: A defined interface for working with a cache of jupyter notebooks
 dev-python/jupyter_sphinx 0.4.0: Sphinx extension for rendering of Jupyter interactive widgets
-dev-python/jupytext 1.14.5: Jupyter notebooks as Markdown documents, Julia, Python or R scripts
+dev-python/jupytext 1.14.6: Jupyter notebooks as Markdown documents, Julia, Python or R scripts
 dev-python/lexicon 2.0.1: Powerful dict subclass(es) with aliasing & attribute access
 dev-python/libconf 2.0.1: Pure-Python libconfig file reader/writer with permissive licensing
 dev-python/markdown-callouts 0.3.0: Markdown extension: a classier syntax for admonitions
