@@ -98,6 +98,7 @@ dev-python/miniballcpp 0.2.3: Smallest Enclosing Balls of Points
 dev-python/mistune 0.8.4-r1: The fastest markdown parser in pure Python
 dev-python/mkdocs-coverage 0.2.7: MkDocs plugin to integrate your coverage HTML report into your site
 dev-python/mkdocs-gen-files 0.5.0: MkDocs plugin to programmatically generate documentation pages during the build
+dev-python/mkdocs-git-committers-plugin 1.1.2: An MkDocs plugin to create a list of contributors on the page
 dev-python/mkdocs-jupyter 0.24.1: Use Jupyter in mkdocs websites
 dev-python/mkdocs-literate-nav 0.6.0: MkDocs plugin to specify the navigation in Markdown instead of YAML
 dev-python/mkdocs-section-index 0.3.5: MkDocs plugin to allow clickable sections that lead to an index page
@@ -177,7 +178,7 @@ dev-python/sphinx_mdinclude 0.5.3: Markdown extension for Sphinx
 dev-python/sphinxcontrib-youtube 1.2.0: A Sphinx extension to embed videos from YouTube
 dev-python/sphinxext-opengraph 0.8.2: Sphinx extension to generate unique OpenGraph metadata
 dev-python/starlink-pyast 3.15.4: Python interface to the Starlink AST library
-dev-python/sunpy 4.1.6: Python library for solar physics
+dev-python/sunpy 4.1.7: Python library for solar physics
 dev-python/sunpy-sphinx-theme 1.2.42: The sphinx theme for the SunPy website and documentation
 dev-python/unyt 2.9.5: Handle, manipulate, and convert data with units in Python
 dev-python/vispy 0.13.0: Interactive visualization in Python
