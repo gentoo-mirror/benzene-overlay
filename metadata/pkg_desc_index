@@ -89,7 +89,7 @@ dev-python/invoke 2.1.2: Pythonic task management & command execution
 dev-python/jplephem 2.18: Python version of NASA DE4xx ephemerides
 dev-python/jsonschema 3.2.0-r1 4.9.1: An implementation of JSON-Schema validation for Python
 dev-python/jupyter-cache 0.6.1: A defined interface for working with a cache of jupyter notebooks
-dev-python/jupyter_sphinx 0.4.0: Sphinx extension for rendering of Jupyter interactive widgets
+dev-python/jupyter-sphinx 0.4.0: Sphinx extension for rendering of Jupyter interactive widgets
 dev-python/jupytext 1.14.6: Jupyter notebooks as Markdown documents, Julia, Python or R scripts
 dev-python/lexicon 2.0.1: Powerful dict subclass(es) with aliasing & attribute access
 dev-python/libconf 2.0.1: Pure-Python libconfig file reader/writer with permissive licensing
@@ -179,7 +179,7 @@ dev-python/sphinx_mdinclude 0.5.3: Markdown extension for Sphinx
 dev-python/sphinxcontrib-youtube 1.2.0: A Sphinx extension to embed videos from YouTube
 dev-python/sphinxext-opengraph 0.8.2: Sphinx extension to generate unique OpenGraph metadata
 dev-python/starlink-pyast 3.15.4: Python interface to the Starlink AST library
-dev-python/sunpy 4.1.7: Python library for solar physics
+dev-python/sunpy 5.0.0: Python library for solar physics
 dev-python/sunpy-sphinx-theme 1.2.42: The sphinx theme for the SunPy website and documentation
 dev-python/unyt 2.9.5: Handle, manipulate, and convert data with units in Python
 dev-python/vispy 0.13.0: Interactive visualization in Python
