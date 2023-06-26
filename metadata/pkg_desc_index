@@ -8,7 +8,7 @@ app-text/frhelper 12.7.1: Proprietary French dictionary software for linux
 app-text/goldendict 1.5.0 9999: Feature-rich dictionary lookup program
 app-text/powerword 1.2: A Chinese-English dictionary tool by Kingsoft
 app-text/ydcv 0.7 9999: YouDao Console Version - Simple wrapper for Youdao online translate service API
-app-text/ydgo 0.6.3 9999: YouDao Console Version (YDCV) - go
+app-text/ydgo 0.6.3 9999: YouDao Console Version (YDCV) - go portation
 app-text/youdao-dict 6.0.0-r2: YouDao Dictionary
 dev-cpp/gtkspellmm 3.0.5: C++ binding for gtkspell
 dev-python/PyQt5 5.15.9: Python bindings for the Qt framework
