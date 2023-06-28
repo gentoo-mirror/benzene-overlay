@@ -54,7 +54,7 @@ dev-python/cmyt 1.2.1: A collection of Matplotlib colormaps from the yt project
 dev-python/colorspacious 1.1.2: Powerful, accurate, and easy-to-use Python library for colorspace conversions
 dev-python/corner 2.2.2: Make scatter matrix corner plots
 dev-python/dask-sphinx-theme 3.0.5: Sphinx theme for Dask documentation
-dev-python/distributed 2023.5.1 2023.6.0: Distributed scheduler for Dask
+dev-python/distributed 2023.5.1 2023.6.0 2023.6.1: Distributed scheduler for Dask
 dev-python/docstring-parser 0.15: Parse Python docstrings in reST, Google and Numpydoc format
 dev-python/drms 0.6.4: Access HMI, AIA and MDI data with Python from the public JSOC DRMS server
 dev-python/echo 0.8.0: Callback Properties in Python
@@ -203,7 +203,7 @@ media-video/gnome-mplayer 1.0.9-r1: A GTK+ interface to MPlayer
 net-im/electron-qq-bin 1.5.7 2.1.4: A cross-platform QQ made with Electron (Deprecated. Moved to Icalingua)
 net-im/electron-wechat-bin 1.0.0: For creating the most usable Linux/MacOS WeChat client. A.k.a. Freechat
 net-im/electronic-wechat-bin 2.3.1 2.3.2: A better WeChat on macOS and Linux. Built with Electron
-net-im/icalingua++-bin 2.7.7 2.9.13: A Linux client for QQ and more (forked branch). Previously called Electron QQ
+net-im/icalingua++-bin 2.7.7 2.9.13 2.9.20: A Linux client for QQ and more (forked branch). Previously called Electron QQ
 net-im/wemeet 2.8.0.3 3.10.0.401 3.15.0.402: Wemeet - Tencent Video Conferencing. A.k.a Tencent Meeting
 net-libs/libaxon-bin 1.0.2: Nodejs backend for purple-oicq
 net-misc/baidunetdisk 3.0.1 4.3.0 4.17.7: Baidu Net Disk is a cloud storage client (Linux Version)
