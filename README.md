@@ -94,7 +94,7 @@ Package name | Available version | Additional information
 dev-python/adal                  | 1.2.7                                             | SunPy, h5pyd related
 dev-python/abg-python            | 1.1.3                                             | Optional for yt
 dev-python/aggdraw               | 1.3.16                                            | Optional for ginga
-dev-python/aiobotocore           | 2.5.0                                             | Pulled in by zarr
+dev-python/aiobotocore           | 2.5.1                                             | Pulled in by zarr
 dev-python/aioitertools          | 0.11.0                                            | Pulled in by zarr
 dev-python/arviz                 | 0.15.1                                            | Optional for corner.py.
 dev-python/asciitree             | 0.3.3                                             | Pulled in by zarr
@@ -121,7 +121,7 @@ dev-python/pytest-golden         | 0.2.2                                        
 dev-python/pytest-repeat         | 0.9.1                                             | Test dependency for new zict
 dev-python/python-socketio       | 5.8.0                                             | Optional for yt
 dev-python/python-xz             | 0.5.0                                             | Optional for yt
-dev-python/rasterio              | 1.3.7                                             | Optional for photutils. Dependencies are not all listed in the table
+dev-python/rasterio              | 1.3.8                                             | Optional for photutils. Dependencies are not all listed in the table
 dev-python/ratarmount            | 0.13.0                                            | Optional for yt. Dependency ratarmountcore is also included in this overlay but not listed in the table
 dev-python/s3fs                  | 2023.5.0; 2023.6.0                                | Test dependency for zarr and astropy>=5.2
 dev-python/siosocks              | 0.3.0                                             | Optional for aioftp
