@@ -91,7 +91,7 @@ dev-python/jplephem 2.18: Python version of NASA DE4xx ephemerides
 dev-python/jsonschema 3.2.0-r1 4.9.1: An implementation of JSON-Schema validation for Python
 dev-python/jupyter-cache 0.6.1: A defined interface for working with a cache of jupyter notebooks
 dev-python/jupyter-sphinx 0.4.0: Sphinx extension for rendering of Jupyter interactive widgets
-dev-python/jupytext 1.14.6: Jupyter notebooks as Markdown documents, Julia, Python or R scripts
+dev-python/jupytext 1.14.7: Jupyter notebooks as Markdown documents, Julia, Python or R scripts
 dev-python/lexicon 2.0.1: Powerful dict subclass(es) with aliasing & attribute access
 dev-python/libconf 2.0.1: Pure-Python libconfig file reader/writer with permissive licensing
 dev-python/markdown-callouts 0.3.0: Markdown extension: a classier syntax for admonitions
@@ -182,6 +182,7 @@ dev-python/sphinxext-opengraph 0.8.2: Sphinx extension to generate unique OpenGr
 dev-python/starlink-pyast 3.15.4: Python interface to the Starlink AST library
 dev-python/sunpy 5.0.0: Python library for solar physics
 dev-python/sunpy-sphinx-theme 1.2.42: The sphinx theme for the SunPy website and documentation
+dev-python/toml 0.10.2-r1: Python library for handling TOML files
 dev-python/unyt 2.9.5: Handle, manipulate, and convert data with units in Python
 dev-python/vispy 0.13.0: Interactive visualization in Python
 dev-python/xarray-einstats 0.5.1: Stats, linear algebra and einops for xarray
@@ -203,7 +204,7 @@ media-video/gnome-mplayer 1.0.9-r1: A GTK+ interface to MPlayer
 net-im/electron-qq-bin 1.5.7 2.1.4: A cross-platform QQ made with Electron (Deprecated. Moved to Icalingua)
 net-im/electron-wechat-bin 1.0.0: For creating the most usable Linux/MacOS WeChat client. A.k.a. Freechat
 net-im/electronic-wechat-bin 2.3.1 2.3.2: A better WeChat on macOS and Linux. Built with Electron
-net-im/icalingua++-bin 2.7.7 2.9.13 2.9.20: A Linux client for QQ and more (forked branch). Previously called Electron QQ
+net-im/icalingua++-bin 2.7.7 2.9.13 2.9.21: A Linux client for QQ and more (forked branch). Previously called Electron QQ
 net-im/wemeet 2.8.0.3 3.10.0.401 3.15.0.402: Wemeet - Tencent Video Conferencing. A.k.a Tencent Meeting
 net-libs/libaxon-bin 1.0.2: Nodejs backend for purple-oicq
 net-misc/baidunetdisk 3.0.1 4.3.0 4.17.7: Baidu Net Disk is a cloud storage client (Linux Version)
