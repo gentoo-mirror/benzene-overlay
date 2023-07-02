@@ -60,6 +60,7 @@ dev-python/drms 0.6.4: Access HMI, AIA and MDI data with Python from the public 
 dev-python/echo 0.8.0: Callback Properties in Python
 dev-python/einops 0.6.0 0.6.1: A new flavour of deep learning operations
 dev-python/eventlet 0.33.3: Highly concurrent networking library
+dev-python/ewah-bool-utils 1.0.2: EWAH Bool Array utils for yt
 dev-python/exifread 3.0.0: Easy to use Python module to extract Exif metadata from digital image files
 dev-python/extension-helpers 1.0.0: Helpers to assist with building Python pkgs with compiled C/Cython extensions
 dev-python/f90nml 1.4.3: Fortran 90 namelist parser
@@ -71,7 +72,7 @@ dev-python/firefly-vis 2.0.4: A browser-based particle visualization platform
 dev-python/flask-socketio 5.3.4: Socket.IO integration for Flask applications
 dev-python/fluidity 0.2.1: State machine implementation for Python objects
 dev-python/fusepy 3.0.1: Simple ctypes bindings for FUSE
-dev-python/ginga 4.0.1: A scientific image viewer and toolkit
+dev-python/ginga 4.1.0: A scientific image viewer and toolkit
 dev-python/glue-core 1.12.0: Linked Data Visualizations Across Multiple Files
 dev-python/glue-vispy-viewers 1.0.7: 3-d data viewers for glue based on VisPy
 dev-python/glueviz 1.2.0: Meta-package for glue and plugin packages
