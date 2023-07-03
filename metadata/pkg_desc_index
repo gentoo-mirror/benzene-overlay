@@ -187,7 +187,7 @@ dev-python/toml 0.10.2-r1: Python library for handling TOML files
 dev-python/unyt 2.9.5: Handle, manipulate, and convert data with units in Python
 dev-python/vispy 0.13.0: Interactive visualization in Python
 dev-python/xarray-einstats 0.5.1: Stats, linear algebra and einops for xarray
-dev-python/yt 4.0.5 4.1.4: An analysis and visualization toolkit for volumetric data
+dev-python/yt 4.0.5 4.1.4 4.2.1: An analysis and visualization toolkit for volumetric data
 dev-python/zarr 2.15.0: An implementation of chunked, compressed, N-dimensional arrays for Python
 dev-python/zict 2.2.0 3.0.0: Mutable mapping tools
 dev-qt/qtwebkit 5.212.0_pre20200309-r1 5.212.0_pre20200309-r2: WebKit rendering library for the Qt5 framework (deprecated)
