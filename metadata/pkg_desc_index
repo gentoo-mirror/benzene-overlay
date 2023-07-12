@@ -87,7 +87,7 @@ dev-python/icecream 2.1.3: Sweet and creamy print debugging
 dev-python/imexam 0.9.1: Position-velocity diagram extractor
 dev-python/indexed_bzip2 1.5.0: Fast random access to bzip2 files in Python
 dev-python/indexed_zstd 1.6.0: Fast random access to zstd files
-dev-python/invoke 2.1.2: Pythonic task management & command execution
+dev-python/invoke 2.1.3: Pythonic task management & command execution
 dev-python/jplephem 2.18: Python version of NASA DE4xx ephemerides
 dev-python/jsonschema 3.2.0-r1 4.9.1: An implementation of JSON-Schema validation for Python
 dev-python/jupyter-cache 0.6.1: A defined interface for working with a cache of jupyter notebooks
@@ -186,7 +186,7 @@ dev-python/sunpy-sphinx-theme 1.2.42: The sphinx theme for the SunPy website and
 dev-python/toml 0.10.2-r1: Python library for handling TOML files
 dev-python/unyt 2.9.5: Handle, manipulate, and convert data with units in Python
 dev-python/vispy 0.13.0: Interactive visualization in Python
-dev-python/xarray-einstats 0.5.1: Stats, linear algebra and einops for xarray
+dev-python/xarray-einstats 0.6.0: Stats, linear algebra and einops for xarray
 dev-python/yt 4.0.5 4.1.4 4.2.1: An analysis and visualization toolkit for volumetric data
 dev-python/zarr 2.15.0: An implementation of chunked, compressed, N-dimensional arrays for Python
 dev-python/zict 2.2.0 3.0.0: Mutable mapping tools
