@@ -84,6 +84,10 @@ dev-python/glue-core:qt - Include PyQt5 library
 dev-python/glue-core:recommended - Slightly more function support
 dev-python/glue-vispy-viewers:qt - Extra qt support via dev-python/PyQt5
 dev-python/gwcs:intersphinx - Enable intersphinx while doc building.
+dev-python/h5pyd:aws - Extra aws support via dev-python/s3fs
+dev-python/h5pyd:azure - Extra azure support
+dev-python/h5pyd:google - Extra google support
+dev-python/h5pyd:hdf5 - Extra hdf5 support via dev-python/h5py
 dev-python/imexam:photometry - Enable photometry features of the imexam() analysis via dev-python/photutils
 dev-python/jupyter-cache:cli - Extra cli support
 dev-python/jupyter-cache:code_style - Extra code_style support for development

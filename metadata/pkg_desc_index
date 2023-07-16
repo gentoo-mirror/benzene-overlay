@@ -21,7 +21,7 @@ dev-python/aiobotocore 2.5.2: Async client for aws services using botocore and a
 dev-python/aioftp 0.21.4: Ftp client/server for asyncio
 dev-python/aioitertools 0.11.0: Itertools and builtins for AsyncIO and mixed iterables
 dev-python/aplpy 1.1.1 2.0.3 2.1.0: Astronomical Plotting Library in Python
-dev-python/arviz 0.15.1: Exploratory analysis of Bayesian models with Python
+dev-python/arviz 0.16.0: Exploratory analysis of Bayesian models with Python
 dev-python/asciitree 0.3.3: Draws ASCII trees in Python
 dev-python/asdf 2.7.2 2.9.2 2.10.1 2.13.0 2.15.0: Python library for the Advanced Scientific Data Format
 dev-python/asdf-astropy 0.2.1 0.4.0: ASDF serialization support for astropy
@@ -79,7 +79,7 @@ dev-python/glueviz 1.2.0: Meta-package for glue and plugin packages
 dev-python/glymur 0.12.0 0.12.6_p1 0.12.8: Tools for accessing JPEG2000 files
 dev-python/gwcs 0.17.1 0.18.3: Generalized World Coordinate System
 dev-python/h5netcdf 1.2.0: Pythonic interface to netCDF4 via h5py
-dev-python/h5pyd 0.12.2 0.13.1 0.14.1: h5py distributed - Python client library for HDF Rest API
+dev-python/h5pyd 0.12.2 0.14.1 0.15.0: h5py distributed - Python client library for HDF Rest API
 dev-python/healpy 1.16.3: Python wrapper for healpix
 dev-python/heapdict 1.0.1: Heap with decrease-key and increase-key operations
 dev-python/hsluv 5.0.3: Python implementation of HSLuv (revision 4)
@@ -188,6 +188,7 @@ dev-python/sunpy-sphinx-theme 1.2.42: The sphinx theme for the SunPy website and
 dev-python/toml 0.10.2-r1: Python library for handling TOML files
 dev-python/unyt 2.9.5: Handle, manipulate, and convert data with units in Python
 dev-python/vispy 0.13.0: Interactive visualization in Python
+dev-python/xarray-datatree 0.0.12: Hierarchical tree-like data structures for xarray
 dev-python/xarray-einstats 0.6.0: Stats, linear algebra and einops for xarray
 dev-python/yt 4.0.5 4.1.4 4.2.1: An analysis and visualization toolkit for volumetric data
 dev-python/zarr 2.15.0: An implementation of chunked, compressed, N-dimensional arrays for Python
