@@ -44,7 +44,7 @@ dev-python/pytest-cython                                                        
 dev-python/pytest-socket                                                             | 0.5.0; 0.6.0                                                                     |
 dev-python/vispy                                                                     | 0.13.0                                                                           | Doc building may have problems with sandbox permission
 dev-python/yt                                                                        | 4.0.5; 4.1.4; 4.2.1                                                              | Full doc building needs huge amount of data, so cannot complete locally.
-dev-python/zarr                                                                      | 2.15.0                                                                           |
+dev-python/zarr                                                                      | 2.16.0                                                                           |
 dev-qt/qtwebkit                                                                      | 5.212.0\_pre20200309-{r1,r2}                                                     | Add [patch](https://github.com/Universebenzene/benzene-overlay/blob/master/dev-qt/qtwebkit/files/qtwebkit-5.212.0_pre20200309-position.patch) to get **youdao-dict** in this overlay work (the -r2 is a test for upgrade EAPI to 8, and might be a little buggy with youdao-dict.)
 media-fonts/wps-office-fonts                                                         | [1.0](https://github.com/Universebenzene/benzene-overlay/blob/master/media-fonts/wps-office-fonts/wps-office-fonts-1.0.ebuild)                             | WPS Linux旧版自带方正系字体
 [media-gfx/gpaint](https://savannah.gnu.org/projects/gpaint)                         | [0.3.3](https://github.com/Universebenzene/benzene-overlay/blob/master/media-gfx/gpaint/gpaint-0.3.3.ebuild)                                               | With patches from Debian
@@ -102,7 +102,7 @@ dev-python/asciitree             | 0.3.3                                        
 dev-python/azure-core            | 1.26.3                                            | Required by new msrest
 dev-python/bidict                | 0.22.0; 0.22.1                                    | Optional for yt
 dev-python/cmdstanpy             | 1.0.8; 1.1.0                                      | Test dependency for arviz
-dev-python/distributed           | 2023.5.1; 2023.6.0; 2023.6.1; 2023.7.0            | Optional for arviz and spectral-cube
+dev-python/distributed           | 2023.5.1; 2023.6.0; 2023.6.1; 2023.7.0; 2023.7.1  | Optional for arviz and spectral-cube
 dev-python/eventlet              | 0.33.3                                            | Dropped by official portage. Required by firefly{,-viz}
 dev-python/f90nml                | 1.4.3                                             | Optional for yt
 dev-python/fastcache             | 1.1.0                                             | Optional for yt
