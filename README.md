@@ -39,7 +39,7 @@ dev-python/glymur                                                               
 dev-python/hsluv                                                                     | 5.0.3                                                                            |
 dev-python/oldest-supported-numpy                                                    | 2022.11.19                                                                       | The numpy version limitations are changed from `==` into `>=`. If you have better solution, just bring issues or pull requests.
 dev-python/parfive                                                                   | 1.5.1; 2.0.2                                                                     |
-dev-python/PyQt5                                                                     | 5.15.9                                                                           | Add `webkit` USE flag (dropped by official portage) to get **youdao-dict** in this overlay work
+dev-python/PyQt5                                                                     | 5.15.9; 5.15.9-r1                                                                | Add `webkit` USE flag (dropped by official portage) to get **youdao-dict** in this overlay work
 dev-python/pytest-cython                                                             | 0.2.1                                                                            |
 dev-python/pytest-socket                                                             | 0.5.0; 0.6.0                                                                     |
 dev-python/vispy                                                                     | 0.13.0                                                                           | Doc building may have problems with sandbox permission
@@ -102,7 +102,7 @@ dev-python/asciitree             | 0.3.3                                        
 dev-python/azure-core            | 1.26.3                                            | Required by new msrest
 dev-python/bidict                | 0.22.0; 0.22.1                                    | Optional for yt
 dev-python/cmdstanpy             | 1.0.8; 1.1.0                                      | Test dependency for arviz
-dev-python/distributed           | 2023.5.1; 2023.6.0; 2023.6.1; 2023.7.0; 2023.7.1  | Optional for arviz and spectral-cube
+dev-python/distributed           | 2023.6.1; 2023.7.1                                | Optional for arviz and spectral-cube
 dev-python/eventlet              | 0.33.3                                            | Dropped by official portage. Required by firefly{,-viz}
 dev-python/f90nml                | 1.4.3                                             | Optional for yt
 dev-python/fastcache             | 1.1.0                                             | Optional for yt
