@@ -48,7 +48,7 @@ dev-python/azure-core 1.26.3: Microsoft Azure Core Library for Python
 dev-python/bidict 0.22.0 0.22.1: The bidirectional mapping library for Python
 dev-python/casa-formats-io 0.2.1: Code to handle I/O from/to data in CASA format Resources
 dev-python/ccdproc 1.3.0_p1 2.1.0 2.4.1: Astropy affiliated package for reducing optical/IR CCD data
-dev-python/cdflib 0.4.9 1.0.5: A python module for reading NASA's Common Data Format (cdf) files Resources
+dev-python/cdflib 0.4.9 1.1.0: A python module for reading NASA's Common Data Format (cdf) files Resources
 dev-python/cligj 0.7.2: Click params for commmand line interfaces to GeoJSON
 dev-python/cmdstanpy 1.0.8 1.1.0: Python interface to CmdStan
 dev-python/cmyt 1.3.0: A collection of Matplotlib colormaps from the yt project
@@ -70,7 +70,7 @@ dev-python/fastcache 1.1.0: C implementation of Python 3 functools.lru_cache
 dev-python/feedgen 0.9.0: Python module to generate ATOM feeds, RSS feeds and Podcasts
 dev-python/firefly 3.2.3: A browser-based particle visualization platform
 dev-python/firefly-vis 2.0.4: A browser-based particle visualization platform
-dev-python/flask-socketio 5.3.4: Socket.IO integration for Flask applications
+dev-python/flask-socketio 5.3.5: Socket.IO integration for Flask applications
 dev-python/fluidity 0.2.1: State machine implementation for Python objects
 dev-python/fusepy 3.0.1: Simple ctypes bindings for FUSE
 dev-python/ginga 4.1.0: A scientific image viewer and toolkit
@@ -172,7 +172,7 @@ dev-python/sphinx-changelog 1.3.0: A changelog renderer for sphinx
 dev-python/sphinx-click 4.4.0: Sphinx plugin to automatically document click-based applications
 dev-python/sphinx-codeautolink 0.15.0: Automatic links from code examples to reference documentation
 dev-python/sphinx-copybutton 0.5.2: Add a copy button to code blocks in Sphinx
-dev-python/sphinx-design 0.4.1: A sphinx extension for designing beautiful, view size responsive web components
+dev-python/sphinx-design 0.5.0: A sphinx extension for designing beautiful, view size responsive web components
 dev-python/sphinx-examples 0.0.5: A lightweight example directive to make it easy to demonstrate code / results
 dev-python/sphinx-inline-tabs 2023.4.21: Add inline tabbed content to your Sphinx documentation
 dev-python/sphinx-readable-theme 1.3.0: A clean and readable Sphinx theme with focus on autodoc
