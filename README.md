@@ -108,7 +108,7 @@ dev-python/f90nml                | 1.4.3                                        
 dev-python/fastcache             | 1.1.0                                             | Optional for yt
 dev-python/firefly-viz           | 2.0.4                                             | Optional for yt
 dev-python/firefly               | 3.2.3                                             | Optional for new yt
-dev-python/flask-socketio        | 5.3.4                                             | Optional for yt
+dev-python/flask-socketio        | 5.3.5                                             | Optional for yt
 dev-python/fusepy                | 3.0.1                                             | Optional for yt
 dev-python/heapdict              | 1.0.1                                             | Pulled in by zict and distributed
 dev-python/indexed\-{bzip2,zstd} | 1.5.0 / 1.6.0                                     | Optional for yt
@@ -156,7 +156,7 @@ dev-python/sphinx-changelog             | 1.3.0               |
 dev-python/sphinx-click                 | 4.4.0               |
 dev-python/sphinx-codeautolink          | 0.15.0              |
 dev-python/sphinx-copybutton            | 0.5.2               |
-dev-python/sphinx-design                | 0.4.1               |
+dev-python/sphinx-design                | 0.5.0               |
 dev-python/sphinx-examples              | 0.0.5               |
 dev-python/sphinx-inline-tabs           | 2023.4.21           |
 dev-python/sphinx-readable-theme        | 1.3.0               |
