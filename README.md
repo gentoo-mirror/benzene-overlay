@@ -103,7 +103,7 @@ dev-python/asciitree             | 0.3.3                                        
 dev-python/azure-core            | 1.26.3                                            | Required by new msrest
 dev-python/bidict                | 0.22.0; 0.22.1                                    | Optional for yt
 dev-python/cmdstanpy             | 1.0.8; 1.1.0                                      | Test dependency for arviz
-dev-python/distributed           | 2023.6.1; 2023.7.1                                | Optional for arviz and spectral-cube
+dev-python/distributed           | 2023.6.1; 2023.7.1; 2023.8.1                      | Optional for arviz and spectral-cube
 dev-python/eventlet              | 0.33.3                                            | Dropped by official portage. Required by firefly{,-viz}
 dev-python/f90nml                | 1.4.3                                             | Optional for yt
 dev-python/fastcache             | 1.1.0                                             | Optional for yt
@@ -144,7 +144,7 @@ Package name | Available version | Additional information
 dev-python/ablog                        | 0.11.4\_p1          |
 dev-python/jupyter-cache                | 0.6.1               |
 dev-python/jupyter-sphinx               | 0.4.0               |
-dev-python/jupytext                     | 1.14.7              | Build with wheel source to include Jupyter Lab Extenstion
+dev-python/jupytext                     | 1.15.0              | Build with wheel source to include Jupyter Lab Extenstion
 dev-python/myst-nb                      | 0.17.2              |
 dev-python/myst-parser                  | 0.18.1-r1           | Only for myst-nb that depends on old version
 dev-python/runnotebook                  | 0.3.1; (live)       |
@@ -153,7 +153,7 @@ dev-python/sphinx-asdf                  | 0.1.3; 0.1.4; 0.2.1 |
 dev-python/sphinx-autobuild             | 2022.3.14           |
 dev-python/sphinx-autosummary-accessors | 2023.4.0            |
 dev-python/sphinx-book-theme            | 0.2.0; 1.0.1        | `network-sandbox` FEATURE will be disabled if you enable `doc` flag for newest version.
-dev-python/sphinx-changelog             | 1.3.0               |
+dev-python/sphinx-changelog             | 1.4.1               |
 dev-python/sphinx-click                 | 4.4.0               |
 dev-python/sphinx-codeautolink          | 0.15.0              |
 dev-python/sphinx-copybutton            | 0.5.2               |
@@ -185,7 +185,7 @@ Package name | Available version        | Additional information
 dev-python/docstring-parser             | 0.15            | Optional dependency of pytkdocs
 dev-python/markdown-callouts            | 0.3.0           | mkdocstrings related (should be test depend)
 dev-python/markdown-exec                | 1.6.0           | mkdocstrings related (should be test depend)
-dev-python/mkdocs-coverage              | 0.2.7           | mkdocstrings related (should be test depend)
+dev-python/mkdocs-coverage              | 1.0.0           | mkdocstrings related (should be test depend)
 dev-python/mkdocs-gen-files             | 0.5.0           | mkdocstrings related (should be test depend)
 dev-python/mkdocs-git-committers-plugin | 1.1.2           | mkdocstrings related (should be test depend)
 dev-python/mkdocs-jupyter               | 0.24.2          |
