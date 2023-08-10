@@ -22,10 +22,10 @@ else
 	MY_P=${MY_PN}-${MY_PV}
 	S=${WORKDIR}/${MY_P}
 	SRC_URI="https://github.com/systemd/${MY_PN}/archive/v${MY_PV}/${MY_P}.tar.gz"
-	KEYWORDS="~alpha ~amd64 ~arm ~arm64 ~hppa ~ia64 ~m68k ~mips ~ppc ~ppc64 ~riscv ~s390 ~sparc ~x86"
+	KEYWORDS="~alpha ~amd64 ~arm ~arm64 ~hppa ~ia64 ~loong ~m68k ~mips ~ppc ~ppc64 ~riscv ~s390 ~sparc ~x86"
 fi
 
-inherit bash-completion-r1 linux-info meson-multilib ninja-utils pam python-single-r1
+inherit bash-completion-r1 linux-info meson-multilib ninja-utils pam python-any-r1
 
 inherit secureboot toolchain-funcs #systemd udev usr-ldscript
 
@@ -35,13 +35,12 @@ HOMEPAGE="http://systemd.io/"
 LICENSE="GPL-2 LGPL-2.1 MIT public-domain"
 SLOT="0/2"
 IUSE="
-	acl apparmor audit boot cgroup-hybrid cryptsetup curl +dns-over-tls elfutils
-	fido2 +gcrypt gnutls homed http idn importd iptables +kmod
+	acl apparmor audit cgroup-hybrid cryptsetup curl +dns-over-tls elfutils
+	fido2 +gcrypt gnuefi gnutls homed http idn importd iptables +kmod
 	+lz4 lzma +openssl pam pcre pkcs11 policykit pwquality qrcode
 	+resolvconf +seccomp selinux split-usr +sysv-utils test tpm vanilla xkb +zstd
 "
 REQUIRED_USE="
-	${PYTHON_REQUIRED_USE}
 	dns-over-tls? ( || ( gnutls openssl ) )
 	fido2? ( cryptsetup openssl )
 	homed? ( cryptsetup pam openssl )
@@ -91,16 +90,11 @@ COMMON_DEPEND="
 # Newer linux-headers needed by ia64, bug #480218
 DEPEND="${COMMON_DEPEND}
 	>=sys-kernel/linux-headers-${MINKV}
+	gnuefi? ( >=sys-boot/gnu-efi-3.0.2 )
 "
-
-PEFILE_DEPEND='dev-python/pefile[${PYTHON_USEDEP}]'
 
 # baselayout-2.2 has /run
 RDEPEND="${COMMON_DEPEND}
-	boot? (
-		${PYTHON_DEPS}
-		$(python_gen_cond_dep "${PEFILE_DEPEND}")
-	)
 	!sys-apps/systemd
 "
 
@@ -120,16 +114,14 @@ BDEPEND="
 	app-text/docbook-xml-dtd:4.5
 	app-text/docbook-xsl-stylesheets
 	dev-libs/libxslt:0
-	${PYTHON_DEPS}
-	$(python_gen_cond_dep "
-		dev-python/jinja[\${PYTHON_USEDEP}]
-		dev-python/lxml[\${PYTHON_USEDEP}]
-		boot? (
-			dev-python/pyelftools[\${PYTHON_USEDEP}]
-			test? ( ${PEFILE_DEPEND} )
-		)
-	")
+	$(python_gen_any_dep 'dev-python/jinja[${PYTHON_USEDEP}]')
+	$(python_gen_any_dep 'dev-python/lxml[${PYTHON_USEDEP}]')
 "
+
+python_check_deps() {
+	python_has_version "dev-python/jinja[${PYTHON_USEDEP}]" &&
+	python_has_version "dev-python/lxml[${PYTHON_USEDEP}]"
+}
 
 QA_FLAGS_IGNORED="usr/lib/systemd/boot/efi/.*"
 QA_EXECSTACK="usr/lib/systemd/boot/efi/*"
@@ -184,7 +176,7 @@ pkg_pretend() {
 }
 
 pkg_setup() {
-	use boot && secureboot_pkg_setup
+	use gnuefi && secureboot_pkg_setup
 }
 
 src_unpack() {
@@ -195,8 +187,6 @@ src_unpack() {
 src_prepare() {
 	local PATCHES=(
 		"${FILESDIR}/systemd-253-initrd-generators.patch"
-		"${FILESDIR}/systemd-254-dt_relr.patch"
-		"${FILESDIR}/systemd-254-varlink-allocate-heap.patch"
 	)
 
 	if ! use vanilla; then
@@ -245,14 +235,16 @@ multilib_src_configure() {
 		$(meson_native_use_bool acl)
 		$(meson_native_use_bool apparmor)
 		$(meson_native_use_bool audit)
-		$(meson_native_use_bool boot bootloader)
 		$(meson_native_use_bool cryptsetup libcryptsetup)
 		$(meson_native_use_bool curl libcurl)
 		$(meson_native_use_bool dns-over-tls dns-over-tls)
 		$(meson_native_use_bool elfutils)
 		$(meson_native_use_bool fido2 libfido2)
 		$(meson_use gcrypt)
+		$(meson_native_use_bool gnuefi gnu-efi)
 		$(meson_native_use_bool gnutls)
+		-Defi-includedir="${ESYSROOT}/usr/include/efi"
+		-Defi-libdir="${ESYSROOT}/usr/$(get_libdir)"
 		$(meson_native_use_bool homed)
 		$(meson_native_use_bool http microhttpd)
 		$(meson_native_use_bool idn)
@@ -324,11 +316,4 @@ multilib_src_install() {
 	dolib.so libsystemd.so{,*.0}
 
 	use split-usr && dosym ../../$(get_libdir)/libsystemd.so.0 /usr/$(get_libdir)/libsystemd.so
-}
-
-pkg_preinst() {
-	if ! use boot && has_version "sys-libs/libsystemd[gnuefi(-)]"; then
-		ewarn "The 'gnuefi' USE flag has been renamed to 'boot'."
-		ewarn "Make sure to enable the 'boot' USE flag if you use systemd-boot."
-	fi
 }
