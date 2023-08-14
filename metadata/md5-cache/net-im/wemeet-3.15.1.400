@@ -4,7 +4,7 @@ EAPI=8
 HOMEPAGE=https://meeting.tencent.com
 IDEPEND=dev-util/desktop-file-utils x11-misc/shared-mime-info
 INHERIT=unpacker qmake-utils desktop xdg
-IUSE=ibus wayland bundled-libs +bundled-qt pipewire
+IUSE=ibus wayland bundled-libs bundled-qt pipewire
 KEYWORDS=-* ~amd64 ~arm64
 LICENSE=TencentMeetingDeclare
 RDEPEND=dev-libs/nss x11-libs/libX11 !bundled-libs? ( app-crypt/p11-kit[libffi] || ( dev-libs/openssl-compat:1.1.1 <dev-libs/openssl-3 ) dev-libs/libbsd dev-libs/libgcrypt:0 dev-libs/libpcre:3 dev-libs/libxml2 dev-libs/openssl:= || ( media-libs/flac-compat:8.3.0 media-libs/flac:0/0 ) media-libs/libglvnd media-libs/libjpeg-turbo media-libs/libsndfile media-libs/libvorbis media-libs/libpulse[X,asyncns] media-libs/tiff-compat:4 sys-apps/dbus sys-apps/tcp-wrappers sys-libs/libunwind sys-libs/zlib[minizip] virtual/udev x11-libs/libXcomposite x11-libs/libXdamage x11-libs/libXext x11-libs/libXfixes x11-libs/libXinerama x11-libs/libXrandr x11-libs/libxkbcommon x11-libs/xcb-util ) !bundled-qt? ( dev-libs/icu >=dev-qt/designer-5.15.8:5 >=dev-qt/qtcore-5.15.8:5 >=dev-qt/qtconcurrent-5.15.8:5 >=dev-qt/qtdbus-5.15.8:5 >=dev-qt/qtdeclarative-5.15.8:5 >=dev-qt/qthelp-5.15.8:5 >=dev-qt/qtgui-5.15.8:5[X,eglfs,jpeg,ibus?,linuxfb,vnc,wayland?] >=dev-qt/qtlocation-5.15.8:5 >=dev-qt/qtnetwork-5.15.8:5 >=dev-qt/qtnetworkauth-5.15.8:5 >=dev-qt/qtopengl-5.15.8:5 >=dev-qt/qtprintsupport-5.15.8:5[cups] >=dev-qt/qtquickcontrols2-5.15.8:5 >=dev-qt/qtscript-5.15.8:5[scripttools] >=dev-qt/qtsql-5.15.8:5 >=dev-qt/qtscxml-5.15.8:5 >=dev-qt/qtsvg-5.15.8:5 >=dev-qt/qtspeech-5.15.8:5 >=dev-qt/qtx11extras-5.15.8:5 >=dev-qt/qtxml-5.15.8:5 >=dev-qt/qtxmlpatterns-5.15.8:5 >=dev-qt/qtwebchannel-5.15.8:5 >=dev-qt/qtwebengine-5.15.8:5 >=dev-qt/qtwebsockets-5.15.8:5 >=dev-qt/qtwebview-5.15.8:5 >=dev-qt/qtwidgets-5.15.8:5 ) pipewire? ( media-video/pipewire[sound-server] )
@@ -12,4 +12,4 @@ REQUIRED_USE=bundled-libs? ( bundled-qt )
 SLOT=0
 SRC_URI=amd64? ( https://updatecdn.meeting.qq.com/cos/174f137e819ba174c7be6949bb03e665/TencentMeeting_0300000000_3.15.1.400_x86_64_default.publish.deb -> wemeet-3.15.1.400_x86_64.deb ) arm64? ( https://updatecdn.meeting.qq.com/cos/a7642088c0e903f1e7ac25f416e7a8e9/TencentMeeting_0300000000_3.15.1.400_arm64_default.publish.deb -> wemeet-3.15.1.400_arm64.deb )
 _eclasses_=multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	0c8a0b0d318eb5d5180d114bd3f6592b	multilib	c19072c3cd7ac5cb21de013f7e9832e0	unpacker	aa6a4e924009232d8b78b31e932c30b5	qmake-utils	a8dd17b1d94586164f5e3fc12b1c6b81	desktop	021728fdc1b03b36357dbc89489e0f0d	xdg-utils	baea6080dd821f5562d715887954c9d3	xdg	4a14c5c24f121e7da66e5aab4a168c6e
-_md5_=f76ce182e11d48e225d0796761c95dba
+_md5_=dd7f73c5654d60d74ec7aa762cddd178
