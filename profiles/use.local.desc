@@ -147,6 +147,7 @@ dev-python/spectral-cube:viz - More dependency for visualization support
 dev-python/spectral-cube:viz_extra - Even more extra dependency for visualization support
 dev-python/specutils:intersphinx - Enable intersphinx while doc building.
 dev-python/sphinx-astropy:confv2 - To use the new pydata-sphinx-theme with sphinx_astropy.conf.v2
+dev-python/sphinx-automodapi:rtd - Extra rtd support
 dev-python/sphinx-book-theme:code_style - Extra code_style support for development
 dev-python/sphinx-book-theme:doc - Build extra documentation. network-sandbox will be disabled as doc building needs online data.
 dev-python/sphinx-codeautolink:ipython - Optional ipython support
