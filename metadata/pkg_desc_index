@@ -1,5 +1,5 @@
 app-i18n/fcitx-table-other 0.2.4: Provides some other tables for Fcitx
-app-office/wps-office 11.1.0.11698 11.1.0.11701: WPS Office is an office productivity suite
+app-office/wps-office 11.1.0.11698 11.1.0.11704: WPS Office is an office productivity suite
 app-pda/i4tools 1.0.038 1.0.038-r1 1.0.055 1.0.055-r1: A third-party tool for managing Apple (iOS) devices
 app-text/dehelper 12.7.1: Proprietary German dictionary software for linux
 app-text/eshelper 12.7.1: Proprietary Spanish dictionary software for linux
@@ -173,7 +173,7 @@ dev-python/sphinx-automodapi 0.12 0.16.0: Sphinx extension for generating API do
 dev-python/sphinx-autosummary-accessors 2023.4.0: Sphinx autosummary extension to properly format pandas or xarray accessors
 dev-python/sphinx-book-theme 0.2.0 1.0.1: A clean book theme for scientific explanations and documentation with Sphinx
 dev-python/sphinx-changelog 1.4.1: A changelog renderer for sphinx
-dev-python/sphinx-click 4.4.0: Sphinx plugin to automatically document click-based applications
+dev-python/sphinx-click 5.0.1: Sphinx plugin to automatically document click-based applications
 dev-python/sphinx-codeautolink 0.15.0: Automatic links from code examples to reference documentation
 dev-python/sphinx-copybutton 0.5.2: Add a copy button to code blocks in Sphinx
 dev-python/sphinx-design 0.5.0: A sphinx extension for designing beautiful, view size responsive web components
@@ -213,7 +213,7 @@ media-video/gnome-mplayer 1.0.9-r1: A GTK+ interface to MPlayer
 net-im/electron-qq-bin 1.5.7 2.1.4: A cross-platform QQ made with Electron (Deprecated. Moved to Icalingua)
 net-im/electron-wechat-bin 1.0.0: For creating the most usable Linux/MacOS WeChat client. A.k.a. Freechat
 net-im/electronic-wechat-bin 2.3.1 2.3.2: A better WeChat on macOS and Linux. Built with Electron
-net-im/icalingua++-bin 2.7.7 2.9.13 2.9.21: A Linux client for QQ and more (forked branch). Previously called Electron QQ
+net-im/icalingua++-bin 2.7.7 2.9.13 2.10.0: A Linux client for QQ and more (forked branch). Previously called Electron QQ
 net-im/wemeet 2.8.0.3 3.10.0.401 3.15.1.400: Wemeet - Tencent Video Conferencing. A.k.a Tencent Meeting
 net-libs/libaxon-bin 1.0.2: Nodejs backend for purple-oicq
 net-misc/baidunetdisk 3.0.1 4.3.0 4.17.7: Baidu Net Disk is a cloud storage client (Linux Version)
