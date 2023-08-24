@@ -145,7 +145,7 @@ dev-python/pytest-relaxed 2.0.1: Relaxed test discovery/organization for pytest
 dev-python/pytest-remotedata 0.4.0: Pytest plugin used for controlling access to data files hosted online
 dev-python/pytest-repeat 0.9.1: Pytest plugin for repeating test execution
 dev-python/pytest-socket 0.5.0 0.6.0: Pytest Plugin to disable socket calls during tests
-dev-python/python-jenkins 1.8.0 9999: Python bindings for the remote Jenkins API
+dev-python/python-jenkins 1.8.1 9999: Python bindings for the remote Jenkins API
 dev-python/python-socketio 5.8.0: Python Socket.IO server and client
 dev-python/python-xz 0.5.0: Pure Python implementation of the XZ file format with random access support
 dev-python/pytkdocs 0.16.1: Load Python objects documentation
