@@ -114,7 +114,8 @@ dev-python/firefly               | 3.2.3                                        
 dev-python/flask-socketio        | 5.3.5                                             | Optional for yt
 dev-python/fusepy                | 3.0.1                                             | Optional for yt
 dev-python/heapdict              | 1.0.1                                             | Pulled in by zict and distributed
-dev-python/indexed\-{bzip2,zstd} | 1.5.0 / 1.6.0                                     | Optional for yt
+dev-python/indexed\-{bzip2,zstd} | 1.5.0 / 1.6.0                                     | Optional for yt (ratarmount{,core})
+dev-python/rapidgzip             | 0.10.0                                            | Optional for new ratarmount{,core}
 dev-python/libconf               | 2.0.1                                             | Optional for yt
 dev-python/miniballcpp           | 0.2.3                                             | Optional for yt
 dev-python/msrest                | 0.7.1                                             | SunPy, h5pyd related
@@ -123,10 +124,10 @@ dev-python/numcodecs             | 0.11.0                                       
 dev-python/pykdtree              | 1.3.7\_p0                                         | Optional for yt
 dev-python/pytest-golden         | 0.2.2                                             | Test dependency for mkdocstrings related packages
 dev-python/pytest-repeat         | 0.9.1                                             | Test dependency for new zict
-dev-python/python-socketio       | 5.8.0                                             | Optional for yt
+dev-python/python-socketio       | 5.9.0                                             | Optional for yt
 dev-python/python-xz             | 0.5.0                                             | Optional for yt
 dev-python/rasterio              | 1.3.8                                             | Optional for photutils. Dependencies are not all listed in the table
-dev-python/ratarmount            | 0.13.0                                            | Optional for yt. Dependency ratarmountcore is also included in this overlay but not listed in the table
+dev-python/ratarmount            | 0.14.0                                            | Optional for yt. Dependency ratarmountcore is also included in this overlay but not listed in the table
 dev-python/s3fs                  | 2023.6.0                                          | Test dependency for zarr and astropy>=5.2
 dev-python/siosocks              | 0.3.0                                             | Optional for aioftp
 dev-python/colorspacious         | 1.1.2                                             | Pulled in by cmyt. Dropped by official portage
