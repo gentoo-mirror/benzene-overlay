@@ -1,0 +1,10 @@
+BDEPEND=app-arch/unzip
+DEFINED_PHASES=install
+DESCRIPTION=The terminal utility for Baidu Network Disk (Golang Version).
+EAPI=8
+HOMEPAGE=https://github.com/qjfoidnh/BaiduPCS-Go
+LICENSE=Apache-2.0
+RDEPEND=!net-misc/baidupcs-go
+SLOT=0
+SRC_URI=amd64? ( https://github.com/qjfoidnh/BaiduPCS-Go/releases/download/v3.9.5-beta/BaiduPCS-Go-v3.9.5-beta-linux-amd64.zip ) x86? ( https://github.com/qjfoidnh/BaiduPCS-Go/releases/download/v3.9.5-beta/BaiduPCS-Go-v3.9.5-beta-linux-386.zip ) arm64? ( https://github.com/qjfoidnh/BaiduPCS-Go/releases/download/v3.9.5-beta/BaiduPCS-Go-v3.9.5-beta-linux-arm64.zip ) arm? ( https://github.com/qjfoidnh/BaiduPCS-Go/releases/download/v3.9.5-beta/BaiduPCS-Go-v3.9.5-beta-linux-arm.zip )
+_md5_=c918179b898c37ef1b4c3e056eb9256a
