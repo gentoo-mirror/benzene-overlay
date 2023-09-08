@@ -125,7 +125,7 @@ BDEPEND="
 		dev-python/jinja[\${PYTHON_USEDEP}]
 		dev-python/lxml[\${PYTHON_USEDEP}]
 		boot? (
-			dev-python/pyelftools[\${PYTHON_USEDEP}]
+			>=dev-python/pyelftools-0.30[\${PYTHON_USEDEP}]
 			test? ( ${PEFILE_DEPEND} )
 		)
 	")
@@ -195,7 +195,6 @@ src_unpack() {
 src_prepare() {
 	local PATCHES=(
 		"${FILESDIR}/systemd-253-initrd-generators.patch"
-		"${FILESDIR}/systemd-254.1-tmpfiles-setup-dev-early.patch"
 	)
 
 	if ! use vanilla; then
