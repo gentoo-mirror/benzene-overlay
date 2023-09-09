@@ -191,10 +191,10 @@ dev-python/sphinxcontrib-youtube 1.2.0: A Sphinx extension to embed videos from 
 dev-python/sphinxext-opengraph 0.8.2: Sphinx extension to generate unique OpenGraph metadata
 dev-python/starlink-pyast 3.15.4: Python interface to the Starlink AST library
 dev-python/sunpy 5.0.0: Python library for solar physics
-dev-python/sunpy-sphinx-theme 1.2.42: The sphinx theme for the SunPy website and documentation
+dev-python/sunpy-sphinx-theme 1.2.42 2.0.1: The sphinx theme for the SunPy website and documentation
 dev-python/toml 0.10.2-r1: Python library for handling TOML files
 dev-python/unyt 2.9.5: Handle, manipulate, and convert data with units in Python
-dev-python/vispy 0.13.0: Interactive visualization in Python
+dev-python/vispy 0.13.0 0.14.0: Interactive visualization in Python
 dev-python/xarray-datatree 0.0.12: Hierarchical tree-like data structures for xarray
 dev-python/xarray-einstats 0.6.0: Stats, linear algebra and einops for xarray
 dev-python/yt 4.0.5 4.1.4 4.2.2: An analysis and visualization toolkit for volumetric data
@@ -235,7 +235,7 @@ sci-astronomy/healpix 3.82: Hierarchical Equal Area isoLatitude Pixelization of 
 sci-astronomy/topcat 4.8 4.8.8: Interactive graphical viewer and editor for astronomical tables
 sci-libs/libsharp 1.0.0 1.0.0_p20220728: Library for fast spherical harmonic transforms
 sys-libs/elogind-libsystemd 0: Provide standalone libsystemd.so without systemd by linking libelogind.so
-sys-libs/libsystemd 253.3 253.4 253.5 253.5-r1 253.6 253.7 253.8 254.1-r2 254.2 9999: A standalone package to provide libsystemd.so without systemd
+sys-libs/libsystemd 253.3 253.4 253.5 253.5-r1 253.6 253.7 253.8 253.10 254.1-r2 254.3 9999: A standalone package to provide libsystemd.so without systemd
 virtual/libsystemd 0: Virtual for libsystemd.so
 www-plugins/adobe-flash 32.0.0.465: Adobe Flash Player
 x11-libs/lain 9999 9999-r100: Layouts, asynchronous widgets and utilities for Awesome WM
