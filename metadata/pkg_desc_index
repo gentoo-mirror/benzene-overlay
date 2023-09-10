@@ -177,6 +177,7 @@ dev-python/sphinx-book-theme 0.2.0 1.0.1: A clean book theme for scientific expl
 dev-python/sphinx-changelog 1.4.1: A changelog renderer for sphinx
 dev-python/sphinx-click 5.0.1: Sphinx plugin to automatically document click-based applications
 dev-python/sphinx-codeautolink 0.15.0: Automatic links from code examples to reference documentation
+dev-python/sphinx-contributors 0.2.7: Contributors extension for Sphinx
 dev-python/sphinx-copybutton 0.5.2: Add a copy button to code blocks in Sphinx
 dev-python/sphinx-design 0.5.0: A sphinx extension for designing beautiful, view size responsive web components
 dev-python/sphinx-examples 0.0.5: A lightweight example directive to make it easy to demonstrate code / results
@@ -184,7 +185,6 @@ dev-python/sphinx-inline-tabs 2023.4.21: Add inline tabbed content to your Sphin
 dev-python/sphinx-readable-theme 1.3.0: A clean and readable Sphinx theme with focus on autodoc
 dev-python/sphinx-thebe 0.2.1: Integrate interactive code blocks into your documentation with Thebe and Binder
 dev-python/sphinx-togglebutton 0.3.1: Toggle page content and collapse admonitions in Sphinx
-dev-python/sphinx_contributors 0.2.7: Contributors extension for Sphinx
 dev-python/sphinx_mdinclude 0.5.3: Markdown extension for Sphinx
 dev-python/sphinxcontrib-srclinks 0.2.4: Add source, edit, history, annotate links to GitHub or BitBucket
 dev-python/sphinxcontrib-youtube 1.2.0: A Sphinx extension to embed videos from YouTube
@@ -215,7 +215,7 @@ media-video/gnome-mplayer 1.0.9-r1: A GTK+ interface to MPlayer
 net-im/electron-qq-bin 1.5.7 2.1.4: A cross-platform QQ made with Electron (Deprecated. Moved to Icalingua)
 net-im/electron-wechat-bin 1.0.0: For creating the most usable Linux/MacOS WeChat client. A.k.a. Freechat
 net-im/electronic-wechat-bin 2.3.1 2.3.2: A better WeChat on macOS and Linux. Built with Electron
-net-im/icalingua++-bin 2.7.7 2.9.13 2.10.2: A Linux client for QQ and more (forked branch). Previously called Electron QQ
+net-im/icalingua++-bin 2.7.7 2.9.13 2.10.3: A Linux client for QQ and more (forked branch). Previously called Electron QQ
 net-im/wemeet 2.8.0.3 3.10.0.401 3.15.1.401 3.15.1.402: Wemeet - Tencent Video Conferencing. A.k.a Tencent Meeting
 net-libs/libaxon-bin 1.0.2: Nodejs backend for purple-oicq
 net-misc/baidunetdisk 3.0.1 4.3.0 4.17.7: Baidu Net Disk is a cloud storage client (Linux Version)
