@@ -28,7 +28,7 @@ dev-python/drms                | 0.6.4                                        | 
 dev-python/echo                | 0.8.0                                        | Glueviz releated.
 dev-python/extension-helpers   | 1.1.0                                        |
 dev-python/fast-histogram      | 0.11                                         | Glueviz releated.
-dev-python/ginga               | 4.0.1                                        | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building.
+dev-python/ginga               | 4.1.1                                        | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building.
 dev-python/glueviz             | 1.2.0-r1 (glue-core: 1.13.1; glue-qt: 0.1.0) | Meta package, core package and qt package versions are all shown.
 dev-python/glue-vispy-viewers  | 1.1.0                                        |
 dev-python/gwcs                | 0.17.1; 0.18.3                               | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building.
@@ -62,4 +62,4 @@ dev-python/spectral-cube       | 0.6.2                                        | 
 dev-python/specutils           | 1.1.1; 1.11.0                                | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
 dev-python/starlink-pyast      | 0.2.1                                        | Starlink WCS library for ginga
 dev-python/sunpy               | 5.0.0                                        | Testing and doc building are really hard to run, so not supported right now.
-dev-python/sunpy-sphinx-theme  | 1.2.42; 2.0.1                                |
+dev-python/sunpy-sphinx-theme  | 1.2.42; 2.0.2                                |
