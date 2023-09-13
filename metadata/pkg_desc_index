@@ -190,7 +190,7 @@ dev-python/sphinxcontrib-srclinks 0.2.4: Add source, edit, history, annotate lin
 dev-python/sphinxcontrib-youtube 1.2.0: A Sphinx extension to embed videos from YouTube
 dev-python/sphinxext-opengraph 0.8.2: Sphinx extension to generate unique OpenGraph metadata
 dev-python/starlink-pyast 3.15.4: Python interface to the Starlink AST library
-dev-python/sunpy 5.0.0: Python library for solar physics
+dev-python/sunpy 5.0.1: Python library for solar physics
 dev-python/sunpy-sphinx-theme 1.2.42 2.0.2: The sphinx theme for the SunPy website and documentation
 dev-python/toml 0.10.2-r1: Python library for handling TOML files
 dev-python/unyt 2.9.5: Handle, manipulate, and convert data with units in Python
