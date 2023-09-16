@@ -38,7 +38,7 @@ dev-python/astlib                                                               
 dev-python/corner                                                                    | 2.2.2                                                                                   |
 dev-python/exifread                                                                  | 3.0.0                                                                                   |
 dev-python/glymur                                                                    | 0.12.0; 0.12.6\_p1; 0.12.8                                                              |
-dev-python/hsluv                                                                     | 5.0.3                                                                                   |
+dev-python/hsluv                                                                     | 5.0.4                                                                                   |
 dev-python/oldest-supported-numpy                                                    | 2023.8.3                                                                                | The numpy version limitations are changed from `==` into `>=`. If you have better solution, just bring issues or pull requests.
 dev-python/parfive                                                                   | 1.5.1; 2.0.2                                                                            |
 dev-python/PyQt5                                                                     | 5.15.9-r1                                                                               | Add `webkit` USE flag (dropped by official portage) to get **youdao-dict** in this overlay work
@@ -166,7 +166,7 @@ dev-python/sphinx-readable-theme        | 1.3.0               |
 dev-python/sphinx-thebe                 | 0.2.1               |
 dev-python/sphinx-togglebutton          | 0.3.1               |
 dev-python/sphinx-contributors          | 0.2.7               |
-dev-python/sphinx\_mdinclude            | 0.5.3               |
+dev-python/sphinx-mdinclude             | 0.5.3               |
 dev-python/sphinxcontrib-srclink        | 0.2.4               |
 dev-python/sphinxcontrib-youtube        | 1.2.0               | `network-sandbox` FEATURE will be disabled if you enable demo videos for doc building.
 dev-python/sphinxext-opengraph          | 0.8.2               |
