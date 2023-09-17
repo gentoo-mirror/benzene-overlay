@@ -50,7 +50,7 @@ dev-python/azure-core 1.26.3: Microsoft Azure Core Library for Python
 dev-python/bidict 0.22.0 0.22.1: The bidirectional mapping library for Python
 dev-python/casa-formats-io 0.2.1: Code to handle I/O from/to data in CASA format Resources
 dev-python/ccdproc 1.3.0_p1 2.1.0 2.4.1: Astropy affiliated package for reducing optical/IR CCD data
-dev-python/cdflib 0.4.9 1.1.1 1.1.2: A python module for reading NASA's Common Data Format (cdf) files Resources
+dev-python/cdflib 0.4.9 1.1.1 1.2.0: A python module for reading NASA's Common Data Format (cdf) files Resources
 dev-python/cligj 0.7.2: Click params for commmand line interfaces to GeoJSON
 dev-python/cmdstanpy 1.0.8 1.1.0: Python interface to CmdStan
 dev-python/cmyt 1.3.1: A collection of Matplotlib colormaps from the yt project
@@ -81,7 +81,7 @@ dev-python/glue-qt 0.2.0: Multidimensional data visualization across files
 dev-python/glue-vispy-viewers 1.1.0: 3-d data viewers for glue based on VisPy
 dev-python/glueviz 1.2.0-r1: Meta-package for glue and plugin packages
 dev-python/glymur 0.12.0 0.12.6_p1 0.12.8: Tools for accessing JPEG2000 files
-dev-python/gwcs 0.17.1 0.18.3: Generalized World Coordinate System
+dev-python/gwcs 0.17.1 0.19.0: Generalized World Coordinate System
 dev-python/h5netcdf 1.2.0: Pythonic interface to netCDF4 via h5py
 dev-python/h5pyd 0.12.2 0.14.1 0.15.1: h5py distributed - Python client library for HDF Rest API
 dev-python/healpy 1.16.5: Python wrapper for healpix
