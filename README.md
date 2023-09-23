@@ -169,7 +169,7 @@ dev-python/sphinx-togglebutton          | 0.3.1               |
 dev-python/sphinx-contributors          | 0.2.7               |
 dev-python/sphinx-mdinclude             | 0.5.3               |
 dev-python/sphinxcontrib-srclink        | 0.2.4               |
-dev-python/sphinxcontrib-youtube        | 1.2.0; 1.4.0        | `network-sandbox` FEATURE will be disabled if you enable demo videos for doc building in version 1.2.0.
+dev-python/sphinxcontrib-youtube        | 1.2.0; 1.4.1        | `network-sandbox` FEATURE will be disabled if you enable demo videos for doc building in version 1.2.0.
 dev-python/sphinxext-opengraph          | 0.8.2               |
 dev-python/dask-sphinx-theme            | 3.0.5               |
 dev-python/sunpy-sphinx-theme           | 1.2.42; 2.0.2       |
@@ -192,7 +192,7 @@ dev-python/mkdocs-coverage              | 1.0.0           | mkdocstrings related
 dev-python/mkdocs-git-committers-plugin | 1.2.0           | mkdocstrings related (should be test depend)
 dev-python/mkdocs-jupyter               | 0.24.2          |
 dev-python/mkdocs-literate-nav          | 0.6.1           | mkdocstrings related (should be test depend)
-dev-python/mkdocs-section-index         | 0.3.7           | mkdocstrings related (should be test depend)
+dev-python/mkdocs-section-index         | 0.3.8           | mkdocstrings related (should be test depend)
 dev-python/mkdocstrings-crystal         | 0.3.5; 0.3.6    |
 dev-python/mkdocstrings-python-legacy   | 0.2.3           |
 dev-python/pytkdocs                     | 0.16.1          | Dependency of mkdocstrings-python-legacy
