@@ -9,5 +9,5 @@ RDEPEND=!net-misc/baidupcs-go-bin
 RESTRICT=strip
 SLOT=0
 SRC_URI=https://github.com/qjfoidnh/BaiduPCS-Go/archive/v3.9.5-beta.tar.gz -> baidupcs-go-3.9.5_beta.tar.gz https://github.com/Universebenzene/ebuild-vendors/archive/refs/tags/baidupcs-go-3.9.5_beta.tar.gz -> baidupcs-go-3.9.5_beta-vendor.tar.gz
-_eclasses_=edo	c0eb9cbe6b0bd01fcb4918f12598a4d3	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	862d337d98edb576796827be2c6b11ca	multilib	c19072c3cd7ac5cb21de013f7e9832e0	go-module-vendor	198afcc7f4a340ecc13ecafc7febbf4d
+_eclasses_=edo	c0eb9cbe6b0bd01fcb4918f12598a4d3	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	fbbbc99d10168de2926e06da7169b8dc	multilib	c19072c3cd7ac5cb21de013f7e9832e0	go-module-vendor	198afcc7f4a340ecc13ecafc7febbf4d
 _md5_=0e9e69dfaef07be104daa13dadec14bd
