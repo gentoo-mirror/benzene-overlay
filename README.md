@@ -39,7 +39,7 @@ dev-python/corner                                                               
 dev-python/exifread                                                                  | 3.0.0                                                                                              |
 dev-python/glymur                                                                    | 0.12.0; 0.12.6\_p1; 0.12.8                                                                         |
 dev-python/hsluv                                                                     | 5.0.4                                                                                              |
-[dev-python/memray](https://bloomberg.github.io/memray)                              | [1.9.1](https://github.com/Universebenzene/benzene-overlay/blob/master/dev-python/memray/memray-1.9.1.ebuild) | **BINARY WHEEL VERSIONS** are used to avoid npm building
+[dev-python/memray](https://bloomberg.github.io/memray)                              | [1.10.0](https://github.com/Universebenzene/benzene-overlay/blob/master/dev-python/memray/memray-1.10.0.ebuild)                                            | **BINARY WHEEL VERSIONS** are used to avoid npm building
 dev-python/oldest-supported-numpy                                                    | 2023.8.3                                                                                           | The numpy version limitations are changed from `==` into `>=`. If you have better solution, just bring issues or pull requests.
 dev-python/parfive                                                                   | 1.5.1; 2.0.2                                                                                       |
 dev-python/PyQt5                                                                     | 5.15.9-r1                                                                                          | Add `webkit` USE flag (dropped by official portage) to get **youdao-dict** in this overlay work
@@ -123,14 +123,14 @@ dev-python/libconf               | 2.0.1                                        
 dev-python/miniballcpp           | 0.2.3                                             | Optional for yt
 dev-python/msrest                | 0.7.1                                             | SunPy, h5pyd related
 dev-python/msrestazure           | 0.6.4                                             | SunPy, h5pyd related
-dev-python/numcodecs             | 0.11.0                                            | Pulled in by zarr
+dev-python/numcodecs             | 0.12.0                                            | Pulled in by zarr
 dev-python/pykdtree              | 1.3.9                                             | Optional for yt
 dev-python/pytest-repeat         | 0.9.2                                             | Test dependency for new zict
 dev-python/python-socketio       | 5.9.0                                             | Optional for yt
 dev-python/python-xz             | 0.5.0                                             | Optional for yt
 dev-python/rasterio              | 1.3.8                                             | Optional for photutils. Dependencies are not all listed in the table
 dev-python/ratarmount            | 0.14.0                                            | Optional for yt. Dependency ratarmountcore is also included in this overlay but not listed in the table
-dev-python/s3fs                  | 2023.6.0; 2023.9.0; 2023.9.1; 2023.9.2            | Test dependency for zarr and astropy>=5.2
+dev-python/s3fs                  | 2023.9.2                                          | Test dependency for zarr and astropy>=5.2
 dev-python/siosocks              | 0.3.0                                             | Optional for aioftp
 dev-python/colorspacious         | 1.1.2                                             | Pulled in by cmyt. Dropped by official portage
 dev-python/cmyt                  | 2.0.0                                             | Pulled in by yt
@@ -147,7 +147,7 @@ dev-python/zict                  | 2.2.0; 3.0.0                                 
 Package name | Available version | Additional information
 ------------ | :---------------: | ----------------------
 dev-python/sphinx                       | 5.1.1               | For old myst-parser and myst-nb
-dev-python/ablog                        | 0.11.5              |
+dev-python/ablog                        | 0.11.6              |
 dev-python/jupyter-cache                | 0.6.1               |
 dev-python/jupyter-sphinx               | 0.4.0               |
 dev-python/jupytext                     | 1.15.2              | Build with wheel source to include Jupyter Lab Extenstion
