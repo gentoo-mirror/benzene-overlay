@@ -107,7 +107,7 @@ dev-python/miniballcpp 0.2.3: Smallest Enclosing Balls of Points
 dev-python/mistune 0.8.4-r1: The fastest markdown parser in pure Python
 dev-python/mkdocs-coverage 1.0.0: MkDocs plugin to integrate your coverage HTML report into your site
 dev-python/mkdocs-git-committers-plugin 1.2.0: An MkDocs plugin to create a list of contributors on the page
-dev-python/mkdocs-jupyter 0.24.5: Use Jupyter in mkdocs websites
+dev-python/mkdocs-jupyter 0.24.6: Use Jupyter in mkdocs websites
 dev-python/mkdocs-literate-nav 0.6.1: MkDocs plugin to specify the navigation in Markdown instead of YAML
 dev-python/mkdocs-section-index 0.3.8: MkDocs plugin to allow clickable sections that lead to an index page
 dev-python/mkdocstrings-crystal 0.3.5 0.3.6: Crystal language doc generator for mkdocstrings
@@ -146,7 +146,7 @@ dev-python/pytest-remotedata 0.4.1: Pytest plugin used for controlling access to
 dev-python/pytest-repeat 0.9.3: Pytest plugin for repeating test execution
 dev-python/pytest-socket 0.5.0 0.6.0: Pytest Plugin to disable socket calls during tests
 dev-python/python-jenkins 1.8.1 9999: Python bindings for the remote Jenkins API
-dev-python/python-socketio 5.9.0: Python Socket.IO server and client
+dev-python/python-socketio 5.9.0 5.10.0: Python Socket.IO server and client
 dev-python/python-xz 0.5.0: Pure Python implementation of the XZ file format with random access support
 dev-python/pytkdocs 0.16.1: Load Python objects documentation
 dev-python/pyvo 1.2.1 1.4.2: Astropy affiliated package for accessing Virtual Observatory data and services
@@ -198,7 +198,7 @@ dev-python/unyt 2.9.5: Handle, manipulate, and convert data with units in Python
 dev-python/vispy 0.13.0 0.14.1: Interactive visualization in Python
 dev-python/xarray-datatree 0.0.12: Hierarchical tree-like data structures for xarray
 dev-python/xarray-einstats 0.6.0: Stats, linear algebra and einops for xarray
-dev-python/yt 4.0.5 4.1.4 4.2.2: An analysis and visualization toolkit for volumetric data
+dev-python/yt 4.0.5 4.1.4 4.2.2 4.3.0: An analysis and visualization toolkit for volumetric data
 dev-python/zarr 2.16.1: An implementation of chunked, compressed, N-dimensional arrays for Python
 dev-python/zict 2.2.0 3.0.0: Mutable mapping tools
 dev-qt/qtwebkit 5.212.0_pre20200309-r1 5.212.0_pre20200309-r2: WebKit rendering library for the Qt5 framework (deprecated)
