@@ -46,7 +46,7 @@ dev-python/pytest-cython                                                        
 dev-python/pytest-socket                                                             | 0.5.0; 0.6.0                                                                                       |
 dev-python/python-jenkins                                                            | 1.8.1; (live)                                                                                      | Dependency multi\_key\_dict is also included
 dev-python/vispy                                                                     | 0.13.0; 0.14.1                                                                                     | Doc building may have problems with sandbox permission
-dev-python/yt                                                                        | 4.0.5; 4.1.4; 4.2.2                                                                                | Full doc building needs huge amount of data, so cannot complete locally.
+dev-python/yt                                                                        | 4.0.5; 4.1.4; 4.2.2; 4.3.0                                                                         | Full doc building needs huge amount of data, so cannot complete locally.
 dev-python/zarr                                                                      | 2.16.1                                                                                             |
 dev-qt/qtwebkit                                                                      | 5.212.0\_pre20200309-{r1,r2}                                                                       | Add [patch](https://github.com/Universebenzene/benzene-overlay/blob/master/dev-qt/qtwebkit/files/qtwebkit-5.212.0_pre20200309-position.patch) to get **youdao-dict** in this overlay work (the -r2 is a test for upgrade EAPI to 8, and might be a little buggy with youdao-dict.)
 [dev-util/micromamba{,-bin}](https://mamba.readthedocs.io)                           | [1.5.1](https://github.com/Universebenzene/benzene-overlay/blob/master/dev-util/micromamba/micromamba-1.5.1.ebuild)                                         | [gentoo-zh](https://github.com/microcai/gentoo-zh) (for `sys-libs/libsolv`) and [mva](https://github.com/msva/mva-overlay) (for `dev-cpp/tl-expected`) overlays are needed for building the source version.
@@ -127,7 +127,7 @@ dev-python/msrestazure           | 0.6.4                                        
 dev-python/numcodecs             | 0.12.0                                            | Pulled in by zarr
 dev-python/pykdtree              | 1.3.9                                             | Optional for yt
 dev-python/pytest-repeat         | 0.9.3                                             | Test dependency for new zict
-dev-python/python-socketio       | 5.9.0                                             | Optional for yt
+dev-python/python-socketio       | 5.9.0; 5.10.0                                     | Optional for yt
 dev-python/python-xz             | 0.5.0                                             | Optional for yt
 dev-python/rasterio              | 1.3.8; 1.3.8\_p2                                  | Optional for photutils. Dependencies are not all listed in the table
 dev-python/ratarmount            | 0.14.0                                            | Optional for yt. Dependency ratarmountcore is also included in this overlay but not listed in the table
@@ -193,7 +193,7 @@ dev-python/markdown-callouts            | 0.3.0           | mkdocstrings related
 dev-python/markdown-exec                | 1.6.0           | mkdocstrings related (should be test depend)
 dev-python/mkdocs-coverage              | 1.0.0           | mkdocstrings related (should be test depend)
 dev-python/mkdocs-git-committers-plugin | 1.2.0           | mkdocstrings related (should be test depend)
-dev-python/mkdocs-jupyter               | 0.24.5          |
+dev-python/mkdocs-jupyter               | 0.24.6          |
 dev-python/mkdocs-literate-nav          | 0.6.1           | mkdocstrings related (should be test depend)
 dev-python/mkdocs-section-index         | 0.3.8           | mkdocstrings related (should be test depend)
 dev-python/mkdocstrings-crystal         | 0.3.5; 0.3.6    |
