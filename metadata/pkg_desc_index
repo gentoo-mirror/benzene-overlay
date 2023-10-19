@@ -35,7 +35,7 @@ dev-python/asdf-transform-schemas 0.2.2 0.3.0: ASDF schemas for transforms
 dev-python/asdf-unit-schemas 0.1.0: ASDF schemas for units
 dev-python/asdf-wcs-schemas 0.1.1 0.2.0: World Coordinate System (WCS) ASDF schemas
 dev-python/assay 9999: Attempt to write a Python testing framework I can actually stand
-dev-python/astlib 0.11.3 0.11.9: Python astronomy modules for image and coordinate manipulation
+dev-python/astlib 0.11.3 0.11.10: Python astronomy modules for image and coordinate manipulation
 dev-python/astrodendro 0.2.0-r2 9999: Python package for computation of astronomical dendrograms
 dev-python/astroml 0.4.1 1.0.2_p1: Python Machine Learning library for astronomy
 dev-python/astroplan 0.6 0.9.1: Observation planning package for astronomers
