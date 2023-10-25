@@ -2,6 +2,7 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
+app-editors/formiko:vim - Vim editor support (formiko-vim command) via app-editors/gvim
 app-office/wps-office:cn - Use CN version of WPS Office (including WPS Cloud, WPS account login and other functions)
 app-office/wps-office:l10n_zh-HK - Chinese (Traditional, Hong Kong S.A.R.)
 app-office/wps-office:l10n_zh-MO - Chinese (Traditional, Macao S.A.R.)
