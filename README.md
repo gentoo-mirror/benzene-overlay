@@ -40,7 +40,7 @@ dev-python/exifread                                                             
 dev-python/glymur                                                                    | 0.12.0; 0.12.6\_p1; 0.12.8                                                                         |
 dev-python/hsluv                                                                     | 5.0.4                                                                                              |
 [dev-python/memray](https://bloomberg.github.io/memray)                              | [1.10.0](https://github.com/Universebenzene/benzene-overlay/blob/master/dev-python/memray/memray-1.10.0.ebuild)                                            | **BINARY WHEEL VERSIONS** are used to avoid npm building
-dev-python/oldest-supported-numpy                                                    | 2023.8.3                                                                                           | The numpy version limitations are changed from `==` into `>=`. If you have better solution, just bring issues or pull requests.
+dev-python/oldest-supported-numpy                                                    | 2023.10.25                                                                                         | The numpy version limitations are changed from `==` into `>=`. If you have better solution, just bring issues or pull requests.
 dev-python/parfive                                                                   | 1.5.1; 2.0.2                                                                                       |
 dev-python/PyQt5                                                                     | 5.15.9-r1; 5.15.10                                                                                 | Add `webkit` USE flag (dropped by official portage) to get **youdao-dict** in this overlay work
 dev-python/pytest-cython                                                             | 0.2.1                                                                                              |
@@ -197,7 +197,7 @@ dev-python/mkdocs-git-committers-plugin | 1.2.0           | mkdocstrings related
 dev-python/mkdocs-jupyter               | 0.24.6          |
 dev-python/mkdocs-literate-nav          | 0.6.1           | mkdocstrings related (should be test depend)
 dev-python/mkdocs-section-index         | 0.3.8           | mkdocstrings related (should be test depend)
-dev-python/mkdocstrings-crystal         | 0.3.5; 0.3.6    |
+dev-python/mkdocstrings-crystal         | 0.3.5; 0.3.7    |
 dev-python/mkdocstrings-python-legacy   | 0.2.3           |
 dev-python/pytkdocs                     | 0.16.1          | Dependency of mkdocstrings-python-legacy
 
