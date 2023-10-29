@@ -4,7 +4,7 @@
 EAPI=8
 
 DISTUTILS_USE_PEP517=flit
-PYTHON_COMPAT=( python3_{10..11} pypy3 )
+PYTHON_COMPAT=( python3_{10..12} pypy3 )
 
 inherit distutils-r1
 
@@ -30,7 +30,6 @@ RDEPEND="
 	dev-python/markdown-it-py[${PYTHON_USEDEP}]
 	>=dev-python/mdit-py-plugins-0.3.1[${PYTHON_USEDEP}]
 	dev-python/pyyaml[${PYTHON_USEDEP}]
-	<dev-python/sphinx-6[${PYTHON_USEDEP}]
 	>=dev-python/sphinx-4[${PYTHON_USEDEP}]
 	dev-python/typing-extensions[${PYTHON_USEDEP}]
 "
