@@ -106,7 +106,7 @@ dev-python/memray 1.10.0: A memory profiler for Python applications
 dev-python/miniballcpp 0.2.3: Smallest Enclosing Balls of Points
 dev-python/mistune 0.8.4-r1: The fastest markdown parser in pure Python
 dev-python/mkdocs-coverage 1.0.0: MkDocs plugin to integrate your coverage HTML report into your site
-dev-python/mkdocs-git-committers-plugin 1.2.0: An MkDocs plugin to create a list of contributors on the page
+dev-python/mkdocs-git-committers-plugin 2.0.1: An MkDocs plugin to create a list of contributors on the page
 dev-python/mkdocs-jupyter 0.24.6: Use Jupyter in mkdocs websites
 dev-python/mkdocs-literate-nav 0.6.1: MkDocs plugin to specify the navigation in Markdown instead of YAML
 dev-python/mkdocs-section-index 0.3.8: MkDocs plugin to allow clickable sections that lead to an index page
@@ -219,7 +219,7 @@ media-video/gnome-mplayer 1.0.9-r1: A GTK+ interface to MPlayer
 net-im/electron-qq-bin 1.5.7 2.1.4: A cross-platform QQ made with Electron (Deprecated. Moved to Icalingua)
 net-im/electron-wechat-bin 1.0.0: For creating the most usable Linux/MacOS WeChat client. A.k.a. Freechat
 net-im/electronic-wechat-bin 2.3.1 2.3.2: A better WeChat on macOS and Linux. Built with Electron
-net-im/icalingua++-bin 2.7.7 2.9.13 2.10.6: A Linux client for QQ and more (forked branch). Previously called Electron QQ
+net-im/icalingua++-bin 2.7.7 2.9.13 2.10.7: A Linux client for QQ and more (forked branch). Previously called Electron QQ
 net-im/wemeet 2.8.0.3 3.10.0.401 3.15.1.402 3.15.1.403: Wemeet - Tencent Video Conferencing. A.k.a Tencent Meeting
 net-libs/libaxon-bin 1.0.2: Nodejs backend for purple-oicq
 net-misc/baidunetdisk 3.0.1 4.3.0 4.17.7: Baidu Net Disk is a cloud storage client (Linux Version)
@@ -236,7 +236,7 @@ sci-astronomy/aladin-bin 12.060: Interactive software sky atlas
 sci-astronomy/astrometry 0.80 0.85 0.93: Automated astrometric calibration programs and service
 sci-astronomy/erfa 1.7.2 2.0.1: Essential Routines for Fundamental Astronomy
 sci-astronomy/healpix 3.82: Hierarchical Equal Area isoLatitude Pixelization of a sphere
-sci-astronomy/topcat 4.8 4.8.8: Interactive graphical viewer and editor for astronomical tables
+sci-astronomy/topcat 4.8 4.9: Interactive graphical viewer and editor for astronomical tables
 sci-libs/libsharp 1.0.0 1.0.0_p20220728: Library for fast spherical harmonic transforms
 sys-block/diskus 0.7.0 9999: A minimal, fast alternative to 'du -sh'.
 sys-libs/elogind-libsystemd 0: Provide standalone libsystemd.so without systemd by linking libelogind.so
