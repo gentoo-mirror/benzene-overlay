@@ -136,7 +136,7 @@ dev-python/s3fs                  | 2023.9.2; 2023.10.0                          
 dev-python/siosocks              | 0.3.0                                             | Optional for aioftp
 dev-python/colorspacious         | 1.1.2                                             | Pulled in by cmyt. Dropped by official portage
 dev-python/cmyt                  | 2.0.0                                             | Pulled in by yt
-dev-python/unyt                  | 3.0.0                                             | Pulled in by yt
+dev-python/unyt                  | 3.0.1                                             | Pulled in by yt
 dev-python/zict                  | 2.2.0; 3.0.0                                      | Pulled in by distributed
 
 <!--</details>-->
@@ -192,7 +192,7 @@ Package name | Available version        | Additional information
 dev-python/docstring-parser             | 0.15            | Optional dependency of pytkdocs
 dev-python/markdown-callouts            | 0.3.0           | mkdocstrings related (should be test depend)
 dev-python/mkdocs-coverage              | 1.0.0           | mkdocstrings related (should be test depend)
-dev-python/mkdocs-git-committers-plugin | 2.0.1           | mkdocstrings related (should be test depend)
+dev-python/mkdocs-git-committers-plugin | 2.1.0           | mkdocstrings related (should be test depend)
 dev-python/mkdocs-jupyter               | 0.24.6          |
 dev-python/mkdocs-literate-nav          | 0.6.1           | mkdocstrings related (should be test depend)
 dev-python/mkdocs-section-index         | 0.3.8           | mkdocstrings related (should be test depend)
