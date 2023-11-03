@@ -106,7 +106,7 @@ dev-python/memray 1.10.0: A memory profiler for Python applications
 dev-python/miniballcpp 0.2.3: Smallest Enclosing Balls of Points
 dev-python/mistune 0.8.4-r1: The fastest markdown parser in pure Python
 dev-python/mkdocs-coverage 1.0.0: MkDocs plugin to integrate your coverage HTML report into your site
-dev-python/mkdocs-git-committers-plugin 2.0.1: An MkDocs plugin to create a list of contributors on the page
+dev-python/mkdocs-git-committers-plugin 2.1.0: An MkDocs plugin to create a list of contributors on the page
 dev-python/mkdocs-jupyter 0.24.6: Use Jupyter in mkdocs websites
 dev-python/mkdocs-literate-nav 0.6.1: MkDocs plugin to specify the navigation in Markdown instead of YAML
 dev-python/mkdocs-section-index 0.3.8: MkDocs plugin to allow clickable sections that lead to an index page
@@ -194,7 +194,7 @@ dev-python/starlink-pyast 3.15.4: Python interface to the Starlink AST library
 dev-python/sunpy 5.0.1: Python library for solar physics
 dev-python/sunpy-sphinx-theme 1.2.42 2.0.2: The sphinx theme for the SunPy website and documentation
 dev-python/toml 0.10.2-r1: Python library for handling TOML files
-dev-python/unyt 2.9.5: Handle, manipulate, and convert data with units in Python
+dev-python/unyt 3.0.1: Handle, manipulate, and convert data with units in Python
 dev-python/vispy 0.13.0 0.14.1: Interactive visualization in Python
 dev-python/xarray-datatree 0.0.13: Hierarchical tree-like data structures for xarray
 dev-python/xarray-einstats 0.6.0: Stats, linear algebra and einops for xarray
