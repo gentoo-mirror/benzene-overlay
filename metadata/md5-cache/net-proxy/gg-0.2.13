@@ -10,5 +10,5 @@ RDEPEND=!net-proxy/gg-bin
 RESTRICT=strip
 SLOT=0
 SRC_URI=https://github.com/mzz2017/gg/archive/v0.2.13.tar.gz -> gg-0.2.13.tar.gz https://github.com/Universebenzene/ebuild-vendors/archive/refs/tags/gg-0.2.13.tar.gz -> gg-0.2.13-vendor.tar.gz
-_eclasses_=edo	c0eb9cbe6b0bd01fcb4918f12598a4d3	multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	toolchain-funcs	70ec42843fec87d20fd94c67e77cdbff	multilib	c19072c3cd7ac5cb21de013f7e9832e0	go-module-vendor	198afcc7f4a340ecc13ecafc7febbf4d	bash-completion-r1	f5e7a020fd9c741740756aac61bf75ff
+_eclasses_=edo	c0eb9cbe6b0bd01fcb4918f12598a4d3	multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	toolchain-funcs	edeef89edaf21d30225d31702ab117ac	multilib	c19072c3cd7ac5cb21de013f7e9832e0	go-module-vendor	198afcc7f4a340ecc13ecafc7febbf4d	bash-completion-r1	f5e7a020fd9c741740756aac61bf75ff
 _md5_=0e21afe5aab418d7ed9612b90eb8e28f
