@@ -1,0 +1,16 @@
+BDEPEND=test? ( dev-python/pytest-asyncio[python_targets_python3_10(-)?,python_targets_python3_11(-)?,python_targets_python3_12(-)?] dev-python/flask[python_targets_python3_10(-)?,python_targets_python3_11(-)?,python_targets_python3_12(-)?] dev-python/starlette[python_targets_python3_10(-)?,python_targets_python3_11(-)?,python_targets_python3_12(-)?] dev-python/trio[python_targets_python3_10(-)?,python_targets_python3_11(-)?,python_targets_python3_12(-)?] ) test? ( >=dev-python/httpx-0.21.0[python_targets_python3_10(-)?,python_targets_python3_11(-)?,python_targets_python3_12(-)?] >=dev-python/pytest-7.3.1[python_targets_python3_10(-)?,python_targets_python3_11(-)?,python_targets_python3_12(-)?] ) python_targets_python3_10? ( dev-lang/python:3.10 ) python_targets_python3_11? ( dev-lang/python:3.11 ) python_targets_python3_12? ( dev-lang/python:3.12 ) >=dev-python/setuptools-67.8.0-r1[python_targets_python3_10(-)?,python_targets_python3_11(-)?,python_targets_python3_12(-)?] doc? ( || ( ( dev-lang/python:3.12 dev-python/mkdocs[python_targets_python3_12(-)] dev-python/mkdocs-material[python_targets_python3_12(-)] dev-python/mkautodoc[python_targets_python3_12(-)] ) ( dev-lang/python:3.11 dev-python/mkdocs[python_targets_python3_11(-)] dev-python/mkdocs-material[python_targets_python3_11(-)] dev-python/mkautodoc[python_targets_python3_11(-)] ) ( dev-lang/python:3.10 dev-python/mkdocs[python_targets_python3_10(-)] dev-python/mkdocs-material[python_targets_python3_10(-)] dev-python/mkautodoc[python_targets_python3_10(-)] ) ) )
+DEFINED_PHASES=compile configure install prepare test
+DESCRIPTION=A utility for mocking out the Python HTTPX and HTTP Core libraries
+EAPI=8
+HOMEPAGE=https://lundberg.github.io/respx
+INHERIT=distutils-r1 docs
+IUSE=test python_targets_python3_10 python_targets_python3_11 python_targets_python3_12 doc
+KEYWORDS=~amd64 ~x86
+LICENSE=BSD
+RDEPEND=>=dev-python/httpx-0.21.0[python_targets_python3_10(-)?,python_targets_python3_11(-)?,python_targets_python3_12(-)?] python_targets_python3_10? ( dev-lang/python:3.10 ) python_targets_python3_11? ( dev-lang/python:3.11 ) python_targets_python3_12? ( dev-lang/python:3.12 )
+REQUIRED_USE=|| ( python_targets_python3_10 python_targets_python3_11 python_targets_python3_12 )
+RESTRICT=!test? ( test )
+SLOT=0
+SRC_URI=https://github.com/lundberg/respx/archive/refs/tags/0.20.2.tar.gz -> respx-0.20.2.gh.tar.gz
+_eclasses_=toolchain-funcs	edeef89edaf21d30225d31702ab117ac	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	baa4d385108ac87993edac956a916a36	out-of-source-utils	1a9007554652a6e627edbccb3c25a439	multibuild	30dbf3c5a31db09a19f31ad0a68f2405	multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	ninja-utils	39e7a84b06eff4efd9f2e0c3d1668b98	python-utils-r1	f6221c2f55e5e832be9919fe1711f33b	python-r1	8a28fa6d3e3bc96ff8a7eff2badbe71f	distutils-r1	d05609532b134be7c4ae2514f4c7d06e	docs	74475974eae5130ba3e19b31b8ae46b8
+_md5_=2f8d1e408a8e56aed570bdec0546f5ac
