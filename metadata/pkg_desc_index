@@ -1,6 +1,6 @@
 app-editors/formiko 1.4.3 9999: reStructuredText editor and live previewer
 app-i18n/fcitx-table-other 0.2.4: Provides some other tables for Fcitx
-app-office/wps-office 11.1.0.11698 11.1.0.11704: WPS Office is an office productivity suite
+app-office/wps-office 11.1.0.11704 11.1.0.11708: WPS Office is an office productivity suite
 app-pda/i4tools 1.0.038 1.0.038-r1 1.0.055 1.0.055-r1: A third-party tool for managing Apple (iOS) devices
 app-text/dehelper 12.7.1: Proprietary German dictionary software for linux
 app-text/eshelper 12.7.1: Proprietary Spanish dictionary software for linux
@@ -233,7 +233,7 @@ net-misc/todesk 4.1.0-r4 4.3.1.0: Remote control and team work
 net-misc/xunlei-download 1.0.0.2: Xunlei download
 net-news/quiterss 0.19.4 9999: Qt-based RSS/Atom feed reader
 net-proxy/gg 0.2.13 0.2.18: Command-line tool for one-click proxy without v2ray or others (A.k.a. go-craft).
-net-proxy/v2raya-bin 1.5.9.1698.1 2.2.4: Web client of Project V for VMess, VLESS, SS, SSR, Trojan & Pingtunnel protocols
+net-proxy/v2raya-bin 1.5.9.1698.1 2.2.4.1: Web client of Project V for VMess, VLESS, SS, SSR, Trojan & Pingtunnel protocols
 sci-astronomy/aladin-bin 12.060: Interactive software sky atlas
 sci-astronomy/astrometry 0.80 0.85 0.93: Automated astrometric calibration programs and service
 sci-astronomy/erfa 1.7.2 2.0.1: Essential Routines for Fundamental Astronomy
