@@ -16,6 +16,9 @@ app-text/eshelper:ibus - Enable support for app-i18n/ibus
 app-text/eudic:ibus - Enable support for app-i18n/ibus
 app-text/frhelper:ibus - Enable support for app-i18n/ibus
 app-text/ydcv:pkg-info - Add descriptions to PKG-INFO file
+app-text/ydcv-rs:clipboard - Enable feature: use selected text as input
+app-text/ydcv-rs:notify - Enable feature: display explanations via desktop notification
+app-text/ydcv-rs:rustls - Enable feature: use Rustls ssl backend
 dev-lang/gdl:eigen - Build matrix manipulation with dev-cpp/eigen
 dev-lang/gdl:glpk - Use GNU Linear Programming Kit sci-mathematics/glpk
 dev-lang/gdl:gshhs - Add support for projection adn continent maps with sci-geosciences/gshhs-data

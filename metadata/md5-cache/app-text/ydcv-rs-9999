@@ -1,0 +1,15 @@
+BDEPEND=>=virtual/rust-1.53 >=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=compile configure install test unpack
+DESCRIPTION=A rust version of YouDao Console Version
+EAPI=8
+HOMEPAGE=https://github.com/farseerfc/ydcv-rs
+INHERIT=cargo git-r3
+IUSE=+clipboard +notify +rustls test debug
+LICENSE=GPL-2
+PROPERTIES=test? ( test_network ) live
+RDEPEND=dev-libs/openssl notify? ( sys-apps/dbus ) clipboard? ( x11-libs/libxcb )
+REQUIRED_USE=amd64? ( clipboard rustls )
+RESTRICT=test
+SLOT=0
+_eclasses_=toolchain-funcs	edeef89edaf21d30225d31702ab117ac	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	baa4d385108ac87993edac956a916a36	multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	cargo	8520ae1bed0e6965d027399b471a3595	git-r3	2358a7b20091609e24bd3a83b3ac5991
+_md5_=90687631a440f0cf84a879b13e956971
