@@ -28,6 +28,7 @@ app-text/{[de](https://www.eudic.net/v4/de/app/download),[es](https://www.eudic.
 [app-text/goldendict](http://goldendict.org)                                         | [1.5.0](https://github.com/Universebenzene/benzene-overlay/blob/master/app-text/goldendict/goldendict-1.5.0.ebuild); (live)                                | Dropped by official portage. Fix the ebuild for [pg\_overlay](https://gitlab.com/Perfect_Gentleman/PG_Overlay/-/blob/master/app-text/goldendict/goldendict-9999.ebuild). For users preferring qtwebengine rather than qtwebkit, try [this one](https://github.com/bekcpear/ryans-repos/tree/dev/app-text/goldendict) instead.
 [app-text/powerword](http://www.iciba.com)                                           | [1.2](https://github.com/Universebenzene/benzene-overlay/blob/master/app-text/powerword/powerword-1.2.ebuild)                                              | Encouraged by [AUR](https://aur.archlinux.org/packages/powerword-bin) （金山词霸）
 [app-text/ydcv](https://github.com/felixonmars/ydcv)                                 | [0.7](https://github.com/Universebenzene/benzene-overlay/blob/master/app-text/ydcv/ydcv-0.7.ebuild); (live)                                                | Need other overlays (like [guru](https://wiki.gentoo.org/wiki/Project:GURU) or [HomeAssistantRepository](https://git.edevau.net/onkelbeh/HomeAssistantRepository)) if you enable `pkg-info` use. Some other issues [here](https://forums.gentoo.org/viewtopic-p-8352006.html) （有道词典命令行-python版）
+[app-text/ydcv-rs](https://github.com/farseerfc/ydcv-rs)                             | [0.6.1](https://github.com/Universebenzene/benzene-overlay/blob/master/app-text/ydcv-rs/ydcv-rs-0.6.1.ebuild); (live)                                      | `clipboard` and `rustls` flags must be enabled for `amd64`. Not sure about other architectures.
 [app-text/ydgo](https://github.com/boypt/ydgo)                                       | [0.6.3](https://github.com/Universebenzene/benzene-overlay/blob/master/app-text/ydgo/ydgo-0.6.3.ebuild); (live)                                            | **Needs interactive inputing during merging process. PAY ATTENTION TO THE OUTPUT MESSAGES** （有道词典命令行-go版）
 [app-text/youdao-dict](https://cidian.youdao.com/multi.html#linuxAll)                | [6.0.0-r2](https://github.com/Universebenzene/benzene-overlay/blob/master/app-text/youdao-dict/youdao-dict-6.0.0-r2.ebuild)                                | Converted from [AUR](https://aur.archlinux.org/packages/youdao-dict). In order to use this you **must use the patched QtWebkit and PyQt5 with `webkit` USE flag in this overlay INSTEAD OF THE OFFICIAL ONE** （有道词典）
 [app-vim/indentLine](https://github.com/Yggdroot/indentLine)                         | 2.0; (live)                                                                                        | Live version is recommended
@@ -149,12 +150,12 @@ dev-python/zict                  | 2.2.0; 3.0.0                                 
 
 Package name | Available version | Additional information
 ------------ | :---------------: | ----------------------
-dev-python/sphinx                       | 5.1.1               | For old myst-parser and myst-nb
+dev-python/sphinx                       | 5.1.1               | For old myst-parser and myst-nb <!-- sphinx>=6 <- copybutton <-doc- sphinx-thebe -doc-> myst-nb -> myst-parser(oldver needs sphinx<6) -->
 dev-python/ablog                        | 0.11.6              |
-dev-python/jupyter-cache                | 0.6.1               |
+dev-python/jupyter-cache                | 0.6.1; 1.0.0        |
 dev-python/jupyter-sphinx               | 0.4.0               |
 dev-python/jupytext                     | 1.15.2              | Build with wheel source to include Jupyter Lab Extenstion
-dev-python/myst-nb                      | 0.17.2              |
+dev-python/myst-nb                      | 0.17.2; 1.0.0       |
 dev-python/myst-parser                  | 0.18.1-r1           | Only for myst-nb that depends on old version
 dev-python/runnotebook                  | 0.3.1; (live)       |
 dev-python/sphinx-astropy               | 1.6.0; 1.9.1        | See [here](https://github.com/Universebenzene/benzene-overlay/tree/master/dev-python#information-for-astropy-related-packages) for more information.
