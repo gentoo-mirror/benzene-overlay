@@ -9,7 +9,7 @@ app-text/frhelper 12.7.1: Proprietary French dictionary software for linux
 app-text/goldendict 1.5.0 9999: Feature-rich dictionary lookup program
 app-text/powerword 1.2: A Chinese-English dictionary tool by Kingsoft
 app-text/ydcv 0.7 9999: YouDao Console Version - Simple wrapper for Youdao online translate service API
-app-text/ydcv-rs 0.6.2 9999: A rust version of YouDao Console Version
+app-text/ydcv-rs 0.6.3 9999: A rust version of YouDao Console Version
 app-text/ydgo 0.6.3 9999: YouDao Console Version (YDCV) - go portation
 app-text/youdao-dict 6.0.0-r2: YouDao Dictionary
 app-vim/indentLine 2.0 9999: vim plugin: display the indention levels with thin vertical lines
