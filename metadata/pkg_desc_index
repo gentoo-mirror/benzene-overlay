@@ -205,8 +205,8 @@ dev-python/yt 4.0.5 4.1.4 4.2.2 4.3.0: An analysis and visualization toolkit for
 dev-python/zarr 2.16.1: An implementation of chunked, compressed, N-dimensional arrays for Python
 dev-python/zict 2.2.0 3.0.0: Mutable mapping tools
 dev-qt/qtwebkit 5.212.0_pre20200309-r1 5.212.0_pre20200309-r2: WebKit rendering library for the Qt5 framework (deprecated)
-dev-util/micromamba 1.5.1: C++ tiny version of mamba, the fast conda package installer
-dev-util/micromamba-bin 1.5.1-r1: Tiny version of mamba, the fast conda package installer (binary version)
+dev-util/micromamba 1.5.3: C++ tiny version of mamba, the fast conda package installer
+dev-util/micromamba-bin 1.5.3: Tiny version of mamba, the fast conda package installer (binary version)
 gui-apps/regreet 0.1.1 9999: Clean and customizable greeter for greetd
 media-fonts/wps-office-fonts 1.0: The wps-office-fonts package contains Founder Chinese fonts
 media-gfx/fontweak 1.3.1: A GUI front-end of fontconfig
