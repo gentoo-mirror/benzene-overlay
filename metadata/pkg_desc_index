@@ -63,7 +63,7 @@ dev-python/corner 2.2.2: Make scatter matrix corner plots
 dev-python/dask-sphinx-theme 3.0.5: Sphinx theme for Dask documentation
 dev-python/distributed 2023.10.1 2023.11.0: Distributed scheduler for Dask
 dev-python/docstring-parser 0.15: Parse Python docstrings in reST, Google and Numpydoc format
-dev-python/drms 0.7.0: Access HMI, AIA and MDI data with Python from the public JSOC DRMS server
+dev-python/drms 0.6.4 0.7.0: Access HMI, AIA and MDI data with Python from the public JSOC DRMS server
 dev-python/echo 0.8.0: Callback Properties in Python
 dev-python/einops 0.6.0 0.7.0: A new flavour of deep learning operations
 dev-python/eventlet 0.33.3: Highly concurrent networking library
