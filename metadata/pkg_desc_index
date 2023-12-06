@@ -81,7 +81,7 @@ dev-python/flask-socketio 5.3.6: Socket.IO integration for Flask applications
 dev-python/fluidity 0.2.1: State machine implementation for Python objects
 dev-python/fusepy 3.0.1: Simple ctypes bindings for FUSE
 dev-python/ginga 4.1.1: A scientific image viewer and toolkit
-dev-python/glue-core 1.16.0: Core library for the glue multidimensional data visualization project
+dev-python/glue-core 1.17.0: Core library for the glue multidimensional data visualization project
 dev-python/glue-qt 0.3.0: Multidimensional data visualization across files
 dev-python/glue-vispy-viewers 1.1.0: 3-d data viewers for glue based on VisPy
 dev-python/glueviz 1.2.0-r1: Meta-package for glue and plugin packages
@@ -163,7 +163,7 @@ dev-python/regions 0.4 0.8: Astropy affiliated package for region handling
 dev-python/reproject 0.5.1 0.12.0 0.13.0: Reproject astronomical images with Python
 dev-python/respx 0.20.2: A utility for mocking out the Python HTTPX and HTTP Core libraries
 dev-python/runnotebook 0.3.1 9999: IPython notebook sphinx extensions
-dev-python/s3fs 2023.10.0 2023.12.0: Convenient Filesystem interface over S3
+dev-python/s3fs 2023.10.0 2023.12.0 2023.12.1: Convenient Filesystem interface over S3
 dev-python/sep 1.2.1: Python and C library for source extraction and photometry
 dev-python/sgp4 2.22: Python version of the SGP4 satellite position library
 dev-python/sherpa 4.15.0 4.15.1 4.16.0: Modeling and fitting package for scientific data analysis
