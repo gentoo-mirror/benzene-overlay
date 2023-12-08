@@ -27,7 +27,7 @@ dev-python/casa-formats-io     | 0.2.2                                          
 dev-python/cdflib              | 0.4.9; 1.1.1; 1.2.3                                 | SunPy releated. 1.1.1 remained as some tests failed in 1.1.2 and later
 dev-python/drms                | 0.6.4; 0.7.0                                        | SunPy releated. `network-sandbox` FEATURE will be disabled if you enable `examples` flag for doc building
 dev-python/echo                | 0.8.0                                               | Glueviz releated.
-dev-python/extension-helpers   | 1.1.0                                               |
+dev-python/extension-helpers   | 1.1.1                                               |
 dev-python/fast-histogram      | 0.11                                                | Glueviz releated.
 dev-python/ginga               | 4.1.1                                               | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building.
 dev-python/glueviz             | 1.2.0-r1 (glue-core: 1.17.1; glue-qt: 0.3.0)        | Meta package, core package and qt package versions are all shown.
@@ -52,7 +52,7 @@ dev-python/pydl                | 0.7.0; 1.0.0\_rc2                              
 dev-python/pymoc               | 0.5.0                                               |
 dev-python/pyregion            | 2.1.1; 2.2.0                                        | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
 dev-python/pyvo                | 1.2.1; 1.4.2                                        | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
-dev-python/radio-beam          | 0.3.6                                               | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
+dev-python/radio-beam          | 0.3.7                                               | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
 dev-python/regions             | 0.4; 0.8                                            | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
 dev-python/reproject           | 0.5.1; 0.12.0; 0.13.0                               | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
 dev-python/sep                 | 1.2.1                                               |
