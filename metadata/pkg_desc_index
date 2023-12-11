@@ -45,7 +45,7 @@ dev-python/astroplan 0.6 0.9.1: Observation planning package for astronomers
 dev-python/astropy 2.0.16 3.0.5 3.1.2 4.2.1 5.0.8 5.2.2 5.3.4: Core functionality for performing astrophysics with Python
 dev-python/astropy-healpix 0.5 1.0.1: BSD-licensed HEALPix for Astropy
 dev-python/astropy-helpers 2.0.11 3.0.2 3.1.1 4.0.1: Helpers for Astropy and Affiliated packages
-dev-python/astropy-iers-data 0.2023.12.4.0.30.20: IERS Earth Rotation and Leap Second tables for the astropy core package
+dev-python/astropy-iers-data 0.2023.12.11.0.31.11: IERS Earth Rotation and Leap Second tables for the astropy core package
 dev-python/astropy-sphinx-theme 1.1: The sphinx theme for Astropy and affiliated packages
 dev-python/astroquery 0.3.10 0.4.6: Collection of packages to access online astronomical resources
 dev-python/astroscrappy 1.0.8 1.1.0: Optimized cosmic ray annihilation astropy python module
@@ -246,7 +246,7 @@ sci-libs/libsharp 1.0.0 1.0.0_p20220728: Library for fast spherical harmonic tra
 sys-block/diskus 0.7.0 9999: A minimal, fast alternative to 'du -sh'.
 sys-libs/elogind-libsystemd 0: Provide standalone libsystemd.so without systemd by linking libelogind.so
 sys-libs/libsolv 0.7.26 9999: Library for solving packages and reading repositories
-sys-libs/libsystemd 253.3 253.6 253.11 253.12 253.13 254.3 254.4 254.5-r1 254.6 254.7 255_rc3 255_rc4 9999: A standalone package to provide libsystemd.so without systemd
+sys-libs/libsystemd 253.3 253.6 253.11 253.12 253.13 254.3 254.4 254.5-r1 254.6 254.7 255 9999: A standalone package to provide libsystemd.so without systemd
 virtual/libsystemd 0: Virtual for libsystemd.so
 www-plugins/adobe-flash 32.0.0.465: Adobe Flash Player
 x11-libs/lain 9999 9999-r100: Layouts, asynchronous widgets and utilities for Awesome WM
