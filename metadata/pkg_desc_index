@@ -193,7 +193,7 @@ dev-python/sphinx-thebe 0.2.1 0.3.0: Integrate interactive code blocks into your
 dev-python/sphinx-togglebutton 0.3.1: Toggle page content and collapse admonitions in Sphinx
 dev-python/sphinxcontrib-srclinks 0.2.4: Add source, edit, history, annotate links to GitHub or BitBucket
 dev-python/sphinxcontrib-youtube 1.2.0 1.4.1: A Sphinx extension to embed videos from YouTube
-dev-python/sphinxext-opengraph 0.9.0: Sphinx extension to generate unique OpenGraph metadata
+dev-python/sphinxext-opengraph 0.9.1: Sphinx extension to generate unique OpenGraph metadata
 dev-python/stanio 0.4.0: Preparing inputs to and reading outputs from Stan
 dev-python/starlink-pyast 3.15.4: Python interface to the Starlink AST library
 dev-python/sunpy 5.1.0: Python library for solar physics
