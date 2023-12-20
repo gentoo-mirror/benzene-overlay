@@ -123,7 +123,7 @@ dev-python/flask-socketio        | 5.3.6                                        
 dev-python/fusepy                | 3.0.1                                             | Optional for yt
 dev-python/heapdict              | 1.0.1                                             | Pulled in by zict and distributed
 dev-python/indexed\-{bzip2,zstd} | 1.5.0 / 1.6.0                                     | Optional for yt (ratarmount{,core})
-dev-python/rapidgzip             | 0.10.4                                            | Optional for new ratarmount{,core}
+dev-python/rapidgzip             | 0.11.0                                            | Optional for new ratarmount{,core}
 dev-python/libconf               | 2.0.1                                             | Optional for yt
 dev-python/miniballcpp           | 0.2.3                                             | Optional for yt
 dev-python/msrest                | 0.7.1                                             | SunPy, h5pyd related
@@ -163,7 +163,7 @@ dev-python/sphinx-astropy               | 1.6.0; 1.9.1        | See [here](https
 dev-python/sphinx-asdf                  | 0.1.3; 0.1.4; 0.2.2 |
 dev-python/sphinx-autobuild             | 2022.3.14           |
 dev-python/sphinx-autosummary-accessors | 2023.4.0            |
-dev-python/sphinx-book-theme            | 0.2.0; 1.0.1        | `network-sandbox` FEATURE will be disabled if you enable `doc` flag for newest version.
+dev-python/sphinx-book-theme            | 0.2.0; 1.1.0        | `network-sandbox` FEATURE will be disabled if you enable `doc` flag for newest version.
 dev-python/sphinx-changelog             | 1.4.1               |
 dev-python/sphinx-click                 | 5.1.0               |
 dev-python/sphinx-codeautolink          | 0.15.0              |
