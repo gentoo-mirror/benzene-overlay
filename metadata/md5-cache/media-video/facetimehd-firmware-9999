@@ -8,5 +8,5 @@ LICENSE=APPLE_LICENSE
 PROPERTIES=live
 RESTRICT=bindist mirror
 SLOT=0
-_eclasses_=git-r3	5133e393e8717a3a093660f990801dc1
+_eclasses_=git-r3	86fa1f157b70b9d2ff340c4633b1cf4b
 _md5_=f830f3077568cbdd54a5bd278063cbec
