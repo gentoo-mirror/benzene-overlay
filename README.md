@@ -46,7 +46,7 @@ dev-python/parfive                                                              
 dev-python/PyQt5                                                                     | 5.15.10-r1                                                                                              | Add `webkit` USE flag (dropped by official portage) to get **youdao-dict** in this overlay work
 dev-python/pytest-cython                                                             | 0.2.1                                                                                                   |
 dev-python/pytest-socket                                                             | 0.5.0; 0.6.0                                                                                            |
-dev-python/api4jenkins                                                               | 2.0.2                                                                                                   | Test dependency respx is also included but not listed here
+dev-python/api4jenkins                                                               | 2.0.3                                                                                                   | Test dependency respx is also included but not listed here
 dev-python/python-jenkins                                                            | 1.8.2; (live)                                                                                           | Dependency multi\_key\_dict is also included but not listed here
 dev-python/vispy                                                                     | 0.13.0; 0.14.1                                                                                          | Doc building may have problems with sandbox permission
 dev-python/yt                                                                        | 4.0.5; 4.1.4; 4.2.2; 4.3.0                                                                              | Full doc building needs huge amount of data, so cannot complete locally.
@@ -123,7 +123,7 @@ dev-python/flask-socketio        | 5.3.6                                        
 dev-python/fusepy                | 3.0.1                                             | Optional for yt
 dev-python/heapdict              | 1.0.1                                             | Pulled in by zict and distributed
 dev-python/indexed\-{bzip2,zstd} | 1.5.0 / 1.6.0                                     | Optional for yt (ratarmount{,core})
-dev-python/rapidgzip             | 0.11.0                                            | Optional for new ratarmount{,core}
+dev-python/rapidgzip             | 0.11.1                                            | Optional for new ratarmount{,core}
 dev-python/libconf               | 2.0.1                                             | Optional for yt
 dev-python/miniballcpp           | 0.2.3                                             | Optional for yt
 dev-python/msrest                | 0.7.1                                             | SunPy, h5pyd related
