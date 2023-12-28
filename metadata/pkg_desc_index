@@ -28,7 +28,7 @@ dev-python/aioftp 0.21.4: Ftp client/server for asyncio
 dev-python/aioitertools 0.11.0: Itertools and builtins for AsyncIO and mixed iterables
 dev-python/api4jenkins 2.0.3: Tools for accessing JPEG2000 files
 dev-python/aplpy 1.1.1 2.0.3 2.1.0: Astronomical Plotting Library in Python
-dev-python/arviz 0.16.1: Exploratory analysis of Bayesian models with Python
+dev-python/arviz 0.17.0: Exploratory analysis of Bayesian models with Python
 dev-python/asciitree 0.3.3: Draws ASCII trees in Python
 dev-python/asdf 2.7.2 2.9.2 2.10.1 2.13.0 2.15.0 2.15.2 3.0.1: Python library for the Advanced Scientific Data Format
 dev-python/asdf-astropy 0.2.1 0.5.0: ASDF serialization support for astropy
@@ -56,6 +56,7 @@ dev-python/bidict 0.22.0 0.22.1: The bidirectional mapping library for Python
 dev-python/casa-formats-io 0.2.2: Code to handle I/O from/to data in CASA format Resources
 dev-python/ccdproc 1.3.0_p1 2.1.0 2.4.1: Astropy affiliated package for reducing optical/IR CCD data
 dev-python/cdflib 0.4.9 1.1.1 1.2.3: A python module for reading NASA's Common Data Format (cdf) files Resources
+dev-python/check-manifest 0.49: Tool to check the completeness of MANIFEST.in for Python packages
 dev-python/cligj 0.7.2: Click params for commmand line interfaces to GeoJSON
 dev-python/cmdstanpy 1.0.8 1.2.0: Python interface to CmdStan
 dev-python/cmyt 2.0.0: A collection of Matplotlib colormaps from the yt project
@@ -246,7 +247,7 @@ sci-libs/libsharp 1.0.0 1.0.0_p20220728: Library for fast spherical harmonic tra
 sys-block/diskus 0.7.0 9999: A minimal, fast alternative to 'du -sh'.
 sys-libs/elogind-libsystemd 0: Provide standalone libsystemd.so without systemd by linking libelogind.so
 sys-libs/libsolv 0.7.26 9999: Library for solving packages and reading repositories
-sys-libs/libsystemd 253.3 253.6 253.11 253.12 253.13 254.3 254.4 254.5-r1 254.6 254.7 254.8 255 255-r1 255.1 255.2 9999: A standalone package to provide libsystemd.so without systemd
+sys-libs/libsystemd 254.5-r1 254.7 254.8 255.2 9999: A standalone package to provide libsystemd.so without systemd
 virtual/libsystemd 0: Virtual for libsystemd.so
 www-plugins/adobe-flash 32.0.0.465: Adobe Flash Player
 x11-libs/lain 9999 9999-r100: Layouts, asynchronous widgets and utilities for Awesome WM
