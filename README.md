@@ -40,7 +40,7 @@ dev-python/corner                                                               
 dev-python/exifread                                                                  | 3.0.0                                                                                                                 |
 dev-python/glymur                                                                    | 0.12.0; 0.12.6\_p1; 0.12.8; 0.12.9\_p1                                                                                |
 dev-python/hsluv                                                                     | 5.0.4                                                                                                                 |
-[dev-python/memray](https://bloomberg.github.io/memray)                              | [1.10.0](https://github.com/Universebenzene/benzene-overlay/blob/master/dev-python/memray/memray-1.10.0.ebuild)                                            | **BINARY WHEEL VERSIONS** are used to avoid npm building
+[dev-python/memray](https://bloomberg.github.io/memray)                              | 1.10.0; [1.11.0](https://github.com/Universebenzene/benzene-overlay/blob/master/dev-python/memray/memray-1.11.0.ebuild)                                    | **BINARY WHEEL VERSIONS** are used to avoid npm building
 dev-python/oldest-supported-numpy                                                    | 2023.12.21                                                                                                            | The numpy version limitations are changed from `==` into `>=`. If you have better solution, just bring issues or pull requests.
 dev-python/parfive                                                                   | 1.5.1; 2.0.2                                                                                                          |
 dev-python/PyQt5                                                                     | 5.15.10-r1                                                                                                            | Add `webkit` USE flag (dropped by official portage) to get **youdao-dict** in this overlay work
@@ -52,7 +52,7 @@ dev-python/vispy                                                                
 dev-python/yt                                                                        | 4.0.5; 4.1.4; 4.2.2; 4.3.0                                                                                            | Full doc building needs huge amount of data, so cannot complete locally.
 dev-python/zarr                                                                      | 2.16.1                                                                                                                |
 dev-qt/qtwebkit                                                                      | 5.212.0\_pre20200309-{r1,r2}                                                                                          | Add [patch](https://github.com/Universebenzene/benzene-overlay/blob/master/dev-qt/qtwebkit/files/qtwebkit-5.212.0_pre20200309-position.patch) to get **youdao-dict** in this overlay work (the -r2 is a test for upgrade EAPI to 8, and might be a little buggy with youdao-dict.)
-[dev-util/micromamba{,-bin}](https://mamba.readthedocs.io)                           | [1.5.6](https://github.com/Universebenzene/benzene-overlay/blob/master/dev-util/micromamba/micromamba-1.5.6.ebuild)                                         | [mva](https://github.com/msva/mva-overlay) (for depend `dev-cpp/tl-expected`) overlay is needed for building the source version.
+[dev-util/micromamba{,-bin}](https://mamba.readthedocs.io)                           | [1.5.6](https://github.com/Universebenzene/benzene-overlay/blob/master/dev-util/micromamba/micromamba-1.5.6.ebuild)                                        | [mva](https://github.com/msva/mva-overlay) (for depend `dev-cpp/tl-expected`) overlay is needed for building the source version.
 media-fonts/wps-office-fonts                                                         | [1.0](https://github.com/Universebenzene/benzene-overlay/blob/master/media-fonts/wps-office-fonts/wps-office-fonts-1.0.ebuild)                             | WPS Linux旧版自带方正系字体
 [gui-apps/regreet](https://github.com/rharish101/ReGreet)                            | [0.1.1](https://github.com/Universebenzene/benzene-overlay/blob/master/gui-apps/regreet/regreet-0.1.1.ebuild); (live)                                      | Encouraged by [guru](https://gitweb.gentoo.org/repo/proj/guru.git/tree/gui-apps/ReGreet) but better naming and packaging. Needs enabling the guru overlay if you enable the `cage` flag.
 [media-gfx/gpaint](https://savannah.gnu.org/projects/gpaint)                         | [0.3.3](https://github.com/Universebenzene/benzene-overlay/blob/master/media-gfx/gpaint/gpaint-0.3.3.ebuild)                                               | With patches from Debian
@@ -101,47 +101,49 @@ Packages in this table might just be pulled in as dependencies by some sicense r
 
 Package name | Available version | Additional information
 ------------ | :---------------: | ----------------------
-dev-cpp/reproc                   | 14.2.4                                            | Dependency for micromamba (compiled version)
-sys-libs/libsolv                 | 0.7.26; (live)                                    | Dependency for micromamba (compiled version). Modified from [gentoo-zh](https://github.com/microcai/gentoo-zh/tree/783009591c662952ec437e4737817fc8798d4498/sys-libs/libsolv) ([dropped](https://github.com/microcai/gentoo-zh/pull/3886) with `sys-apps/zypper` )
-dev-python/adal                  | 1.2.7                                             | SunPy, h5pyd related
-dev-python/abg-python            | 1.1.3                                             | Optional for yt
-dev-python/aggdraw               | 1.3.16; 1.3.18                                    | Optional for ginga
-dev-python/aiobotocore           | 2.9.0                                             | Pulled in by zarr
-dev-python/aioitertools          | 0.11.0                                            | Pulled in by zarr
-dev-python/arviz                 | 0.17.0                                            | Optional for corner.py.
-dev-python/asciitree             | 0.3.3                                             | Pulled in by zarr
-dev-python/azure-core            | 1.26.3; 1.29.6                                    | Required by new msrest
-dev-python/bidict                | 0.22.0; 0.22.1                                    | Optional for yt
-dev-python/check-manifest        | 0.49                                              | Dropped by official portage. Required by xarray-datatree (test dep for arviz)
-dev-python/cmdstanpy             | 1.0.8; 1.2.0                                      | Test dependency for arviz. Dependency stanio is included but not listed in the table
-dev-python/distributed           | 2023.12.0; 2023.12.1                              | Optional for arviz and spectral-cube
-dev-python/eventlet              | 0.33.3                                            | Dropped by official portage. Required by firefly{,-viz}
-dev-python/f90nml                | 1.4.4                                             | Optional for yt
-dev-python/fastcache             | 1.1.0                                             | Optional for yt
-dev-python/firefly-viz           | 2.0.4                                             | Optional for yt
-dev-python/firefly               | 3.2.3                                             | Optional for new yt
-dev-python/flask-socketio        | 5.3.6                                             | Optional for yt
-dev-python/fusepy                | 3.0.1                                             | Optional for yt
-dev-python/heapdict              | 1.0.1                                             | Pulled in by zict and distributed
-dev-python/indexed\-{bzip2,zstd} | 1.5.0 / 1.6.0                                     | Optional for yt (ratarmount{,core})
-dev-python/rapidgzip             | 0.11.1                                            | Optional for new ratarmount{,core}
-dev-python/libconf               | 2.0.1                                             | Optional for yt
-dev-python/miniballcpp           | 0.2.3                                             | Optional for yt
-dev-python/msrest                | 0.7.1                                             | SunPy, h5pyd related
-dev-python/msrestazure           | 0.6.4                                             | SunPy, h5pyd related
-dev-python/numcodecs             | 0.12.1                                            | Pulled in by zarr
-dev-python/pykdtree              | 1.3.10                                            | Optional for yt
-dev-python/pytest-repeat         | 0.9.3                                             | Test dependency for new zict
-dev-python/python-socketio       | 5.9.0; 5.10.0                                     | Optional for yt
-dev-python/python-xz             | 0.5.0                                             | Optional for yt
-dev-python/rasterio              | 1.3.8\_p2; 1.3.9                                  | Optional for photutils. Dependencies are not all listed in the table
-dev-python/ratarmount            | 0.14.0                                            | Optional for yt. Dependency ratarmountcore is also included in this overlay but not listed in the table
-dev-python/s3fs                  | 2023.12.1; 2023.12.2                              | Test dependency for zarr and astropy>=5.2
-dev-python/siosocks              | 0.3.0                                             | Optional for aioftp
-dev-python/colorspacious         | 1.1.2                                             | Pulled in by cmyt. Dropped by official portage
-dev-python/cmyt                  | 2.0.0                                             | Pulled in by yt
-dev-python/unyt                  | 3.0.1                                             | Pulled in by yt
-dev-python/zict                  | 2.2.0; 3.0.0                                      | Pulled in by distributed
+dev-cpp/reproc                     | 14.2.4                                            | Dependency for micromamba (compiled version)
+sys-libs/libsolv                   | 0.7.26; (live)                                    | Dependency for micromamba (compiled version). Modified from [gentoo-zh](https://github.com/microcai/gentoo-zh/tree/783009591c662952ec437e4737817fc8798d4498/sys-libs/libsolv) ([dropped](https://github.com/microcai/gentoo-zh/pull/3886) with `sys-apps/zypper` )
+dev-python/adal                    | 1.2.7                                             | SunPy, h5pyd related
+dev-python/abg-python              | 1.1.3                                             | Optional for yt
+dev-python/aggdraw                 | 1.3.16; 1.3.18                                    | Optional for ginga
+dev-python/aiobotocore             | 2.9.0                                             | Pulled in by zarr
+dev-python/aioitertools            | 0.11.0                                            | Pulled in by zarr
+dev-python/arviz                   | 0.17.0                                            | Optional for corner.py.
+dev-python/asciitree               | 0.3.3                                             | Pulled in by zarr
+dev-python/azure-core              | 1.26.3; 1.29.6                                    | Required by new msrest
+dev-python/bidict                  | 0.22.0; 0.22.1                                    | Optional for yt
+dev-python/check-manifest          | 0.49                                              | Dropped by official portage. Required by xarray-datatree (test dep for arviz)
+dev-python/cmdstanpy               | 1.0.8; 1.2.0                                      | Test dependency for arviz. Dependency stanio is included but not listed in the table
+dev-python/distributed             | 2023.12.1                                         | Optional for arviz and spectral-cube
+dev-python/eventlet                | 0.33.3                                            | Dropped by official portage. Required by firefly{,-viz}
+dev-python/f90nml                  | 1.4.4                                             | Optional for yt
+dev-python/fastcache               | 1.1.0                                             | Optional for yt
+dev-python/firefly-viz             | 2.0.4                                             | Optional for yt
+dev-python/firefly                 | 3.2.3                                             | Optional for new yt
+dev-python/flask-socketio          | 5.3.6                                             | Optional for yt
+dev-python/fusepy                  | 3.0.1                                             | Optional for yt
+dev-python/heapdict                | 1.0.1                                             | Pulled in by zict and distributed
+dev-python/indexed\-{bzip2,zstd}   | 1.5.0 / 1.6.0                                     | Optional for yt (ratarmount{,core})
+dev-python/rapidgzip               | 0.11.1                                            | Optional for new ratarmount{,core}
+dev-python/libconf                 | 2.0.1                                             | Optional for yt
+dev-python/miniballcpp             | 0.2.3                                             | Optional for yt
+dev-python/msrest                  | 0.7.1                                             | SunPy, h5pyd related
+dev-python/msrestazure             | 0.6.4                                             | SunPy, h5pyd related
+dev-python/numcodecs               | 0.12.1                                            | Pulled in by zarr
+dev-python/pykdtree                | 1.3.10                                            | Optional for yt
+dev-python/pytest-repeat           | 0.9.3                                             | Test dependency for new zict
+dev-python/pytest-textual-snapshot | 0.4.0                                             | Test dependency for new memray. Dependency syrupy is included but not listed in the table
+dev-python/python-socketio         | 5.9.0; 5.10.0                                     | Optional for yt
+dev-python/python-xz               | 0.5.0                                             | Optional for yt
+dev-python/rasterio                | 1.3.8\_p2; 1.3.9                                  | Optional for photutils. Dependencies are not all listed in the table
+dev-python/ratarmount              | 0.14.0                                            | Optional for yt. Dependency ratarmountcore is also included in this overlay but not listed in the table
+dev-python/s3fs                    | 2023.12.2                                         | Test dependency for zarr and astropy>=5.2
+dev-python/siosocks                | 0.3.0                                             | Optional for aioftp
+dev-python/textual                 | 0.46.0                                            | Pulled in by memray>=1.11. Dependency tree-sitter-languages is included but not listed in the table
+dev-python/colorspacious           | 1.1.2                                             | Pulled in by cmyt. Dropped by official portage
+dev-python/cmyt                    | 2.0.0                                             | Pulled in by yt
+dev-python/unyt                    | 3.0.1                                             | Pulled in by yt
+dev-python/zict                    | 2.2.0; 3.0.0                                      | Pulled in by distributed
 
 <!--</details>-->
 
