@@ -35,7 +35,7 @@ app-text/{[de](https://www.eudic.net/v4/de/app/download),[es](https://www.eudic.
 [app-vim/vim-indent-guides](https://github.com/preservim/vim-indent-guides)          | 1.6; (live)                                                                                                           |
 dev-cpp/gtkspellmm                                                                   | 3.0.5                                                                                                                 | Dependency for [gimagereader[gtk]](https://gitlab.com/salfter/portage/-/blob/master/app-text/gimagereader/gimagereader-3.4.1.ebuild)
 dev-lang/gdl                                                                         | 1.0.0\_rc3-r3; 1.0.1-r3; 1.0.3                                                                                        | Allow `gdl` and the python module installed at the same time
-dev-python/aioftp                                                                    | 0.22.2                                                                                                                |
+dev-python/aioftp                                                                    | 0.22.3                                                                                                                |
 dev-python/corner                                                                    | 2.2.2                                                                                                                 |
 dev-python/exifread                                                                  | 3.0.0                                                                                                                 |
 dev-python/glymur                                                                    | 0.12.0; 0.12.6\_p1; 0.12.8; 0.12.9\_p1                                                                                |
@@ -139,7 +139,7 @@ dev-python/rasterio                | 1.3.8\_p2; 1.3.9                           
 dev-python/ratarmount              | 0.14.0                                            | Optional for yt. Dependency ratarmountcore is also included in this overlay but not listed in the table
 dev-python/s3fs                    | 2023.12.2                                         | Test dependency for zarr and astropy>=5.2
 dev-python/siosocks                | 0.3.0                                             | Optional for aioftp
-dev-python/textual                 | 0.47.0                                            | Pulled in by memray>=1.11. Dependency tree-sitter-languages is included but not listed in the table
+dev-python/textual                 | 0.47.1                                            | Pulled in by memray>=1.11. Dependency tree-sitter-languages is included but not listed in the table
 dev-python/colorspacious           | 1.1.2                                             | Pulled in by cmyt. Dropped by official portage
 dev-python/cmyt                    | 2.0.0                                             | Pulled in by yt
 dev-python/unyt                    | 3.0.1                                             | Pulled in by yt
