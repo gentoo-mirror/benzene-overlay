@@ -124,7 +124,7 @@ dev-python/flask-socketio          | 5.3.6                                      
 dev-python/fusepy                  | 3.0.1                                             | Optional for yt
 dev-python/heapdict                | 1.0.1                                             | Pulled in by zict and distributed
 dev-python/indexed\-{bzip2,zstd}   | 1.5.0 / 1.6.0                                     | Optional for yt (ratarmount{,core})
-dev-python/rapidgzip               | 0.11.1                                            | Optional for new ratarmount{,core}
+dev-python/rapidgzip               | 0.11.2                                            | Optional for new ratarmount{,core}
 dev-python/libconf                 | 2.0.1                                             | Optional for yt
 dev-python/miniballcpp             | 0.2.3                                             | Optional for yt
 dev-python/msrest                  | 0.7.1                                             | SunPy, h5pyd related
@@ -133,7 +133,7 @@ dev-python/numcodecs               | 0.12.1                                     
 dev-python/pykdtree                | 1.3.10                                            | Optional for yt
 dev-python/pytest-repeat           | 0.9.3                                             | Test dependency for new zict
 dev-python/pytest-textual-snapshot | 0.4.0                                             | Test dependency for new memray. Dependency syrupy is included but not listed in the table
-dev-python/python-socketio         | 5.9.0; 5.10.0                                     | Optional for yt
+dev-python/python-socketio         | 5.9.0; 5.11.0                                     | Optional for yt
 dev-python/python-xz               | 0.5.0                                             | Optional for yt
 dev-python/rasterio                | 1.3.8\_p2; 1.3.9                                  | Optional for photutils. Dependencies are not all listed in the table
 dev-python/ratarmount              | 0.14.0                                            | Optional for yt. Dependency ratarmountcore is also included in this overlay but not listed in the table
@@ -199,7 +199,7 @@ Package name | Available version        | Additional information
 dev-python/docstring-parser             | 0.15            | Optional dependency of pytkdocs
 dev-python/markdown-callouts            | 0.3.0           | mkdocstrings related (should be test depend)
 dev-python/mkdocs-coverage              | 1.0.0           | mkdocstrings related (should be test depend)
-dev-python/mkdocs-git-committers-plugin | 2.2.2           | mkdocstrings related (should be test depend)
+dev-python/mkdocs-git-committers-plugin | 2.2.3           | mkdocstrings related (should be test depend)
 dev-python/mkdocs-jupyter               | 0.24.6          |
 dev-python/mkdocs-literate-nav          | 0.6.1           | mkdocstrings related (should be test depend)
 dev-python/mkdocs-section-index         | 0.3.8           | mkdocstrings related (should be test depend)
