@@ -225,7 +225,6 @@ sys-libs/libsystemd:dns-over-tls - Enable DNS-over-TLS support
 sys-libs/libsystemd:elfutils - Enable coredump stacktraces in the journal
 sys-libs/libsystemd:fido2 - Enable FIDO2 support
 sys-libs/libsystemd:gcrypt - Enable use of dev-libs/libgcrypt for various features
-sys-libs/libsystemd:gnuefi - Enable EFI boot manager and stub loader (built using sys-boot/gnu-efi)
 sys-libs/libsystemd:homed - Enable portable home directories
 sys-libs/libsystemd:http - Enable embedded HTTP server in journald
 sys-libs/libsystemd:importd - Enable import daemon
