@@ -36,7 +36,7 @@ LICENSE="GPL-2 LGPL-2.1 MIT public-domain"
 SLOT="0/2"
 IUSE="
 	acl apparmor audit boot cgroup-hybrid cryptsetup curl +dns-over-tls elfutils
-	fido2 +gcrypt gnutls homed http idn importd iptables kernel-install +kmod
+	fido2 +gcrypt gnutls homed http idn importd iptables +kernel-install +kmod
 	+lz4 lzma +openssl pam pcre pkcs11 policykit pwquality qrcode
 	+resolvconf +seccomp selinux split-usr +sysv-utils test tpm ukify vanilla xkb +zstd
 "
@@ -109,7 +109,7 @@ RDEPEND="${COMMON_DEPEND}
 BDEPEND="
 	app-arch/xz-utils:0
 	dev-util/gperf
-	>=dev-util/meson-0.46
+	>=dev-build/meson-0.46
 	>=sys-apps/coreutils-8.16
 	sys-devel/gettext
 	virtual/pkgconfig
