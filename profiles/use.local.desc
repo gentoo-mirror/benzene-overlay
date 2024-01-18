@@ -210,6 +210,14 @@ net-libs/libaxon-bin:purple - libpurple protocol support via x11-plugins/purple-
 net-misc/sunloginclient:keep-server - Keep sunloginclient server running after quit the GUI client.
 net-misc/todesk:fonts - Install the bundled Noto fonts for CJK users (Not needed if media-fonts/noto-cjk is already installed)
 net-misc/todesk:keep-server - Keep todesk server available after quit the GUI client (only work on OpenRC system)
+net-nds/openldap-compat:experimental - Enable experimental backend options
+net-nds/openldap-compat:kinit - Enable support for kerberos init
+net-nds/openldap-compat:minimal - Build libraries & userspace tools only. Does not install any server code
+net-nds/openldap-compat:odbc - Enable ODBC and SQL backend options
+net-nds/openldap-compat:overlays - Enable contributed OpenLDAP overlays
+net-nds/openldap-compat:pbkdf2 - Enable support for pbkdf2 passwords
+net-nds/openldap-compat:sha2 - Enable support for pw-sha2 password hashes
+net-nds/openldap-compat:smbkrb5passwd - Enable overlay for syncing ldap, unix and lanman passwords
 net-proxy/v2raya-bin:v2ray - To be able to use v2ray-core. Default for old version. From 2.0.4 you need to disable xray flag to use v2ray as default
 net-proxy/v2raya-bin:xray - To use xray-core as default from 2.0.4
 sci-astronomy/astrometry:netpbm - Compile and link netpbm
