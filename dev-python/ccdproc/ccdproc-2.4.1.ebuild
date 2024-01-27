@@ -1,4 +1,4 @@
-# Copyright 2023 Gentoo Authors
+# Copyright 2024 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
 EAPI=8
@@ -20,7 +20,7 @@ SLOT="0"
 
 RDEPEND=">=dev-python/numpy-1.21[${PYTHON_USEDEP}]
 	>=dev-python/astropy-5.0.1[${PYTHON_USEDEP}]
-	sci-libs/scikit-image[${PYTHON_USEDEP}]
+	dev-python/scikit-image[${PYTHON_USEDEP}]
 	>=dev-python/astroscrappy-1.0.8[${PYTHON_USEDEP}]
 	>=dev-python/reproject-0.7[${PYTHON_USEDEP}]
 "
@@ -32,7 +32,7 @@ BDEPEND="dev-python/setuptools-scm[${PYTHON_USEDEP}]
 	)
 	test? (
 		dev-python/pytest-doctestplus[${PYTHON_USEDEP}]
-		dev-python/memory_profiler[${PYTHON_USEDEP}]
+		dev-python/memory-profiler[${PYTHON_USEDEP}]
 	)
 "
 
