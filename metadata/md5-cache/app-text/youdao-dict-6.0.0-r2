@@ -13,4 +13,4 @@ RESTRICT=strip mirror
 SLOT=0
 SRC_URI=amd64? ( http://codown.youdao.com/cidian/linux/youdao-dict-6.0.0-amd64.tar.gz ) x86? ( http://codown.youdao.com/cidian/linux/youdao-dict_6.0.0_i386.tar.gz )
 _eclasses_=out-of-source-utils	1a9007554652a6e627edbccb3c25a439	multibuild	d67e78a235f541871c7dfe4cf7931489	multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	python-utils-r1	042f4cc53680245bf99a84669b94155a	python-r1	8a28fa6d3e3bc96ff8a7eff2badbe71f	xdg-utils	baea6080dd821f5562d715887954c9d3	xdg	4a14c5c24f121e7da66e5aab4a168c6e
-_md5_=fd2b3f30d0aec507fe814d6dcf5ca054
+_md5_=f5da30ea6141ae340d15f6ea1d722dbc
