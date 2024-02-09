@@ -11,6 +11,6 @@ RDEPEND=>=dev-python/numpy-1.17.3[python_targets_python3_10(-)?,python_targets_p
 REQUIRED_USE=|| ( python_targets_python3_10 python_targets_python3_11 )
 RESTRICT=test !test? ( test )
 SLOT=0
-SRC_URI=https://github.com/HDFGroup/h5pyd/archive/f1cf1923833c077e2c8d50c4dbbf89a1775493a7.tar.gz -> h5pyd-0.16.0.gh.tar.gz doc? ( https://raw.githubusercontent.com/h5py/h5py/3.9.0/examples/bytesio.py -> h5py-3.9.0-e-bytesio.py https://raw.githubusercontent.com/h5py/h5py/3.9.0/examples/swmr_inotify_example.py -> h5py-3.9.0-e-swmr_inotify_example.py https://raw.githubusercontent.com/h5py/h5py/3.9.0/examples/swmr_multiprocess.py -> h5py-3.9.0-e-swmr_multiprocess.py )
+SRC_URI=https://github.com/HDFGroup/h5pyd/archive/094f0b2b7e2a777f6dc1a6f60851cc856067d9a2.tar.gz -> h5pyd-0.18.0.gh.tar.gz doc? ( https://raw.githubusercontent.com/h5py/h5py/3.10.0/examples/bytesio.py -> h5py-3.10.0-e-bytesio.py https://raw.githubusercontent.com/h5py/h5py/3.10.0/examples/swmr_inotify_example.py -> h5py-3.10.0-e-swmr_inotify_example.py https://raw.githubusercontent.com/h5py/h5py/3.10.0/examples/swmr_multiprocess.py -> h5py-3.10.0-e-swmr_multiprocess.py )
 _eclasses_=toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	b2b07efa51009704f88173b2c7feab47	out-of-source-utils	1a9007554652a6e627edbccb3c25a439	multibuild	d67e78a235f541871c7dfe4cf7931489	multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	python-utils-r1	042f4cc53680245bf99a84669b94155a	python-r1	8a28fa6d3e3bc96ff8a7eff2badbe71f	distutils-r1	b9318b5e40104e608d7e4582121fb561
-_md5_=9e130e5c6fb71af48da43287a276d24f
+_md5_=6bb3dee7c831f6f1f94e6f4d0189346e
