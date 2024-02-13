@@ -166,6 +166,7 @@ dev-python/sphinx-design:theme_sbt - Book theme support via dev-python/sphinx-bo
 dev-python/sphinx-thebe:sphinx - Extra sphinx support
 dev-python/sphinx-togglebutton:sphinx - Extra sphinx support
 dev-python/sphinxcontrib-youtube:doc-demo - Include online demo video in documentation
+dev-python/stanio:ujson - Faster serialization via dev-python/ujson
 dev-python/sunpy:asdf - Extra asdf support via dev-python/asdf-astropy
 dev-python/sunpy:dask - Extra dask support via dev-python/dask
 dev-python/sunpy:database - Extra database support via dev-python/sqlalchemy
