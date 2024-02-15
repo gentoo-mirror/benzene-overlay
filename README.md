@@ -50,7 +50,7 @@ dev-python/api4jenkins                                                          
 dev-python/python-jenkins                                                            | 1.8.2; (live)                                                                                                         | Dependency multi\_key\_dict is also included but not listed here
 dev-python/vispy                                                                     | 0.13.0; 0.14.1                                                                                                        | Doc building may have problems with sandbox permission
 dev-python/yt                                                                        | 4.0.5; 4.1.4; 4.2.2; 4.3.0                                                                                            | Full doc building needs huge amount of data, so cannot complete locally.
-dev-python/zarr                                                                      | 2.16.1                                                                                                                |
+dev-python/zarr                                                                      | 2.17.0                                                                                                                |
 dev-qt/qtwebkit                                                                      | 5.212.0\_pre20200309-{r1,r2}                                                                                          | Add [patch](https://github.com/Universebenzene/benzene-overlay/blob/master/dev-qt/qtwebkit/files/qtwebkit-5.212.0_pre20200309-position.patch) to get **youdao-dict** in this overlay work (the -r2 is a test for upgrade EAPI to 8, and might be a little buggy with youdao-dict.)
 [dev-util/micromamba{,-bin}](https://mamba.readthedocs.io)                           | [1.5.6](https://github.com/Universebenzene/benzene-overlay/blob/master/dev-util/micromamba/micromamba-1.5.6.ebuild)                                        | `dev-util/mamba[micromamba]` in [gentoo-zh](https://github.com/microcai/gentoo-zh) is **recommended** if you want source version and don't care about testing. Also need [gentoo-zh](https://github.com/microcai/gentoo-zh) to provide dependency `dev-cpp/reproc`, `dev-cpp/tl-expected` and `sys-libs/libsolv` .
 media-fonts/wps-office-fonts                                                         | [1.0](https://github.com/Universebenzene/benzene-overlay/blob/master/media-fonts/wps-office-fonts/wps-office-fonts-1.0.ebuild)                             | WPS Linux旧版自带方正系字体
@@ -109,7 +109,7 @@ dev-python/aioitertools            | 0.11.0                                     
 dev-python/arviz                   | 0.17.0                                            | Optional for corner.py.
 dev-python/asciitree               | 0.3.3                                             | Pulled in by zarr
 dev-python/azure-core              | 1.26.3; 1.30.0                                    | Required by new msrest
-dev-python/bidict                  | 0.22.0; 0.22.1                                    | Optional for yt
+dev-python/bidict                  | 0.22.0; 0.23.0                                    | Optional for yt
 dev-python/check-manifest          | 0.49                                              | Dropped by official portage. Required by xarray-datatree (test dep for arviz)
 dev-python/cmdstanpy               | 1.0.8; 1.2.1                                      | Test dependency for arviz. Dependency stanio is included but not listed in the table
 dev-python/distributed             | 2024.1.1; 2024.2.0                                | Optional for arviz and spectral-cube
@@ -138,7 +138,8 @@ dev-python/rasterio                | 1.3.8\_p2; 1.3.9                           
 dev-python/ratarmount              | 0.14.0                                            | Optional for yt. Dependency ratarmountcore is also included in this overlay but not listed in the table
 dev-python/s3fs                    | 2023.12.2; 2024.2.0                               | Test dependency for zarr and astropy>=5.2
 dev-python/siosocks                | 0.3.0                                             | Optional for aioftp
-dev-python/textual                 | 0.50.0                                            | Pulled in by memray>=1.11. Dependency tree-sitter-languages is included but not listed in the table
+dev-python/sortedcollections       | 2.1.0                                             | Test dependency for bidict>=0.23.0
+dev-python/textual                 | 0.50.1                                            | Pulled in by memray>=1.11. Dependency tree-sitter-languages is included but not listed in the table
 dev-python/colorspacious           | 1.1.2                                             | Pulled in by cmyt. Dropped by official portage
 dev-python/cmyt                    | 2.0.0                                             | Pulled in by yt
 dev-python/unyt                    | 3.0.1                                             | Pulled in by yt
