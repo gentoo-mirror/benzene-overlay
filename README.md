@@ -129,7 +129,7 @@ dev-python/miniballcpp             | 0.2.3                                      
 dev-python/msrest                  | 0.7.1                                             | SunPy, h5pyd related
 dev-python/msrestazure             | 0.6.4                                             | SunPy, h5pyd related
 dev-python/numcodecs               | 0.12.1                                            | Pulled in by zarr
-dev-python/pykdtree                | 1.3.10                                            | Optional for yt
+dev-python/pykdtree                | 1.3.11                                            | Optional for yt
 dev-python/pytest-repeat           | 0.9.3                                             | Test dependency for new zict
 dev-python/pytest-textual-snapshot | 0.4.0                                             | Test dependency for new memray. Dependency syrupy is included but not listed in the table
 dev-python/python-socketio         | 5.9.0; 5.11.1                                     | Optional for yt
@@ -139,7 +139,7 @@ dev-python/ratarmount              | 0.14.0                                     
 dev-python/s3fs                    | 2023.12.2; 2024.2.0                               | Test dependency for zarr and astropy>=5.2
 dev-python/siosocks                | 0.3.0                                             | Optional for aioftp
 dev-python/sortedcollections       | 2.1.0                                             | Test dependency for bidict>=0.23.0
-dev-python/textual                 | 0.50.1                                            | Pulled in by memray>=1.11. Dependency tree-sitter-languages is included but not listed in the table
+dev-python/textual                 | 0.51.0                                            | Pulled in by memray>=1.11. Dependency tree-sitter-languages is included but not listed in the table
 dev-python/colorspacious           | 1.1.2                                             | Pulled in by cmyt. Dropped by official portage
 dev-python/cmyt                    | 2.0.0                                             | Pulled in by yt
 dev-python/unyt                    | 3.0.1                                             | Pulled in by yt
