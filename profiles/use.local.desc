@@ -15,6 +15,7 @@ app-text/dehelper:ibus - Enable support for app-i18n/ibus
 app-text/eshelper:ibus - Enable support for app-i18n/ibus
 app-text/eudic:ibus - Enable support for app-i18n/ibus
 app-text/frhelper:ibus - Enable support for app-i18n/ibus
+app-text/goldendict:webengine - Use dev-qt/qtwebengine instead of dev-qt/qtwebkit
 app-text/ydcv:pkg-info - Add descriptions to PKG-INFO file
 app-text/ydcv-rs:clipboard - Enable feature: use selected text as input
 app-text/ydcv-rs:notify - Enable feature: display explanations via desktop notification
