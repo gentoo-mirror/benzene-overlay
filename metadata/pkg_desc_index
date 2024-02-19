@@ -44,14 +44,14 @@ dev-python/astroplan 0.6 0.9.1: Observation planning package for astronomers
 dev-python/astropy 2.0.16 3.0.5 3.1.2 4.2.1 5.0.8 5.3.4 6.0.0: Core functionality for performing astrophysics with Python
 dev-python/astropy-healpix 0.5 1.0.2: BSD-licensed HEALPix for Astropy
 dev-python/astropy-helpers 2.0.11 3.0.2 3.1.1 4.0.1: Helpers for Astropy and Affiliated packages
-dev-python/astropy-iers-data 0.2024.2.12.0.31.0: IERS Earth Rotation and Leap Second tables for the astropy core package
+dev-python/astropy-iers-data 0.2024.2.19.0.28.47: IERS Earth Rotation and Leap Second tables for the astropy core package
 dev-python/astropy-sphinx-theme 1.1: The sphinx theme for Astropy and affiliated packages
 dev-python/astroquery 0.3.10 0.4.6: Collection of packages to access online astronomical resources
 dev-python/astroscrappy 1.0.8 1.1.0: Optimized cosmic ray annihilation astropy python module
 dev-python/asynctest 0.13.0: Enhance standard unittest package with features for testing asyncio libraries
 dev-python/atpy 0.9.7: Astronomical tables support for Python
 dev-python/azure-core 1.26.3 1.30.0: Microsoft Azure Core Library for Python
-dev-python/bidict 0.22.0 0.23.0: The bidirectional mapping library for Python
+dev-python/bidict 0.22.0 0.23.1: The bidirectional mapping library for Python
 dev-python/casa-formats-io 0.2.2: Code to handle I/O from/to data in CASA format Resources
 dev-python/ccdproc 1.3.0_p1 2.1.0 2.4.1: Astropy affiliated package for reducing optical/IR CCD data
 dev-python/cdflib 0.4.9 1.1.1 1.2.3: A python module for reading NASA's Common Data Format (cdf) files Resources
