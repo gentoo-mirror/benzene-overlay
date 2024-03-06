@@ -32,7 +32,7 @@ dev-python/asciitree 0.3.3: Draws ASCII trees in Python
 dev-python/asdf 2.7.2 2.9.2 2.10.1 2.13.0 2.15.0 2.15.2 3.1.0: Python library for the Advanced Scientific Data Format
 dev-python/asdf-astropy 0.2.1 0.5.0: ASDF serialization support for astropy
 dev-python/asdf-coordinates-schemas 0.2.0: ASDF schemas for coordinates
-dev-python/asdf-standard 1.0.1 1.0.2 1.0.3: Standards document describing ASDF, Advanced Scientific Data Format
+dev-python/asdf-standard 1.0.1 1.0.2 1.1.0: Standards document describing ASDF, Advanced Scientific Data Format
 dev-python/asdf-transform-schemas 0.2.2 0.4.0: ASDF schemas for transforms
 dev-python/asdf-unit-schemas 0.1.0: ASDF schemas for units
 dev-python/asdf-wcs-schemas 0.1.1 0.3.0: World Coordinate System (WCS) ASDF schemas
@@ -54,7 +54,7 @@ dev-python/azure-core 1.26.3 1.30.1: Microsoft Azure Core Library for Python
 dev-python/bidict 0.22.0 0.23.1: The bidirectional mapping library for Python
 dev-python/casa-formats-io 0.2.2: Code to handle I/O from/to data in CASA format Resources
 dev-python/ccdproc 1.3.0_p1 2.1.0 2.4.1: Astropy affiliated package for reducing optical/IR CCD data
-dev-python/cdflib 0.4.9 1.1.1 1.2.5: A python module for reading NASA's Common Data Format (cdf) files Resources
+dev-python/cdflib 0.4.9 1.1.1 1.2.6: A python module for reading NASA's Common Data Format (cdf) files Resources
 dev-python/check-manifest 0.49: Tool to check the completeness of MANIFEST.in for Python packages
 dev-python/cligj 0.7.2: Click params for commmand line interfaces to GeoJSON
 dev-python/cmdstanpy 1.0.8 1.2.1: Python interface to CmdStan
