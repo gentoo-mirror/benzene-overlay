@@ -237,7 +237,7 @@ net-misc/baidunetdisk 3.0.1 4.3.0 4.17.7: Baidu Net Disk is a cloud storage clie
 net-misc/baidupcs-go 3.6.2 3.8.1 3.9.5_beta 3.9.5 9999: The terminal utility for Baidu Network Disk (Golang Version).
 net-misc/baidupcs-go-bin 3.6.2 3.9.5_beta 3.9.5: The terminal utility for Baidu Network Disk (Golang Version).
 net-misc/landrop 0.4.0 9999: Drop any files to any devices on your LAN
-net-misc/sunloginclient 10.0.2.24779 11.0.0.36662-r1: Sunlogin Remote Control for mobile devices, Win, Mac, Linux, etc. (GUI version)
+net-misc/sunloginclient 10.0.2.24779 11.0.0.36662-r1 15.2.0.62802: Sunlogin Remote Control for mobile devices, Win, Mac, Linux, etc. (GUI version)
 net-misc/todesk 4.1.0-r4 4.3.1.0 4.7.2.0: Remote control and team work
 net-misc/xunlei-download 1.0.0.2: Xunlei download
 net-nds/openldap-compat 2.4.59: LDAP suite of application and development tools
