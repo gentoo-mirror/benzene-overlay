@@ -34,7 +34,7 @@ dev-python/asdf-astropy 0.2.1 0.5.0: ASDF serialization support for astropy
 dev-python/asdf-coordinates-schemas 0.2.0: ASDF schemas for coordinates
 dev-python/asdf-standard 1.0.1 1.0.2 1.1.1: Standards document describing ASDF, Advanced Scientific Data Format
 dev-python/asdf-transform-schemas 0.2.2 0.4.0: ASDF schemas for transforms
-dev-python/asdf-unit-schemas 0.1.0: ASDF schemas for units
+dev-python/asdf-unit-schemas 0.1.0 0.2.0: ASDF schemas for units
 dev-python/asdf-wcs-schemas 0.1.1 0.3.0: World Coordinate System (WCS) ASDF schemas
 dev-python/assay 9999: Attempt to write a Python testing framework I can actually stand
 dev-python/astlib 0.11.3 0.11.10: Python astronomy modules for image and coordinate manipulation
