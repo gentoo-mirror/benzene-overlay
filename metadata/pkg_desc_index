@@ -143,7 +143,7 @@ dev-python/pytest-arraydiff 0.3 0.6.1: Pytest plugin to facilitate comparison of
 dev-python/pytest-astropy 0.8.0 0.11.0: Metapackage for all the testing machinery used by the Astropy Project
 dev-python/pytest-astropy-header 0.1.2 0.2.2: Pytest plugin to add diagnostic information to the header of the test output
 dev-python/pytest-cython 0.2.1: A plugin for testing Cython extension modules
-dev-python/pytest-doctestplus 0.9.0 1.2.0: Pytest plugin with advanced doctest features
+dev-python/pytest-doctestplus 0.9.0 1.2.1: Pytest plugin with advanced doctest features
 dev-python/pytest-filter-subpackage 0.2.0: Pytest plugin for filtering based on sub-packages
 dev-python/pytest-openfiles 0.5.0: Pytest plugin to check for files left open at the end of a test run
 dev-python/pytest-relaxed 2.0.1: Relaxed test discovery/organization for pytest
