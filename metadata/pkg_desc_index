@@ -35,7 +35,7 @@ dev-python/asdf-coordinates-schemas 0.3.0: ASDF schemas for coordinates
 dev-python/asdf-standard 1.0.1 1.0.2 1.1.1: Standards document describing ASDF, Advanced Scientific Data Format
 dev-python/asdf-transform-schemas 0.2.2 0.4.0 0.5.0: ASDF schemas for transforms
 dev-python/asdf-unit-schemas 0.1.0 0.2.0: ASDF schemas for units
-dev-python/asdf-wcs-schemas 0.1.1 0.3.0: World Coordinate System (WCS) ASDF schemas
+dev-python/asdf-wcs-schemas 0.1.1 0.4.0: World Coordinate System (WCS) ASDF schemas
 dev-python/assay 9999: Attempt to write a Python testing framework I can actually stand
 dev-python/astlib 0.11.3 0.11.10: Python astronomy modules for image and coordinate manipulation
 dev-python/astrodendro 0.2.0-r2 9999: Python package for computation of astronomical dendrograms
@@ -74,7 +74,7 @@ dev-python/extension-helpers 1.1.1: Helpers to assist with building Python pkgs 
 dev-python/f90nml 1.4.4: Fortran 90 namelist parser
 dev-python/fast-histogram 0.11: Fast 1D and 2D histogram functions in Python
 dev-python/fastcache 1.1.0: C implementation of Python 3 functools.lru_cache
-dev-python/feedgen 0.9.0: Python module to generate ATOM feeds, RSS feeds and Podcasts
+dev-python/feedgen 0.9.0 1.0.0: Python module to generate ATOM feeds, RSS feeds and Podcasts
 dev-python/firefly 3.2.4: A browser-based particle visualization platform
 dev-python/firefly-vis 2.0.4: A browser-based particle visualization platform
 dev-python/flask-socketio 5.3.6: Socket.IO integration for Flask applications
