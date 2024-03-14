@@ -27,10 +27,10 @@ dev-python/aioftp 0.22.3: Ftp client/server for asyncio
 dev-python/aioitertools 0.11.0: Itertools and builtins for AsyncIO and mixed iterables
 dev-python/api4jenkins 2.0.3: Tools for accessing JPEG2000 files
 dev-python/aplpy 1.1.1 2.0.3 2.1.0: Astronomical Plotting Library in Python
-dev-python/arviz 0.17.0: Exploratory analysis of Bayesian models with Python
+dev-python/arviz 0.17.1: Exploratory analysis of Bayesian models with Python
 dev-python/asciitree 0.3.3: Draws ASCII trees in Python
 dev-python/asdf 2.7.2 2.9.2 2.10.1 2.13.0 2.15.0 2.15.2 3.1.0: Python library for the Advanced Scientific Data Format
-dev-python/asdf-astropy 0.2.1 0.5.0: ASDF serialization support for astropy
+dev-python/asdf-astropy 0.2.1 0.6.0: ASDF serialization support for astropy
 dev-python/asdf-coordinates-schemas 0.3.0: ASDF schemas for coordinates
 dev-python/asdf-standard 1.0.1 1.0.2 1.1.1: Standards document describing ASDF, Advanced Scientific Data Format
 dev-python/asdf-transform-schemas 0.2.2 0.4.0 0.5.0: ASDF schemas for transforms
