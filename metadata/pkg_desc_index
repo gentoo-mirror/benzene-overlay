@@ -206,7 +206,7 @@ dev-python/textual 0.52.1: Modern Text User Interface framework
 dev-python/toml 0.10.2-r1: Python library for handling TOML files
 dev-python/tree-sitter-languages 1.10.2: Binary Python wheels for all tree sitter languages
 dev-python/unyt 3.0.2: Handle, manipulate, and convert data with units in Python
-dev-python/vispy 0.13.0 0.14.1: Interactive visualization in Python
+dev-python/vispy 0.13.0 0.14.2: Interactive visualization in Python
 dev-python/xarray-datatree 0.0.14: Hierarchical tree-like data structures for xarray
 dev-python/xarray-einstats 0.7.0: Stats, linear algebra and einops for xarray
 dev-python/yt 4.0.5 4.1.4 4.2.2 4.3.0: An analysis and visualization toolkit for volumetric data
