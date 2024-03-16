@@ -1,0 +1,14 @@
+BDEPEND=>=dev-lang/go-1.20:= app-arch/unzip
+DEFINED_PHASES=compile install unpack
+DESCRIPTION=A user friendly command line tool to access AliCloud OSS.
+EAPI=8
+HOMEPAGE=https://help.aliyun.com/zh/oss/developer-reference/ossutil-1 https://github.com/aliyun/ossutil
+INHERIT=go-module-vendor
+KEYWORDS=~amd64 ~arm ~arm64 ~x86
+LICENSE=MIT
+RDEPEND=!net-proxy/ossutil-bin
+RESTRICT=strip
+SLOT=0
+SRC_URI=https://github.com/aliyun/ossutil/archive/v1.7.18.tar.gz -> ossutil-1.7.18.tar.gz https://github.com/Universebenzene/ebuild-vendors/archive/refs/tags/ossutil-1.7.18.tar.gz -> ossutil-1.7.18-vendor.tar.gz
+_eclasses_=edo	c0eb9cbe6b0bd01fcb4918f12598a4d3	multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	24c947ff5f858625cf0b33c15eed4425	go-env	14f8f70fe58c14d7ab44fff15a05ac47	go-module-vendor	e28f96877f5c04e569fcca14d0058259
+_md5_=61ac3e41b9e6aa84c8395c45060c85bd
