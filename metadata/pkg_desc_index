@@ -255,6 +255,7 @@ sci-astronomy/topcat 4.8 4.9.1: Interactive graphical viewer and editor for astr
 sci-astronomy/wcslib 8.2.2: Astronomical World Coordinate System transformations library
 sci-libs/libsharp 1.0.0 1.0.0_p20220728: Library for fast spherical harmonic transforms
 sys-block/diskus 0.7.0 9999: A minimal, fast alternative to 'du -sh'.
+sys-fs/ossfs 1.91.2: Export s3fs for aliyun oss
 sys-libs/elogind-libsystemd 0: Provide standalone libsystemd.so without systemd by linking libelogind.so
 sys-libs/libsystemd 254.8-r1 254.9-r1 254.10 255.3-r1 255.4 9999: A standalone package to provide libsystemd.so without systemd
 virtual/libsystemd 0: Virtual for libsystemd.so
