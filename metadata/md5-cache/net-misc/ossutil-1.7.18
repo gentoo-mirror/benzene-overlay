@@ -1,14 +1,14 @@
-BDEPEND=>=dev-lang/go-1.20:= app-arch/unzip
-DEFINED_PHASES=compile install unpack
+BDEPEND=>=dev-lang/go-1.10
+DEFINED_PHASES=compile install test unpack
 DESCRIPTION=A user friendly command line tool to access AliCloud OSS.
-EAPI=8
+EAPI=7
 HOMEPAGE=https://help.aliyun.com/zh/oss/developer-reference/ossutil-1 https://github.com/aliyun/ossutil
-INHERIT=go-module-vendor
+INHERIT=golang-build golang-vcs-snapshot
 KEYWORDS=~amd64 ~arm ~arm64 ~x86
 LICENSE=MIT
-RDEPEND=!net-proxy/ossutil-bin
+RDEPEND=!net-misc/ossutil-bin
 RESTRICT=strip
 SLOT=0
-SRC_URI=https://github.com/aliyun/ossutil/archive/v1.7.18.tar.gz -> ossutil-1.7.18.tar.gz https://github.com/Universebenzene/ebuild-vendors/archive/refs/tags/ossutil-1.7.18.tar.gz -> ossutil-1.7.18-vendor.tar.gz
-_eclasses_=edo	c0eb9cbe6b0bd01fcb4918f12598a4d3	multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	24c947ff5f858625cf0b33c15eed4425	go-env	14f8f70fe58c14d7ab44fff15a05ac47	go-module-vendor	e28f96877f5c04e569fcca14d0058259
-_md5_=61ac3e41b9e6aa84c8395c45060c85bd
+SRC_URI=https://github.com/aliyun/ossutil/archive/v1.7.18.tar.gz -> ossutil-1.7.18.tar.gz https://github.com/aliyun/aliyun-oss-go-sdk/archive/v2.2.9.tar.gz -> github.com-aliyun-aliyun-oss-go-sdk-v2.2.9.tar.gz https://github.com/alyu/configparser/archive/744e9a66e7bcb83ea09084b979ddd1efc1f2f418.tar.gz -> github.com-alyu-configparser-744e9a66e7bcb83ea09084b979ddd1efc1f2f418.tar.gz https://github.com/droundy/goopt/archive/48d6390ad4d19add7307a279e1bc89b689216321.tar.gz -> github.com-droundy-goopt-48d6390ad4d19add7307a279e1bc89b689216321.tar.gz https://github.com/syndtr/goleveldb/archive/v1.0.0.tar.gz -> github.com-syndtr-goleveldb-v1.0.0.tar.gz https://github.com/golang/snappy/archive/2e65f85255dbc3072edf28d6b5b8efc472979f5a.tar.gz -> github.com-golang-snappy-2e65f85255dbc3072edf28d6b5b8efc472979f5a.tar.gz https://github.com/golang/time/archive/e5dcc9cfc0b9553953e355dde5bdf4ff9f82f742.tar.gz -> github.com-golang-time-e5dcc9cfc0b9553953e355dde5bdf4ff9f82f742.tar.gz https://github.com/golang/crypto/archive/630584e8d5aaa1472863b49679b2d5548d80dcba.tar.gz -> github.com-golang-crypto-630584e8d5aaa1472863b49679b2d5548d80dcba.tar.gz https://github.com/golang/term/archive/7de9c90e9dd184706b838f536a1cbf40a296ddb7.tar.gz -> github.com-golang-term-7de9c90e9dd184706b838f536a1cbf40a296ddb7.tar.gz https://github.com/golang/sys/archive/665e8c7367d1ecf644cea2d163019ef59c13d554.tar.gz -> github.com-golang-sys-665e8c7367d1ecf644cea2d163019ef59c13d554.tar.gz
+_eclasses_=golang-base	9f0e420ab37bc55a318d74bab3aae891	golang-build	b689e250dc38d720b04019511cd5806f	toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	24c947ff5f858625cf0b33c15eed4425	go-env	14f8f70fe58c14d7ab44fff15a05ac47	golang-vcs-snapshot	85de4c0ee156326f54c6d16f8ab529d1
+_md5_=af27ce3231cf6637a382cd8d4a5d3f81
