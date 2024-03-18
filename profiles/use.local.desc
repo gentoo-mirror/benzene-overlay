@@ -8,6 +8,7 @@ app-office/wps-office:l10n_zh-HK - Chinese (Traditional, Hong Kong S.A.R.)
 app-office/wps-office:l10n_zh-MO - Chinese (Traditional, Macao S.A.R.)
 app-office/wps-office:libsystemd - Use bundled libdbus that depends on virtual/libsystemd
 app-office/wps-office:mime - Use mime files provided by WPS
+app-office/wps-office:system-freetype - Use media-libs/freetype instead of media-libs/freetype-wps.
 app-pda/i4tools:fcitx - Enable support for app-i18n/fcitx 4
 app-pda/i4tools:fcitx5 - Enable support for app-i18n/fcitx5
 app-pda/i4tools:ibus - Enable support for app-i18n/ibus
@@ -203,6 +204,13 @@ gui-apps/regreet:cage - Use cage to start regreet
 gui-apps/regreet:gtk4 - Compile with support for gtk4
 gui-apps/regreet:logs - Compile logs support regreet (debug)
 gui-apps/regreet:sway - Use sway to start regreet
+media-libs/freetype-wps:adobe-cff - Use Adobe CFF as default font-renderer
+media-libs/freetype-wps:bzip2 - Support bzip2 compressed PCF fonts.
+media-libs/freetype-wps:cleartype-hinting - Bytecode hinting mode for TrueType fonts that activates subpixel hinting (a.k.a. ClearType hinting) by default
+media-libs/freetype-wps:fontforge - Install internal headers required for TrueType debugger in media-gfx/fontforge (built with USE=truetype-debugger)
+media-libs/freetype-wps:harfbuzz - Use media-libs/harfbuzz for auto-hinting OpenType fonts. WARNING: may trigger circular dependencies!
+media-libs/freetype-wps:infinality - Enable infinality options for improved LCD filtering
+media-libs/freetype-wps:utils - Install utilities and examples from ft2demos
 media-libs/gmtk:dconf - Enable support for gnome-base/dconf
 media-video/gnome-mplayer:dconf - Enable support for gnome-base/dconf
 media-video/gnome-mplayer:gda - Enable support for gnome-extra/libgda
