@@ -163,7 +163,7 @@ dev-python/ratarmount 0.14.1: Random Access Read-Only Tar Mount
 dev-python/ratarmountcore 0.6.3: Random Access Read-Only Tar Mount Library
 dev-python/regions 0.4 0.8: Astropy affiliated package for region handling
 dev-python/reproject 0.5.1 0.12.0 0.13.0: Reproject astronomical images with Python
-dev-python/respx 0.20.2: A utility for mocking out the Python HTTPX and HTTP Core libraries
+dev-python/respx 0.21.0: A utility for mocking out the Python HTTPX and HTTP Core libraries
 dev-python/runnotebook 0.3.1 9999: IPython notebook sphinx extensions
 dev-python/s3fs 2024.2.0 2024.3.0 2024.3.1: Convenient Filesystem interface over S3
 dev-python/sep 1.2.1: Python and C library for source extraction and photometry
