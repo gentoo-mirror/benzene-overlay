@@ -4,13 +4,13 @@ DEPEND=python_targets_python3_10? ( dev-lang/python:3.10 ) python_targets_python
 DESCRIPTION=Core functionality for performing astrophysics with Python
 EAPI=8
 HOMEPAGE=https://astropy.org
-INHERIT=distutils-r1 optfeature
+INHERIT=distutils-r1 optfeature pypi
 IUSE=doc test python_targets_python3_10 python_targets_python3_11 debug
 LICENSE=BSD
 RDEPEND=>=dev-libs/expat-2.2.9:0= >=dev-python/numpy-1.17.0[python_targets_python3_10(-)?,python_targets_python3_11(-)?] >=dev-python/pyerfa-1.7[python_targets_python3_10(-)?,python_targets_python3_11(-)?] >=sci-astronomy/erfa-1.7:0= >=sci-astronomy/wcslib-7.3:0= >=sci-libs/cfitsio-3.490:0= sys-libs/zlib:0= python_targets_python3_10? ( dev-lang/python:3.10 ) python_targets_python3_11? ( dev-lang/python:3.11 )
 REQUIRED_USE=|| ( python_targets_python3_10 python_targets_python3_11 )
 RESTRICT=test doc? ( network-sandbox )
 SLOT=0
-SRC_URI=mirror://pypi/a/astropy/astropy-4.2.1.tar.gz
-_eclasses_=toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	24c947ff5f858625cf0b33c15eed4425	out-of-source-utils	1a9007554652a6e627edbccb3c25a439	multibuild	d67e78a235f541871c7dfe4cf7931489	multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	python-utils-r1	8904b60325f22500b0c3ad4b68a42448	python-r1	8a28fa6d3e3bc96ff8a7eff2badbe71f	distutils-r1	8262de2e5a28df8624b96e031d8d0f2b	optfeature	222cb475c5a4f7ae7cfb0bf510a6fe54
-_md5_=5b29f4d7084b203bc74f4ab2ef684624
+SRC_URI=https://files.pythonhosted.org/packages/source/a/astropy/astropy-4.2.1.tar.gz
+_eclasses_=toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	24c947ff5f858625cf0b33c15eed4425	out-of-source-utils	1a9007554652a6e627edbccb3c25a439	multibuild	d67e78a235f541871c7dfe4cf7931489	multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	python-utils-r1	8904b60325f22500b0c3ad4b68a42448	python-r1	8a28fa6d3e3bc96ff8a7eff2badbe71f	distutils-r1	8262de2e5a28df8624b96e031d8d0f2b	optfeature	222cb475c5a4f7ae7cfb0bf510a6fe54	pypi	2eecb475512bc76e5ea9192a681b9e6b
+_md5_=41e5f2bbc1e92e1ab27d25b128caf626
