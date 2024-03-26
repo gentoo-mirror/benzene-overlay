@@ -126,7 +126,7 @@ dev-python/flask-socketio          | 5.3.6                                      
 dev-python/fusepy                  | 3.0.1                                             | Optional for yt
 dev-python/heapdict                | 1.0.1                                             | Pulled in by zict and distributed
 dev-python/indexed\-{bzip2,zstd}   | 1.6.0 / 1.6.0                                     | Optional for yt (ratarmount{,core})
-dev-python/rapidgzip               | 0.13.0                                            | Optional for new ratarmount{,core}
+dev-python/rapidgzip               | 0.13.1                                            | Optional for new ratarmount{,core}
 dev-python/libconf                 | 2.0.1                                             | Optional for yt
 dev-python/memory-profiler         | 0.61                                              | Dropped by official portage. Test dependency for ccdproc
 dev-python/miniballcpp             | 0.2.3                                             | Optional for yt
@@ -186,7 +186,7 @@ dev-python/sphinxcontrib-srclink        | 0.2.4                |
 dev-python/sphinxcontrib-youtube        | 1.2.0; 1.4.1         | `network-sandbox` FEATURE will be disabled if you enable demo videos for doc building in version 1.2.0.
 dev-python/sphinxext-opengraph          | 0.9.1                |
 dev-python/dask-sphinx-theme            | 3.0.5                |
-dev-python/sunpy-sphinx-theme           | 1.2.42; 2.0.2; 2.0.5 |
+dev-python/sunpy-sphinx-theme           | 1.2.42; 2.0.2; 2.0.6 |
 dev-python/pydata-sphinx-theme          | 0.13.3-r1            | Old version dropped by official portage, required by sunpy-sphinx-theme
 dev-python/mistune                      | 0.8.4-r1             | Only for sphinx-asdf that depends on old version
 dev-python/nbconvert                    | 6.4.5                | Depends on old mistune
