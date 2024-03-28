@@ -163,7 +163,7 @@ dev-python/ratarmount 0.14.1: Random Access Read-Only Tar Mount
 dev-python/ratarmountcore 0.6.4: Random Access Read-Only Tar Mount Library
 dev-python/regions 0.4 0.8: Astropy affiliated package for region handling
 dev-python/reproject 0.5.1 0.12.0 0.13.0: Reproject astronomical images with Python
-dev-python/respx 0.21.0: A utility for mocking out the Python HTTPX and HTTP Core libraries
+dev-python/respx 0.21.1: A utility for mocking out the Python HTTPX and HTTP Core libraries
 dev-python/runnotebook 0.3.1 9999: IPython notebook sphinx extensions
 dev-python/s3fs 2024.2.0 2024.3.0 2024.3.1: Convenient Filesystem interface over S3
 dev-python/sep 1.2.1: Python and C library for source extraction and photometry
@@ -200,7 +200,7 @@ dev-python/sphinxext-opengraph 0.9.1: Sphinx extension to generate unique OpenGr
 dev-python/stanio 0.4.0 0.5.0: Preparing inputs to and reading outputs from Stan
 dev-python/starlink-pyast 3.15.4: Python interface to the Starlink AST library
 dev-python/sunpy 5.1.1: Python library for solar physics
-dev-python/sunpy-sphinx-theme 1.2.42 2.0.2 2.0.6: The sphinx theme for the SunPy website and documentation
+dev-python/sunpy-sphinx-theme 1.2.42 2.0.2 2.0.7: The sphinx theme for the SunPy website and documentation
 dev-python/syrupy 4.6.1: Pytest Snapshot Test Utility
 dev-python/textual 0.54.0: Modern Text User Interface framework
 dev-python/toml 0.10.2-r1: Python library for handling TOML files
