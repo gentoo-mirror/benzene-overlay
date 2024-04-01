@@ -6,7 +6,7 @@ Note: Build with `-O3` flag is not recommended. As this will cause some bug with
 Package name | Available version | Additional information
 ------------ | :---------------: | ----------------------
 dev-python/astropy             | 5.0.8; 5.3.4; 6.0.1                                  | Versions below 5.0.2 are included but masked. See [here](https://github.com/Universebenzene/benzene-overlay/tree/master/dev-python/astropy#note-for-astropy) for more details. wcslib>=8.1 is included in this overlay for astropy>=6.0.0
-dev-python/astropy-iers-data   | 0.2024.3.25.0.29.50                                  | Required by astropy>=6.0.0
+dev-python/astropy-iers-data   | 0.2024.4.1.0.33.14                                   | Required by astropy>=6.0.0
 dev-python/astropy-helpers     | 2.0.11; 3.0.2; 3.1.1; 4.0.1-r1                       | With patches for better doc building. Same as the [AUR](https://aur.archlinux.org/packages/python-astropy-helpers) ones
 dev-python/pytest-astropy      | 0.8.0; 0.11.0                                        | Test plugins for astropy. Dependencies are also in this overlay but not list in this table
 dev-python/sphinx-astropy      | 1.6.0; 1.9.1                                         | Modules for building docs of astropy related packages. Dependencies are also in this overlay but not list in this table
@@ -29,7 +29,7 @@ dev-python/drms                | 0.6.4; 0.7.1                                   
 dev-python/echo                | 0.8.0                                                | Glueviz releated.
 dev-python/extension-helpers   | 1.1.1                                                |
 dev-python/fast-histogram      | 0.11                                                 | Glueviz releated.
-dev-python/ginga               | 5.0.0                                                | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building.
+dev-python/ginga               | 5.0.1                                                | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building.
 dev-python/glueviz             | 1.2.0-r1 (glue-core: 1.17.1, 1.18.0; glue-qt: 0.3.1) | Meta package, core package and qt package versions are all shown.
 dev-python/glue-vispy-viewers  | 1.1.0                                                |
 dev-python/gwcs                | 0.17.1; 0.21.0                                       | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building.
