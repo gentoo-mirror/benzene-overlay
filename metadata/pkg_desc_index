@@ -24,6 +24,7 @@ dev-python/affine 2.4.0: Matrices describing affine transformation of the plane
 dev-python/aggdraw 1.3.16 1.3.18_p0: High quality drawing interface for PIL
 dev-python/aiobotocore 2.11.2: Async client for aws services using botocore and aiohttp
 dev-python/aioftp 0.22.3: Ftp client/server for asyncio
+dev-python/aioitertools 0.11.0: Itertools and builtins for AsyncIO and mixed iterables
 dev-python/api4jenkins 2.0.3: Tools for accessing JPEG2000 files
 dev-python/aplpy 1.1.1 2.0.3 2.1.0: Astronomical Plotting Library in Python
 dev-python/arviz 0.17.1: Exploratory analysis of Bayesian models with Python
@@ -43,6 +44,7 @@ dev-python/astroplan 0.6 0.9.1: Observation planning package for astronomers
 dev-python/astropy 2.0.16 3.0.5 3.1.2 4.2.1 5.0.8 5.3.4 6.0.1: Core functionality for performing astrophysics with Python
 dev-python/astropy-healpix 0.5 1.0.2: BSD-licensed HEALPix for Astropy
 dev-python/astropy-helpers 2.0.11 3.0.2 3.1.1 4.0.1-r1: Helpers for Astropy and Affiliated packages
+dev-python/astropy-iers-data 0.2024.4.1.0.33.14: IERS Earth Rotation and Leap Second tables for the astropy core package
 dev-python/astropy-sphinx-theme 1.1: The sphinx theme for Astropy and affiliated packages
 dev-python/astroquery 0.3.10 0.4.7: Collection of packages to access online astronomical resources
 dev-python/astroscrappy 1.0.8 1.1.0: Optimized cosmic ray annihilation astropy python module
@@ -57,7 +59,9 @@ dev-python/check-manifest 0.49: Tool to check the completeness of MANIFEST.in fo
 dev-python/cligj 0.7.2: Click params for commmand line interfaces to GeoJSON
 dev-python/cmdstanpy 1.0.8 1.2.2: Python interface to CmdStan
 dev-python/cmyt 2.0.0: A collection of Matplotlib colormaps from the yt project
+dev-python/colorspacious 1.1.2: Powerful, accurate, and easy-to-use Python library for colorspace conversions
 dev-python/corner 2.2.2: Make scatter matrix corner plots
+dev-python/dask-sphinx-theme 3.0.5: Sphinx theme for Dask documentation
 dev-python/distributed 2024.2.0 2024.2.1 2024.3.0 2024.3.1: Distributed scheduler for Dask
 dev-python/docstring-parser 0.15: Parse Python docstrings in reST, Google and Numpydoc format
 dev-python/drms 0.6.4 0.7.1: Access HMI, AIA and MDI data with Python from the public JSOC DRMS server
@@ -65,18 +69,22 @@ dev-python/echo 0.8.0: Callback Properties in Python
 dev-python/einops 0.6.0 0.7.0: A new flavour of deep learning operations
 dev-python/eventlet 0.33.3 0.35.1: Highly concurrent networking library
 dev-python/ewah-bool-utils 1.0.2 1.1.0 1.2.0: EWAH Bool Array utils for yt
+dev-python/exifread 3.0.0: Easy to use Python module to extract Exif metadata from digital image files
 dev-python/extension-helpers 1.1.1: Helpers to assist with building Python pkgs with compiled C/Cython extensions
 dev-python/f90nml 1.4.4: Fortran 90 namelist parser
 dev-python/fast-histogram 0.11: Fast 1D and 2D histogram functions in Python
 dev-python/fastcache 1.1.0: C implementation of Python 3 functools.lru_cache
 dev-python/feedgen 0.9.0 1.0.0: Python module to generate ATOM feeds, RSS feeds and Podcasts
 dev-python/firefly 3.2.4: A browser-based particle visualization platform
+dev-python/firefly-vis 2.0.4: A browser-based particle visualization platform
 dev-python/flask-socketio 5.3.6: Socket.IO integration for Flask applications
 dev-python/fluidity 0.2.1: State machine implementation for Python objects
+dev-python/fusepy 3.0.1: Simple ctypes bindings for FUSE
 dev-python/ginga 5.0.1: A scientific image viewer and toolkit
 dev-python/glue-core 1.17.1 1.18.0: Core library for the glue multidimensional data visualization project
 dev-python/glue-qt 0.3.1: Multidimensional data visualization across files
 dev-python/glue-vispy-viewers 1.1.0: 3-d data viewers for glue based on VisPy
+dev-python/glueviz 1.2.0-r1: Meta-package for glue and plugin packages
 dev-python/glymur 0.12.0 0.12.8 0.12.9_p1 0.12.9_p2: Tools for accessing JPEG2000 files
 dev-python/gwcs 0.17.1 0.21.0: Generalized World Coordinate System
 dev-python/h5netcdf 1.3.0: Pythonic interface to netCDF4 via h5py
@@ -86,6 +94,7 @@ dev-python/heapdict 1.0.1: Heap with decrease-key and increase-key operations
 dev-python/hsluv 5.0.4: Python implementation of HSLuv (revision 4)
 dev-python/icecream 2.1.3: Sweet and creamy print debugging
 dev-python/imexam 0.9.1: Position-velocity diagram extractor
+dev-python/indexed-bzip2 1.6.0: Fast random access to bzip2 files in Python
 dev-python/indexed-zstd 1.6.0: Fast random access to zstd files
 dev-python/invoke 2.2.0: Pythonic task management & command execution
 dev-python/jplephem 2.21: Python version of NASA DE4xx ephemerides
@@ -93,6 +102,7 @@ dev-python/jsonschema 3.2.0-r1 4.9.1: An implementation of JSON-Schema validatio
 dev-python/jupyter-cache 0.6.1 1.0.0: A defined interface for working with a cache of jupyter notebooks
 dev-python/jupyter-sphinx 0.5.3: Sphinx extension for rendering of Jupyter interactive widgets
 dev-python/jupytext 1.16.1: Jupyter notebooks as Markdown documents, Julia, Python or R scripts
+dev-python/lexicon 2.0.1: Powerful dict subclass(es) with aliasing & attribute access
 dev-python/libconf 2.0.1: Pure-Python libconfig file reader/writer with permissive licensing
 dev-python/markdown-callouts 0.3.0 0.4.0: Markdown extension: a classier syntax for admonitions
 dev-python/memory-profiler 0.61: A module for monitoring memory usage of a python program
@@ -100,15 +110,18 @@ dev-python/memray 1.10.0 1.11.0: A memory profiler for Python applications
 dev-python/miniballcpp 0.2.3: Smallest Enclosing Balls of Points
 dev-python/mistune 0.8.4-r1: The fastest markdown parser in pure Python
 dev-python/mkdocs-coverage 1.0.0: MkDocs plugin to integrate your coverage HTML report into your site
+dev-python/mkdocs-git-committers-plugin 2.3.0: An MkDocs plugin to create a list of contributors on the page
 dev-python/mkdocs-jupyter 0.24.6: Use Jupyter in mkdocs websites
 dev-python/mkdocs-literate-nav 0.6.1: MkDocs plugin to specify the navigation in Markdown instead of YAML
 dev-python/mkdocs-section-index 0.3.8: MkDocs plugin to allow clickable sections that lead to an index page
 dev-python/mkdocstrings-crystal 0.3.5 0.3.7: Crystal language doc generator for mkdocstrings
+dev-python/mkdocstrings-python-legacy 0.2.3: A legacy Python handler for mkdocstrings
 dev-python/montage-wrapper 0.9.9: Python wrapper for the Montage mosaicking toolkit
 dev-python/mpl-animators 1.1.1: An interative animation framework for matplotlib
 dev-python/mpl-scatter-density 0.7: Matplotlib helpers to make density scatter plots
 dev-python/msrest 0.7.1: AutoRest swagger generator Python client runtime
 dev-python/msrestazure 0.6.4: AutoRest swagger generator Python client runtime. Azure-specific module
+dev-python/multi_key_dict 2.0.3 9999: Multi key dictionary implementation
 dev-python/myst-nb 0.17.2 1.0.0: Parse and execute ipynb files in Sphinx
 dev-python/myst-parser 0.18.1-r1: Extended commonmark compliant parser, with bridges to Sphinx
 dev-python/naima 0.10.0: Derivation of non-thermal particle distributions through MCMC spectral fitting
@@ -138,16 +151,20 @@ dev-python/pytest-relaxed 2.0.1: Relaxed test discovery/organization for pytest
 dev-python/pytest-remotedata 0.4.1: Pytest plugin used for controlling access to data files hosted online
 dev-python/pytest-repeat 0.9.3: Pytest plugin for repeating test execution
 dev-python/pytest-socket 0.5.0 0.7.0: Pytest Plugin to disable socket calls during tests
+dev-python/pytest-textual-snapshot 0.4.0: Add source, edit, history, annotate links to GitHub or BitBucket
 dev-python/python-jenkins 1.8.2 9999: Python bindings for the remote Jenkins API
 dev-python/python-socketio 5.9.0 5.11.2: Python Socket.IO server and client
 dev-python/python-xz 0.5.0: Pure Python implementation of the XZ file format with random access support
+dev-python/pytkdocs 0.16.1: Load Python objects documentation
 dev-python/pyvo 1.2.1 1.5.1: Astropy affiliated package for accessing Virtual Observatory data and services
 dev-python/radio-beam 0.3.7: Operations for radio astronomy beams with astropy
+dev-python/rapidgzip 0.13.1: Parallel random access to gzip files
 dev-python/rasterio 1.3.8_p2 1.3.9: Fast and direct raster I/O for use with Numpy and SciPy
 dev-python/ratarmount 0.14.1: Random Access Read-Only Tar Mount
 dev-python/ratarmountcore 0.6.4: Random Access Read-Only Tar Mount Library
 dev-python/regions 0.4 0.8: Astropy affiliated package for region handling
 dev-python/reproject 0.5.1 0.12.0 0.13.0: Reproject astronomical images with Python
+dev-python/runnotebook 0.3.1 9999: IPython notebook sphinx extensions
 dev-python/s3fs 2024.2.0 2024.3.0 2024.3.1: Convenient Filesystem interface over S3
 dev-python/sep 1.2.1: Python and C library for source extraction and photometry
 dev-python/sgp4 2.22: Python version of the SGP4 satellite position library
@@ -164,21 +181,28 @@ dev-python/sphinx-asdf 0.1.3 0.1.4 0.2.4: Sphinx plugin for generating documenta
 dev-python/sphinx-astropy 1.6.0 1.9.1: Sphinx extensions and configuration specific to the Astropy project
 dev-python/sphinx-autobuild 2021.3.14 2024.2.4: Rebuild Sphinx documentation on changes, with live-reload in the browser
 dev-python/sphinx-automodapi 0.12 0.17.0: Sphinx extension for generating API documentation
+dev-python/sphinx-autosummary-accessors 2023.4.0: Sphinx autosummary extension to properly format pandas or xarray accessors
 dev-python/sphinx-book-theme 0.2.0 1.0.1 1.1.2: A clean book theme for scientific explanations and documentation with Sphinx
+dev-python/sphinx-changelog 1.5.0: A changelog renderer for sphinx
 dev-python/sphinx-click 5.1.0: Sphinx plugin to automatically document click-based applications
 dev-python/sphinx-codeautolink 0.15.0: Automatic links from code examples to reference documentation
 dev-python/sphinx-contributors 0.2.7: Contributors extension for Sphinx
 dev-python/sphinx-design 0.5.0: A sphinx extension for designing beautiful, view size responsive web components
+dev-python/sphinx-examples 0.0.5: A lightweight example directive to make it easy to demonstrate code / results
 dev-python/sphinx-hoverxref 1.3.0: Sphinx extension to show tooltips with content embedded when hover a reference
 dev-python/sphinx-mdinclude 0.5.3: Markdown extension for Sphinx
+dev-python/sphinx-readable-theme 1.3.0: A clean and readable Sphinx theme with focus on autodoc
 dev-python/sphinx-thebe 0.2.1 0.3.1: Integrate interactive code blocks into your documentation with Thebe and Binder
+dev-python/sphinx-togglebutton 0.3.2: Toggle page content and collapse admonitions in Sphinx
+dev-python/sphinxcontrib-srclinks 0.2.4: Add source, edit, history, annotate links to GitHub or BitBucket
 dev-python/sphinxcontrib-youtube 1.2.0 1.4.1: A Sphinx extension to embed videos from YouTube
 dev-python/sphinxext-opengraph 0.9.1: Sphinx extension to generate unique OpenGraph metadata
 dev-python/stanio 0.4.0 0.5.0: Preparing inputs to and reading outputs from Stan
 dev-python/starlink-pyast 3.15.4: Python interface to the Starlink AST library
 dev-python/sunpy 5.1.1: Python library for solar physics
+dev-python/sunpy-sphinx-theme 1.2.42 2.0.2 2.0.7: The sphinx theme for the SunPy website and documentation
 dev-python/syrupy 4.6.1: Pytest Snapshot Test Utility
-dev-python/textual 0.54.0: Modern Text User Interface framework
+dev-python/textual 0.55.0: Modern Text User Interface framework
 dev-python/toml 0.10.2-r1: Python library for handling TOML files
 dev-python/tree-sitter-languages 1.10.2: Binary Python wheels for all tree sitter languages
 dev-python/unyt 3.0.2: Handle, manipulate, and convert data with units in Python
