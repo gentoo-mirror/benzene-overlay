@@ -48,6 +48,7 @@ dev-python/astropy-iers-data 0.2024.4.1.0.33.14: IERS Earth Rotation and Leap Se
 dev-python/astropy-sphinx-theme 1.1: The sphinx theme for Astropy and affiliated packages
 dev-python/astroquery 0.3.10 0.4.7: Collection of packages to access online astronomical resources
 dev-python/astroscrappy 1.0.8 1.1.0: Optimized cosmic ray annihilation astropy python module
+dev-python/asyncssh 2.14.2: Asynchronous SSHv2 client and server library
 dev-python/asynctest 0.13.0: Enhance standard unittest package with features for testing asyncio libraries
 dev-python/atpy 0.9.7: Astronomical tables support for Python
 dev-python/azure-core 1.26.3 1.30.1: Microsoft Azure Core Library for Python
@@ -153,6 +154,7 @@ dev-python/pytest-repeat 0.9.3: Pytest plugin for repeating test execution
 dev-python/pytest-socket 0.5.0 0.7.0: Pytest Plugin to disable socket calls during tests
 dev-python/pytest-textual-snapshot 0.4.0: Add source, edit, history, annotate links to GitHub or BitBucket
 dev-python/python-jenkins 1.8.2 9999: Python bindings for the remote Jenkins API
+dev-python/python-pkcs11 0.7.0: PKCS#11 (Cryptoki) support for Python
 dev-python/python-socketio 5.9.0 5.11.2: Python Socket.IO server and client
 dev-python/python-xz 0.5.0: Pure Python implementation of the XZ file format with random access support
 dev-python/pytkdocs 0.16.1: Load Python objects documentation
