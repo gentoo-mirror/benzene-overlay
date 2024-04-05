@@ -18,7 +18,7 @@ dev-python/astlib              | 0.11.3; 0.11.10                                
 dev-python/astrodendro         | 0.2.0-r2; (live)                                     | 0.2.0 was really old. Live version should be much better.
 dev-python/astroml             | 0.4.1; 1.0.2\_p1                                     |
 dev-python/astropy-healpix     | 0.5; 1.0.2                                           | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
-dev-python/astroplan           | 0.6; 0.9.1                                           | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building. Doc building may not complete, as it needs lots of online data.
+dev-python/astroplan           | 0.6; 0.10                                            | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building. Doc building may not complete, as it needs lots of online data.
 dev-python/astroquery          | 0.3.10; 0.4.7                                        | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
 dev-python/astroscrappy        | 1.0.8; 1.1.0                                         | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
 dev-python/atpy                | 0.9.7                                                | Old package, so the test phase may fail
@@ -47,7 +47,7 @@ dev-python/ndcube              | 2.2.0                                          
 dev-python/photutils           | 1.9.0; 1.11.0                                        | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building.
 dev-python/pvextractor         | 0.4                                                  | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building.
 dev-python/pyavm               | 0.9.6                                                |
-dev-python/pyerfa              | 1.7.2; 2.0.1.1                                       | Fixed test phase. One of the deps of `astropy`. `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building.
+dev-python/pyerfa              | 1.7.2; 2.0.1.2                                       | Fixed test phase. One of the deps of `astropy`. `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building.
 dev-python/pydl                | 0.7.0; 1.0.0                                         | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building.
 dev-python/pymoc               | 0.5.0                                                |
 dev-python/pyregion            | 2.1.1; 2.2.0                                         | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
@@ -62,5 +62,5 @@ dev-python/skyfield            | 1.45; 1.46; 1.48                               
 dev-python/spectral-cube       | 0.6.5                                                | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
 dev-python/specutils           | 1.1.1; 1.13.0                                        | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
 dev-python/starlink-pyast      | 0.2.1                                                | Starlink WCS library for ginga
-dev-python/sunpy               | 5.1.1                                                | Testing and doc building are really hard to run, so not supported right now.
+dev-python/sunpy               | 5.1.2                                                | Testing and doc building are really hard to run, so not supported right now.
 dev-python/sunpy-sphinx-theme  | 1.2.42; 2.0.2; 2.0.7                                 |
