@@ -134,6 +134,7 @@ dev-python/radio-beam:intersphinx - Enable intersphinx while doc building.
 dev-python/rasterio:ipython - Extra ipython support
 dev-python/rasterio:plot - plot support via dev-python/matplotlib
 dev-python/rasterio:s3 - s3 support via dev-python/boto3
+dev-python/ratarmountcore:7z - Add extra support for 7z
 dev-python/ratarmountcore:bzip2 - Add extra support for bzip2
 dev-python/ratarmountcore:full - Include all extra dependencies
 dev-python/ratarmountcore:gzip - Add extra support for gzip
