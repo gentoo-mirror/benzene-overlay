@@ -9,12 +9,14 @@ PYTHON_COMPAT=( python3_{10..11} )
 
 DATA_COM="8c97b4f"
 DATA_URI="https://github.com/astropy/photutils-datasets/raw/${DATA_COM}/data"
+MY_PV="${PV/.0}"
 
 inherit distutils-r1 optfeature pypi
 
 DESCRIPTION="Affiliated package for image photometry utilities"
 HOMEPAGE="https://photutils.readthedocs.io"
-SRC_URI+=" local-datasets? (
+SRC_URI="$(pypi_sdist_url ${PN} ${MY_PV})
+	local-datasets? (
 		${DATA_URI}/M6707HH.fits -> ${PN}-${DATA_COM}-d-M6707HH.fits
 		${DATA_URI}/SA112-SF1-001R1.fit.gz -> ${PN}-${DATA_COM}-d-SA112-SF1-001R1.fit.gz
 		${DATA_URI}/SA112-SF1-ra-dec-list.txt -> ${PN}-${DATA_COM}-d-SA112-SF1-ra-dec-list.txt
@@ -38,43 +40,48 @@ RESTRICT="test
 REQUIRED_USE="intersphinx? ( doc )
 	doc? ( local-datasets )"
 
-DEPEND=">=dev-python/numpy-1.22[${PYTHON_USEDEP}]"
+DEPEND=">=dev-python/numpy-1.25[${PYTHON_USEDEP}]"
 RDEPEND="${DEPEND}
-	>=dev-python/astropy-5.0[${PYTHON_USEDEP}]
+	>=dev-python/astropy-5.1[${PYTHON_USEDEP}]
 	dev-python/setuptools[${PYTHON_USEDEP}]
 	all? (
 		dev-python/bottleneck[${PYTHON_USEDEP}]
 		>=dev-python/gwcs-0.18[${PYTHON_USEDEP}]
-		>=dev-python/matplotlib-3.5.0[${PYTHON_USEDEP}]
+		>=dev-python/matplotlib-3.5[${PYTHON_USEDEP}]
 		dev-python/rasterio[${PYTHON_USEDEP}]
-		>=dev-python/scipy-1.7.0[${PYTHON_USEDEP}]
-		>=dev-python/scikit-image-0.19.0[${PYTHON_USEDEP}]
-		>=dev-python/scikit-learn-1.0[${PYTHON_USEDEP}]
+		>=dev-python/scipy-1.8[${PYTHON_USEDEP}]
+		>=dev-python/scikit-image-0.20[${PYTHON_USEDEP}]
+		>=dev-python/scikit-learn-1.1[${PYTHON_USEDEP}]
 		dev-python/shapely[${PYTHON_USEDEP}]
 		dev-python/tqdm[${PYTHON_USEDEP}]
 	)
 "
 BDEPEND=">=dev-python/setuptools-scm-6.2[${PYTHON_USEDEP}]
-	>=dev-python/cython-0.29.30[${PYTHON_USEDEP}]
-	dev-python/extension-helpers[${PYTHON_USEDEP}]
+	>=dev-python/cython-3.0.0[${PYTHON_USEDEP}]
+	<dev-python/cython-3.1.0[${PYTHON_USEDEP}]
+	>=dev-python/extension-helpers-1[${PYTHON_USEDEP}]
 	doc? (
 		${RDEPEND}
-		dev-python/sphinx-astropy[${PYTHON_USEDEP}]
+		>=dev-python/sphinx-astropy-1.9[${PYTHON_USEDEP}]
 		dev-python/rasterio[${PYTHON_USEDEP}]
 		dev-python/scikit-image[${PYTHON_USEDEP}]
+		dev-python/shapely[${PYTHON_USEDEP}]
 		media-gfx/graphviz
 	)
 	test? (
 		dev-python/pytest-astropy-header[${PYTHON_USEDEP}]
 		dev-python/pytest-doctestplus[${PYTHON_USEDEP}]
 		dev-python/pytest-remotedata[${PYTHON_USEDEP}]
-		dev-python/scikit-learn[${PYTHON_USEDEP}]
 		dev-python/scikit-image[${PYTHON_USEDEP}]
+		dev-python/scikit-learn[${PYTHON_USEDEP}]
 		dev-python/gwcs[${PYTHON_USEDEP}]
+		dev-python/matplotlib[${PYTHON_USEDEP}]
 		dev-python/rasterio[${PYTHON_USEDEP}]
 		dev-python/shapely[${PYTHON_USEDEP}]
 	)
 "
+
+S="${WORKDIR}/${PN}-${MY_PV}"
 
 distutils_enable_tests pytest
 # TODO: Fix this
@@ -110,10 +117,10 @@ python_test() {
 }
 
 pkg_postinst() {
-	optfeature "power a variety of features in several modules (strongly recommended)" ">=dev-python/scipy-1.7.0"
-	optfeature "power a variety of plotting features (e.g., plotting apertures)" ">=dev-python/matplotlib-3.5.0"
-	optfeature "deblending segmented sources" ">=dev-python/scikit-image-0.19.0"
-	optfeature "used in the deprecated DBSCANGroup to create star groups" ">=dev-python/scikit-learn-1.0"
+	optfeature "power a variety of features in several modules (strongly recommended)" ">=dev-python/scipy-1.8"
+	optfeature "power a variety of plotting features (e.g., plotting apertures)" ">=dev-python/matplotlib-3.5"
+	optfeature "deblending segmented sources" ">=dev-python/scikit-image-0.20"
+	optfeature "used in the deprecated DBSCANGroup to create star groups" ">=dev-python/scikit-learn-1.1"
 	optfeature "used in make_gwcs to create a simple celestial gwcs object" ">=dev-python/gwcs-0.18"
 	optfeature "improves the performance of sigma clipping and other functionality that may require computing statistics on arrays with NaN values" dev-python/bottleneck
 	optfeature "display optional progress bars" dev-python/tqdm

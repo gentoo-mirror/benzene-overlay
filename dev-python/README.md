@@ -44,7 +44,7 @@ dev-python/mpl-animator        | 1.1.1                                          
 dev-python/mpl-scatter-density | 0.7                                                  | Glueviz releated.
 dev-python/naima               | 0.10.0                                               |
 dev-python/ndcube              | 2.2.0                                                | SunPy releated. Dependency of specutils.
-dev-python/photutils           | 1.9.0; 1.11.0                                        | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building.
+dev-python/photutils           | 1.9.0; 1.11.0; 1.12.0                                | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building.
 dev-python/pvextractor         | 0.4                                                  | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building.
 dev-python/pyavm               | 0.9.6                                                |
 dev-python/pyerfa              | 1.7.2; 2.0.1.4                                       | Fixed test phase. One of the deps of `astropy`. `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building.
@@ -53,7 +53,7 @@ dev-python/pymoc               | 0.5.0                                          
 dev-python/pyregion            | 2.1.1; 2.2.0                                         | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
 dev-python/pyvo                | 1.2.1; 1.5.1                                         | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
 dev-python/radio-beam          | 0.3.7                                                | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
-dev-python/regions             | 0.4; 0.8                                             | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
+dev-python/regions             | 0.4; 0.9                                             | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
 dev-python/reproject           | 0.5.1; 0.12.0; 0.13.1                                | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
 dev-python/sep                 | 1.2.1                                                |
 dev-python/sgp4                | 2.22                                                 |
