@@ -110,7 +110,7 @@ dev-python/markdown-callouts 0.3.0 0.4.0: Markdown extension: a classier syntax 
 dev-python/memory-profiler 0.61: A module for monitoring memory usage of a python program
 dev-python/memray 1.10.0 1.12.0: A memory profiler for Python applications
 dev-python/miniballcpp 0.2.3: Smallest Enclosing Balls of Points
-dev-python/mistune 0.8.4-r1: The fastest markdown parser in pure Python
+dev-python/mistune 0.8.4-r1 2.0.5: The fastest markdown parser in pure Python
 dev-python/mkdocs-coverage 1.0.0: MkDocs plugin to integrate your coverage HTML report into your site
 dev-python/mkdocs-git-committers-plugin 2.3.0: An MkDocs plugin to create a list of contributors on the page
 dev-python/mkdocs-jupyter 0.24.6: Use Jupyter in mkdocs websites
