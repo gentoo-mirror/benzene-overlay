@@ -74,7 +74,7 @@ dev-python/ewah-bool-utils 1.0.2 1.1.0 1.2.0: EWAH Bool Array utils for yt
 dev-python/exifread 3.0.0: Easy to use Python module to extract Exif metadata from digital image files
 dev-python/extension-helpers 1.1.1: Helpers to assist with building Python pkgs with compiled C/Cython extensions
 dev-python/f90nml 1.4.4: Fortran 90 namelist parser
-dev-python/fast-histogram 0.13: Fast 1D and 2D histogram functions in Python
+dev-python/fast-histogram 0.14: Fast 1D and 2D histogram functions in Python
 dev-python/fastcache 1.1.0: C implementation of Python 3 functools.lru_cache
 dev-python/feedgen 0.9.0 1.0.0: Python module to generate ATOM feeds, RSS feeds and Podcasts
 dev-python/firefly 3.2.4: A browser-based particle visualization platform
