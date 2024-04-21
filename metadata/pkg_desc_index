@@ -115,7 +115,7 @@ dev-python/mkdocs-coverage 1.0.0: MkDocs plugin to integrate your coverage HTML 
 dev-python/mkdocs-git-committers-plugin 2.3.0: An MkDocs plugin to create a list of contributors on the page
 dev-python/mkdocs-jupyter 0.24.6: Use Jupyter in mkdocs websites
 dev-python/mkdocs-literate-nav 0.6.1: MkDocs plugin to specify the navigation in Markdown instead of YAML
-dev-python/mkdocs-section-index 0.3.8: MkDocs plugin to allow clickable sections that lead to an index page
+dev-python/mkdocs-section-index 0.3.9: MkDocs plugin to allow clickable sections that lead to an index page
 dev-python/mkdocstrings-crystal 0.3.5 0.3.7: Crystal language doc generator for mkdocstrings
 dev-python/mkdocstrings-python-legacy 0.2.3: A legacy Python handler for mkdocstrings
 dev-python/montage-wrapper 0.9.9: Python wrapper for the Montage mosaicking toolkit
