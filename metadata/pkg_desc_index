@@ -100,7 +100,7 @@ dev-python/imexam 0.9.1: Position-velocity diagram extractor
 dev-python/indexed-bzip2 1.6.0: Fast random access to bzip2 files in Python
 dev-python/indexed-zstd 1.6.0: Fast random access to zstd files
 dev-python/invoke 2.2.0: Pythonic task management & command execution
-dev-python/jplephem 2.21: Python version of NASA DE4xx ephemerides
+dev-python/jplephem 2.22: Python version of NASA DE4xx ephemerides
 dev-python/jsonschema 3.2.0-r1 4.9.1: An implementation of JSON-Schema validation for Python
 dev-python/jupyter-cache 0.6.1 1.0.0: A defined interface for working with a cache of jupyter notebooks
 dev-python/jupyter-sphinx 0.5.3: Sphinx extension for rendering of Jupyter interactive widgets
@@ -262,7 +262,7 @@ sci-astronomy/wcslib 8.2.2: Astronomical World Coordinate System transformations
 sci-libs/libsharp 1.0.0 1.0.0_p20220728: Library for fast spherical harmonic transforms
 sys-block/diskus 0.7.0 9999: A minimal, fast alternative to 'du -sh'.
 sys-libs/elogind-libsystemd 0: Provide standalone libsystemd.so without systemd by linking libelogind.so
-sys-libs/libsystemd 254.8-r1 254.9-r1 254.10 255.3-r1 255.4 9999: A standalone package to provide libsystemd.so without systemd
+sys-libs/libsystemd 254.8-r1 254.9-r1 254.10 255.3-r1 255.4 255.5 9999: A standalone package to provide libsystemd.so without systemd
 virtual/libsystemd 0: Virtual for libsystemd.so
 www-plugins/adobe-flash 32.0.0.465: Adobe Flash Player
 x11-libs/lain 9999 9999-r100: Layouts, asynchronous widgets and utilities for Awesome WM
