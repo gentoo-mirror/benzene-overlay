@@ -1,0 +1,15 @@
+DEFINED_PHASES=compile install prepare setup test
+DEPEND=python_single_target_python3_10? ( dev-python/astropy[python_targets_python3_10(-)] dev-python/fitsio[python_targets_python3_10(-)] dev-python/numpy[python_targets_python3_10(-)] ) python_single_target_python3_11? ( dev-python/astropy[python_targets_python3_11(-)] dev-python/fitsio[python_targets_python3_11(-)] dev-python/numpy[python_targets_python3_11(-)] ) python_single_target_python3_12? ( dev-python/astropy[python_targets_python3_12(-)] dev-python/fitsio[python_targets_python3_12(-)] dev-python/numpy[python_targets_python3_12(-)] ) media-libs/libpng:0 netpbm? ( media-libs/netpbm ) sci-astronomy/wcslib:0= sci-libs/cfitsio:0= sci-libs/gsl:0= sys-libs/zlib:0= virtual/jpeg:0 x11-libs/cairo python_single_target_python3_10? ( dev-lang/python:3.10 ) python_single_target_python3_11? ( dev-lang/python:3.11 ) python_single_target_python3_12? ( dev-lang/python:3.12 ) dev-lang/swig:0 virtual/pkgconfig netpbm? ( media-libs/netpbm )
+DESCRIPTION=Automated astrometric calibration programs and service
+EAPI=8
+HOMEPAGE=http://astrometry.net
+INHERIT=toolchain-funcs python-single-r1
+IUSE=examples +netpbm python_single_target_python3_10 python_single_target_python3_11 python_single_target_python3_12
+KEYWORDS=~amd64 ~x86
+LICENSE=BSD GPL-2 GPL-3
+RDEPEND=python_single_target_python3_10? ( dev-python/astropy[python_targets_python3_10(-)] dev-python/fitsio[python_targets_python3_10(-)] dev-python/numpy[python_targets_python3_10(-)] ) python_single_target_python3_11? ( dev-python/astropy[python_targets_python3_11(-)] dev-python/fitsio[python_targets_python3_11(-)] dev-python/numpy[python_targets_python3_11(-)] ) python_single_target_python3_12? ( dev-python/astropy[python_targets_python3_12(-)] dev-python/fitsio[python_targets_python3_12(-)] dev-python/numpy[python_targets_python3_12(-)] ) media-libs/libpng:0 netpbm? ( media-libs/netpbm ) sci-astronomy/wcslib:0= sci-libs/cfitsio:0= sci-libs/gsl:0= sys-libs/zlib:0= virtual/jpeg:0 x11-libs/cairo python_single_target_python3_10? ( dev-lang/python:3.10 ) python_single_target_python3_11? ( dev-lang/python:3.11 ) python_single_target_python3_12? ( dev-lang/python:3.12 )
+REQUIRED_USE=^^ ( python_single_target_python3_10 python_single_target_python3_11 python_single_target_python3_12 )
+SLOT=0
+SRC_URI=https://github.com/dstndstn/astrometry.net/releases/download/0.94/astrometry.net-0.94.tar.gz
+_eclasses_=toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	python-utils-r1	a1229a86bd0db058e474a2d7d9191cca	python-single-r1	75118e916668a74c660a13b0ecb22562
+_md5_=97edb905c50c1c500f0e2fb765ae194a
