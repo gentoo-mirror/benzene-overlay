@@ -69,7 +69,7 @@ dev-python/dm-tree-bin 0.1.8: Tree is a library for working with nested data str
 dev-python/docstring-parser 0.15: Parse Python docstrings in reST, Google and Numpydoc format
 dev-python/drms 0.6.4 0.7.1: Access HMI, AIA and MDI data with Python from the public JSOC DRMS server
 dev-python/echo 0.8.0: Callback Properties in Python
-dev-python/einops 0.6.0 0.7.0: A new flavour of deep learning operations
+dev-python/einops 0.6.0 0.8.0: A new flavour of deep learning operations
 dev-python/eventlet 0.33.3 0.35.1: Highly concurrent networking library
 dev-python/ewah-bool-utils 1.0.2 1.1.0 1.2.0: EWAH Bool Array utils for yt
 dev-python/exifread 3.0.0: Easy to use Python module to extract Exif metadata from digital image files
