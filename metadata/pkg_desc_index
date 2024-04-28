@@ -11,7 +11,7 @@ app-text/powerword 1.2: A Chinese-English dictionary tool by Kingsoft
 app-text/ydcv 0.7 9999: YouDao Console Version - Simple wrapper for Youdao online translate service API
 app-text/ydcv-rs 0.6.3 9999: A rust version of YouDao Console Version
 app-text/ydgo 0.6.3 9999: YouDao Console Version (YDCV) - go portation
-app-text/youdao-dict 6.0.0-r2: YouDao Dictionary
+app-text/youdao-dict 6.0.0-r3: YouDao Dictionary
 app-vim/indentLine 2.0 9999: vim plugin: display the indention levels with thin vertical lines
 app-vim/vim-indent-guides 1.6 9999: vim plugin: visually displaying indent levels in code
 dev-cpp/gtkspellmm 3.0.5: C++ binding for gtkspell
