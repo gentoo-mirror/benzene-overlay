@@ -172,7 +172,7 @@ dev-python/runnotebook 0.3.1 9999: IPython notebook sphinx extensions
 dev-python/s3fs 2024.3.1: Convenient Filesystem interface over S3
 dev-python/sep 1.2.1: Python and C library for source extraction and photometry
 dev-python/sgp4 2.22: Python version of the SGP4 satellite position library
-dev-python/sherpa 4.15.0 4.15.1 4.16.0: Modeling and fitting package for scientific data analysis
+dev-python/sherpa 4.15.0 4.15.1-r1 4.16.0-r1: Modeling and fitting package for scientific data analysis
 dev-python/should-dsl 2.1.2: Should assertions in Python as clear and readable as possible
 dev-python/siosocks 0.3.0: Sans-io socks proxy client/server with couple io backends
 dev-python/skyfield 1.45 1.46 1.48: Elegant astronomy for Python
@@ -254,7 +254,7 @@ net-news/quiterss 0.19.4 9999: Qt-based RSS/Atom feed reader
 net-proxy/gg 0.2.13 0.2.18: Command-line tool for one-click proxy without v2ray or others (A.k.a. go-craft).
 net-proxy/v2raya-bin 1.5.9.1698.1 2.2.5.1: Web client of Project V for VMess, VLESS, SS, SSR, Trojan & Pingtunnel protocols
 sci-astronomy/aladin-bin 12.060: Interactive software sky atlas
-sci-astronomy/astrometry 0.80 0.85 0.94: Automated astrometric calibration programs and service
+sci-astronomy/astrometry 0.80 0.85 0.94-r1: Automated astrometric calibration programs and service
 sci-astronomy/erfa 1.7.2 2.0.1: Essential Routines for Fundamental Astronomy
 sci-astronomy/healpix 3.82: Hierarchical Equal Area isoLatitude Pixelization of a sphere
 sci-astronomy/topcat 4.8 4.9.1: Interactive graphical viewer and editor for astronomical tables
