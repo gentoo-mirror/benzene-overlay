@@ -248,7 +248,7 @@ net-misc/oss-browser-bin 1.18.0: A graphical management tool developed by Alibab
 net-misc/ossutil 1.7.18 9999: A user friendly command line tool to access AliCloud OSS.
 net-misc/sunloginclient 10.0.2.24779 11.0.0.36662-r1 15.2.0.62802: Sunlogin Remote Control for mobile devices, Win, Mac, Linux, etc. (GUI version)
 net-misc/todesk 4.1.0-r4 4.3.1.0 4.7.2.0: Remote control and team work
-net-misc/xunlei-download 1.0.0.2: Xunlei download
+net-misc/xunlei-download 1.0.0.5: Xunlei download
 net-nds/openldap-compat 2.4.59: LDAP suite of application and development tools
 net-news/quiterss 0.19.4 9999: Qt-based RSS/Atom feed reader
 net-proxy/gg 0.2.13 0.2.18: Command-line tool for one-click proxy without v2ray or others (A.k.a. go-craft).
