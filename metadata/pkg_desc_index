@@ -70,7 +70,7 @@ dev-python/docstring-parser 0.15: Parse Python docstrings in reST, Google and Nu
 dev-python/drms 0.6.4 0.7.1: Access HMI, AIA and MDI data with Python from the public JSOC DRMS server
 dev-python/echo 0.8.0: Callback Properties in Python
 dev-python/einops 0.6.0 0.8.0: A new flavour of deep learning operations
-dev-python/eventlet 0.33.3 0.35.1: Highly concurrent networking library
+dev-python/eventlet 0.33.3 0.35.2: Highly concurrent networking library
 dev-python/ewah-bool-utils 1.0.2 1.1.0 1.2.0: EWAH Bool Array utils for yt
 dev-python/exifread 3.0.0: Easy to use Python module to extract Exif metadata from digital image files
 dev-python/extension-helpers 1.1.1: Helpers to assist with building Python pkgs with compiled C/Cython extensions
