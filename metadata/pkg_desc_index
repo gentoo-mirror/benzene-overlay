@@ -188,7 +188,7 @@ dev-python/sphinx-automodapi 0.12 0.17.0: Sphinx extension for generating API do
 dev-python/sphinx-autosummary-accessors 2023.4.0: Sphinx autosummary extension to properly format pandas or xarray accessors
 dev-python/sphinx-book-theme 0.2.0 1.0.1 1.1.2: A clean book theme for scientific explanations and documentation with Sphinx
 dev-python/sphinx-changelog 1.5.0: A changelog renderer for sphinx
-dev-python/sphinx-click 5.1.0: Sphinx plugin to automatically document click-based applications
+dev-python/sphinx-click 5.2.1: Sphinx plugin to automatically document click-based applications
 dev-python/sphinx-codeautolink 0.15.1: Automatic links from code examples to reference documentation
 dev-python/sphinx-contributors 0.2.7: Contributors extension for Sphinx
 dev-python/sphinx-design 0.5.0: A sphinx extension for designing beautiful, view size responsive web components
