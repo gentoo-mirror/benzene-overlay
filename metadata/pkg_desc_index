@@ -156,7 +156,7 @@ dev-python/pytest-repeat 0.9.3: Pytest plugin for repeating test execution
 dev-python/pytest-socket 0.5.0 0.7.0: Pytest Plugin to disable socket calls during tests
 dev-python/pytest-textual-snapshot 0.4.0: Add source, edit, history, annotate links to GitHub or BitBucket
 dev-python/python-jenkins 1.8.2 9999: Python bindings for the remote Jenkins API
-dev-python/python-pkcs11 0.7.0: PKCS#11 (Cryptoki) support for Python
+dev-python/python-pkcs11 0.7.0-r1: PKCS#11 (Cryptoki) support for Python
 dev-python/python-socketio 5.9.0 5.11.2: Python Socket.IO server and client
 dev-python/python-xz 0.5.0: Pure Python implementation of the XZ file format with random access support
 dev-python/pytkdocs 0.16.1: Load Python objects documentation
