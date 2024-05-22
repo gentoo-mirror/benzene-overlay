@@ -172,7 +172,7 @@ dev-python/runnotebook 0.3.1 9999: IPython notebook sphinx extensions
 dev-python/s3fs 2024.5.0: Convenient Filesystem interface over S3
 dev-python/sep 1.2.1: Python and C library for source extraction and photometry
 dev-python/sgp4 2.22: Python version of the SGP4 satellite position library
-dev-python/sherpa 4.15.0 4.15.1-r1 4.16.0-r1: Modeling and fitting package for scientific data analysis
+dev-python/sherpa 4.15.0 4.15.1-r1 4.16.1: Modeling and fitting package for scientific data analysis
 dev-python/should-dsl 2.1.2: Should assertions in Python as clear and readable as possible
 dev-python/siosocks 0.3.0: Sans-io socks proxy client/server with couple io backends
 dev-python/skyfield 1.45 1.46 1.48: Elegant astronomy for Python
