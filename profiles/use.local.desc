@@ -88,6 +88,8 @@ dev-python/echo:qt - Interfacing with Qt widgets
 dev-python/f90nml:yaml - Extra yaml support
 dev-python/ginga:gtk3 - Enable support for GTK3 backend
 dev-python/ginga:intersphinx - Enable intersphinx while doc building.
+dev-python/ginga:pyside2 - Enable support for PySide backend via dev-python/pyside2
+dev-python/ginga:pyside6 - Enable support for PySide backend via dev-python/pyside6
 dev-python/ginga:qt5 - Enable support for Qt5 backend via dev-python/PyQt5
 dev-python/ginga:recommended - Recommended for more features
 dev-python/ginga:tk - Enable support for Tk backend via dev-python/aggdraw
@@ -160,12 +162,12 @@ dev-python/sphinx-automodapi:rtd - Extra rtd support
 dev-python/sphinx-book-theme:code_style - Extra code_style support for development
 dev-python/sphinx-book-theme:doc - Build extra documentation. network-sandbox will be disabled as doc building needs online data.
 dev-python/sphinx-codeautolink:ipython - Optional ipython support
-dev-python/sphinx-design:code_style - Extra code_style support for development via dev-vcs/pre-commit
+dev-python/sphinx-design:code-style - Extra code_style support for development via dev-vcs/pre-commit
 dev-python/sphinx-design:rtd - Extra rtd support via dev-python/myst-parser
-dev-python/sphinx-design:theme_furo - Furo theme support via dev-python/furo
-dev-python/sphinx-design:theme_pydata - PyData theme support via dev-python/pydata-sphinx-theme
-dev-python/sphinx-design:theme_rtd - RTD theme support via dev-python/sphinx-rtd-theme
-dev-python/sphinx-design:theme_sbt - Book theme support via dev-python/sphinx-book-theme
+dev-python/sphinx-design:theme-furo - Furo theme support via dev-python/furo
+dev-python/sphinx-design:theme-pydata - PyData theme support via dev-python/pydata-sphinx-theme
+dev-python/sphinx-design:theme-rtd - RTD theme support via dev-python/sphinx-rtd-theme
+dev-python/sphinx-design:theme-sbt - Book theme support via dev-python/sphinx-book-theme
 dev-python/sphinx-thebe:sphinx - Extra sphinx support
 dev-python/sphinx-togglebutton:sphinx - Extra sphinx support
 dev-python/sphinxcontrib-youtube:doc-demo - Include online demo video in documentation
