@@ -29,7 +29,7 @@ dev-python/drms                | 0.6.4; 0.7.1                                   
 dev-python/echo                | 0.8.0                                                | Glueviz releated.
 dev-python/extension-helpers   | 1.1.1                                                |
 dev-python/fast-histogram      | 0.14                                                 | Glueviz releated.
-dev-python/ginga               | 5.0.1                                                | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building.
+dev-python/ginga               | 5.1.0                                                | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building.
 dev-python/glueviz             | 1.2.0-r1 (glue-core: 1.17.1, 1.21.0; glue-qt: 0.3.1) | Meta package, core package and qt package versions are all shown.
 dev-python/glue-vispy-viewers  | 1.1.0                                                |
 dev-python/gwcs                | 0.17.1; 0.21.0                                       | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building.
@@ -51,7 +51,7 @@ dev-python/pyerfa              | 1.7.2; 2.0.1.4                                 
 dev-python/pydl                | 0.7.0; 1.0.0                                         | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building.
 dev-python/pymoc               | 0.5.0                                                |
 dev-python/pyregion            | 2.1.1; 2.2.0                                         | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
-dev-python/pyvo                | 1.2.1; 1.5.1                                         | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
+dev-python/pyvo                | 1.2.1; 1.5.2                                         | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
 dev-python/radio-beam          | 0.3.7                                                | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
 dev-python/regions             | 0.4; 0.9                                             | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
 dev-python/reproject           | 0.5.1; 0.12.0; 0.13.1                                | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
