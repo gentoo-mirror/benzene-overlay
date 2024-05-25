@@ -84,6 +84,7 @@ dev-python/flask-socketio 5.3.6: Socket.IO integration for Flask applications
 dev-python/fluidity 0.2.1: State machine implementation for Python objects
 dev-python/fusepy 3.0.1: Simple ctypes bindings for FUSE
 dev-python/ginga 5.1.0: A scientific image viewer and toolkit
+dev-python/glfw 2.7.0: A ctypes-based wrapper for GLFW3
 dev-python/glue-core 1.17.1 1.21.0: Core library for the glue multidimensional data visualization project
 dev-python/glue-qt 0.3.1: Multidimensional data visualization across files
 dev-python/glue-vispy-viewers 1.1.0: 3-d data viewers for glue based on VisPy
