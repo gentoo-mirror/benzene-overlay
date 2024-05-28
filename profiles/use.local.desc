@@ -99,6 +99,8 @@ dev-python/glue-core:astronomy - More astronomy support
 dev-python/glue-core:recommended - Slightly more function support
 dev-python/glue-qt:qt - Include PyQt5 library
 dev-python/glue-vispy-viewers:all - dev-python/imageio for more function support
+dev-python/glue-vispy-viewers:pyqt - Extra pyqt support
+dev-python/glue-vispy-viewers:pyside - Extra pyside support
 dev-python/glue-vispy-viewers:qt - Extra qt support via dev-python/PyQt5
 dev-python/gwcs:intersphinx - Enable intersphinx while doc building.
 dev-python/h5pyd:aws - Extra aws support via dev-python/s3fs
