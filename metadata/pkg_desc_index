@@ -165,8 +165,8 @@ dev-python/pyvo 1.2.1 1.5.2: Astropy affiliated package for accessing Virtual Ob
 dev-python/radio-beam 0.3.7: Operations for radio astronomy beams with astropy
 dev-python/rapidgzip 0.14.2: Parallel random access to gzip files
 dev-python/rasterio 1.3.8_p2 1.3.10: Fast and direct raster I/O for use with Numpy and SciPy
-dev-python/ratarmount 0.14.2 0.15.0: Random Access Read-Only Tar Mount
-dev-python/ratarmountcore 0.6.5 0.7.0: Random Access Read-Only Tar Mount Library
+dev-python/ratarmount 0.14.2 0.15.1: Random Access Read-Only Tar Mount
+dev-python/ratarmountcore 0.6.5 0.7.1: Random Access Read-Only Tar Mount Library
 dev-python/regions 0.4 0.9: Astropy affiliated package for region handling
 dev-python/reproject 0.5.1 0.12.0 0.13.1: Reproject astronomical images with Python
 dev-python/runnotebook 0.3.1 9999: IPython notebook sphinx extensions
