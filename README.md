@@ -119,7 +119,7 @@ dev-python/azure-core              | 1.26.3; 1.30.1                             
 dev-python/bidict                  | 0.22.0; 0.23.1                                             | Optional for yt
 dev-python/bsddb3                  | 6.2.9-r1                                                   | Dropped by official portage. Required by firefly{,-viz}
 dev-python/check-manifest          | 0.49                                                       | Dropped by official portage. Build dependency for xarray-datatree
-dev-python/cmdstanpy               | 1.0.8; 1.2.2                                               | Test dependency for arviz. Dependency stanio is included but not listed in the table
+dev-python/cmdstanpy               | 1.0.8; 1.2.3                                               | Test dependency for arviz. Dependency stanio is included but not listed in the table
 dev-python/distributed             | 2024.2.0; 2024.2.1; 2024.3.1; 2024.4.1; 2024.4.2           | Optional for arviz and spectral-cube
 dev-python/dm-tree-bin             | 0.1.8                                                      | Required by new arviz. Use binary version to avoid downloading while compiling
 dev-python/eventlet                | 0.33.3; 0.35.2                                             | Dropped by official portage. Required by firefly{,-viz}
@@ -149,7 +149,7 @@ dev-python/ratarmount              | 0.14.2; 0.15.1                             
 dev-python/s3fs                    | 2024.5.0                                                   | Test dependency for zarr and astropy>=5.2
 dev-python/siosocks                | 0.3.0                                                      | Optional for aioftp
 dev-python/sortedcollections       | 2.1.0                                                      | Test dependency for bidict>=0.23.0
-dev-python/textual                 | 0.63.6                                                     | Pulled in by memray>=1.11. Dependency tree-sitter-languages is included but not listed in the table
+dev-python/textual                 | 0.64.0                                                     | Pulled in by memray>=1.11. Dependency tree-sitter-languages is included but not listed in the table
 dev-python/colorspacious           | 1.1.2                                                      | Pulled in by cmyt. Dropped by official portage
 dev-python/cmyt                    | 2.0.0                                                      | Pulled in by yt
 dev-python/unyt                    | 2.9.5; 3.0.2                                               | Pulled in by yt
