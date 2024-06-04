@@ -170,7 +170,7 @@ dev-python/ratarmountcore 0.6.5 0.7.1: Random Access Read-Only Tar Mount Library
 dev-python/regions 0.4 0.9: Astropy affiliated package for region handling
 dev-python/reproject 0.5.1 0.12.0 0.13.1: Reproject astronomical images with Python
 dev-python/runnotebook 0.3.1 9999: IPython notebook sphinx extensions
-dev-python/s3fs 2024.5.0: Convenient Filesystem interface over S3
+dev-python/s3fs 2024.5.0 2024.6.0: Convenient Filesystem interface over S3
 dev-python/sep 1.2.1: Python and C library for source extraction and photometry
 dev-python/sgp4 2.22: Python version of the SGP4 satellite position library
 dev-python/sherpa 4.15.0 4.15.1-r1 4.16.1: Modeling and fitting package for scientific data analysis
