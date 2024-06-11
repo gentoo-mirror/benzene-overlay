@@ -124,6 +124,8 @@ dev-python/photutils:all - Including all optional dependencies for most function
 dev-python/photutils:intersphinx - Enable intersphinx while doc building.
 dev-python/photutils:local-datasets - Add local data for photutils.datasets
 dev-python/pvextractor:intersphinx - Enable intersphinx while doc building.
+dev-python/pydantic-settings:toml - toml support via dev-python/tomli
+dev-python/pydantic-settings:yaml - YAML support via dev-python/pyyaml
 dev-python/pydl:all - More function support
 dev-python/pydl:intersphinx - Enable intersphinx while doc building.
 dev-python/pyerfa:intersphinx - Enable intersphinx while doc building.
