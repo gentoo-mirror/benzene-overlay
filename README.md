@@ -179,7 +179,7 @@ dev-python/sphinx-astropy               | 1.6.0; 1.9.1          | See [here](htt
 dev-python/sphinx-asdf                  | 0.1.3; 0.1.4; 0.2.4   |
 dev-python/sphinx-autobuild             | 2021.3.14; 2024.4.16  |
 dev-python/sphinx-autosummary-accessors | 2023.4.0              |
-dev-python/sphinx-book-theme            | 0.2.0; 1.0.1; 1.1.2   | `network-sandbox` FEATURE will be disabled if you enable `doc` flag for newest version.
+dev-python/sphinx-book-theme            | 0.2.0; 1.0.1; 1.1.3   | `network-sandbox` FEATURE will be disabled if you enable `doc` flag for newest version.
 dev-python/sphinx-changelog             | 1.5.0                 |
 dev-python/sphinx-click                 | 6.0.0                 |
 dev-python/sphinx-codeautolink          | 0.15.2                |
@@ -196,7 +196,7 @@ dev-python/sphinxcontrib-srclink        | 0.2.4                 |
 dev-python/sphinxcontrib-youtube        | 1.2.0; 1.4.1          | `network-sandbox` FEATURE will be disabled if you enable demo videos for doc building in version 1.2.0.
 dev-python/sphinxext-opengraph          | 0.9.1                 |
 dev-python/dask-sphinx-theme            | 3.0.5                 |
-dev-python/sunpy-sphinx-theme           | 1.2.42; 2.0.2; 2.0.11 |
+dev-python/sunpy-sphinx-theme           | 1.2.42; 2.0.2; 2.0.12 |
 dev-python/pydata-sphinx-theme          | 0.13.3-r1             | Old version dropped by official portage, required by sunpy-sphinx-theme
 dev-python/mistune                      | 0.8.4-r1; 2.0.5       | For sphinx-asdf and sphinx-mdinclude that depend on old version
 dev-python/nbconvert                    | 6.4.5                 | Depends on old mistune
