@@ -155,9 +155,10 @@ dev-python/pytest-doctestplus 0.9.0 1.2.1: Pytest plugin with advanced doctest f
 dev-python/pytest-examples 0.0.10: Pytest plugin for testing examples in docstrings and markdown files
 dev-python/pytest-filter-subpackage 0.2.0: Pytest plugin for filtering based on sub-packages
 dev-python/pytest-openfiles 0.6.0: Pytest plugin to check for files left open at the end of a test run
+dev-python/pytest-relaxed 2.0.2: Relaxed test discovery/organization for pytest
 dev-python/pytest-remotedata 0.4.1: Pytest plugin used for controlling access to data files hosted online
 dev-python/pytest-repeat 0.9.3: Pytest plugin for repeating test execution
-dev-python/pytest-socket 0.5.0 0.7.0: Pytest Plugin to disable socket calls during tests
+dev-python/pytest-socket 0.7.0: Pytest Plugin to disable socket calls during tests
 dev-python/pytest-textual-snapshot 0.4.0: Add source, edit, history, annotate links to GitHub or BitBucket
 dev-python/python-jenkins 1.8.2 9999: Python bindings for the remote Jenkins API
 dev-python/python-pkcs11 0.7.0-r1: PKCS#11 (Cryptoki) support for Python
