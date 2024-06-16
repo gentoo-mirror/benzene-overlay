@@ -84,6 +84,7 @@ dev-python/ccdproc:intersphinx - Enable intersphinx while doc building.
 dev-python/cmdstanpy:all - More function support withdev-python/xarray
 dev-python/corner:arviz - Support for plotting ArviZ samples
 dev-python/drms:examples - Build examples in documentation which needs online data.
+dev-python/dust-extinction:intersphinx - Enable intersphinx while doc building.
 dev-python/echo:qt - Interfacing with Qt widgets
 dev-python/f90nml:yaml - Extra yaml support
 dev-python/ginga:gtk3 - Enable support for GTK3 backend
