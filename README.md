@@ -53,7 +53,7 @@ dev-python/pytest-cython                                                        
 dev-python/pytest-socket                                                             | 0.7.0                                                                                                                 |
 dev-python/api4jenkins                                                               | 2.0.3                                                                                                                 |
 dev-python/python-jenkins                                                            | 1.8.2; (live)                                                                                                         | Dependency multi\_key\_dict is also included but not listed here
-dev-python/vispy                                                                     | 0.13.0; 0.14.2                                                                                                        |
+dev-python/vispy                                                                     | 0.13.0; 0.14.3                                                                                                        |
 dev-python/yt                                                                        | 4.0.5; 4.1.4; 4.2.2; 4.3.0                                                                                            | Full doc building needs huge amount of data, so cannot complete locally.
 dev-python/zarr                                                                      | 2.18.2                                                                                                                |
 dev-qt/qtwebkit                                                                      | 5.212.0\_pre20200309-{r1,r2}                                                                                          | Add [patch](https://github.com/Universebenzene/benzene-overlay/blob/master/dev-qt/qtwebkit/files/qtwebkit-5.212.0_pre20200309-position.patch) to get **youdao-dict** in this overlay work (the -r2 is a test for upgrade EAPI to 8, and might be a little buggy with youdao-dict.)
@@ -121,7 +121,7 @@ dev-python/azure-core              | 1.26.3; 1.30.2                             
 dev-python/bidict                  | 0.22.0; 0.23.1                                             | Optional for yt
 dev-python/bsddb3                  | 6.2.9-r1                                                   | Dropped by official portage. Required by firefly{,-viz}
 dev-python/check-manifest          | 0.49                                                       | Dropped by official portage. Build dependency for xarray-datatree
-dev-python/cmdstanpy               | 1.0.8; 1.2.3                                               | Test dependency for arviz. Dependency stanio is included but not listed in the table
+dev-python/cmdstanpy               | 1.0.8; 1.2.4                                               | Test dependency for arviz. Dependency stanio is included but not listed in the table
 dev-python/distributed             | 2024.4.1                                                   | Optional for arviz and spectral-cube
 dev-python/dm-tree-bin             | 0.1.8                                                      | Required by new arviz. Use binary version to avoid downloading while compiling
 dev-python/eventlet                | 0.33.3; 0.35.2                                             | Dropped by official portage. Required by firefly{,-viz}
