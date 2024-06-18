@@ -188,6 +188,7 @@ dev-python/sunpy:timeseries - Extra timeseries support
 dev-python/sunpy:visualization - Extra visualization support
 dev-python/synphot:all - Including all optional dependencies for most function.
 dev-python/synphot:intersphinx - Enable intersphinx while doc building.
+dev-python/vispy:glfw - Enable support for pyglet backend via dev-python/glfw
 dev-python/vispy:io - Extra io support
 dev-python/vispy:ipython-static - ipython-static support via dev-python/ipython
 dev-python/vispy:pyglet - Enable support for pyglet backend via dev-python/pyglet
