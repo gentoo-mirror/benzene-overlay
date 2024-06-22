@@ -157,6 +157,8 @@ dev-python/s3fs:awscli - Extra awscli support
 dev-python/s3fs:boto3 - Extra boto3 support
 dev-python/sherpa:intersphinx - Enable intersphinx while doc building.
 dev-python/siosocks:trio - Extra trio support
+dev-python/specreduce:all - Including all optional dependencies for most function.
+dev-python/specreduce:intersphinx - Enable intersphinx while doc building.
 dev-python/spectral-cube:intersphinx - Enable intersphinx while doc building.
 dev-python/spectral-cube:noviz - More dependency for non-visualization support
 dev-python/spectral-cube:viz - More dependency for visualization support
