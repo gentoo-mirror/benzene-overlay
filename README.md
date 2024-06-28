@@ -149,7 +149,7 @@ dev-python/python-socketio         | 5.9.0; 5.11.3                              
 dev-python/python-xz               | 0.5.0                                                      | Optional for yt
 dev-python/rasterio                | 1.3.8\_p2; 1.3.10                                          | Optional for photutils. Dependencies are not all listed in the table
 dev-python/ratarmount              | 0.14.2; 0.15.1                                             | Optional for yt. Dependency ratarmountcore is also included in this overlay but not listed in the table
-dev-python/s3fs                    | 2024.5.0; 2024.6.0                                         | Test dependency for zarr and astropy>=5.2
+dev-python/s3fs                    | 2024.6.0; 2024.6.1                                         | Test dependency for zarr and astropy>=5.2
 dev-python/siosocks                | 0.3.0                                                      | Optional for aioftp
 dev-python/sortedcollections       | 2.1.0                                                      | Test dependency for bidict>=0.23.0
 dev-python/textual                 | 0.70.0                                                     | Pulled in by memray>=1.11. Dependency tree-sitter-languages is included but not listed in the table
@@ -172,7 +172,7 @@ dev-python/ablog                        | 0.11.10               |
 dev-python/jupyter-cache                | 0.6.1; 1.0.0          |
 dev-python/jupyter-sphinx               | 0.5.3                 |
 dev-python/jupytext                     | 1.16.2                | Build with wheel source to include Jupyter Lab Extenstion
-dev-python/myst-nb                      | 0.17.2; 1.1.0         |
+dev-python/myst-nb                      | 0.17.2; 1.1.1         |
 dev-python/myst-parser                  | 0.18.1-r1             | Only for myst-nb that depends on old version
 dev-python/runnotebook                  | 0.3.1; (live)         |
 dev-python/sphinx-astropy               | 1.6.0; 1.9.1          | See [here](https://github.com/Universebenzene/benzene-overlay/tree/master/dev-python#information-for-astropy-related-packages) for more information.
