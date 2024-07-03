@@ -119,7 +119,7 @@ dev-python/miniballcpp 0.2.3: Smallest Enclosing Balls of Points
 dev-python/mistune 0.8.4-r1 2.0.5: The fastest markdown parser in pure Python
 dev-python/mkdocs-coverage 1.0.0: MkDocs plugin to integrate your coverage HTML report into your site
 dev-python/mkdocs-git-committers-plugin 2.3.0: An MkDocs plugin to create a list of contributors on the page
-dev-python/mkdocs-jupyter 0.24.6: Use Jupyter in mkdocs websites
+dev-python/mkdocs-jupyter 0.24.8: Use Jupyter in mkdocs websites
 dev-python/mkdocs-literate-nav 0.6.1: MkDocs plugin to specify the navigation in Markdown instead of YAML
 dev-python/mkdocs-section-index 0.3.9: MkDocs plugin to allow clickable sections that lead to an index page
 dev-python/mkdocstrings-crystal 0.3.5 0.3.7: Crystal language doc generator for mkdocstrings
@@ -219,7 +219,7 @@ dev-python/syrupy 4.6.1: Pytest Snapshot Test Utility
 dev-python/textual 0.70.0: Modern Text User Interface framework
 dev-python/toml 0.10.2-r1: Python library for handling TOML files
 dev-python/tree-sitter-languages 1.10.2: Binary Python wheels for all tree sitter languages
-dev-python/unyt 2.9.5 3.0.2: Handle, manipulate, and convert data with units in Python
+dev-python/unyt 2.9.5 3.0.3: Handle, manipulate, and convert data with units in Python
 dev-python/vispy 0.13.0 0.14.3: Interactive visualization in Python
 dev-python/xarray-datatree 0.0.14: Hierarchical tree-like data structures for xarray
 dev-python/xarray-einstats 0.7.0: Stats, linear algebra and einops for xarray
@@ -272,7 +272,7 @@ sci-astronomy/wcslib 8.2.2: Astronomical World Coordinate System transformations
 sci-libs/libsharp 1.0.0 1.0.0_p20220728: Library for fast spherical harmonic transforms
 sys-block/diskus 0.7.0 9999: A minimal, fast alternative to 'du -sh'.
 sys-libs/elogind-libsystemd 0: Provide standalone libsystemd.so without systemd by linking libelogind.so
-sys-libs/libsystemd 254.8-r1 254.10 254.12 254.13 255.3-r1 255.4 255.6 255.7 256.1-r3 9999: A standalone package to provide libsystemd.so without systemd
+sys-libs/libsystemd 254.8-r1 254.10 254.12 254.13 254.14 255.3-r1 255.4 255.6 255.7 255.8 256.1-r3 9999: A standalone package to provide libsystemd.so without systemd
 virtual/libsystemd 0: Virtual for libsystemd.so
 www-plugins/adobe-flash 32.0.0.465: Adobe Flash Player
 x11-libs/lain 9999 9999-r100: Layouts, asynchronous widgets and utilities for Awesome WM
