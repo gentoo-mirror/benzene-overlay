@@ -92,7 +92,7 @@ net-misc/baidupcs-go-bin                                                        
 [sci-astronomy/healpix](https://healpix.jpl.nasa.gov)                                | [3.82](https://github.com/Universebenzene/benzene-overlay/blob/master/sci-astronomy/healpix/healpix-3.82.ebuild) [3.83\_pre20240419](https://github.com/Universebenzene/benzene-overlay/blob/master/sci-astronomy/healpix/healpix-3.83_pre20240419.ebuild) | [sci-libs/libsharp](https://github.com/Universebenzene/benzene-overlay/tree/master/sci-libs/libsharp) needed for the `cxx` USE flag is also in this overlay but not listed in this table directly
 [sci-astronomy/topcat](http://www.star.bris.ac.uk/~mbt/topcat)                       | 4.8; [4.9.1](https://github.com/Universebenzene/benzene-overlay/blob/master/sci-astronomy/topcat/topcat-4.9.1.ebuild)                                      |
 [sys-block/diskus](https://github.com/sharkdp/diskus)                                | [0.7.0](https://github.com/Universebenzene/benzene-overlay/blob/master/sys-block/diskus/diskus-0.7.0.ebuild); (live)                                       |
-sys-libs/libsystemd                                                                  | 254.8-r1; 254.10; 254.12; 254.13; 255.3-r1; 255.4; 255.6; 255.7; 256.1-r3; (live)                                     | A standalone package to provide `libsystemd.so` for packages depend on the lib on non-systemd system. [Still on trial](https://github.com/Universebenzene/benzene-overlay/tree/master/sys-libs/libsystemd). **IF YOU HAVE ANY IDEA TO IMPROVE THIS PACKAGE JUST BRING ISSUES OR PULL REQUESTS.**
+sys-libs/libsystemd                                                                  | 254.8-r1; 254.10; 254.12; 254.13; 254.14; 255.3-r1; 255.4; 255.6; 255.7; 255.8; 256.1-r3; (live)                      | A standalone package to provide `libsystemd.so` for packages depend on the lib on non-systemd system. [Still on trial](https://github.com/Universebenzene/benzene-overlay/tree/master/sys-libs/libsystemd). **IF YOU HAVE ANY IDEA TO IMPROVE THIS PACKAGE JUST BRING ISSUES OR PULL REQUESTS.**
 sys-libs/elogind-libsystemd                                                          | 0                                                                                                                     | An alternative way to provide standalone `libsystemd.so` by just linking `libelogind.so`. **Does not support multilib yet due to elogind itself.**
 www-plugins/adobe-flash                                                              | [32.0.0.465](https://github.com/Universebenzene/benzene-overlay/blob/master/www-plugins/adobe-flash/adobe-flash-32.0.0.465.ebuild)                         | Dropped by official portage
 [x11-libs/lain](https://github.com/lcpz/lain)                                        | [(live version)](https://github.com/Universebenzene/benzene-overlay/blob/master/x11-libs/lain/lain-9999-r100.ebuild)                                       | 9999 for old ebuild without lua targets support (masked); 9999-r100 with the new `lua-single` eclass
@@ -155,7 +155,7 @@ dev-python/sortedcollections       | 2.1.0                                      
 dev-python/textual                 | 0.70.0                                                     | Pulled in by memray>=1.11. Dependency tree-sitter-languages is included but not listed in the table
 dev-python/colorspacious           | 1.1.2                                                      | Pulled in by cmyt. Dropped by official portage
 dev-python/cmyt                    | 2.0.0                                                      | Pulled in by yt
-dev-python/unyt                    | 2.9.5; 3.0.2                                               | Pulled in by yt
+dev-python/unyt                    | 2.9.5; 3.0.3                                               | Pulled in by yt
 dev-python/zict                    | 2.2.0; 3.0.0                                               | Pulled in by distributed
 
 <!--</details>-->
@@ -214,7 +214,7 @@ dev-python/docstring-parser             | 0.15            | Optional dependency 
 dev-python/markdown-callouts            | 0.3.0; 0.4.0    | mkdocstrings related (should be test depend)
 dev-python/mkdocs-coverage              | 1.0.0           | mkdocstrings related (should be test depend)
 dev-python/mkdocs-git-committers-plugin | 2.3.0           | mkdocstrings related (should be test depend)
-dev-python/mkdocs-jupyter               | 0.24.6          |
+dev-python/mkdocs-jupyter               | 0.24.8          |
 dev-python/mkdocs-literate-nav          | 0.6.1           | mkdocstrings related (should be test depend)
 dev-python/mkdocs-section-index         | 0.3.9           | mkdocstrings related (should be test depend)
 dev-python/mkdocstrings-crystal         | 0.3.5; 0.3.7    |
