@@ -49,7 +49,6 @@ dev-python/astropy-iers-data 0.2024.7.1.0.34.3: IERS Earth Rotation and Leap Sec
 dev-python/astropy-sphinx-theme 1.1: The sphinx theme for Astropy and affiliated packages
 dev-python/astroquery 0.3.10 0.4.7: Collection of packages to access online astronomical resources
 dev-python/astroscrappy 1.0.8 1.2.0: Optimized cosmic ray annihilation astropy python module
-dev-python/asyncssh 2.15.0: Asynchronous SSHv2 client and server library
 dev-python/asynctest 0.13.0: Enhance standard unittest package with features for testing asyncio libraries
 dev-python/atpy 0.9.7: Astronomical tables support for Python
 dev-python/azure-core 1.26.3 1.30.2: Microsoft Azure Core Library for Python
@@ -213,7 +212,7 @@ dev-python/sphinxext-opengraph 0.9.1: Sphinx extension to generate unique OpenGr
 dev-python/stanio 0.4.0 0.5.0: Preparing inputs to and reading outputs from Stan
 dev-python/starlink-pyast 3.15.4: Python interface to the Starlink AST library
 dev-python/sunpy 5.1.4: Python library for solar physics
-dev-python/sunpy-sphinx-theme 1.2.42 2.0.2 2.0.12: The sphinx theme for the SunPy website and documentation
+dev-python/sunpy-sphinx-theme 1.2.42 2.0.2 2.0.13: The sphinx theme for the SunPy website and documentation
 dev-python/synphot 1.4.0: Synthetic photometry using Astropy
 dev-python/syrupy 4.6.1: Pytest Snapshot Test Utility
 dev-python/textual 0.70.0: Modern Text User Interface framework
