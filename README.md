@@ -36,7 +36,6 @@ app-text/{[de](https://www.eudic.net/v4/de/app/download),[es](https://www.eudic.
 dev-cpp/gtkspellmm                                                                   | 3.0.5                                                                                                                 | Dependency for [gimagereader[gtk]](https://gitlab.com/salfter/portage/-/tree/master/app-text/gimagereader?ref_type=heads)
 dev-lang/gdl                                                                         | 1.0.0\_rc3-r3; 1.0.1-r3; 1.0.4-r1                                                                                     | Allow `gdl` and the python module installed at the same time
 dev-python/aioftp                                                                    | 0.22.3                                                                                                                |
-dev-python/asyncssh                                                                  | 2.15.0                                                                                                                | Recover from [GURU](https://gitweb.gentoo.org/repo/proj/guru.git/commit/?id=a6b3f15b1a76a2b066f9ff763fab5588bab902c6)
 dev-python/corner                                                                    | 2.2.2                                                                                                                 |
 dev-python/dask                                                                      | 2024.4.1                                                                                                              | Dropped by official portage
 dev-python/exifread                                                                  | 3.0.0                                                                                                                 |
@@ -196,7 +195,7 @@ dev-python/sphinxcontrib-srclink        | 0.2.4                 |
 dev-python/sphinxcontrib-youtube        | 1.2.0; 1.4.1          | `network-sandbox` FEATURE will be disabled if you enable demo videos for doc building in version 1.2.0.
 dev-python/sphinxext-opengraph          | 0.9.1                 |
 dev-python/dask-sphinx-theme            | 3.0.5                 |
-dev-python/sunpy-sphinx-theme           | 1.2.42; 2.0.2; 2.0.12 |
+dev-python/sunpy-sphinx-theme           | 1.2.42; 2.0.2; 2.0.13 |
 dev-python/pydata-sphinx-theme          | 0.13.3-r1             | Old version dropped by official portage, required by sunpy-sphinx-theme
 dev-python/mistune                      | 0.8.4-r1; 2.0.5       | For sphinx-asdf and sphinx-mdinclude that depend on old version
 dev-python/nbconvert                    | 6.4.5                 | Depends on old mistune
