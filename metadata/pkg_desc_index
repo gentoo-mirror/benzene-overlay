@@ -209,7 +209,7 @@ dev-python/sphinxcontrib-globalsubs 0.1.1: Sphinx global substitutions extension
 dev-python/sphinxcontrib-srclinks 0.2.4: Add source, edit, history, annotate links to GitHub or BitBucket
 dev-python/sphinxcontrib-youtube 1.2.0 1.4.1: A Sphinx extension to embed videos from YouTube
 dev-python/sphinxext-opengraph 0.9.1: Sphinx extension to generate unique OpenGraph metadata
-dev-python/stanio 0.4.0 0.5.0: Preparing inputs to and reading outputs from Stan
+dev-python/stanio 0.4.0 0.5.1: Preparing inputs to and reading outputs from Stan
 dev-python/starlink-pyast 3.15.4: Python interface to the Starlink AST library
 dev-python/sunpy 5.1.4: Python library for solar physics
 dev-python/sunpy-sphinx-theme 1.2.42 2.0.2 2.0.13: The sphinx theme for the SunPy website and documentation
