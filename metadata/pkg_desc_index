@@ -16,7 +16,7 @@ app-vim/indentLine 2.0 9999: vim plugin: display the indention levels with thin 
 app-vim/vim-indent-guides 1.6 9999: vim plugin: visually displaying indent levels in code
 dev-cpp/gtkspellmm 3.0.5: C++ binding for gtkspell
 dev-lang/gdl 1.0.0_rc3-r3 1.0.1-r3 1.0.4-r1: GNU Data Language
-dev-python/PyQt5 5.15.10-r1: Python bindings for the Qt framework
+dev-python/PyQt5 5.15.10-r1 5.15.11: Python bindings for the Qt framework
 dev-python/abg-python 1.1.4: Shared python utilities for https://github.com/agurvich 's packages
 dev-python/ablog 0.11.10: ABlog for blogging with Sphinx
 dev-python/adal 1.2.7: ADAL for Python
