@@ -5,7 +5,7 @@ Note: Build with `-O3` flag is not recommended. As this will cause some bug with
 
 Package name | Available version | Additional information
 ------------ | :---------------: | ----------------------
-dev-python/astropy             | 5.0.8; 5.3.4; 6.0.1; 6.1.1                           | Versions below 5.0.2 are included but masked. See [here](https://github.com/Universebenzene/benzene-overlay/tree/master/dev-python/astropy#note-for-astropy) for more details. wcslib>=8.1 is included in this overlay for astropy>=6.0.0
+dev-python/astropy             | 5.0.8; 5.3.4; 6.0.1; 6.1.2                           | Versions below 5.0.2 are included but masked. See [here](https://github.com/Universebenzene/benzene-overlay/tree/master/dev-python/astropy#note-for-astropy) for more details. wcslib>=8.1 is included in this overlay for astropy>=6.0.0
 dev-python/astroalign          | 2.5.1                                                |
 dev-python/astropy-iers-data   | 0.2024.7.22.0.34.13                                  | Required by astropy>=6.0.0
 dev-python/astropy-helpers     | 2.0.11; 3.0.2; 3.1.1; 4.0.1-r1                       | With patches for better doc building. Same as the [AUR](https://aur.archlinux.org/packages/python-astropy-helpers) ones
@@ -26,7 +26,7 @@ dev-python/atpy                | 0.9.7                                          
 dev-python/ccdproc             | 1.3.0\_p1; 2.1.0; 2.4.2                              | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
 dev-python/casa-formats-io     | 0.3.0                                                |
 dev-python/cdflib              | 0.4.9; 1.3.1                                         | SunPy releated.
-dev-python/drms                | 0.6.4; 0.7.1                                         | SunPy releated. `network-sandbox` FEATURE will be disabled if you enable `examples` flag for doc building
+dev-python/drms                | 0.6.4; 0.8.0                                         | SunPy releated. `network-sandbox` FEATURE will be disabled if you enable `examples` flag for doc building
 dev-python/dust-extinction     | 1.4.1                                                |
 dev-python/echo                | 0.9.0                                                | Glueviz releated.
 dev-python/extension-helpers   | 1.1.1                                                |
@@ -43,7 +43,7 @@ dev-python/imexam              | 0.9.1                                          
 dev-python/jplephem            | 2.22                                                 |
 dev-python/jsonschema          | 3.2.0-r1; 4.9.1                                      | Old version for dev-python/asdf
 dev-python/montage-wrapper     | 0.9.9                                                |
-dev-python/mpl-animator        | 1.1.1                                                |
+dev-python/mpl-animator        | 1.2.0                                                | `network-sandbox` FEATURE will be disabled for doc building, as it needs downloading sunpy related data.
 dev-python/mpl-scatter-density | 0.7                                                  | Glueviz releated.
 dev-python/naima               | 0.10.0                                               |
 dev-python/ndcube              | 2.2.0; 2.2.2                                         | SunPy releated. Dependency of specutils.
@@ -51,7 +51,7 @@ dev-python/photutils           | 1.9.0; 1.12.0; 1.13.0                          
 dev-python/pvextractor         | 0.4                                                  | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building.
 dev-python/pyavm               | 0.9.6                                                |
 dev-python/pyerfa              | 1.7.2; 2.0.1.4                                       | Fixed test phase. One of the deps of `astropy`. `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building.
-dev-python/pydl                | 0.7.0; 1.0.0                                         | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building.
+dev-python/pydl                | 0.7.0; 1.0.1                                         | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building.
 dev-python/pymoc               | 0.5.1                                                |
 dev-python/pyregion            | 2.1.1; 2.2.0                                         | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
 dev-python/pyvo                | 1.2.1; 1.5.2                                         | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
