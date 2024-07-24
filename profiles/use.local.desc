@@ -114,7 +114,6 @@ dev-python/jupyter-cache:cli - Extra cli support
 dev-python/jupyter-cache:code_style - Extra code_style support for development
 dev-python/jupyter-cache:doc - Build extra documentation. Should only be enabled for re-merge instead of new merge.
 dev-python/jupyter-cache:rtd - Extra rtd support
-dev-python/mpl-animators:all - Full function includes WCS support
 dev-python/msrest:async - Extra async support
 dev-python/myst-nb:code_style - Extra code_style support for development
 dev-python/naima:intersphinx - Enable intersphinx while doc building.
