@@ -108,7 +108,7 @@ dev-python/jplephem 2.22: Python version of NASA DE4xx ephemerides
 dev-python/jsonschema 3.2.0-r1 4.9.1: An implementation of JSON-Schema validation for Python
 dev-python/jupyter-cache 0.6.1 1.0.0: A defined interface for working with a cache of jupyter notebooks
 dev-python/jupyter-sphinx 0.5.3: Sphinx extension for rendering of Jupyter interactive widgets
-dev-python/jupytext 1.16.3: Jupyter notebooks as Markdown documents, Julia, Python or R scripts
+dev-python/jupytext 1.16.4: Jupyter notebooks as Markdown documents, Julia, Python or R scripts
 dev-python/lexicon 2.0.1: Powerful dict subclass(es) with aliasing & attribute access
 dev-python/libconf 2.0.1: Pure-Python libconfig file reader/writer with permissive licensing
 dev-python/markdown-callouts 0.3.0 0.4.0: Markdown extension: a classier syntax for admonitions
@@ -141,7 +141,7 @@ dev-python/parfive 1.5.1 2.1.0: A HTTP and FTP parallel file downloader
 dev-python/photutils 1.9.0 1.12.0 1.13.0: Affiliated package for image photometry utilities
 dev-python/pvextractor 0.4: Position-velocity diagram extractor
 dev-python/pyavm 0.9.6: Simple pure-python AVM meta-data handling
-dev-python/pydantic-settings 2.3.4: Settings management using Pydantic
+dev-python/pydantic-settings 2.4.0: Settings management using Pydantic
 dev-python/pydata-sphinx-theme 0.13.3-r1: Bootstrap-based Sphinx theme from the PyData community
 dev-python/pydl 0.7.0 1.0.1: Astropy affiliated package for accessing Virtual Observatory data and services
 dev-python/pyerfa 1.7.2 2.0.1.4: Python bindings for ERFA
