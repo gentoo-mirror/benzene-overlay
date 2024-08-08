@@ -151,7 +151,7 @@ dev-python/ratarmount              | 0.14.2; 0.15.1                             
 dev-python/s3fs                    | 2024.6.1                                                   | Test dependency for zarr and astropy>=5.2
 dev-python/siosocks                | 0.3.0                                                      | Optional for aioftp
 dev-python/sortedcollections       | 2.1.0                                                      | Test dependency for bidict>=0.23.0
-dev-python/textual                 | 0.75.0                                                     | Pulled in by memray>=1.11. Dependency tree-sitter-languages is included but not listed in the table
+dev-python/textual                 | 0.75.1                                                     | Pulled in by memray>=1.11. Dependency tree-sitter-languages is included but not listed in the table
 dev-python/colorspacious           | 1.1.2                                                      | Pulled in by cmyt. Dropped by official portage
 dev-python/cmyt                    | 2.0.0                                                      | Pulled in by yt
 dev-python/unyt                    | 2.9.5; 3.0.3                                               | Pulled in by yt
@@ -195,7 +195,7 @@ dev-python/sphinxcontrib-srclink        | 0.2.4                 |
 dev-python/sphinxcontrib-youtube        | 1.2.0; 1.4.1          | `network-sandbox` FEATURE will be disabled if you enable demo videos for doc building in version 1.2.0.
 dev-python/sphinxext-opengraph          | 0.9.1                 |
 dev-python/dask-sphinx-theme            | 3.0.5                 |
-dev-python/sunpy-sphinx-theme           | 1.2.42; 2.0.2; 2.0.14 |
+dev-python/sunpy-sphinx-theme           | 1.2.42; 2.0.2; 2.0.15 |
 dev-python/pydata-sphinx-theme          | 0.13.3-r1             | Old version dropped by official portage, required by sunpy-sphinx-theme
 dev-python/mistune                      | 0.8.4-r1; 2.0.5       | For sphinx-asdf and sphinx-mdinclude that depend on old version
 dev-python/nbconvert                    | 6.4.5                 | Depends on old mistune
