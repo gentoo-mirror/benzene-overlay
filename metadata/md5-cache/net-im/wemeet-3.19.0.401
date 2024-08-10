@@ -11,5 +11,5 @@ RDEPEND=dev-libs/nss x11-libs/libX11 !bundled-libs? ( app-crypt/p11-kit[libffi] 
 REQUIRED_USE=bundled-libs? ( bundled-qt )
 SLOT=0
 SRC_URI=amd64? ( https://updatecdn.meeting.qq.com/cos/bb4001c715553579a8b3e496233331d4/TencentMeeting_0300000000_3.19.0.401_x86_64_default.publish.deb -> wemeet-3.19.0.401_x86_64.deb ) arm64? ( https://updatecdn.meeting.qq.com/cos/0f96a97b0aaea9b9d5d2c2b912ede656/TencentMeeting_0300000000_3.19.0.401_arm64_default.publish.deb -> wemeet-3.19.0.401_arm64.deb )
-_eclasses_=multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	toolchain-funcs	e7e7331166166e7a516d19e264b098c2	multilib	c19072c3cd7ac5cb21de013f7e9832e0	unpacker	fb4b84181244b3b9990fa0bf40232dd2	qmake-utils	a8dd17b1d94586164f5e3fc12b1c6b81	desktop	021728fdc1b03b36357dbc89489e0f0d	xdg-utils	baea6080dd821f5562d715887954c9d3	xdg	4a14c5c24f121e7da66e5aab4a168c6e
+_eclasses_=multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	toolchain-funcs	0c713337f7872f1a002cecaaea9bef73	multilib	c19072c3cd7ac5cb21de013f7e9832e0	unpacker	fb4b84181244b3b9990fa0bf40232dd2	qmake-utils	a8dd17b1d94586164f5e3fc12b1c6b81	desktop	021728fdc1b03b36357dbc89489e0f0d	xdg-utils	baea6080dd821f5562d715887954c9d3	xdg	4a14c5c24f121e7da66e5aab4a168c6e
 _md5_=b03c0f7c84f1a4ad0309178877631caf
