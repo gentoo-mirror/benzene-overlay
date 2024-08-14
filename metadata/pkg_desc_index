@@ -41,7 +41,7 @@ dev-python/astlib 0.11.3-r1 0.11.10-r1 0.12.0: Python astronomy modules for imag
 dev-python/astroalign 2.5.1: A tool to align astronomical images based on asterism matching
 dev-python/astrodendro 0.2.0-r2 9999: Python package for computation of astronomical dendrograms
 dev-python/astroml 0.4.1 1.0.2_p1: Python Machine Learning library for astronomy
-dev-python/astroplan 0.6 0.10: Observation planning package for astronomers
+dev-python/astroplan 0.6 0.10.1: Observation planning package for astronomers
 dev-python/astropy 2.0.16 3.0.5 3.1.2 4.2.1 5.0.8 5.3.4 6.0.1 6.1.2: Core functionality for performing astrophysics with Python
 dev-python/astropy-healpix 0.5 1.0.3: BSD-licensed HEALPix for Astropy
 dev-python/astropy-helpers 2.0.11 3.0.2 3.1.1 4.0.1-r1: Helpers for Astropy and Affiliated packages
@@ -153,7 +153,7 @@ dev-python/pytest-astropy 0.8.0 0.11.0: Metapackage for all the testing machiner
 dev-python/pytest-astropy-header 0.1.2 0.2.2: Pytest plugin to add diagnostic information to the header of the test output
 dev-python/pytest-cython 0.2.2 0.3.1: A plugin for testing Cython extension modules
 dev-python/pytest-doctestplus 0.9.0 1.2.1: Pytest plugin with advanced doctest features
-dev-python/pytest-examples 0.0.12: Pytest plugin for testing examples in docstrings and markdown files
+dev-python/pytest-examples 0.0.13: Pytest plugin for testing examples in docstrings and markdown files
 dev-python/pytest-filter-subpackage 0.2.0: Pytest plugin for filtering based on sub-packages
 dev-python/pytest-openfiles 0.6.0: Pytest plugin to check for files left open at the end of a test run
 dev-python/pytest-relaxed 2.0.2: Relaxed test discovery/organization for pytest
