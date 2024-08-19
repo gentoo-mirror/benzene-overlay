@@ -73,7 +73,7 @@ dev-python/dust-extinction 1.5: Interstellar Dust Extinction Models
 dev-python/echo 0.9.0: Callback Properties in Python
 dev-python/einops 0.6.0 0.8.0: A new flavour of deep learning operations
 dev-python/eventlet 0.33.3 0.35.2: Highly concurrent networking library
-dev-python/ewah-bool-utils 1.0.2 1.1.0 1.2.1: EWAH Bool Array utils for yt
+dev-python/ewah-bool-utils 1.0.2 1.1.0 1.2.2: EWAH Bool Array utils for yt
 dev-python/exifread 3.0.0: Easy to use Python module to extract Exif metadata from digital image files
 dev-python/extension-helpers 1.1.1: Helpers to assist with building Python pkgs with compiled C/Cython extensions
 dev-python/f90nml 1.4.4: Fortran 90 namelist parser
