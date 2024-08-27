@@ -66,6 +66,7 @@ dev-python/corner 2.2.2: Make scatter matrix corner plots
 dev-python/dask 2024.4.1 2024.4.2: Task scheduling and blocked algorithms for parallel processing
 dev-python/dask-sphinx-theme 3.0.5: Sphinx theme for Dask documentation
 dev-python/distributed 2024.4.1 2024.4.2: Distributed scheduler for Dask
+dev-python/dm-tree 0.1.8: Tree is a library for working with nested data structures.
 dev-python/dm-tree-bin 0.1.8: Tree is a library for working with nested data structures.
 dev-python/docstring-parser 0.15: Parse Python docstrings in reST, Google and Numpydoc format
 dev-python/drms 0.6.4 0.8.0: Access HMI, AIA and MDI data with Python from the public JSOC DRMS server
