@@ -84,7 +84,7 @@ dev-python/fastcache 1.1.0: C implementation of Python 3 functools.lru_cache
 dev-python/feedgen 0.9.0 1.0.0: Python module to generate ATOM feeds, RSS feeds and Podcasts
 dev-python/firefly 3.2.4: A browser-based particle visualization platform
 dev-python/firefly-vis 2.0.4: A browser-based particle visualization platform
-dev-python/flask-socketio 5.3.6: Socket.IO integration for Flask applications
+dev-python/flask-socketio 5.3.7: Socket.IO integration for Flask applications
 dev-python/fluidity 0.2.1: State machine implementation for Python objects
 dev-python/fusepy 3.0.1: Simple ctypes bindings for FUSE
 dev-python/ginga 5.1.0: A scientific image viewer and toolkit
@@ -192,7 +192,7 @@ dev-python/specutils 1.1.1 1.16.0: Python package for astronomy spectral operati
 dev-python/sphinx 5.1.1 7.1.2: Python documentation generator
 dev-python/sphinx-asdf 0.1.3 0.1.4 0.2.4: Sphinx plugin for generating documentation from ASDF schemas
 dev-python/sphinx-astropy 1.6.0 1.9.1: Sphinx extensions and configuration specific to the Astropy project
-dev-python/sphinx-autobuild 2021.3.14 2024.4.16: Rebuild Sphinx documentation on changes, with live-reload in the browser
+dev-python/sphinx-autobuild 2021.3.14 2024.4.16 2024.9.3: Rebuild Sphinx documentation on changes, with live-reload in the browser
 dev-python/sphinx-automodapi 0.12 0.17.0: Sphinx extension for generating API documentation
 dev-python/sphinx-autosummary-accessors 2023.4.0: Sphinx autosummary extension to properly format pandas or xarray accessors
 dev-python/sphinx-book-theme 0.2.0 1.0.1 1.1.3: A clean book theme for scientific explanations and documentation with Sphinx
