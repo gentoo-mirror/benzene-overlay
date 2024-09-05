@@ -54,7 +54,7 @@ dev-python/api4jenkins                                                          
 dev-python/python-jenkins                                                            | 1.8.2; (live)                                                                                                         | Dependency multi\_key\_dict is also included but not listed here
 dev-python/vispy                                                                     | 0.13.0; 0.14.3                                                                                                        |
 dev-python/yt                                                                        | 4.0.5; 4.1.4; 4.2.2; 4.3.0; 4.3.1                                                                                     | Full doc building needs huge amount of data, so cannot complete locally.
-dev-python/zarr                                                                      | 2.18.2                                                                                                                |
+dev-python/zarr                                                                      | 2.18.3                                                                                                                |
 dev-qt/qtwebkit                                                                      | 5.212.0\_pre20200309-{r1,r2}                                                                                          | Add [patch](https://github.com/Universebenzene/benzene-overlay/blob/master/dev-qt/qtwebkit/files/qtwebkit-5.212.0_pre20200309-position.patch) to get **youdao-dict** in this overlay work (the -r2 is a test for upgrade EAPI to 8, and might be a little buggy with youdao-dict.)
 [dev-util/micromamba{,-bin}](https://mamba.readthedocs.io)                           | [1.5.6](https://github.com/Universebenzene/benzene-overlay/blob/master/dev-util/micromamba/micromamba-1.5.6.ebuild)                                        | `dev-util/mamba[micromamba]` in [gentoo-zh](https://github.com/microcai/gentoo-zh) is **recommended** if you want source version and don't care about testing. Also need [gentoo-zh](https://github.com/microcai/gentoo-zh) to provide dependency `dev-cpp/reproc`, `dev-cpp/tl-expected` and `sys-libs/libsolv` .
 gnome-base/gconf                                                                     | 3.2.6-r6                                                                                                              | Dropped by official portage but required by `net-misc/oss-browser-bin`. Copied from [KBrown-pub](https://git.softwarelibre.mx/KBrown/gentoo-overlay/-/blob/KBrown-pub/gnome-base/gconf) and [kzd](https://gitlab.com/kzdixon/kzd-ebuilds/-/blob/master/gnome-base/gconf) overlays but fix dependency `dev-util/gtk-doc-am` → `dev-build/gtk-doc-am`
@@ -138,7 +138,7 @@ dev-python/miniballcpp             | 0.2.3                                      
 dev-python/msrest                  | 0.7.1                                                      | SunPy, h5pyd related
 dev-python/msrestazure             | 0.6.4                                                      | SunPy, h5pyd related
 dev-python/numcodecs               | 0.12.1; 0.13.0                                             | Pulled in by zarr
-dev-python/pykdtree                | 1.3.12                                                     | Optional for yt
+dev-python/pykdtree                | 1.3.13                                                     | Optional for yt
 dev-python/pytest-examples         | 0.0.13                                                     | Test dependency for pydantic-settings
 dev-python/pytest-repeat           | 0.9.3                                                      | Test dependency for new zict
 dev-python/pytest-textual-snapshot | 1.0.0                                                      | Test dependency for new memray. Dependency syrupy is included but not listed in the table
@@ -212,7 +212,7 @@ dev-python/docstring-parser             | 0.15            | Optional dependency 
 dev-python/markdown-callouts            | 0.3.0; 0.4.0    | mkdocstrings related (should be test depend)
 dev-python/mkdocs-coverage              | 1.0.0           | mkdocstrings related (should be test depend)
 dev-python/mkdocs-git-committers-plugin | 2.3.0           | mkdocstrings related (should be test depend)
-dev-python/mkdocs-jupyter               | 0.24.8          |
+dev-python/mkdocs-jupyter               | 0.25.0          |
 dev-python/mkdocs-literate-nav          | 0.6.1           | mkdocstrings related (should be test depend)
 dev-python/mkdocs-section-index         | 0.3.9           | mkdocstrings related (should be test depend)
 dev-python/mkdocstrings-crystal         | 0.3.5; 0.3.7    |
