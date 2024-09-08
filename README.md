@@ -208,7 +208,7 @@ dev-python/nbconvert                    | 6.4.5                          | Depen
 
 Package name | Available version        | Additional information
 ------------ | :---------------:        | ----------------------
-dev-python/docstring-parser             | 0.15            | Optional dependency of pytkdocs
+dev-python/docstring-parser             | 0.16            | Optional dependency of pytkdocs
 dev-python/markdown-callouts            | 0.3.0; 0.4.0    | mkdocstrings related (should be test depend)
 dev-python/mkdocs-coverage              | 1.0.0           | mkdocstrings related (should be test depend)
 dev-python/mkdocs-git-committers-plugin | 2.3.0           | mkdocstrings related (should be test depend)
@@ -217,6 +217,6 @@ dev-python/mkdocs-literate-nav          | 0.6.1           | mkdocstrings related
 dev-python/mkdocs-section-index         | 0.3.9           | mkdocstrings related (should be test depend)
 dev-python/mkdocstrings-crystal         | 0.3.5; 0.3.7    |
 dev-python/mkdocstrings-python-legacy   | 0.2.3           |
-dev-python/pytkdocs                     | 0.16.1          | Dependency of mkdocstrings-python-legacy
+dev-python/pytkdocs                     | 0.16.2          | Dependency of mkdocstrings-python-legacy
 
 <!--</details>-->
