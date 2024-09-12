@@ -21,7 +21,7 @@ dev-python/abg-python 1.1.4: Shared python utilities for https://github.com/agur
 dev-python/ablog 0.11.11: ABlog for blogging with Sphinx
 dev-python/adal 1.2.7: ADAL for Python
 dev-python/affine 2.4.0: Matrices describing affine transformation of the plane
-dev-python/aggdraw 1.3.16 1.3.18_p0: High quality drawing interface for PIL
+dev-python/aggdraw 1.3.16 1.3.19: High quality drawing interface for PIL
 dev-python/aiobotocore 2.13.2: Async client for aws services using botocore and aiohttp
 dev-python/aioftp 0.22.3: Ftp client/server for asyncio
 dev-python/api4jenkins 2.0.3: Tools for accessing JPEG2000 files
@@ -44,7 +44,7 @@ dev-python/astroplan 0.6 0.10.1: Observation planning package for astronomers
 dev-python/astropy 2.0.16 3.0.5 3.1.2 4.2.1 5.0.8 5.3.4 6.0.1 6.1.3: Core functionality for performing astrophysics with Python
 dev-python/astropy-healpix 0.5 1.0.3: BSD-licensed HEALPix for Astropy
 dev-python/astropy-helpers 2.0.11 3.0.2 3.1.1 4.0.1-r1: Helpers for Astropy and Affiliated packages
-dev-python/astropy-iers-data 0.2024.9.2.0.33.23: IERS Earth Rotation and Leap Second tables for the astropy core package
+dev-python/astropy-iers-data 0.2024.9.11.18.16.39: IERS Earth Rotation and Leap Second tables for the astropy core package
 dev-python/astropy-sphinx-theme 1.1: The sphinx theme for Astropy and affiliated packages
 dev-python/astroquery 0.3.10 0.4.7: Collection of packages to access online astronomical resources
 dev-python/astroscrappy 1.0.8 1.2.0: Optimized cosmic ray annihilation astropy python module
