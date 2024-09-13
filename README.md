@@ -47,7 +47,7 @@ dev-python/nose                                                                 
 dev-python/oldest-supported-numpy                                                    | 2023.12.21                                                                                                            | The numpy version limitations are changed from `==` into `>=`. If you have better solution, just bring issues or pull requests.
 dev-python/parfive                                                                   | 1.5.1; 2.1.0                                                                                                          |
 dev-python/PyQt5                                                                     | 5.15.11                                                                                                               | Add `webkit` USE flag (dropped by official portage) to get **youdao-dict** in this overlay work
-dev-python/pydantic-settngs                                                          | 2.4.0                                                                                                                 |
+dev-python/pydantic-settngs                                                          | 2.5.2                                                                                                                 |
 dev-python/pytest-cython                                                             | 0.2.2; 0.3.1                                                                                                          |
 dev-python/pytest-socket                                                             | 0.7.0                                                                                                                 |
 dev-python/api4jenkins                                                               | 2.0.3                                                                                                                 |
@@ -115,7 +115,7 @@ dev-python/aggdraw                 | 1.3.16; 1.3.19                             
 dev-python/aiobotocore             | 2.13.2                                                     | Pulled in by s3fs
 dev-python/arviz                   | 0.17.1; 0.19.0                                             | Optional for corner.py.
 dev-python/asciitree               | 0.3.3                                                      | Pulled in by zarr
-dev-python/azure-core              | 1.26.3; 1.30.2                                             | Required by new msrest
+dev-python/azure-core              | 1.26.3; 1.31.0                                             | Required by new msrest
 dev-python/bidict                  | 0.22.0; 0.23.1                                             | Optional for yt
 dev-python/bsddb3                  | 6.2.9-r1                                                   | Dropped by official portage. Required by firefly{,-viz}
 dev-python/check-manifest          | 0.49                                                       | Dropped by official portage. Build dependency for xarray-datatree
@@ -189,7 +189,7 @@ dev-python/sphinx-thebe                 | 0.2.1; 0.3.1                   |
 dev-python/sphinx-togglebutton          | 0.3.2                          |
 dev-python/sphinx-contributors          | 0.2.7                          |
 dev-python/sphinx-mdinclude             | 0.6.2                          |
-dev-python/sphinxcontrib-globalsubs     | 0.1.1                          |
+dev-python/sphinxcontrib-globalsubs     | 0.1.2                          |
 dev-python/sphinxcontrib-srclink        | 0.2.4                          |
 dev-python/sphinxcontrib-youtube        | 1.2.0; 1.4.1                   | `network-sandbox` FEATURE will be disabled if you enable demo videos for doc building in version 1.2.0.
 dev-python/sphinxext-opengraph          | 0.9.1                          |
