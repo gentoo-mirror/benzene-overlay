@@ -7,11 +7,11 @@ HOMEPAGE=https://projects.gnome.org/gconf/
 IDEPEND=dev-util/desktop-file-utils x11-misc/shared-mime-info
 INHERIT=gnome2 multilib-minimal python-single-r1
 IUSE=debug +introspection ldap policykit abi_x86_32 abi_x86_64 abi_x86_x32 abi_mips_n32 abi_mips_n64 abi_mips_o32 abi_s390_32 abi_s390_64 python_single_target_python3_10 python_single_target_python3_11 python_single_target_python3_12 python_single_target_python3_13
-KEYWORDS=~alpha amd64 arm arm64 ~ia64 ~loong ~mips ppc ppc64 ~riscv sparc x86 ~x86-linux
+KEYWORDS=~alpha amd64 arm arm64 ~loong ~mips ppc ppc64 ~riscv sparc x86 ~x86-linux
 LICENSE=LGPL-2+
 RDEPEND=python_single_target_python3_10? ( dev-lang/python:3.10[xml(+)] ) python_single_target_python3_11? ( dev-lang/python:3.11[xml(+)] ) python_single_target_python3_12? ( dev-lang/python:3.12[xml(+)] ) python_single_target_python3_13? ( dev-lang/python:3.13[xml(+)] ) >=dev-libs/glib-2.34.3:2[abi_x86_32(-)?,abi_x86_64(-)?,abi_x86_x32(-)?,abi_mips_n32(-)?,abi_mips_n64(-)?,abi_mips_o32(-)?,abi_s390_32(-)?,abi_s390_64(-)?] >=dev-libs/dbus-glib-0.100.2:=[abi_x86_32(-)?,abi_x86_64(-)?,abi_x86_x32(-)?,abi_mips_n32(-)?,abi_mips_n64(-)?,abi_mips_o32(-)?,abi_s390_32(-)?,abi_s390_64(-)?] >=sys-apps/dbus-1.6.18-r1:=[abi_x86_32(-)?,abi_x86_64(-)?,abi_x86_x32(-)?,abi_mips_n32(-)?,abi_mips_n64(-)?,abi_mips_o32(-)?,abi_s390_32(-)?,abi_s390_64(-)?] >=dev-libs/libxml2-2.9.1-r4:2[abi_x86_32(-)?,abi_x86_64(-)?,abi_x86_x32(-)?,abi_mips_n32(-)?,abi_mips_n64(-)?,abi_mips_o32(-)?,abi_s390_32(-)?,abi_s390_64(-)?] introspection? ( >=dev-libs/gobject-introspection-0.9.5:= ) ldap? ( >=net-nds/openldap-2.4.38-r1:=[abi_x86_32(-)?,abi_x86_64(-)?,abi_x86_x32(-)?,abi_mips_n32(-)?,abi_mips_n64(-)?,abi_mips_o32(-)?,abi_s390_32(-)?,abi_s390_64(-)?] ) policykit? ( sys-auth/polkit:= )
 REQUIRED_USE=^^ ( python_single_target_python3_10 python_single_target_python3_11 python_single_target_python3_12 python_single_target_python3_13 )
 SLOT=2
 SRC_URI=mirror://gnome/sources/GConf/3.2/GConf-3.2.6.tar.xz
 _eclasses_=toolchain-funcs	948855ec7ad9f11351edf9066708dfa9	multilib	7e1347c006a76bb812f3a9f663b79991	libtool	f9e6905c12590c1cac06d85371a0819a	gnome.org	e1b4f392dbfedfb8974b71b017937f08	xdg-utils	5465aed08f1dfc2a75f14cbea4272961	gnome2-utils	a8cf148ec7f5ae0b1f1d33ae5f7f9e88	xdg	8d7d90c01b1b1c2602dab6fc6b177097	gnome2	26fd01914b36038dc8e964ff4bd03a95	out-of-source-utils	a0eb740debe3d472355e8bc52f62e0ac	multibuild	45df57b1877333d70a9e894f6c8fdb3a	multilib-build	8cdc28ee17e24f9f57730a28fe166a21	multilib-minimal	b93489cf816ff90770a3c1c61b25db44	multiprocessing	e644caa6eb7ce7e5ab0864383ac13ad9	python-utils-r1	6881b056477c23167d9a6b33e146374e	python-single-r1	f7abe75c203a988aa9b5c460b6c7d0f1
-_md5_=47a41c2e290558fc5ed07c4f66124376
+_md5_=b58d68e7f2133c46164012284537d429
