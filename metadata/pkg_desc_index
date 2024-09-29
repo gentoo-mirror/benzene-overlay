@@ -26,7 +26,7 @@ dev-python/aiobotocore 2.13.2: Async client for aws services using botocore and 
 dev-python/aioftp 0.22.3: Ftp client/server for asyncio
 dev-python/api4jenkins 2.0.3: Tools for accessing JPEG2000 files
 dev-python/aplpy 1.1.1 2.0.3 2.1.0: Astronomical Plotting Library in Python
-dev-python/arviz 0.17.1 0.19.0: Exploratory analysis of Bayesian models with Python
+dev-python/arviz 0.17.1 0.20.0: Exploratory analysis of Bayesian models with Python
 dev-python/asciitree 0.3.3: Draws ASCII trees in Python
 dev-python/asdf 2.7.2 2.9.2 2.10.1 2.13.0 2.15.0 2.15.2 3.4.0: Python library for the Advanced Scientific Data Format
 dev-python/asdf-astropy 0.2.1 0.6.1: ASDF serialization support for astropy
