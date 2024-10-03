@@ -147,7 +147,7 @@ dev-python/python-socketio         | 5.9.0; 5.11.4                              
 dev-python/python-xz               | 0.5.0                                                      | Optional for yt
 dev-python/rasterio                | 1.3.8\_p2; 1.4.1                                           | Optional for photutils. Dependencies are not all listed in the table
 dev-python/ratarmount              | 0.14.2; 0.15.2                                             | Optional for yt. Dependency ratarmountcore is also included in this overlay but not listed in the table
-dev-python/s3fs                    | 2024.6.1                                                   | Test dependency for zarr and astropy>=5.2
+dev-python/s3fs                    | 2024.6.1; 2024.9.0                                         | Test dependency for zarr and astropy>=5.2
 dev-python/siosocks                | 0.3.0                                                      | Optional for aioftp
 dev-python/sortedcollections       | 2.1.0                                                      | Test dependency for bidict>=0.23.0
 dev-python/textual                 | 0.81.0                                                     | Pulled in by memray>=1.11. Dependency tree-sitter-languages is included but not listed in the table
@@ -175,7 +175,7 @@ dev-python/myst-parser                  | 0.18.1-r1                       | Only
 dev-python/runnotebook                  | 0.3.1; (live)                   |
 dev-python/sphinx-astropy               | 1.6.0; 1.9.1                    | See [here](https://github.com/Universebenzene/benzene-overlay/tree/master/dev-python#information-for-astropy-related-packages) for more information.
 dev-python/sphinx-asdf                  | 0.1.3; 0.1.4; 0.2.4             |
-dev-python/sphinx-autobuild             | 2021.3.14; 2024.4.16; 2024.9.19 |
+dev-python/sphinx-autobuild             | 2021.3.14; 2024.4.16; 2024.10.3 |
 dev-python/sphinx-autosummary-accessors | 2023.4.0                        |
 dev-python/sphinx-book-theme            | 0.2.0; 1.0.1; 1.1.3             | `network-sandbox` FEATURE will be disabled if you enable `doc` flag for newest version.
 dev-python/sphinx-changelog             | 1.6.0                           |
