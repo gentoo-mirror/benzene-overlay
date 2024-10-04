@@ -9,6 +9,6 @@ LICENSE=AGPL-3
 RDEPEND=x11-libs/gtk+:3[cups] x11-libs/libXScrnSaver dev-libs/nss app-crypt/p11-kit dev-libs/libappindicator:3 app-accessibility/at-spi2-core[X] app-crypt/libsecret x11-libs/libnotify
 RESTRICT=strip
 SLOT=0
-SRC_URI=amd64? ( https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.12.21/icalingua_2.12.21_amd64.deb ) arm64? ( https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.12.21/icalingua_2.12.21_arm64.deb ) arm? ( https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.12.21/icalingua_2.12.21_armv7l.deb )
+SRC_URI=amd64? ( https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.12.22/icalingua_2.12.22_amd64.deb ) arm64? ( https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.12.22/icalingua_2.12.22_arm64.deb ) arm? ( https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.12.22/icalingua_2.12.22_armv7l.deb )
 _eclasses_=multiprocessing	e644caa6eb7ce7e5ab0864383ac13ad9	toolchain-funcs	948855ec7ad9f11351edf9066708dfa9	multilib	7e1347c006a76bb812f3a9f663b79991	unpacker	fb4b84181244b3b9990fa0bf40232dd2	desktop	56973babb9c5f19cab0eeb53ece644c6	xdg-utils	5465aed08f1dfc2a75f14cbea4272961	xdg	854eae304447322625df5991e20ed18f	optfeature	222cb475c5a4f7ae7cfb0bf510a6fe54
 _md5_=6660f8c607a7504cf1f8e0430209785a
