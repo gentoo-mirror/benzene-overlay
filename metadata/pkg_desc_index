@@ -17,7 +17,7 @@ app-vim/vim-indent-guides 1.6 9999: vim plugin: visually displaying indent level
 dev-cpp/gtkspellmm 3.0.5: C++ binding for gtkspell
 dev-lang/gdl 1.0.0_rc3-r3 1.0.1-r3 1.0.4-r1: GNU Data Language
 dev-python/PyQt5 5.15.11: Python bindings for the Qt framework
-dev-python/abg-python 1.1.4: Shared python utilities for https://github.com/agurvich 's packages
+dev-python/abg-python 1.1.5: Shared python utilities for https://github.com/agurvich 's packages
 dev-python/ablog 0.11.11: ABlog for blogging with Sphinx
 dev-python/adal 1.2.7: ADAL for Python
 dev-python/affine 2.4.0: Matrices describing affine transformation of the plane
@@ -81,7 +81,7 @@ dev-python/f90nml 1.4.4: Fortran 90 namelist parser
 dev-python/fast-histogram 0.14: Fast 1D and 2D histogram functions in Python
 dev-python/fastcache 1.1.0: C implementation of Python 3 functools.lru_cache
 dev-python/feedgen 0.9.0 1.0.0: Python module to generate ATOM feeds, RSS feeds and Podcasts
-dev-python/firefly 3.2.4: A browser-based particle visualization platform
+dev-python/firefly 3.3.2: A browser-based particle visualization platform
 dev-python/firefly-vis 2.0.4: A browser-based particle visualization platform
 dev-python/flask-socketio 5.4.1: Socket.IO integration for Flask applications
 dev-python/fluidity 0.2.1: State machine implementation for Python objects
@@ -215,7 +215,7 @@ dev-python/starlink-pyast 3.15.4: Python interface to the Starlink AST library
 dev-python/sunpy 5.1.5 6.0.2: Python library for solar physics
 dev-python/sunpy-sphinx-theme 1.2.42 2.0.2 2.0.16: The sphinx theme for the SunPy website and documentation
 dev-python/synphot 1.4.0: Synthetic photometry using Astropy
-dev-python/syrupy 4.7.1: Pytest Snapshot Test Utility
+dev-python/syrupy 4.7.2: Pytest Snapshot Test Utility
 dev-python/textual 0.82.0: Modern Text User Interface framework
 dev-python/toml 0.10.2-r1: Python library for handling TOML files
 dev-python/tree-sitter-languages 1.10.2: Binary Python wheels for all tree sitter languages
