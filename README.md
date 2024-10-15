@@ -35,7 +35,7 @@ app-text/{[de](https://www.eudic.net/v4/de/app/download),[es](https://www.eudic.
 [app-vim/vim-indent-guides](https://github.com/preservim/vim-indent-guides)          | 1.6; (live)                                                                                                           |
 dev-cpp/gtkspellmm                                                                   | 3.0.5                                                                                                                 | Dependency for [gimagereader[gtk]](https://gitlab.com/salfter/portage/-/tree/master/app-text/gimagereader?ref_type=heads)
 dev-lang/gdl                                                                         | 1.0.0\_rc3-r3; 1.0.1-r3; 1.0.4-r1                                                                                     | Allow `gdl` and the python module installed at the same time
-dev-python/aioftp                                                                    | 0.22.3                                                                                                                |
+dev-python/aioftp                                                                    | 0.23.1                                                                                                                |
 dev-python/corner                                                                    | 2.2.2                                                                                                                 |
 dev-python/dask                                                                      | 2024.4.1; 2024.8.2                                                                                                    | Dropped by official portage
 dev-python/exifread                                                                  | 3.0.0                                                                                                                 |
@@ -131,7 +131,7 @@ dev-python/flask-socketio          | 5.4.1                                      
 dev-python/fusepy                  | 3.0.1                                                      | Optional for yt
 dev-python/heapdict                | 1.0.1                                                      | Pulled in by zict and distributed
 dev-python/indexed\-{bzip2,zstd}   | 1.6.0 / 1.6.1                                              | Optional for yt (ratarmount{,core})
-dev-python/rapidgzip               | 0.14.2                                                     | Optional for new ratarmount{,core}
+dev-python/rapidgzip               | 0.14.3                                                     | Optional for new ratarmount{,core}
 dev-python/libconf                 | 2.0.1                                                      | Optional for yt
 dev-python/memory-profiler         | 0.61                                                       | Dropped by official portage. Test dependency for ccdproc
 dev-python/miniballcpp             | 0.2.3                                                      | Optional for yt
