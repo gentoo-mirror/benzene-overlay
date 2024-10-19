@@ -168,7 +168,7 @@ dev-python/python-socketio 5.9.0 5.11.4: Python Socket.IO server and client
 dev-python/python-xz 0.5.0: Pure Python implementation of the XZ file format with random access support
 dev-python/pytkdocs 0.16.2: Load Python objects documentation
 dev-python/pyvo 1.2.1 1.5.3: Astropy affiliated package for accessing Virtual Observatory data and services
-dev-python/radio-beam 0.3.7: Operations for radio astronomy beams with astropy
+dev-python/radio-beam 0.3.8: Operations for radio astronomy beams with astropy
 dev-python/rapidgzip 0.14.3: Parallel random access to gzip files
 dev-python/rasterio 1.3.8_p2 1.4.1: Fast and direct raster I/O for use with Numpy and SciPy
 dev-python/ratarmount 0.14.2 0.15.2: Random Access Read-Only Tar Mount
@@ -248,7 +248,7 @@ net-fs/ossfs 1.91.4: Export s3fs for aliyun oss
 net-im/electron-qq-bin 1.5.7 2.1.4: A cross-platform QQ made with Electron (Deprecated. Moved to Icalingua)
 net-im/electron-wechat-bin 1.0.0: For creating the most usable Linux/MacOS WeChat client. A.k.a. Freechat
 net-im/electronic-wechat-bin 2.3.1 2.3.2: A better WeChat on macOS and Linux. Built with Electron
-net-im/icalingua++-bin 2.7.7 2.9.13 2.12.22: A Linux client for QQ and more (forked branch). Previously called Electron QQ
+net-im/icalingua++-bin 2.7.7 2.9.13 2.12.23: A Linux client for QQ and more (forked branch). Previously called Electron QQ
 net-im/wemeet 2.8.0.3 3.10.0.401 3.19.0.401: Wemeet - Tencent Video Conferencing. A.k.a Tencent Meeting
 net-libs/libaxon-bin 1.0.2: Nodejs backend for purple-oicq
 net-misc/baidunetdisk 3.0.1 4.3.0 4.17.7: Baidu Net Disk is a cloud storage client (Linux Version)
