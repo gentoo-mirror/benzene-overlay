@@ -87,7 +87,7 @@ dev-python/drms:examples - Build examples in documentation which needs online da
 dev-python/dust-extinction:intersphinx - Enable intersphinx while doc building.
 dev-python/echo:qt - Interfacing with Qt widgets
 dev-python/f90nml:yaml - Extra yaml support
-dev-python/ginga:gtk3 - Enable support for GTK3 backend
+dev-python/ginga:gtk - Enable support for GTK 3 or 4 backend
 dev-python/ginga:intersphinx - Enable intersphinx while doc building.
 dev-python/ginga:pyside2 - Enable support for PySide backend via dev-python/pyside2
 dev-python/ginga:pyside6 - Enable support for PySide backend via dev-python/pyside6
