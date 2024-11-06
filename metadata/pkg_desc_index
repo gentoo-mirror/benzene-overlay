@@ -267,6 +267,7 @@ net-proxy/v2raya-bin 1.5.9.1698.1 2.2.6.1: Web client of Project V for VMess, VL
 sci-astronomy/aladin-bin 12.060: Interactive software sky atlas
 sci-astronomy/astrometry 0.80 0.85 0.96: Automated astrometric calibration programs and service
 sci-astronomy/erfa 1.7.2 2.0.1: Essential Routines for Fundamental Astronomy
+sci-astronomy/healpix 3.82 3.83_pre20240419: Hierarchical Equal Area isoLatitude Pixelization of a sphere
 sci-astronomy/topcat 4.8 4.9.1 4.10: Interactive graphical viewer and editor for astronomical tables
 sci-astronomy/wcslib 8.2.2: Astronomical World Coordinate System transformations library
 sci-libs/libsharp 1.0.0 1.0.0_p20220728: Library for fast spherical harmonic transforms
