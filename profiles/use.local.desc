@@ -201,6 +201,8 @@ dev-python/vispy:pyside2 - Enable support for pyside2 backend via dev-python/pys
 dev-python/vispy:pyside6 - Enable support for pyside6 backend via dev-python/pyside6
 dev-python/vispy:sdl2 - Enable support for sdl backend via dev-python/PySDL2
 dev-python/vispy:wx - Enable support for wx backend via dev-python/wxpython
+dev-python/webdav4:fsspec - consistent APIs to different storage backends via dev-python/fsspec
+dev-python/webdav4:http2 - http2 support
 dev-python/xarray-einstats:einops - Add optional dependency dev-python/einops
 dev-python/xarray-einstats:numba - Add optional dependency dev-python/numba
 dev-python/yt:doc - Add extra documentation (full doc building needs huge amount of data. Can't really complete locally).
