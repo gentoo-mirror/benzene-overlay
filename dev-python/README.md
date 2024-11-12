@@ -5,7 +5,7 @@ Note: Build with `-O3` flag is not recommended. As this will cause some bug with
 
 Package name | Available version | Additional information
 ------------ | :---------------: | ----------------------
-dev-python/astropy             | 5.0.8; 5.3.4; 6.0.1; 6.1.5                           | Versions below 5.0.2 are included but masked. See [here](https://github.com/Universebenzene/benzene-overlay/tree/master/dev-python/astropy#note-for-astropy) for more details. wcslib>=8.1 is included in this overlay for astropy>=6.0.0
+dev-python/astropy             | 5.0.8; 5.3.4; 6.0.1; 6.1.6                           | Versions below 5.0.2 are included but masked. See [here](https://github.com/Universebenzene/benzene-overlay/tree/master/dev-python/astropy#note-for-astropy) for more details. wcslib>=8.1 is included in this overlay for astropy>=6.0.0
 dev-python/astroalign          | 2.6.0                                                |
 dev-python/astropy-iers-data   | 0.2024.11.11.0.32.38                                 | Required by astropy>=6.0.0
 dev-python/astropy-helpers     | 2.0.11; 3.0.2; 3.1.1; 4.0.1-r1                       | With patches for better doc building. Same as the [AUR](https://aur.archlinux.org/packages/python-astropy-helpers) ones
@@ -50,7 +50,7 @@ dev-python/ndcube              | 2.2.0; 2.2.4                                   
 dev-python/photutils           | 1.9.0; 1.12.0; 2.0.2                                 | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building.
 dev-python/pvextractor         | 0.4                                                  | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building.
 dev-python/pyavm               | 0.9.6                                                |
-dev-python/pyerfa              | 1.7.2; 2.0.1.4                                       | Fixed test phase. One of the deps of `astropy`. `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building.
+dev-python/pyerfa              | 1.7.2; 2.0.1.5                                       | Fixed test phase. One of the deps of `astropy`. `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building.
 dev-python/pydl                | 0.7.0; 1.0.1                                         | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building.
 dev-python/pymoc               | 0.5.2                                                |
 dev-python/pyregion            | 2.1.1; 2.3.0                                         | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
