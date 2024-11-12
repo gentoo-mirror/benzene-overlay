@@ -41,7 +41,7 @@ dev-python/astroalign 2.6.0: A tool to align astronomical images based on asteri
 dev-python/astrodendro 0.2.0-r2 9999: Python package for computation of astronomical dendrograms
 dev-python/astroml 0.4.1 1.0.2_p1: Python Machine Learning library for astronomy
 dev-python/astroplan 0.6 0.10.1: Observation planning package for astronomers
-dev-python/astropy 2.0.16 3.0.5 3.1.2 4.2.1 5.0.8 5.3.4 6.0.1 6.1.5: Core functionality for performing astrophysics with Python
+dev-python/astropy 2.0.16 3.0.5 3.1.2 4.2.1 5.0.8 5.3.4 6.0.1 6.1.6: Core functionality for performing astrophysics with Python
 dev-python/astropy-healpix 0.5 1.0.3: BSD-licensed HEALPix for Astropy
 dev-python/astropy-helpers 2.0.11 3.0.2 3.1.1 4.0.1-r1: Helpers for Astropy and Affiliated packages
 dev-python/astropy-iers-data 0.2024.11.11.0.32.38: IERS Earth Rotation and Leap Second tables for the astropy core package
@@ -147,7 +147,7 @@ dev-python/pyavm 0.9.6: Simple pure-python AVM meta-data handling
 dev-python/pydantic-settings 2.6.1: Settings management using Pydantic
 dev-python/pydata-sphinx-theme 0.13.3-r1: Bootstrap-based Sphinx theme from the PyData community
 dev-python/pydl 0.7.0 1.0.1: Astropy affiliated package for accessing Virtual Observatory data and services
-dev-python/pyerfa 1.7.2 2.0.1.4: Python bindings for ERFA
+dev-python/pyerfa 1.7.2 2.0.1.5: Python bindings for ERFA
 dev-python/pyfatfs 1.1.0: Python based FAT12/FAT16/FAT32 implementation with VFAT support
 dev-python/pykdtree 1.3.13: Fast kd-tree implementation with OpenMP-enabled queries
 dev-python/pymoc 0.5.2: Multi-Order Coverage map module for Python
@@ -278,7 +278,7 @@ sci-astronomy/wcslib 8.2.2: Astronomical World Coordinate System transformations
 sci-libs/libsharp 1.0.0 1.0.0_p20220728: Library for fast spherical harmonic transforms
 sys-block/diskus 0.7.0 9999: A minimal, fast alternative to 'du -sh'.
 sys-libs/elogind-libsystemd 0: Provide standalone libsystemd.so without systemd by linking libelogind.so
-sys-libs/libsystemd 254.17 254.18 255.7 255.11 255.12 256.7 9999: A standalone package to provide libsystemd.so without systemd
+sys-libs/libsystemd 254.17 254.18 254.19 255.7 255.11 255.12 255.13 256.7 9999: A standalone package to provide libsystemd.so without systemd
 virtual/libsystemd 0: Virtual for libsystemd.so
 www-plugins/adobe-flash 32.0.0.465: Adobe Flash Player
 x11-libs/lain 9999 9999-r100: Layouts, asynchronous widgets and utilities for Awesome WM
