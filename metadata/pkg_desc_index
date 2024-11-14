@@ -29,7 +29,7 @@ dev-python/aplpy 1.1.1 2.0.3 2.1.0: Astronomical Plotting Library in Python
 dev-python/arviz 0.17.1 0.20.0: Exploratory analysis of Bayesian models with Python
 dev-python/asciitree 0.3.3: Draws ASCII trees in Python
 dev-python/asdf 2.7.2 2.9.2 2.10.1 2.13.0 2.15.0 2.15.2 3.5.0: Python library for the Advanced Scientific Data Format
-dev-python/asdf-astropy 0.2.1 0.6.1: ASDF serialization support for astropy
+dev-python/asdf-astropy 0.2.1 0.7.0: ASDF serialization support for astropy
 dev-python/asdf-coordinates-schemas 0.3.0: ASDF schemas for coordinates
 dev-python/asdf-standard 1.0.1 1.0.2 1.1.1: Standards document describing ASDF, Advanced Scientific Data Format
 dev-python/asdf-transform-schemas 0.2.2 0.4.0 0.5.0: ASDF schemas for transforms
@@ -187,6 +187,7 @@ dev-python/sherpa 4.15.0 4.15.1-r1 4.17.0: Modeling and fitting package for scie
 dev-python/should-dsl 2.1.2: Should assertions in Python as clear and readable as possible
 dev-python/siosocks 0.3.0: Sans-io socks proxy client/server with couple io backends
 dev-python/skyfield 1.45 1.46 1.49: Elegant astronomy for Python
+dev-python/smbprotocol 1.15.0: Interact with a server using the SMB 2/3 Protocol
 dev-python/snuggs 1.4.7: S-expressions for Numpy
 dev-python/sortedcollections 2.1.0: Python Sorted Collections Library
 dev-python/specreduce 1.4.1: Astropy coordinated package for Spectroscopic Reductions
