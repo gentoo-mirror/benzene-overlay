@@ -218,6 +218,7 @@ dev-python/sphinxext-opengraph 0.9.1: Sphinx extension to generate unique OpenGr
 dev-python/sshfs 2024.9.0: SSH Filesystem -- Async SSH/SFTP backend for fsspec
 dev-python/stanio 0.4.0 0.5.1: Preparing inputs to and reading outputs from Stan
 dev-python/starlink-pyast 3.15.4: Python interface to the Starlink AST library
+dev-python/stone 3.3.8: The Official API Spec Language for Dropbox API V2
 dev-python/sunpy 5.1.5 6.0.3: Python library for solar physics
 dev-python/sunpy-sphinx-theme 1.2.42 2.0.2 2.0.16: The sphinx theme for the SunPy website and documentation
 dev-python/synphot 1.4.0: Synthetic photometry using Astropy
