@@ -38,7 +38,7 @@ dev-python/asdf-wcs-schemas 0.1.1 0.4.0: World Coordinate System (WCS) ASDF sche
 dev-python/assay 9999: Attempt to write a Python testing framework I can actually stand
 dev-python/astlib 0.11.3-r1 0.11.10-r1 0.12.0: Python astronomy modules for image and coordinate manipulation
 dev-python/astroalign 2.6.1: A tool to align astronomical images based on asterism matching
-dev-python/astrodendro 0.2.0-r2 9999: Python package for computation of astronomical dendrograms
+dev-python/astrodendro 0.3.1 9999: Python package for computation of astronomical dendrograms
 dev-python/astroml 0.4.1 1.0.2_p1: Python Machine Learning library for astronomy
 dev-python/astroplan 0.6 0.10.1: Observation planning package for astronomers
 dev-python/astropy 2.0.16 3.0.5 3.1.2 4.2.1 5.0.8 5.3.4 6.0.1 6.1.6: Core functionality for performing astrophysics with Python
@@ -70,6 +70,7 @@ dev-python/dm-tree 0.1.8: Tree is a library for working with nested data structu
 dev-python/dm-tree-bin 0.1.8: Tree is a library for working with nested data structures.
 dev-python/docstring-parser 0.16: Parse Python docstrings in reST, Google and Numpydoc format
 dev-python/drms 0.6.4 0.8.0: Access HMI, AIA and MDI data with Python from the public JSOC DRMS server
+dev-python/dropbox 12.0.2: The Official Dropbox API V2 SDK for Python
 dev-python/dust-extinction 1.5: Interstellar Dust Extinction Models
 dev-python/echo 0.9.0: Callback Properties in Python
 dev-python/einops 0.6.0 0.8.0: A new flavour of deep learning operations
@@ -108,7 +109,7 @@ dev-python/indexed-zstd 1.6.1: Fast random access to zstd files
 dev-python/invoke 2.2.0: Pythonic task management & command execution
 dev-python/jplephem 2.22: Python version of NASA DE4xx ephemerides
 dev-python/jsonschema 3.2.0-r1 4.9.1: An implementation of JSON-Schema validation for Python
-dev-python/jupyter-cache 0.6.1 1.0.0: A defined interface for working with a cache of jupyter notebooks
+dev-python/jupyter-cache 0.6.1 1.0.1: A defined interface for working with a cache of jupyter notebooks
 dev-python/jupyter-sphinx 0.5.3: Sphinx extension for rendering of Jupyter interactive widgets
 dev-python/jupytext 1.16.4: Jupyter notebooks as Markdown documents, Julia, Python or R scripts
 dev-python/lexicon 2.0.1: Powerful dict subclass(es) with aliasing & attribute access
