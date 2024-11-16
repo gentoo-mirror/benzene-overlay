@@ -38,6 +38,7 @@ dev-lang/gdl                                                                    
 dev-python/aioftp                                                                    | 0.23.1                                                                                                                |
 dev-python/corner                                                                    | 2.2.2                                                                                                                 |
 dev-python/dask                                                                      | 2024.4.1; 2024.8.2                                                                                                    | Dropped by official portage
+dev-python/dropbox                                                                   | 12.0.2                                                                                                                |
 dev-python/exifread                                                                  | 3.0.0                                                                                                                 |
 dev-python/glfw                                                                      | 2.7.0                                                                                                                 | Dependency for glue-vispy-viewer>=1.2.0
 dev-python/glymur                                                                    | 0.12.0; 0.12.9\_p1; 0.12.9\_p2; 0.13.2\_p1; 0.13.6                                                                    |
@@ -174,7 +175,7 @@ Package name | Available version | Additional information
 ------------ | :---------------: | ----------------------
 dev-python/sphinx                       | 5.1.1; 7.1.2                    | 5 for old myst-parser and myst-nb; 7.1 for glue-qt doc <!-- sphinx>=6 <- copybutton <-doc- sphinx-thebe -doc-> myst-nb -> myst-parser(oldver needs sphinx<6) -->
 dev-python/ablog                        | 0.11.12                         |
-dev-python/jupyter-cache                | 0.6.1; 1.0.0                    |
+dev-python/jupyter-cache                | 0.6.1; 1.0.1                    |
 dev-python/jupyter-sphinx               | 0.5.3                           |
 dev-python/jupytext                     | 1.16.4                          | Build with wheel source to include Jupyter Lab Extenstion
 dev-python/myst-nb                      | 0.17.2; 1.1.2                   |
