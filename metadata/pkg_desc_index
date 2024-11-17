@@ -71,6 +71,7 @@ dev-python/dm-tree-bin 0.1.8: Tree is a library for working with nested data str
 dev-python/docstring-parser 0.16: Parse Python docstrings in reST, Google and Numpydoc format
 dev-python/drms 0.6.4 0.8.0: Access HMI, AIA and MDI data with Python from the public JSOC DRMS server
 dev-python/dropbox 12.0.2: The Official Dropbox API V2 SDK for Python
+dev-python/dropboxdrivefs 1.4.1: Dropbox implementation for fsspec module
 dev-python/dust-extinction 1.5: Interstellar Dust Extinction Models
 dev-python/echo 0.9.0: Callback Properties in Python
 dev-python/einops 0.6.0 0.8.0: A new flavour of deep learning operations
@@ -224,7 +225,7 @@ dev-python/sunpy 5.1.5 6.0.3: Python library for solar physics
 dev-python/sunpy-sphinx-theme 1.2.42 2.0.2 2.0.16: The sphinx theme for the SunPy website and documentation
 dev-python/synphot 1.4.0: Synthetic photometry using Astropy
 dev-python/syrupy 4.7.2: Pytest Snapshot Test Utility
-dev-python/textual 0.85.2: Modern Text User Interface framework
+dev-python/textual 0.86.1: Modern Text User Interface framework
 dev-python/toml 0.10.2-r1: Python library for handling TOML files
 dev-python/tree-sitter-languages 1.10.2: Binary Python wheels for all tree sitter languages
 dev-python/unyt 2.9.5 3.0.3: Handle, manipulate, and convert data with units in Python
