@@ -44,7 +44,7 @@ dev-python/astroplan 0.6 0.10.1: Observation planning package for astronomers
 dev-python/astropy 2.0.16 3.0.5 3.1.2 4.2.1 5.0.8 5.3.4 6.0.1 6.1.6: Core functionality for performing astrophysics with Python
 dev-python/astropy-healpix 0.5 1.0.3: BSD-licensed HEALPix for Astropy
 dev-python/astropy-helpers 2.0.11 3.0.2 3.1.1 4.0.1-r1: Helpers for Astropy and Affiliated packages
-dev-python/astropy-iers-data 0.2024.11.11.0.32.38: IERS Earth Rotation and Leap Second tables for the astropy core package
+dev-python/astropy-iers-data 0.2024.11.18.0.35.2: IERS Earth Rotation and Leap Second tables for the astropy core package
 dev-python/astropy-sphinx-theme 1.1: The sphinx theme for Astropy and affiliated packages
 dev-python/astroquery 0.3.10 0.4.7: Collection of packages to access online astronomical resources
 dev-python/astroscrappy 1.0.8 1.2.0: Optimized cosmic ray annihilation astropy python module
@@ -108,6 +108,7 @@ dev-python/imexam 0.9.1: Position-velocity diagram extractor
 dev-python/indexed-bzip2 1.6.0: Fast random access to bzip2 files in Python
 dev-python/indexed-zstd 1.6.1: Fast random access to zstd files
 dev-python/invoke 2.2.0: Pythonic task management & command execution
+dev-python/isal 1.7.1: Faster zlib gzip compatible (de)compression by python bindings for ISA-L library
 dev-python/jplephem 2.22: Python version of NASA DE4xx ephemerides
 dev-python/jsonschema 3.2.0-r1 4.9.1: An implementation of JSON-Schema validation for Python
 dev-python/jupyter-cache 0.6.1 1.0.1: A defined interface for working with a cache of jupyter notebooks
