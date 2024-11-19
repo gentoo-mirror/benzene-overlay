@@ -72,6 +72,7 @@ dev-python/docstring-parser 0.16: Parse Python docstrings in reST, Google and Nu
 dev-python/drms 0.6.4 0.8.0: Access HMI, AIA and MDI data with Python from the public JSOC DRMS server
 dev-python/dropbox 12.0.2: The Official Dropbox API V2 SDK for Python
 dev-python/dropboxdrivefs 1.4.1: Dropbox implementation for fsspec module
+dev-python/dunamai 1.23.0: Dynamic versioning library and CLI
 dev-python/dust-extinction 1.5: Interstellar Dust Extinction Models
 dev-python/echo 0.9.0: Callback Properties in Python
 dev-python/einops 0.6.0 0.8.0: A new flavour of deep learning operations
