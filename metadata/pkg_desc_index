@@ -28,7 +28,7 @@ dev-python/api4jenkins 2.0.3: Tools for accessing JPEG2000 files
 dev-python/aplpy 1.1.1 2.0.3 2.2.0: Astronomical Plotting Library in Python
 dev-python/arviz 0.17.1 0.20.0: Exploratory analysis of Bayesian models with Python
 dev-python/asciitree 0.3.3: Draws ASCII trees in Python
-dev-python/asdf 2.7.2 2.9.2 2.10.1 2.13.0 2.15.0 2.15.2 3.5.0: Python library for the Advanced Scientific Data Format
+dev-python/asdf 2.7.2 2.9.2 2.10.1 2.13.0 2.15.0 2.15.2 4.0.0: Python library for the Advanced Scientific Data Format
 dev-python/asdf-astropy 0.2.1 0.7.0: ASDF serialization support for astropy
 dev-python/asdf-coordinates-schemas 0.3.0: ASDF schemas for coordinates
 dev-python/asdf-standard 1.0.1 1.0.2 1.1.1: Standards document describing ASDF, Advanced Scientific Data Format
@@ -225,9 +225,9 @@ dev-python/starlink-pyast 3.15.4: Python interface to the Starlink AST library
 dev-python/stone 3.3.8: The Official API Spec Language for Dropbox API V2
 dev-python/sunpy 5.1.5 6.0.3: Python library for solar physics
 dev-python/sunpy-sphinx-theme 1.2.42 2.0.2 2.0.16: The sphinx theme for the SunPy website and documentation
-dev-python/synphot 1.4.0: Synthetic photometry using Astropy
+dev-python/synphot 1.5.0: Synthetic photometry using Astropy
 dev-python/syrupy 4.7.2: Pytest Snapshot Test Utility
-dev-python/textual 0.86.2: Modern Text User Interface framework
+dev-python/textual 0.86.3: Modern Text User Interface framework
 dev-python/toml 0.10.2-r1: Python library for handling TOML files
 dev-python/tree-sitter-languages 1.10.2: Binary Python wheels for all tree sitter languages
 dev-python/unyt 2.9.5 3.0.3: Handle, manipulate, and convert data with units in Python
