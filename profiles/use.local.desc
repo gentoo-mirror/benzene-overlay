@@ -124,6 +124,7 @@ dev-python/numcodecs:zfpy - Extra ZFPY support via dev-python/zfp
 dev-python/photutils:all - Including all optional dependencies for most function.
 dev-python/photutils:intersphinx - Enable intersphinx while doc building.
 dev-python/photutils:local-datasets - Add local data for photutils.datasets
+dev-python/poetry-dynamic-versioning:plugin - plugin support via dev-python/poetry
 dev-python/pvextractor:intersphinx - Enable intersphinx while doc building.
 dev-python/pydantic-settings:toml - toml support via dev-python/tomli
 dev-python/pydantic-settings:yaml - YAML support via dev-python/pyyaml
