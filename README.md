@@ -143,6 +143,7 @@ dev-python/memory-profiler         | 0.61                                       
 dev-python/miniballcpp             | 0.2.3                                                      | Optional for yt
 dev-python/msrest                  | 0.7.1                                                      | SunPy, h5pyd related
 dev-python/msrestazure             | 0.6.4                                                      | SunPy, h5pyd related
+dev-python/multiformats            | 0.3.1\_p4                                                  | Optional for new ratarmount{,core} <- ipfsspec. Dependencies like bases(base58) and multiformats-config are not included in this table. For more functions with pycryptodomex you need to add [parona-overlay](https://gitlab.com/Parona/parona-overlay)
 dev-python/numcodecs               | 0.12.1; 0.13.1                                             | Pulled in by zarr
 dev-python/pyfatfs                 | 1.1.0                                                      | Optional for new ratarmount{,core}
 dev-python/pykdtree                | 1.3.13                                                     | Optional for yt
@@ -163,7 +164,7 @@ dev-python/stone                   | 3.3.8                                      
 dev-python/textual                 | 0.87.1                                                     | Pulled in by memray>=1.11. Dependency tree-sitter-languages is included but not listed in the table
 dev-python/typing-validation       | 1.2.11\_p4                                                 | Optional for new ratarmount{,core} <- ipfsspec
 dev-python/colorspacious           | 1.1.2                                                      | Pulled in by cmyt. Dropped by official portage
-dev-python/cmyt                    | 2.0.0                                                      | Pulled in by yt
+dev-python/cmyt                    | 2.0.0; 2.0.1                                               | Pulled in by yt
 dev-python/unyt                    | 2.9.5; 3.0.3                                               | Pulled in by yt
 dev-python/webdav4                 | 0.10.0                                                     | Optional for new ratarmount{,core}
 dev-python/wsgidav                 | 4.3.3                                                      | Test dependency for webdav4
