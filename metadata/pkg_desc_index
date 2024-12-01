@@ -112,6 +112,7 @@ dev-python/imexam 0.9.1: Position-velocity diagram extractor
 dev-python/indexed-bzip2 1.6.0: Fast random access to bzip2 files in Python
 dev-python/indexed-zstd 1.6.1: Fast random access to zstd files
 dev-python/invoke 2.2.0: Pythonic task management & command execution
+dev-python/ipfsspec 0.5.3: Readonly implementation of fsspec for IPFS
 dev-python/isal 1.7.1: Faster zlib gzip compatible (de)compression by python bindings for ISA-L library
 dev-python/jplephem 2.22: Python version of NASA DE4xx ephemerides
 dev-python/jsonschema 3.2.0-r1 4.9.1: An implementation of JSON-Schema validation for Python
