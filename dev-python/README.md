@@ -7,7 +7,7 @@ Package name | Available version | Additional information
 ------------ | :---------------: | ----------------------
 dev-python/astropy             | $.3.4; 6.0.1; 6.1.7; 5.0.8                           | Versions below 5.3 are included but masked. See [here](https://github.com/Universebenzene/benzene-overlay/tree/master/dev-python/astropy#note-for-astropy) for more details. wcslib>=8.1 is included in this overlay for astropy>=6.0.0
 dev-python/astroalign          | 2.6.1                                                |
-dev-python/astropy-iers-data   | 0.2024.11.25.0.34.48                                 | Required by astropy>=6.0.0
+dev-python/astropy-iers-data   | 0.2024.12.2.0.35.34                                  | Required by astropy>=6.0.0
 dev-python/astropy-helpers     | 2.0.11; 3.0.2; 3.1.1; 4.0.1-r1                       | With patches for better doc building. Same as the [AUR](https://aur.archlinux.org/packages/python-astropy-helpers) ones
 dev-python/pytest-astropy      | 0.8.0; 0.11.0                                        | Test plugins for astropy. Dependencies are also in this overlay but not listed in this table
 dev-python/sphinx-astropy      | 1.6.0; 1.9.1                                         | Modules for building docs of astropy related packages. Dependencies are also in this overlay but not listed in this table
@@ -37,7 +37,7 @@ dev-python/glue-vispy-viewers  | 1.1.0; 1.2.2                                   
 dev-python/gwcs                | 0.17.1; 0.21.0                                       | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building.
 dev-python/h5netcdf            | 1.4.1                                                |
 dev-python/h5pyd               | 0.12.2; 0.17.0; 0.18.0                               |
-dev-python/healpy              | 1.16.6; 1.17.3                                       |
+dev-python/healpy              | 1.16.6; 1.18.0                                       |
 dev-python/hvpy                | 1.1.0                                                | Test dependency and optional for sunpy.
 dev-python/imexam              | 0.9.1                                                | With [my issue](https://github.com/spacetelescope/imexam/issues/252) unsolved. [NOT COMPATIBLE WITH PY3.11 YET](https://github.com/spacetelescope/imexam/issues/256)
 dev-python/jplephem            | 2.22                                                 |
