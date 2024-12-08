@@ -248,7 +248,7 @@ dev-python/webdav4 0.10.0: WebDAV client library with an fsspec-based filesystem
 dev-python/wsgidav 4.3.3: Generic and extendable WebDAV server based on WSGI
 dev-python/xarray-datatree 0.0.14: Hierarchical tree-like data structures for xarray
 dev-python/xarray-einstats 0.8.0: Stats, linear algebra and einops for xarray
-dev-python/yt 4.0.5 4.1.4 4.2.2 4.3.0 4.3.1: An analysis and visualization toolkit for volumetric data
+dev-python/yt 4.0.5 4.1.4 4.2.2 4.3.0 4.4.0: An analysis and visualization toolkit for volumetric data
 dev-python/zarr 2.18.3: An implementation of chunked, compressed, N-dimensional arrays for Python
 dev-python/zict 2.2.0 3.0.0: Mutable mapping tools
 dev-qt/qtwebkit 5.212.0_pre20200309-r1 5.212.0_pre20200309-r2: WebKit rendering library for the Qt5 framework (deprecated)
