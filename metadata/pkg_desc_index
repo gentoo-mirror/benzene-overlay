@@ -137,7 +137,7 @@ dev-python/mmh3 5.0.1: Python extension for MurmurHash (MurmurHash3)
 dev-python/mock-ssh-server 0.9.1: Mock SSH server for testing purposes
 dev-python/montage-wrapper 0.9.9: Python wrapper for the Montage mosaicking toolkit
 dev-python/mpl-animators 1.2.0: An interative animation framework for matplotlib
-dev-python/mpl-scatter-density 0.7: Matplotlib helpers to make density scatter plots
+dev-python/mpl-scatter-density 0.8: Matplotlib helpers to make density scatter plots
 dev-python/msrest 0.7.1: AutoRest swagger generator Python client runtime
 dev-python/msrestazure 0.6.4: AutoRest swagger generator Python client runtime. Azure-specific module
 dev-python/multi_key_dict 2.0.3 9999: Multi key dictionary implementation
