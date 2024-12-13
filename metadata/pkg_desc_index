@@ -238,7 +238,7 @@ dev-python/sunpy 5.1.5 6.0.4: Python library for solar physics
 dev-python/sunpy-sphinx-theme 1.2.42 2.0.2 2.0.18: The sphinx theme for the SunPy website and documentation
 dev-python/synphot 1.5.0: Synthetic photometry using Astropy
 dev-python/syrupy 4.8.0: Pytest Snapshot Test Utility
-dev-python/textual 0.89.1: Modern Text User Interface framework
+dev-python/textual 1.0.0: Modern Text User Interface framework
 dev-python/toml 0.10.2-r1: Python library for handling TOML files
 dev-python/tree-sitter-languages 1.10.2: Binary Python wheels for all tree sitter languages
 dev-python/typing-validation 1.2.11_p4: A simple library for runtime type-checking
@@ -249,7 +249,7 @@ dev-python/wsgidav 4.3.3: Generic and extendable WebDAV server based on WSGI
 dev-python/xarray-datatree 0.0.14: Hierarchical tree-like data structures for xarray
 dev-python/xarray-einstats 0.8.0: Stats, linear algebra and einops for xarray
 dev-python/yt 4.0.5 4.1.4 4.2.2 4.3.0 4.4.0: An analysis and visualization toolkit for volumetric data
-dev-python/zarr 2.18.3: An implementation of chunked, compressed, N-dimensional arrays for Python
+dev-python/zarr 2.18.4: An implementation of chunked, compressed, N-dimensional arrays for Python
 dev-python/zict 2.2.0 3.0.0: Mutable mapping tools
 dev-qt/qtwebkit 5.212.0_pre20200309-r1 5.212.0_pre20200309-r2: WebKit rendering library for the Qt5 framework (deprecated)
 dev-util/micromamba 1.5.6: C++ tiny version of mamba, the fast conda package installer
