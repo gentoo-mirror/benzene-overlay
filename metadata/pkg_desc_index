@@ -1,4 +1,8 @@
 app-editors/formiko 1.5.0 9999: reStructuredText editor and live previewer
+app-i18n/fcitx 4.2.9.8-r1: Fcitx (Flexible Context-aware Input Tool with eXtension) input method framework
+app-i18n/fcitx-configtool 0.4.10: GTK+ GUI configuration tool for Fcitx
+app-i18n/fcitx-qt5 1.2.5: Fcitx input method module for Qt 5
+app-i18n/fcitx-table-extra 0.3.8-r1: Extra Chinese table input methods for Fcitx
 app-i18n/fcitx-table-other 0.2.4-r1: Provides some other tables for Fcitx
 app-office/wps-office 11.1.0.11711-r3 11.1.0.11723: WPS Office is an office productivity suite
 app-pda/i4tools 1.0.038 1.0.038-r1 1.0.055 1.0.055-r2 3.06.007: A third-party tool for managing Apple (iOS) devices
@@ -100,7 +104,7 @@ dev-python/glue-qt 0.3.1: Multidimensional data visualization across files
 dev-python/glue-vispy-viewers 1.1.0 1.2.2: 3-d data viewers for glue based on VisPy
 dev-python/glueviz 1.4.0: Meta-package for glue and plugin packages
 dev-python/glymur 0.12.0 0.12.9_p1 0.12.9_p2 0.13.2_p1 0.13.6: Tools for accessing JPEG2000 files
-dev-python/gwcs 0.17.1 0.22.0: Generalized World Coordinate System
+dev-python/gwcs 0.17.1 0.22.1: Generalized World Coordinate System
 dev-python/h5netcdf 1.4.1: Pythonic interface to netCDF4 via h5py
 dev-python/h5pyd 0.12.2 0.17.0 0.18.0: h5py distributed - Python client library for HDF Rest API
 dev-python/healpy 1.16.6 1.18.0: Python wrapper for healpix
@@ -272,7 +276,7 @@ net-fs/ossfs 1.91.4: Export s3fs for aliyun oss
 net-im/electron-qq-bin 1.5.7 2.1.4: A cross-platform QQ made with Electron (Deprecated. Moved to Icalingua)
 net-im/electron-wechat-bin 1.0.0: For creating the most usable Linux/MacOS WeChat client. A.k.a. Freechat
 net-im/electronic-wechat-bin 2.3.1 2.3.2: A better WeChat on macOS and Linux. Built with Electron
-net-im/icalingua++-bin 2.7.7 2.9.13 2.12.23: A Linux client for QQ and more (forked branch). Previously called Electron QQ
+net-im/icalingua++-bin 2.7.7 2.9.13 2.12.25: A Linux client for QQ and more (forked branch). Previously called Electron QQ
 net-im/wemeet 2.8.0.3 3.10.0.401 3.19.0.401: Wemeet - Tencent Video Conferencing. A.k.a Tencent Meeting
 net-libs/libaxon-bin 1.0.2: Nodejs backend for purple-oicq
 net-misc/baidunetdisk 3.0.1 4.3.0 4.17.7: Baidu Net Disk is a cloud storage client (Linux Version)
