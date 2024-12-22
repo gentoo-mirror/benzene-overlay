@@ -301,7 +301,7 @@ sci-astronomy/wcslib 8.2.2: Astronomical World Coordinate System transformations
 sci-libs/libsharp 1.0.0 1.0.0_p20241113: Library for fast spherical harmonic transforms
 sys-block/diskus 0.7.0 9999: A minimal, fast alternative to 'du -sh'.
 sys-libs/elogind-libsystemd 0: Provide standalone libsystemd.so without systemd by linking libelogind.so
-sys-libs/libsystemd 254.17 254.21 255.11 255.15 256.7 256.9 9999: A standalone package to provide libsystemd.so without systemd
+sys-libs/libsystemd 254.17 254.21 255.11 255.15 256.7 256.9 257.1 9999: A standalone package to provide libsystemd.so without systemd
 virtual/libsystemd 0: Virtual for libsystemd.so
 www-plugins/adobe-flash 32.0.0.465: Adobe Flash Player
 x11-libs/lain 9999 9999-r100: Layouts, asynchronous widgets and utilities for Awesome WM
