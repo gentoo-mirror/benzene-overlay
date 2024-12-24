@@ -161,7 +161,7 @@ dev-python/poetry-dynamic-versioning 1.4.1: Plugin for Poetry to enable dynamic 
 dev-python/pure-protobuf 2.3.0 3.1.3: Protocol Buffers using Python type annotations
 dev-python/pvextractor 0.4: Position-velocity diagram extractor
 dev-python/pyavm 0.9.6: Simple pure-python AVM meta-data handling
-dev-python/pydantic-settings 2.6.1: Settings management using Pydantic
+dev-python/pydantic-settings 2.7.0: Settings management using Pydantic
 dev-python/pydata-sphinx-theme 0.13.3-r1: Bootstrap-based Sphinx theme from the PyData community
 dev-python/pydl 0.7.0 1.0.1: Astropy affiliated package for accessing Virtual Observatory data and services
 dev-python/pyerfa 1.7.2 2.0.1.5: Python bindings for ERFA
@@ -177,7 +177,7 @@ dev-python/pytest-astropy 0.8.0 0.11.0: Metapackage for all the testing machiner
 dev-python/pytest-astropy-header 0.1.2 0.2.2: Pytest plugin to add diagnostic information to the header of the test output
 dev-python/pytest-cython 0.2.2 0.3.1: A plugin for testing Cython extension modules
 dev-python/pytest-doctestplus 0.9.0 1.3.0: Pytest plugin with advanced doctest features
-dev-python/pytest-examples 0.0.13: Pytest plugin for testing examples in docstrings and markdown files
+dev-python/pytest-examples 0.0.15: Pytest plugin for testing examples in docstrings and markdown files
 dev-python/pytest-filter-subpackage 0.2.0: Pytest plugin for filtering based on sub-packages
 dev-python/pytest-openfiles 0.6.0: Pytest plugin to check for files left open at the end of a test run
 dev-python/pytest-relaxed 2.0.2: Relaxed test discovery/organization for pytest
