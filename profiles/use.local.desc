@@ -11,6 +11,11 @@ app-i18n/fcitx:opencc - Enable OpenCC engine (using app-i18n/opencc) for convert
 app-i18n/fcitx:pango - Enable support for x11-libs/pango
 app-i18n/fcitx:table - Install table input methods for Simplified Chinese
 app-i18n/fcitx:xkb - Enable support for XKB (required for fcitx-xkb, fcitx-xkbdbus, part of fcitx-keyboard)
+app-i18n/mozc:fcitx4 - Enable support for app-i18n/fcitx 4
+app-i18n/mozc:fcitx5 - Enable support for app-i18n/fcitx 5
+app-i18n/mozc:gui - Install graphical user interface tool (mozc_tool)
+app-i18n/mozc:ibus - Enable support for app-i18n/ibus
+app-i18n/mozc:renderer - Enable native candidate window
 app-office/wps-office:cn - Use CN version of WPS Office (including WPS Cloud, WPS account login and other functions)
 app-office/wps-office:l10n_zh-HK - Chinese (Traditional, Hong Kong S.A.R.)
 app-office/wps-office:l10n_zh-MO - Chinese (Traditional, Macao S.A.R.)
