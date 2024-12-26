@@ -273,7 +273,7 @@ media-sound/ting-fr-bin 9.4.1: Daily French Listening software from eusoft
 media-video/bcwc_pcie 9999: Reverse engineered Linux driver for the Broadcom 1570 PCIe webcam
 media-video/facetimehd-firmware 9999: Firmware for the Broadcom 1570 PCIe webcam
 media-video/gnome-mplayer 1.0.9-r1: A GTK+ interface to MPlayer
-net-fs/ossfs 1.91.4: Export s3fs for aliyun oss
+net-fs/ossfs 1.91.5: Export s3fs for aliyun oss
 net-im/electron-qq-bin 1.5.7 2.1.4: A cross-platform QQ made with Electron (Deprecated. Moved to Icalingua)
 net-im/electron-wechat-bin 1.0.0: For creating the most usable Linux/MacOS WeChat client. A.k.a. Freechat
 net-im/electronic-wechat-bin 2.3.1 2.3.2: A better WeChat on macOS and Linux. Built with Electron
