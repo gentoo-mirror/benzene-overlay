@@ -49,7 +49,7 @@ dev-python/astroplan 0.6 0.10.1: Observation planning package for astronomers
 dev-python/astropy 2.0.16 3.0.5 3.1.2 4.2.1 5.0.8 5.3.4 6.0.1 6.1.7 7.0.0: Core functionality for performing astrophysics with Python
 dev-python/astropy-healpix 0.5 1.0.3: BSD-licensed HEALPix for Astropy
 dev-python/astropy-helpers 2.0.11 3.0.2 3.1.1 4.0.1-r1: Helpers for Astropy and Affiliated packages
-dev-python/astropy-iers-data 0.2024.12.23.0.33.24: IERS Earth Rotation and Leap Second tables for the astropy core package
+dev-python/astropy-iers-data 0.2024.12.30.0.33.36: IERS Earth Rotation and Leap Second tables for the astropy core package
 dev-python/astropy-sphinx-theme 1.1: The sphinx theme for Astropy and affiliated packages
 dev-python/astroquery 0.3.10 0.4.7: Collection of packages to access online astronomical resources
 dev-python/astroscrappy 1.0.8 1.2.0: Optimized cosmic ray annihilation astropy python module
@@ -187,7 +187,7 @@ dev-python/pytest-socket 0.7.0: Pytest Plugin to disable socket calls during tes
 dev-python/pytest-textual-snapshot 1.0.0: Add source, edit, history, annotate links to GitHub or BitBucket
 dev-python/python-jenkins 1.8.2 9999: Python bindings for the remote Jenkins API
 dev-python/python-pkcs11 0.7.0-r1: PKCS#11 (Cryptoki) support for Python
-dev-python/python-socketio 5.9.0 5.12.0: Python Socket.IO server and client
+dev-python/python-socketio 5.9.0 5.12.1: Python Socket.IO server and client
 dev-python/python-xz 0.5.0: Pure Python implementation of the XZ file format with random access support
 dev-python/pytkdocs 0.16.2: Load Python objects documentation
 dev-python/pyvo 1.2.1 1.6: Astropy affiliated package for accessing Virtual Observatory data and services
