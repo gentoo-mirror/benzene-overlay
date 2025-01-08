@@ -1,0 +1,15 @@
+DEFINED_PHASES=install postinst postrm preinst prepare setup
+DEPEND=>=dev-java/java-config-2.2.0-r3
+DESCRIPTION=Interactive graphical viewer and editor for astronomical tables
+EAPI=8
+HOMEPAGE=http://www.star.bris.ac.uk/~mbt/topcat/
+IDEPEND=dev-util/desktop-file-utils x11-misc/shared-mime-info
+INHERIT=desktop java-pkg-2 xdg
+IUSE=minimal
+KEYWORDS=~amd64 ~x86 ~amd64-linux ~x86-linux
+LICENSE=GPL-2
+RDEPEND=>=virtual/jre-1.8 >=dev-java/java-config-2.2.0-r3
+SLOT=0
+SRC_URI=https://www.star.bris.ac.uk/mbt/releases/topcat/v4.8/topcat-lite.jar -> topcat-4.8-lite.jar !minimal? ( https://www.star.bris.ac.uk/mbt/releases/topcat/v4.8/topcat-full.jar -> topcat-4.8-full.jar )
+_eclasses_=desktop	3a72ffe0d8e1dd73af3a1c8c15a59fed	java-utils-2	c610b1541a10e37cb26ab5b707a744f1	java-pkg-2	38fd81c7880666a00a638ca8deb64d72	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	xdg	3ef49a87c52c8b77c476351195dfe575
+_md5_=1a51904355d2e78bea199d78db4805eb
