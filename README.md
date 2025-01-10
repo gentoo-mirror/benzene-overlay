@@ -131,6 +131,7 @@ dev-python/cmdstanpy               | 1.0.8; 1.2.5                               
 dev-python/dag-cbor                | 0.3.3                                                      | Optional for new ratarmount{,core} <- ipfsspec
 dev-python/distributed             | 2024.4.1; 2024.12.1                                        | Optional for arviz and spectral-cube
 dev-python/dm-tree{,-bin}          | 0.1.8                                                      | Required by new arviz
+dev-python/donfig                  | 0.8.1\_p1                                                  | Pulled in by zarr v3
 dev-python/dropboxdrivefs          | 1.4.1                                                      | Optional for new ratarmount{,core}
 dev-python/eventlet                | 0.33.3; 0.35.2                                             | Dropped by official portage. Required by firefly{,-viz}
 dev-python/f90nml                  | 1.4.4                                                      | Optional for yt
@@ -204,6 +205,7 @@ dev-python/sphinx-changelog             | 1.6.0                           |
 dev-python/sphinx-click                 | 6.0.0                           |
 dev-python/sphinx-codeautolink          | 0.15.2                          |
 dev-python/sphinx-design                | 0.6.1                           |
+dev-python/sphinx-documatt-theme        | 0.0.6                           |
 dev-python/sphinx-examples              | 0.0.5                           |
 dev-python/sphinx-hoverxref             | 1.5.0                           |
 dev-python/sphinx-readable-theme        | 1.3.0                           |
@@ -211,6 +213,7 @@ dev-python/sphinx-thebe                 | 0.2.1; 0.3.1                    |
 dev-python/sphinx-togglebutton          | 0.3.2                           |
 dev-python/sphinx-contributors          | 0.2.7                           |
 dev-python/sphinx-mdinclude             | 0.6.2                           |
+dev-python/sphinx-sitemap               | 2.6.0                           |
 dev-python/sphinxcontrib-globalsubs     | 0.1.2                           |
 dev-python/sphinxcontrib-srclink        | 0.2.4                           |
 dev-python/sphinxcontrib-youtube        | 1.2.0; 1.4.1                    | `network-sandbox` FEATURE will be disabled if you enable demo videos for doc building in version 1.2.0.
