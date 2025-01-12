@@ -52,7 +52,7 @@ dev-python/hsluv                                                                
 dev-python/nose                                                                      | 1.3.7\_p20221026-{r1,r2}                                                                                              | Dropped by official portage
 dev-python/oldest-supported-numpy                                                    | 2023.12.21                                                                                                            | The numpy version limitations are changed from `==` into `>=`. If you have better solution, just bring issues or pull requests.
 dev-python/parfive                                                                   | 1.5.1; 2.1.0                                                                                                          |
-dev-python/poetry-dynamic-versioning                                                 | 1.5.0                                                                                                                 | Dependency dunamai also included but not listed in the table
+dev-python/poetry-dynamic-versioning                                                 | 1.6.0                                                                                                                 | Dependency dunamai also included but not listed in the table
 dev-python/PyQt5                                                                     | 5.15.11                                                                                                               | Add `webkit` USE flag (dropped by official portage) to get **youdao-dict** in this overlay work
 dev-python/pydantic-settngs                                                          | 2.7.1                                                                                                                 |
 dev-python/pytest-cython                                                             | 0.2.2; 0.3.1                                                                                                          |
@@ -119,7 +119,7 @@ Package name | Available version | Additional information
 dev-python/adal                    | 1.2.7                                                      | SunPy, h5pyd related
 dev-python/abg-python              | 1.1.5                                                      | Optional for yt
 dev-python/aggdraw                 | 1.3.16; 1.3.19                                             | Optional for ginga
-dev-python/aiobotocore             | 2.16.1                                                     | Pulled in by s3fs
+dev-python/aiobotocore             | 2.17.0                                                     | Pulled in by s3fs
 dev-python/aiohttp-retry           | 2.9.1                                                      | Optional for new ratarmount{,core} <- ipfsspec
 dev-python/arviz                   | 0.17.1; 0.20.0                                             | Optional for corner.py.
 dev-python/asciitree               | 0.3.3                                                      | Pulled in by zarr
