@@ -129,7 +129,7 @@ dev-python/lexicon 2.0.1: Powerful dict subclass(es) with aliasing & attribute a
 dev-python/libconf 2.0.1: Pure-Python libconfig file reader/writer with permissive licensing
 dev-python/markdown-callouts 0.3.0 0.4.0: Markdown extension: a classier syntax for admonitions
 dev-python/memory-profiler 0.61: A module for monitoring memory usage of a python program
-dev-python/memray 1.10.0 1.14.0: A memory profiler for Python applications
+dev-python/memray 1.10.0 1.15.0: A memory profiler for Python applications
 dev-python/miniballcpp 0.2.3: Smallest Enclosing Balls of Points
 dev-python/mistune 0.8.4-r1 2.0.5: The fastest markdown parser in pure Python
 dev-python/mkdocs-coverage 1.0.0: MkDocs plugin to integrate your coverage HTML report into your site
