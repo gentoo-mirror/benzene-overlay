@@ -49,7 +49,7 @@ dev-python/astroplan 0.6 0.10.1: Observation planning package for astronomers
 dev-python/astropy 2.0.16 3.0.5 3.1.2 4.2.1 5.0.8 5.3.4 6.0.1 6.1.7 7.0.0: Core functionality for performing astrophysics with Python
 dev-python/astropy-healpix 0.5 1.0.3: BSD-licensed HEALPix for Astropy
 dev-python/astropy-helpers 2.0.11 3.0.2 3.1.1 4.0.1-r1: Helpers for Astropy and Affiliated packages
-dev-python/astropy-iers-data 0.2025.1.6.0.33.42: IERS Earth Rotation and Leap Second tables for the astropy core package
+dev-python/astropy-iers-data 0.2025.1.13.0.34.51: IERS Earth Rotation and Leap Second tables for the astropy core package
 dev-python/astropy-sphinx-theme 1.1: The sphinx theme for Astropy and affiliated packages
 dev-python/astroquery 0.3.10 0.4.7: Collection of packages to access online astronomical resources
 dev-python/astroscrappy 1.0.8 1.2.0: Optimized cosmic ray annihilation astropy python module
@@ -155,7 +155,7 @@ dev-python/naima 0.10.0: Derivation of non-thermal particle distributions throug
 dev-python/nbconvert 6.4.5: Converting Jupyter Notebooks
 dev-python/ndcube 2.2.0 2.2.4: For multi-dimensional contiguious and non-contiguious coordinate aware arrays
 dev-python/nose 1.3.7_p20221026-r1 1.3.7_p20221026-r2: Unittest extension with automatic test suite discovery and easy test authoring
-dev-python/numcodecs 0.12.1 0.13.1: Data storage buffer compression and transformation codecs
+dev-python/numcodecs 0.13.1 0.14.1: Data storage buffer compression and transformation codecs
 dev-python/oldest-supported-numpy 2023.12.21: Meta-package providing oldest supported Numpy for given Python version
 dev-python/parfive 1.5.1 2.1.0: A HTTP and FTP parallel file downloader
 dev-python/photutils 1.9.0 1.12.0 2.1.0: Affiliated package for image photometry utilities
@@ -258,7 +258,7 @@ dev-python/wsgidav 4.3.3: Generic and extendable WebDAV server based on WSGI
 dev-python/xarray-datatree 0.0.14: Hierarchical tree-like data structures for xarray
 dev-python/xarray-einstats 0.8.0: Stats, linear algebra and einops for xarray
 dev-python/yt 4.0.5 4.1.4 4.2.2 4.3.0 4.4.0: An analysis and visualization toolkit for volumetric data
-dev-python/zarr 2.18.4: An implementation of chunked, compressed, N-dimensional arrays for Python
+dev-python/zarr 2.18.4 3.0.0: An implementation of chunked, compressed, N-dimensional arrays for Python
 dev-python/zict 2.2.0 3.0.0: Mutable mapping tools
 dev-qt/qtwebkit 5.212.0_pre20200309-r1 5.212.0_pre20200309-r2: WebKit rendering library for the Qt5 framework (deprecated)
 dev-util/micromamba 1.5.6: C++ tiny version of mamba, the fast conda package installer

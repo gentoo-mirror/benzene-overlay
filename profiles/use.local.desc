@@ -109,6 +109,8 @@ dev-python/myst-nb:code_style - Extra code_style support for development
 dev-python/naima:intersphinx - Enable intersphinx while doc building.
 dev-python/ndcube:plotting - Extra plotting support
 dev-python/ndcube:reproject - Extra reproject support via dev-python/reproject
+dev-python/numcodecs:crc32c - Extra CRC32 check support via dev-python/crc32c
+dev-python/numcodecs:doc - Build extra documentation. Should only be enabled for re-merge instead of new merge.
 dev-python/numcodecs:msgpack - Extra MsgPack support via dev-python/msgpack
 dev-python/numcodecs:zfpy - Extra ZFPY support via dev-python/zfp
 dev-python/photutils:all - Including all optional dependencies for most function.
@@ -233,6 +235,8 @@ dev-python/xarray-einstats:numba - Add optional dependency dev-python/numba
 dev-python/yt:doc - Add extra documentation (full doc building needs huge amount of data. Can't really complete locally).
 dev-python/yt:full - Include all dependencies for full function
 dev-python/zarr:jupyter - Extra jupyter support
+dev-python/zarr:optional - Additional optional dependencies dev-python/rich
+dev-python/zarr:remote - support for reading/writing to remote data stores via dev-python/fsspec
 dev-qt/qtwebkit:geolocation - Enable physical position determination via dev-qt/qtpositioning
 dev-qt/qtwebkit:gstreamer - Enable HTML5 audio/video support via media-libs/gstreamer using SLOT 1.0
 dev-qt/qtwebkit:hyphen - Enable hyphenation support via dev-libs/hyphen
