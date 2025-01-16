@@ -69,7 +69,6 @@ dev-python/astropy-healpix:intersphinx - Enable intersphinx while doc building.
 dev-python/astroquery:intersphinx - Enable intersphinx while doc building.
 dev-python/astroscrappy:intersphinx - Enable intersphinx while doc building.
 dev-python/azure-core:aio - Extra aio support via dev-python/aiohttp
-dev-python/ccdproc:intersphinx - Enable intersphinx while doc building.
 dev-python/cmdstanpy:all - More function support withdev-python/xarray
 dev-python/corner:arviz - Support for plotting ArviZ samples
 dev-python/drms:examples - Build examples in documentation which needs online data.
