@@ -55,6 +55,7 @@ dev-python/parfive                                                              
 dev-python/poetry-dynamic-versioning                                                 | 1.6.0                                                                                                                 | Dependency dunamai also included but not listed in the table
 dev-python/PyQt5                                                                     | 5.15.11                                                                                                               | Add `webkit` USE flag (dropped by official portage) to get **youdao-dict** in this overlay work
 dev-python/pydantic-settngs                                                          | 2.7.1                                                                                                                 |
+dev-python/pytest-benchmark                                                          | 4.0.0                                                                                                                 |
 dev-python/pytest-cython                                                             | 0.2.2; 0.3.1                                                                                                          |
 dev-python/pytest-socket                                                             | 0.7.0                                                                                                                 |
 dev-python/api4jenkins                                                               | 2.0.3                                                                                                                 |
@@ -123,6 +124,7 @@ dev-python/aiobotocore             | 2.17.0                                     
 dev-python/aiohttp-retry           | 2.9.1                                                      | Optional for new ratarmount{,core} <- ipfsspec
 dev-python/arviz                   | 0.17.1; 0.20.0                                             | Optional for corner.py.
 dev-python/asciitree               | 0.3.3                                                      | Pulled in by zarr
+dev-python/aspectlib               | 2.0.0                                                      | Optional for pytest-benchmark
 dev-python/azure-core              | 1.26.3; 1.32.0                                             | Required by new msrest
 dev-python/bidict                  | 0.22.0; 0.23.1                                             | Optional for yt
 dev-python/bsddb3                  | 6.2.9-r1                                                   | Dropped by official portage. Test dependency for zarr
@@ -154,6 +156,7 @@ dev-python/msrestazure             | 0.6.4                                      
 dev-python/multiformats            | 0.3.1\_p4                                                  | Optional for new ratarmount{,core} <- ipfsspec. Dependencies like bases(base58) and multiformats-config are not included in this table. For more functions with pycryptodomex you need to add [parona-overlay](https://gitlab.com/Parona/parona-overlay)
 dev-python/numcodecs               | 0.13.1; 0.14.1                                             | Pulled in by zarr
 dev-python/pyfatfs                 | 1.1.0                                                      | Optional for new ratarmount{,core}
+dev-python/pygaljs                 | 1.0.2                                                      | Optional for pytest-benchmark
 dev-python/pykdtree                | 1.3.13                                                     | Optional for yt
 dev-python/pysquashfsimage         | 0.9.0\_p20240421181514                                     | Optional for new ratarmount{,core}
 dev-python/pytest-examples         | 0.0.15                                                     | Test dependency for pydantic-settings
