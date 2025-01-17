@@ -147,6 +147,9 @@ dev-python/pyqt5:widgets - Build bindings for the QtWidgets module
 dev-python/pyqt5:x11extras - Build bindings for the QtX11Extras module
 dev-python/pyqt5:xmlpatterns - Build bindings for the QtXmlPatterns module
 dev-python/pyregion:intersphinx - Enable intersphinx while doc building.
+dev-python/pytest-benchmark:aspect - Experimental benchmark_weave fixture that can patch stuff using dev-python/aspectlib.
+dev-python/pytest-benchmark:elasticsearch - Elasticesearch support viadev-python/elasticsearch.
+dev-python/pytest-benchmark:histogram - Histogram plotting support
 dev-python/python-socketio:asyncio-client - Use asyncio client
 dev-python/python-socketio:client - Use standard Python client
 dev-python/pytkdocs:numpy-style - Numpy style support via dev-python/docstring-parser.
