@@ -122,7 +122,6 @@ dev-python/pydantic-settings:yaml - YAML support via dev-python/pyyaml
 dev-python/pydl:all - More function support
 dev-python/pydl:intersphinx - Enable intersphinx while doc building.
 dev-python/pyerfa:intersphinx - Enable intersphinx while doc building.
-dev-python/pyqt5:bluetooth - Build bindings for the QtBluetooth module
 dev-python/pyqt5:dbus - Build bindings for the QtDBus module
 dev-python/pyqt5:declarative - Build bindings for the QtQml and QtQuick modules and enable the qmlscene plugin
 dev-python/pyqt5:designer - Build bindings for the QtDesigner module and enable the designer plugin
