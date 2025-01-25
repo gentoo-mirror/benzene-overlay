@@ -182,7 +182,7 @@ dev-python/pytest-astropy-header 0.1.2 0.2.2: Pytest plugin to add diagnostic in
 dev-python/pytest-benchmark 4.0.0: A pytest fixture for benchmarking code
 dev-python/pytest-cython 0.2.2 0.3.1: A plugin for testing Cython extension modules
 dev-python/pytest-dependency 0.6.0: Manage dependencies of tests
-dev-python/pytest-doctestplus 0.9.0 1.3.0: Pytest plugin with advanced doctest features
+dev-python/pytest-doctestplus 0.9.0 1.4.0: Pytest plugin with advanced doctest features
 dev-python/pytest-examples 0.0.15: Pytest plugin for testing examples in docstrings and markdown files
 dev-python/pytest-filter-subpackage 0.2.0: Pytest plugin for filtering based on sub-packages
 dev-python/pytest-openfiles 0.6.0: Pytest plugin to check for files left open at the end of a test run
