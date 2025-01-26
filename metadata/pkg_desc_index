@@ -109,7 +109,7 @@ dev-python/glue-vispy-viewers 1.1.0 1.2.2: 3-d data viewers for glue based on Vi
 dev-python/glueviz 1.4.0: Meta-package for glue and plugin packages
 dev-python/glymur 0.12.0 0.12.9_p1 0.12.9_p2 0.13.2_p1 0.13.8: Tools for accessing JPEG2000 files
 dev-python/gwcs 0.17.1 0.22.1: Generalized World Coordinate System
-dev-python/h5netcdf 1.4.1: Pythonic interface to netCDF4 via h5py
+dev-python/h5netcdf 1.5.0: Pythonic interface to netCDF4 via h5py
 dev-python/h5pyd 0.12.2 0.17.0 0.18.0: h5py distributed - Python client library for HDF Rest API
 dev-python/healpy 1.16.6 1.18.0: Python wrapper for healpix
 dev-python/heapdict 1.0.1: Heap with decrease-key and increase-key operations
