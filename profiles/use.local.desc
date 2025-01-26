@@ -69,6 +69,8 @@ dev-python/astropy-healpix:intersphinx - Enable intersphinx while doc building.
 dev-python/astroquery:intersphinx - Enable intersphinx while doc building.
 dev-python/astroscrappy:intersphinx - Enable intersphinx while doc building.
 dev-python/azure-core:aio - Extra aio support via dev-python/aiohttp
+dev-python/cdshealpix:doc - Build extra documentation. Should only be enabled for re-merge instead of new merge.
+dev-python/cdshealpix:plot - Support for quick_plot for Skymap via dev-python/matplotlib.
 dev-python/cmdstanpy:all - More function support withdev-python/xarray
 dev-python/corner:arviz - Support for plotting ArviZ samples
 dev-python/drms:examples - Build examples in documentation which needs online data.
@@ -103,6 +105,9 @@ dev-python/jupyter-cache:cli - Extra cli support
 dev-python/jupyter-cache:code_style - Extra code_style support for development
 dev-python/jupyter-cache:doc - Build extra documentation. Should only be enabled for re-merge instead of new merge.
 dev-python/jupyter-cache:rtd - Extra rtd support
+dev-python/mocpy:astropy_regions - MOC.from_astropy_regions support via dev-python/regions.
+dev-python/mocpy:intersphinx - Enable intersphinx while doc building.
+dev-python/mocpy:query_fits - query FITS files by url viadev-python/requests.
 dev-python/msrest:async - Extra async support
 dev-python/myst-nb:code_style - Extra code_style support for development
 dev-python/naima:intersphinx - Enable intersphinx while doc building.
