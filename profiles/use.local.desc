@@ -66,6 +66,7 @@ dev-python/astroplan:plotting - Extra plotting support
 dev-python/astropy:intersphinx - Enable intersphinx while doc building.
 dev-python/astropy:recommended - Recommended optional features
 dev-python/astropy-healpix:intersphinx - Enable intersphinx while doc building.
+dev-python/astroquery:all - Full functionality of the mocserver, alma xmatch and mast modules
 dev-python/astroquery:intersphinx - Enable intersphinx while doc building.
 dev-python/astroscrappy:intersphinx - Enable intersphinx while doc building.
 dev-python/azure-core:aio - Extra aio support via dev-python/aiohttp
