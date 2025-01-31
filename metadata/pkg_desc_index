@@ -76,7 +76,7 @@ dev-python/dask 2024.4.1 2024.4.2 2025.1.0: Task scheduling and blocked algorith
 dev-python/dask-expr 1.1.21: High Level Expressions for Dask
 dev-python/dask-sphinx-theme 3.0.6: Sphinx theme for Dask documentation
 dev-python/distributed 2024.4.1 2024.4.2 2025.1.0: Distributed scheduler for Dask
-dev-python/dm-tree 0.1.8: Tree is a library for working with nested data structures.
+dev-python/dm-tree 0.1.9: Tree is a library for working with nested data structures.
 dev-python/dm-tree-bin 0.1.8: Tree is a library for working with nested data structures.
 dev-python/docstring-parser 0.16: Parse Python docstrings in reST, Google and Numpydoc format
 dev-python/donfig 0.8.1_p1: Python package for configuring a python package
