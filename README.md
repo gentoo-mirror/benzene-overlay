@@ -121,7 +121,7 @@ Package name | Available version | Additional information
 dev-python/adal                    | 1.2.7                                                      | SunPy, h5pyd related
 dev-python/abg-python              | 1.1.5                                                      | Optional for yt
 dev-python/aggdraw                 | 1.3.16; 1.3.19                                             | Optional for ginga
-dev-python/aiobotocore             | 2.17.0                                                     | Pulled in by s3fs
+dev-python/aiobotocore             | 2.18.0                                                     | Pulled in by s3fs
 dev-python/aiohttp-retry           | 2.9.1                                                      | Optional for new ratarmount{,core} <- ipfsspec
 dev-python/arviz                   | 0.17.1; 0.20.0                                             | Optional for corner.py.
 dev-python/asciitree               | 0.3.3                                                      | Pulled in by zarr
@@ -168,7 +168,7 @@ dev-python/python-xz               | 0.5.0                                      
 dev-python/pure-protobuf           | 2.3.0; 3.1.3                                               | Optional for new ratarmount{,core} <- ipfsspec
 dev-python/rasterio                | 1.3.8\_p2; 1.4.3                                           | Optional for photutils. Dependencies are not all listed in the table
 dev-python/ratarmount              | 0.14.2; 0.15.2; 1.0.0                                      | Optional for yt. Dependency ratarmountcore is also included in this overlay but not listed in the table
-dev-python/s3fs                    | 2024.12.0                                                  | Test dependency for zarr and astropy>=5.2
+dev-python/s3fs                    | 2024.12.0; 2025.2.0                                        | Test dependency for zarr and astropy>=5.2
 dev-python/siosocks                | 0.3.0                                                      | Optional for aioftp
 dev-python/smbprotocol             | 1.15.0                                                     | Optional for new ratarmount{,core}
 dev-python/sortedcollections       | 2.1.0                                                      | Test dependency for bidict>=0.23.0
@@ -179,6 +179,7 @@ dev-python/typing-validation       | 1.2.11\_p4                                 
 dev-python/colorspacious           | 1.1.2                                                      | Pulled in by cmyt. Dropped by official portage
 dev-python/cmyt                    | 2.0.0; 2.0.2                                               | Pulled in by yt
 dev-python/unyt                    | 2.9.5; 3.0.3                                               | Pulled in by yt
+dev-python/universal-pathlib       | 0.2.6                                                      | Test dependency for zarr
 dev-python/webdav4                 | 0.10.0                                                     | Optional for new ratarmount{,core}
 dev-python/wsgidav                 | 4.3.3                                                      | Test dependency for webdav4
 dev-python/zict                    | 2.2.0; 3.0.0                                               | Pulled in by distributed
