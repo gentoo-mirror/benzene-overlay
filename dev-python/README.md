@@ -18,7 +18,7 @@ dev-python/asdf-astropy        | 0.2.1; 0.7.0                                   
 dev-python/astlib              | 0.11.3-r1; 0.11.10-r1; 0.12.0                        | astLib WCS library for ginga
 dev-python/astrodendro         | 0.3.0; (live)                                        |
 dev-python/astroml             | 0.4.1; 1.0.2\_p1                                     |
-dev-python/astropy-healpix     | 0.5; 1.0.3                                           | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
+dev-python/astropy-healpix     | 0.5; 1.1.0                                           | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
 dev-python/astroplan           | 0.6; 0.10.1                                          | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building. Doc building may not complete, as it needs lots of online data.
 dev-python/astroquery          | 0.3.10; 0.4.9\_p1                                    | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
 dev-python/astroscrappy        | 1.0.8; 1.2.0                                         | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
@@ -59,7 +59,7 @@ dev-python/pyvo                | 1.2.1; 1.6                                     
 dev-python/radio-beam          | 0.3.8                                                | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
 dev-python/regions             | 0.4; 0.10                                            | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
 dev-python/reproject           | 0.5.1; 0.12.0; 0.14.1                                | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
-dev-python/sep                 | 1.2.1                                                |
+dev-python/sep                 | 1.4.0                                                |
 dev-python/sep-pjw             | 1.3.7                                                |
 dev-python/sgp4                | 2.22                                                 |
 dev-python/sherpa              | 4.15.0; 4.15.1-r1; 4.17.0                            | `XSPEC` support is not included while building. See [here](https://sherpa.readthedocs.io/en/4.17.0/install.html#building-from-source) for more details to build with `XSPEC` manually.
