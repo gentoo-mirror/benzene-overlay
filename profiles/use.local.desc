@@ -189,6 +189,7 @@ dev-python/reproject:intersphinx - Enable intersphinx while doc building.
 dev-python/runnotebook:doc - Add an example documentation
 dev-python/s3fs:awscli - Extra awscli support
 dev-python/s3fs:boto3 - Extra boto3 support
+dev-python/sep:intersphinx - Enable intersphinx while doc building.
 dev-python/sherpa:intersphinx - Enable intersphinx while doc building.
 dev-python/siosocks:trio - Extra trio support
 dev-python/specreduce:all - Including all optional dependencies for most function.
