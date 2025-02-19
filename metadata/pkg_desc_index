@@ -48,7 +48,7 @@ dev-python/astrodendro 0.3.1 9999: Python package for computation of astronomica
 dev-python/astroml 0.4.1 1.0.2_p1: Python Machine Learning library for astronomy
 dev-python/astroplan 0.6 0.10.1: Observation planning package for astronomers
 dev-python/astropy 2.0.16 3.0.5 3.1.2 4.2.1 5.0.8 5.3.4 6.0.1 6.1.7 7.0.1: Core functionality for performing astrophysics with Python
-dev-python/astropy-healpix 0.5 1.1.0: BSD-licensed HEALPix for Astropy
+dev-python/astropy-healpix 0.5 1.1.1: BSD-licensed HEALPix for Astropy
 dev-python/astropy-helpers 2.0.11 3.0.2 3.1.1 4.0.1-r1: Helpers for Astropy and Affiliated packages
 dev-python/astropy-iers-data 0.2025.2.17.0.34.13: IERS Earth Rotation and Leap Second tables for the astropy core package
 dev-python/astropy-sphinx-theme 1.1: The sphinx theme for Astropy and affiliated packages
@@ -161,7 +161,7 @@ dev-python/nose 1.3.7_p20221026-r1 1.3.7_p20221026-r2: Unittest extension with a
 dev-python/numcodecs 0.13.1 0.15.1: Data storage buffer compression and transformation codecs
 dev-python/oldest-supported-numpy 2023.12.21: Meta-package providing oldest supported Numpy for given Python version
 dev-python/parfive 1.5.1 2.1.0: A HTTP and FTP parallel file downloader
-dev-python/photutils 1.9.0 1.12.0 2.1.0: Affiliated package for image photometry utilities
+dev-python/photutils 1.9.0 1.12.0 2.2.0: Affiliated package for image photometry utilities
 dev-python/poetry-dynamic-versioning 1.7.1: Plugin for Poetry to enable dynamic versioning based on VCS tags
 dev-python/pure-protobuf 2.3.0 3.1.3: Protocol Buffers using Python type annotations
 dev-python/pvextractor 0.4: Position-velocity diagram extractor
@@ -207,7 +207,7 @@ dev-python/regions 0.4 0.10: Astropy affiliated package for region handling
 dev-python/reproject 0.5.1 0.12.0 0.14.1: Reproject astronomical images with Python
 dev-python/runnotebook 0.3.1 9999-r1: IPython notebook sphinx extensions
 dev-python/s3fs 2024.12.0 2025.2.0: Convenient Filesystem interface over S3
-dev-python/sep 1.4.0: Python and C library for source extraction and photometry
+dev-python/sep 1.4.1: Python and C library for source extraction and photometry
 dev-python/sep-pjw 1.3.8: Astronomical source extraction and photometry library (forked from kbarbary)
 dev-python/sgp4 2.22: Python version of the SGP4 satellite position library
 dev-python/sherpa 4.15.0 4.15.1-r1 4.17.0: Modeling and fitting package for scientific data analysis
