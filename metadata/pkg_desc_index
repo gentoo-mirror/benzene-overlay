@@ -226,7 +226,7 @@ dev-python/sphinx-astropy 1.6.0 1.9.1: Sphinx extensions and configuration speci
 dev-python/sphinx-autobuild 2021.3.14 2024.4.16 2024.10.3: Rebuild Sphinx documentation on changes, with live-reload in the browser
 dev-python/sphinx-automodapi 0.12 0.18.0: Sphinx extension for generating API documentation
 dev-python/sphinx-autosummary-accessors 2023.4.0: Sphinx autosummary extension to properly format pandas or xarray accessors
-dev-python/sphinx-book-theme 0.2.0 1.0.1 1.1.3: A clean book theme for scientific explanations and documentation with Sphinx
+dev-python/sphinx-book-theme 0.2.0 1.0.1 1.1.4: A clean book theme for scientific explanations and documentation with Sphinx
 dev-python/sphinx-changelog 1.6.0: A changelog renderer for sphinx
 dev-python/sphinx-click 6.0.0: Sphinx plugin to automatically document click-based applications
 dev-python/sphinx-codeautolink 0.17.0: Automatic links from code examples to reference documentation
@@ -254,8 +254,8 @@ dev-python/stone 3.3.8: The Official API Spec Language for Dropbox API V2
 dev-python/sunpy 5.1.5 6.0.4: Python library for solar physics
 dev-python/sunpy-sphinx-theme 1.2.42 2.0.2 2.0.18: The sphinx theme for the SunPy website and documentation
 dev-python/synphot 1.5.0: Synthetic photometry using Astropy
-dev-python/syrupy 4.8.1: Pytest Snapshot Test Utility
-dev-python/textual 1.0.0: Modern Text User Interface framework
+dev-python/syrupy 4.8.2: Pytest Snapshot Test Utility
+dev-python/textual 2.1.0: Modern Text User Interface framework
 dev-python/toml 0.10.2-r1: Python library for handling TOML files
 dev-python/tree-sitter-languages 1.10.2: Binary Python wheels for all tree sitter languages
 dev-python/typing-validation 1.2.11_p4: A simple library for runtime type-checking
