@@ -174,7 +174,7 @@ dev-python/smbprotocol             | 1.15.0                                     
 dev-python/sortedcollections       | 2.1.0                                                      | Test dependency for bidict>=0.23.0
 dev-python/sshfs                   | 2025.2.0                                                   | Optional for new ratarmount{,core}. For running test, you need to forcely unmask paramiko[server], e.g. `echo "dev-python/paramiko -server" >> /etc/portage/profile/package.use.mask"`
 dev-python/stone                   | 3.3.8                                                      | Required by python dropbox
-dev-python/textual                 | 1.0.0                                                      | Pulled in by memray>=1.11. Dependency tree-sitter-languages is included but not listed in the table
+dev-python/textual                 | 2.1.0                                                      | Pulled in by memray>=1.11. Dependency tree-sitter-languages is included but not listed in the table
 dev-python/typing-validation       | 1.2.11\_p4                                                 | Optional for new ratarmount{,core} <- ipfsspec
 dev-python/colorspacious           | 1.1.2                                                      | Pulled in by cmyt. Dropped by official portage
 dev-python/cmyt                    | 2.0.0; 2.0.2                                               | Pulled in by yt
@@ -205,7 +205,7 @@ dev-python/sphinx-astropy               | 1.6.0; 1.9.1                    | See 
 dev-python/sphinx-asdf                  | 0.1.3; 0.1.4; 0.2.4             |
 dev-python/sphinx-autobuild             | 2021.3.14; 2024.4.16; 2024.10.3 |
 dev-python/sphinx-autosummary-accessors | 2023.4.0                        |
-dev-python/sphinx-book-theme            | 0.2.0; 1.0.1; 1.1.3             | `network-sandbox` FEATURE will be disabled if you enable `doc` flag for newest version.
+dev-python/sphinx-book-theme            | 0.2.0; 1.0.1; 1.1.4             | `network-sandbox` FEATURE will be disabled if you enable `doc` flag for newest version.
 dev-python/sphinx-changelog             | 1.6.0                           |
 dev-python/sphinx-click                 | 6.0.0                           |
 dev-python/sphinx-codeautolink          | 0.17.0                          |
