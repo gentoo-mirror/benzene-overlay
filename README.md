@@ -54,7 +54,7 @@ dev-python/oldest-supported-numpy                                               
 dev-python/parfive                                                                   | 1.5.1; 2.1.0                                                                                                          |
 dev-python/poetry-dynamic-versioning                                                 | 1.7.1                                                                                                                 | Dependency dunamai also included but not listed in the table
 dev-python/pyqt5                                                                     | 5.15.11{,-r1}                                                                                                         | Add `webkit` USE flag (dropped by official portage) to get **youdao-dict** in this overlay work
-dev-python/pydantic-settngs                                                          | 2.7.1                                                                                                                 |
+dev-python/pydantic-settngs                                                          | 2.8.0                                                                                                                 |
 dev-python/pytest-benchmark                                                          | 4.0.0                                                                                                                 |
 dev-python/pytest-cython                                                             | 0.2.2; 0.3.1                                                                                                          |
 dev-python/pytest-dependency                                                         | 0.6.0                                                                                                                 |
@@ -174,7 +174,7 @@ dev-python/smbprotocol             | 1.15.0                                     
 dev-python/sortedcollections       | 2.1.0                                                      | Test dependency for bidict>=0.23.0
 dev-python/sshfs                   | 2025.2.0                                                   | Optional for new ratarmount{,core}. For running test, you need to forcely unmask paramiko[server], e.g. `echo "dev-python/paramiko -server" >> /etc/portage/profile/package.use.mask"`
 dev-python/stone                   | 3.3.8                                                      | Required by python dropbox
-dev-python/textual                 | 2.1.0                                                      | Pulled in by memray>=1.11. Dependency tree-sitter-languages is included but not listed in the table
+dev-python/textual                 | 2.1.1                                                      | Pulled in by memray>=1.11. Dependency tree-sitter-languages is included but not listed in the table
 dev-python/typing-validation       | 1.2.11\_p4                                                 | Optional for new ratarmount{,core} <- ipfsspec
 dev-python/colorspacious           | 1.1.2                                                      | Pulled in by cmyt. Dropped by official portage
 dev-python/cmyt                    | 2.0.0; 2.0.2                                               | Pulled in by yt
