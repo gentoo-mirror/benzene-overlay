@@ -213,7 +213,7 @@ dev-python/sgp4 2.22: Python version of the SGP4 satellite position library
 dev-python/sherpa 4.15.0 4.15.1-r1 4.17.0: Modeling and fitting package for scientific data analysis
 dev-python/should-dsl 2.1.2: Should assertions in Python as clear and readable as possible
 dev-python/siosocks 0.3.0: Sans-io socks proxy client/server with couple io backends
-dev-python/skyfield 1.45 1.46 1.49: Elegant astronomy for Python
+dev-python/skyfield 1.45 1.46 1.51: Elegant astronomy for Python
 dev-python/smbprotocol 1.15.0: Interact with a server using the SMB 2/3 Protocol
 dev-python/snuggs 1.4.7: S-expressions for Numpy
 dev-python/sortedcollections 2.1.0: Python Sorted Collections Library
@@ -229,7 +229,7 @@ dev-python/sphinx-autosummary-accessors 2023.4.0: Sphinx autosummary extension t
 dev-python/sphinx-book-theme 0.2.0 1.0.1 1.1.4: A clean book theme for scientific explanations and documentation with Sphinx
 dev-python/sphinx-changelog 1.6.0: A changelog renderer for sphinx
 dev-python/sphinx-click 6.0.0: Sphinx plugin to automatically document click-based applications
-dev-python/sphinx-codeautolink 0.17.0: Automatic links from code examples to reference documentation
+dev-python/sphinx-codeautolink 0.17.1: Automatic links from code examples to reference documentation
 dev-python/sphinx-collections 0.2.0: Sphinx extension for collecting external data for Sphinx build
 dev-python/sphinx-contributors 0.2.7: Contributors extension for Sphinx
 dev-python/sphinx-design 0.6.1: A sphinx extension for designing beautiful, view size responsive web components
