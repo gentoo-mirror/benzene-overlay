@@ -217,7 +217,7 @@ dev-python/skyfield 1.45 1.46 1.51: Elegant astronomy for Python
 dev-python/smbprotocol 1.15.0: Interact with a server using the SMB 2/3 Protocol
 dev-python/snuggs 1.4.7: S-expressions for Numpy
 dev-python/sortedcollections 2.1.0: Python Sorted Collections Library
-dev-python/specreduce 1.4.1: Astropy coordinated package for Spectroscopic Reductions
+dev-python/specreduce 1.5.0: Astropy coordinated package for Spectroscopic Reductions
 dev-python/spectral-cube 0.6.6: Library for reading and analyzing astrophysical spectral data cubes
 dev-python/specutils 1.1.1 1.19.0: Python package for astronomy spectral operations
 dev-python/sphinx 5.1.1 7.1.2: Python documentation generator
