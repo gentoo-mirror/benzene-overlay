@@ -131,7 +131,7 @@ dev-python/lexicon 2.0.1: Powerful dict subclass(es) with aliasing & attribute a
 dev-python/libconf 2.0.1: Pure-Python libconfig file reader/writer with permissive licensing
 dev-python/markdown-callouts 0.3.0 0.4.0: Markdown extension: a classier syntax for admonitions
 dev-python/memory-profiler 0.61: A module for monitoring memory usage of a python program
-dev-python/memray 1.10.0 1.15.0: A memory profiler for Python applications
+dev-python/memray 1.10.0 1.16.0: A memory profiler for Python applications
 dev-python/miniballcpp 0.2.3: Smallest Enclosing Balls of Points
 dev-python/mistune 0.8.4-r1 2.0.5: The fastest markdown parser in pure Python
 dev-python/mkdocs-coverage 1.0.0: MkDocs plugin to integrate your coverage HTML report into your site
@@ -254,7 +254,7 @@ dev-python/stone 3.3.8: The Official API Spec Language for Dropbox API V2
 dev-python/sunpy 5.1.5 6.1.1: Python library for solar physics
 dev-python/sunpy-sphinx-theme 1.2.42 2.0.2 2.0.18: The sphinx theme for the SunPy website and documentation
 dev-python/synphot 1.5.0: Synthetic photometry using Astropy
-dev-python/syrupy 4.8.2: Pytest Snapshot Test Utility
+dev-python/syrupy 4.9.0: Pytest Snapshot Test Utility
 dev-python/textual 2.1.2: Modern Text User Interface framework
 dev-python/toml 0.10.2-r1: Python library for handling TOML files
 dev-python/tree-sitter-languages 1.10.2: Binary Python wheels for all tree sitter languages
