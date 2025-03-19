@@ -52,7 +52,7 @@ dev-python/astropy 2.0.16 3.0.5 3.1.2 4.2.1 5.0.8 5.3.4 6.0.1 6.1.7 7.0.1: Core 
 dev-python/astropy-healpix 0.5 1.1.2: BSD-licensed HEALPix for Astropy
 dev-python/astropy-helpers 2.0.11 3.0.2 3.1.1 4.0.1-r1: Helpers for Astropy and Affiliated packages
 dev-python/astropy-iers-data 0.2025.3.17.0.34.53: IERS Earth Rotation and Leap Second tables for the astropy core package
-dev-python/astropy-sphinx-theme 1.1: The sphinx theme for Astropy and affiliated packages
+dev-python/astropy-sphinx-theme 2.0: The sphinx theme for Astropy and affiliated packages
 dev-python/astroquery 0.3.10 0.4.9_p1: Collection of packages to access online astronomical resources
 dev-python/astroscrappy 1.0.8 1.2.0: Optimized cosmic ray annihilation astropy python module
 dev-python/asynctest 0.13.0: Enhance standard unittest package with features for testing asyncio libraries
@@ -138,7 +138,7 @@ dev-python/mistune 0.8.4-r1 2.0.5: The fastest markdown parser in pure Python
 dev-python/mkdocs-coverage 1.0.0: MkDocs plugin to integrate your coverage HTML report into your site
 dev-python/mkdocs-git-committers-plugin 2.5.0: An MkDocs plugin to create a list of contributors on the page
 dev-python/mkdocs-jupyter 0.25.1: Use Jupyter in mkdocs websites
-dev-python/mkdocs-literate-nav 0.6.1: MkDocs plugin to specify the navigation in Markdown instead of YAML
+dev-python/mkdocs-literate-nav 0.6.2: MkDocs plugin to specify the navigation in Markdown instead of YAML
 dev-python/mkdocs-section-index 0.3.9: MkDocs plugin to allow clickable sections that lead to an index page
 dev-python/mkdocstrings-crystal 0.3.5 0.3.7: Crystal language doc generator for mkdocstrings
 dev-python/mkdocstrings-python-legacy 0.2.4: A legacy Python handler for mkdocstrings
@@ -214,7 +214,7 @@ dev-python/sgp4 2.22: Python version of the SGP4 satellite position library
 dev-python/sherpa 4.15.0 4.15.1-r1 4.17.0: Modeling and fitting package for scientific data analysis
 dev-python/should-dsl 2.1.2: Should assertions in Python as clear and readable as possible
 dev-python/siosocks 0.3.0: Sans-io socks proxy client/server with couple io backends
-dev-python/skyfield 1.45 1.46 1.51: Elegant astronomy for Python
+dev-python/skyfield 1.45 1.46 1.52: Elegant astronomy for Python
 dev-python/smbprotocol 1.15.0: Interact with a server using the SMB 2/3 Protocol
 dev-python/snuggs 1.4.7: S-expressions for Numpy
 dev-python/sortedcollections 2.1.0: Python Sorted Collections Library
@@ -311,7 +311,7 @@ sci-astronomy/aladin-bin 12.060: Interactive software sky atlas
 sci-astronomy/astrometry 0.80 0.85 0.97: Automated astrometric calibration programs and service
 sci-astronomy/erfa 1.7.2 2.0.1: Essential Routines for Fundamental Astronomy
 sci-astronomy/healpix 3.83_pre20240419 3.83: Hierarchical Equal Area isoLatitude Pixelization of a sphere
-sci-astronomy/topcat 4.8 4.9.1 4.10.2: Interactive graphical viewer and editor for astronomical tables
+sci-astronomy/topcat 4.8 4.9.1 4.10.3: Interactive graphical viewer and editor for astronomical tables
 sci-astronomy/wcslib 8.2.2: Astronomical World Coordinate System transformations library
 sci-libs/libsharp 1.0.0 1.0.0_p20241113: Library for fast spherical harmonic transforms
 sys-block/diskus 0.8.0 9999: A minimal, fast alternative to 'du -sh'.
