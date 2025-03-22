@@ -240,7 +240,7 @@ dev-python/sphinx-hoverxref 1.5.0: Sphinx extension to show tooltips with conten
 dev-python/sphinx-mdinclude 0.6.2: Markdown extension for Sphinx
 dev-python/sphinx-py3doc-enhanced-theme 2.4.0: Enhanced Sphinx theme (based on Python 3 docs)
 dev-python/sphinx-readable-theme 1.3.0: A clean and readable Sphinx theme with focus on autodoc
-dev-python/sphinx-reredirects 0.1.5: Handles redirects for moved pages in Sphinx documentation projects
+dev-python/sphinx-reredirects 0.1.6: Handles redirects for moved pages in Sphinx documentation projects
 dev-python/sphinx-sitemap 2.6.0: Sitemap generator for Sphinx
 dev-python/sphinx-thebe 0.2.1 0.3.1: Integrate interactive code blocks into your documentation with Thebe and Binder
 dev-python/sphinx-togglebutton 0.3.2: Toggle page content and collapse admonitions in Sphinx
