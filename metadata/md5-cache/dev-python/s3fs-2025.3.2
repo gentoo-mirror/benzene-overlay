@@ -1,0 +1,17 @@
+BDEPEND=test? ( dev-python/pytest-asyncio[python_targets_python3_10(-)?,python_targets_python3_11(-)?,python_targets_python3_12(-)?] dev-python/dask[python_targets_python3_10(-)?,python_targets_python3_11(-)?,python_targets_python3_12(-)?] dev-python/moto[python_targets_python3_10(-)?,python_targets_python3_11(-)?,python_targets_python3_12(-)?] dev-python/xarray[python_targets_python3_10(-)?,python_targets_python3_11(-)?,python_targets_python3_12(-)?] <dev-python/zarr-3[python_targets_python3_10(-)?,python_targets_python3_11(-)?,python_targets_python3_12(-)?] ) test? ( >=dev-python/aiobotocore-2.7.0[python_targets_python3_10(-)?,python_targets_python3_11(-)?,python_targets_python3_12(-)?,awscli?,boto3?] dev-python/aiohttp[python_targets_python3_10(-)?,python_targets_python3_11(-)?,python_targets_python3_12(-)?] >=dev-python/fsspec-2024.12.0[python_targets_python3_10(-)?,python_targets_python3_11(-)?,python_targets_python3_12(-)?] >=dev-python/pytest-7.4.4[python_targets_python3_10(-)?,python_targets_python3_11(-)?,python_targets_python3_12(-)?] ) doc? ( || ( ( dev-lang/python:3.12 >=dev-python/sphinx-8.1.3[python_targets_python3_12(-)] dev-python/sphinx-rtd-theme[python_targets_python3_12(-)] ) ( dev-lang/python:3.11 >=dev-python/sphinx-8.1.3[python_targets_python3_11(-)] dev-python/sphinx-rtd-theme[python_targets_python3_11(-)] ) ( dev-lang/python:3.10 >=dev-python/sphinx-8.1.3[python_targets_python3_10(-)] dev-python/sphinx-rtd-theme[python_targets_python3_10(-)] ) ) ) python_targets_python3_10? ( dev-lang/python:3.10 ) python_targets_python3_11? ( dev-lang/python:3.11 ) python_targets_python3_12? ( dev-lang/python:3.12 ) >=dev-python/setuptools-75.8.2[python_targets_python3_10(-)?,python_targets_python3_11(-)?,python_targets_python3_12(-)?]
+DEFINED_PHASES=compile configure install prepare test
+DESCRIPTION=Convenient Filesystem interface over S3
+EAPI=8
+HOMEPAGE=http://s3fs.readthedocs.io
+INHERIT=distutils-r1 pypi
+IUSE=awscli boto3 test doc python_targets_python3_10 python_targets_python3_11 python_targets_python3_12
+KEYWORDS=~amd64 ~x86
+LICENSE=BSD
+PROPERTIES=test_network
+RDEPEND=>=dev-python/aiobotocore-2.7.0[python_targets_python3_10(-)?,python_targets_python3_11(-)?,python_targets_python3_12(-)?,awscli?,boto3?] dev-python/aiohttp[python_targets_python3_10(-)?,python_targets_python3_11(-)?,python_targets_python3_12(-)?] >=dev-python/fsspec-2024.12.0[python_targets_python3_10(-)?,python_targets_python3_11(-)?,python_targets_python3_12(-)?] python_targets_python3_10? ( dev-lang/python:3.10 ) python_targets_python3_11? ( dev-lang/python:3.11 ) python_targets_python3_12? ( dev-lang/python:3.12 )
+REQUIRED_USE=|| ( python_targets_python3_10 python_targets_python3_11 python_targets_python3_12 )
+RESTRICT=test !test? ( test )
+SLOT=0
+SRC_URI=https://files.pythonhosted.org/packages/source/s/s3fs/s3fs-2025.3.2.tar.gz doc? ( https://github.com/fsspec/s3fs/raw/2025.3.2/docs/source/conf.py -> s3fs-2025.3.2-conf.py )
+_eclasses_=toolchain-funcs	6afdb6107430c1832ca7e16aacbf8fa1	multilib	b2a329026f2e404e9e371097dda47f96	flag-o-matic	16d3941ed2dc39f4819368ae51bc0b72	out-of-source-utils	dbf9e34ee8964084651e25907fa8f52c	multibuild	4650a65187015567b4e041bb9bfdb364	multiprocessing	1e32df7deee68372153dca65f4a7c21f	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	python-utils-r1	b7726144f5af59e186d66746d0f513e5	python-r1	fa2daad0051275fa416115c76e53b1de	distutils-r1	57cca9c4edd0e2a2591feae559933c10	pypi	ad1b21f87d117ae9bb089bdb65b8f013
+_md5_=7beb1cd4d93c0f9fe33b693becb50e32
