@@ -102,7 +102,7 @@ dev-python/firefly-vis 2.0.4: A browser-based particle visualization platform
 dev-python/flask-socketio 5.5.1: Socket.IO integration for Flask applications
 dev-python/fluidity 0.2.1: State machine implementation for Python objects
 dev-python/fusepy 3.0.1: Simple ctypes bindings for FUSE
-dev-python/ginga 5.2.0: A scientific image viewer and toolkit
+dev-python/ginga 5.3.0: A scientific image viewer and toolkit
 dev-python/glfw 2.8.0: A ctypes-based wrapper for GLFW3
 dev-python/glue-core 1.17.1 1.22.0: Core library for the glue multidimensional data visualization project
 dev-python/glue-qt 0.3.3: Multidimensional data visualization across files
@@ -287,7 +287,7 @@ media-sound/ting-fr-bin 9.4.1: Daily French Listening software from eusoft
 media-video/bcwc_pcie 9999: Reverse engineered Linux driver for the Broadcom 1570 PCIe webcam
 media-video/facetimehd-firmware 9999: Firmware for the Broadcom 1570 PCIe webcam
 media-video/gnome-mplayer 1.0.9-r1: A GTK+ interface to MPlayer
-net-fs/ossfs 1.91.5: Export s3fs for aliyun oss
+net-fs/ossfs 1.91.6: Export s3fs for aliyun oss
 net-im/electron-qq-bin 1.5.7 2.1.4: A cross-platform QQ made with Electron (Deprecated. Moved to Icalingua)
 net-im/electron-wechat-bin 1.0.0: For creating the most usable Linux/MacOS WeChat client. A.k.a. Freechat
 net-im/electronic-wechat-bin 2.3.1 2.3.2: A better WeChat on macOS and Linux. Built with Electron

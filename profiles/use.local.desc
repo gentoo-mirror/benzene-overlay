@@ -80,9 +80,8 @@ dev-python/echo:qt - Interfacing with Qt widgets
 dev-python/f90nml:yaml - Extra yaml support
 dev-python/ginga:gtk - Enable support for GTK 3 or 4 backend
 dev-python/ginga:intersphinx - Enable intersphinx while doc building.
-dev-python/ginga:pyside2 - Enable support for PySide backend via dev-python/pyside2
-dev-python/ginga:pyside6 - Enable support for PySide backend via dev-python/pyside6
-dev-python/ginga:qt5 - Enable support for Qt5 backend via dev-python/PyQt5
+dev-python/ginga:pyside6 - Enable support for PySide backend via dev-python/pyside
+dev-python/ginga:qt5 - Enable support for Qt5 backend via dev-python/pyqt5
 dev-python/ginga:recommended - Recommended for more features
 dev-python/ginga:tk - Enable support for Tk backend via dev-python/aggdraw
 dev-python/ginga:web - Enable support for web backend via dev-python/tornado
