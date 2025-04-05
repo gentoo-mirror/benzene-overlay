@@ -57,7 +57,7 @@ dev-python/astroquery 0.3.10 0.4.10: Collection of packages to access online ast
 dev-python/astroscrappy 1.0.8 1.2.0: Optimized cosmic ray annihilation astropy python module
 dev-python/asynctest 0.13.0: Enhance standard unittest package with features for testing asyncio libraries
 dev-python/atpy 0.9.7: Astronomical tables support for Python
-dev-python/azure-core 1.26.3 1.32.0: Microsoft Azure Core Library for Python
+dev-python/azure-core 1.26.3 1.33.0: Microsoft Azure Core Library for Python
 dev-python/base58 2.1.1: Base58 and Base58Check implementation
 dev-python/bases 0.3.0: Python library for general Base-N encodings
 dev-python/bidict 0.22.0 0.23.1: The bidirectional mapping library for Python
