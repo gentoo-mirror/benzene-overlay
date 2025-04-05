@@ -198,7 +198,7 @@ dev-python/sphinx                       | 5.1.1; 7.1.2                    | 5 fo
 dev-python/ablog                        | 0.11.12                         |
 dev-python/jupyter-cache                | 0.6.1; 1.0.1                    |
 dev-python/jupyter-sphinx               | 0.5.3                           |
-dev-python/jupytext                     | 1.16.7                          | Build with wheel source to include Jupyter Lab Extenstion
+dev-python/jupytext                     | 1.17.0                          | Build with wheel source to include Jupyter Lab Extenstion
 dev-python/myst-nb                      | 0.17.2; 1.2.0                   |
 dev-python/myst-parser                  | 0.18.1-r1                       | Only for myst-nb that depends on old version
 dev-python/runnotebook                  | 0.3.1; (live)                   |
@@ -226,7 +226,7 @@ dev-python/sphinx-py3doc-enhanced-theme | 2.4.0                           |
 dev-python/sphinxcontrib-globalsubs     | 0.1.2                           |
 dev-python/sphinxcontrib-srclink        | 0.2.4                           |
 dev-python/sphinxcontrib-youtube        | 1.2.0; 1.4.1                    | `network-sandbox` FEATURE will be disabled if you enable demo videos for doc building in version 1.2.0.
-dev-python/sphinxext-opengraph          | 0.9.1                           |
+dev-python/sphinxext-opengraph          | 0.10.0                          |
 dev-python/dask-sphinx-theme            | 3.0.6                           |
 dev-python/sunpy-sphinx-theme           | 1.2.42; 2.0.2; 2.0.18           |
 dev-python/pydata-sphinx-theme          | 0.13.3-r1                       | Old version dropped by official portage, required by sunpy-sphinx-theme
