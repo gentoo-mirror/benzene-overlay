@@ -139,7 +139,7 @@ dev-python/mkdocs-coverage 1.0.0: MkDocs plugin to integrate your coverage HTML 
 dev-python/mkdocs-git-committers-plugin 2.5.0: An MkDocs plugin to create a list of contributors on the page
 dev-python/mkdocs-jupyter 0.25.1: Use Jupyter in mkdocs websites
 dev-python/mkdocs-literate-nav 0.6.2: MkDocs plugin to specify the navigation in Markdown instead of YAML
-dev-python/mkdocs-section-index 0.3.9: MkDocs plugin to allow clickable sections that lead to an index page
+dev-python/mkdocs-section-index 0.3.10: MkDocs plugin to allow clickable sections that lead to an index page
 dev-python/mkdocstrings-crystal 0.3.5 0.3.7: Crystal language doc generator for mkdocstrings
 dev-python/mkdocstrings-python-legacy 0.2.4 0.2.6: A legacy Python handler for mkdocstrings
 dev-python/mmh3 5.1.0: Python extension for MurmurHash (MurmurHash3)
@@ -316,7 +316,7 @@ sci-astronomy/wcslib 8.2.2: Astronomical World Coordinate System transformations
 sci-libs/libsharp 1.0.0 1.0.0_p20241113: Library for fast spherical harmonic transforms
 sys-block/diskus 0.8.0 9999: A minimal, fast alternative to 'du -sh'.
 sys-libs/elogind-libsystemd 0 0-r1: Provide standalone libsystemd.so without systemd by linking libelogind.so
-sys-libs/libsystemd 254.22 254.24 256.10 256.12 257.3 9999: A standalone package to provide libsystemd.so without systemd
+sys-libs/libsystemd 254.22 254.24 256.10 256.12 257.3 257.5 9999: A standalone package to provide libsystemd.so without systemd
 virtual/libsystemd 0: Virtual for libsystemd.so
 www-plugins/adobe-flash 32.0.0.465: Adobe Flash Player
 x11-libs/lain 9999 9999-r100: Layouts, asynchronous widgets and utilities for Awesome WM
