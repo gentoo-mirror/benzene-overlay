@@ -47,7 +47,7 @@ dev-python/dask                                                                 
 dev-python/dropbox                                                                   | 12.0.2                                                                                                                                            |
 dev-python/exifread                                                                  | 3.0.0                                                                                                                                             |
 dev-python/glfw                                                                      | 2.8.0                                                                                                                                             | Dependency for glue-vispy-viewer>=1.2.0
-dev-python/glymur                                                                    | 0.12.0; 0.12.9\_p1; 0.13.2\_p1; 0.13.8; 0.14.0\_p2                                                                                                |
+dev-python/glymur                                                                    | 0.12.0; 0.12.9\_p1; 0.13.2\_p1; 0.13.8; 0.14.0\_p2; 0.14.1                                                                                        |
 dev-python/hsluv                                                                     | 5.0.4                                                                                                                                             |
 [dev-python/memray](https://bloomberg.github.io/memray)                              | 1.10.0; [1.16.0](https://github.com/Universebenzene/benzene-overlay/blob/master/dev-python/memray/memray-1.16.0.ebuild)                                    | **BINARY WHEEL VERSIONS** are used to avoid npm building
 dev-python/nose                                                                      | 1.3.7\_p20221026-{r1,r2}                                                                                                                          | Dropped by official portage
@@ -166,7 +166,7 @@ dev-python/pytest-textual-snapshot | 1.1.0                                      
 dev-python/python-pkcs11           | 0.7.0-r1                                                   | Test and optional dependency for asyncssh. Recover from [GURU](https://gitweb.gentoo.org/repo/proj/guru.git/commit/?id=a6b3f15b1a76a2b066f9ff763fab5588bab902c6)
 dev-python/python-socketio         | 5.9.0; 5.12.1                                              | Optional for yt
 dev-python/python-xz               | 0.5.0                                                      | Optional for yt
-dev-python/pure-protobuf           | 2.3.0; 3.1.3                                               | Optional for new ratarmount{,core} <- ipfsspec
+dev-python/pure-protobuf           | 2.3.0; 3.1.4                                               | Optional for new ratarmount{,core} <- ipfsspec
 dev-python/rasterio                | 1.3.8\_p2; 1.4.3                                           | Optional for photutils. Dependencies are not all listed in the table
 dev-python/ratarmount              | 0.14.2; 0.15.2; 1.0.0                                      | Optional for yt. Dependency ratarmountcore is also included in this overlay but not listed in the table
 dev-python/s3fs                    | 2025.3.0; 2025.3.1; 2025.3.2                               | Test dependency for zarr and astropy>=5.2
