@@ -214,7 +214,7 @@ dev-python/sgp4 2.22: Python version of the SGP4 satellite position library
 dev-python/sherpa 4.15.0 4.15.1-r1 4.17.0: Modeling and fitting package for scientific data analysis
 dev-python/should-dsl 2.1.2: Should assertions in Python as clear and readable as possible
 dev-python/siosocks 0.3.0: Sans-io socks proxy client/server with couple io backends
-dev-python/skyfield 1.45 1.46 1.52: Elegant astronomy for Python
+dev-python/skyfield 1.45 1.46 1.53: Elegant astronomy for Python
 dev-python/smbprotocol 1.15.0: Interact with a server using the SMB 2/3 Protocol
 dev-python/snuggs 1.4.7: S-expressions for Numpy
 dev-python/sortedcollections 2.1.0: Python Sorted Collections Library
