@@ -132,7 +132,7 @@ dev-python/lexicon 2.0.1: Powerful dict subclass(es) with aliasing & attribute a
 dev-python/libconf 2.0.1: Pure-Python libconfig file reader/writer with permissive licensing
 dev-python/markdown-callouts 0.3.0 0.4.0: Markdown extension: a classier syntax for admonitions
 dev-python/memory-profiler 0.61: A module for monitoring memory usage of a python program
-dev-python/memray 1.10.0 1.16.0: A memory profiler for Python applications
+dev-python/memray 1.10.0 1.17.1: A memory profiler for Python applications
 dev-python/miniballcpp 0.2.3: Smallest Enclosing Balls of Points
 dev-python/mistune 0.8.4-r1 2.0.5: The fastest markdown parser in pure Python
 dev-python/mkdocs-coverage 1.0.0: MkDocs plugin to integrate your coverage HTML report into your site
@@ -195,7 +195,7 @@ dev-python/pytest-socket 0.7.0: Pytest Plugin to disable socket calls during tes
 dev-python/pytest-textual-snapshot 1.1.0: Add source, edit, history, annotate links to GitHub or BitBucket
 dev-python/python-jenkins 1.8.2 9999: Python bindings for the remote Jenkins API
 dev-python/python-pkcs11 0.7.0-r1: PKCS#11 (Cryptoki) support for Python
-dev-python/python-socketio 5.9.0 5.12.1: Python Socket.IO server and client
+dev-python/python-socketio 5.9.0 5.13.0: Python Socket.IO server and client
 dev-python/python-xz 0.5.0: Pure Python implementation of the XZ file format with random access support
 dev-python/pytkdocs 0.16.5: Load Python objects documentation
 dev-python/pyvo 1.2.1 1.6.2: Astropy affiliated package for accessing Virtual Observatory data and services
@@ -256,7 +256,7 @@ dev-python/sunpy 5.1.5 6.1.1: Python library for solar physics
 dev-python/sunpy-sphinx-theme 1.2.42 2.0.2 2.0.18: The sphinx theme for the SunPy website and documentation
 dev-python/synphot 1.5.0: Synthetic photometry using Astropy
 dev-python/syrupy 4.9.1: Pytest Snapshot Test Utility
-dev-python/textual 3.0.1: Modern Text User Interface framework
+dev-python/textual 3.1.0: Modern Text User Interface framework
 dev-python/toml 0.10.2-r1: Python library for handling TOML files
 dev-python/tree-sitter-languages 1.10.2: Binary Python wheels for all tree sitter languages
 dev-python/typing-validation 1.2.12: A simple library for runtime type-checking
