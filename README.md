@@ -49,7 +49,7 @@ dev-python/exifread                                                             
 dev-python/glfw                                                                      | 2.8.0                                                                                                                                             | Dependency for glue-vispy-viewer>=1.2.0
 dev-python/glymur                                                                    | 0.12.0; 0.12.9\_p1; 0.13.2\_p1; 0.13.8; 0.14.0\_p2; 0.14.1                                                                                        |
 dev-python/hsluv                                                                     | 5.0.4                                                                                                                                             |
-[dev-python/memray](https://bloomberg.github.io/memray)                              | 1.10.0; [1.16.0](https://github.com/Universebenzene/benzene-overlay/blob/master/dev-python/memray/memray-1.16.0.ebuild)                                    | **BINARY WHEEL VERSIONS** are used to avoid npm building
+[dev-python/memray](https://bloomberg.github.io/memray)                              | 1.10.0; [1.17.1](https://github.com/Universebenzene/benzene-overlay/blob/master/dev-python/memray/memray-1.17.1.ebuild)                                    | **BINARY WHEEL VERSIONS** are used to avoid npm building
 dev-python/nose                                                                      | 1.3.7\_p20221026-{r1,r2}                                                                                                                          | Dropped by official portage
 dev-python/oldest-supported-numpy                                                    | 2023.12.21                                                                                                                                        | The numpy version limitations are changed from `==` into `>=`. If you have better solution, just bring issues or pull requests.
 dev-python/parfive                                                                   | 1.5.1; 2.1.0                                                                                                                                      |
@@ -164,7 +164,7 @@ dev-python/pysquashfsimage         | 0.9.0\_p20240421181514                     
 dev-python/pytest-examples         | 0.0.17                                                     | Test dependency for pydantic-settings
 dev-python/pytest-textual-snapshot | 1.1.0                                                      | Test dependency for new memray. Dependency syrupy is included but not listed in the table
 dev-python/python-pkcs11           | 0.7.0-r1                                                   | Test and optional dependency for asyncssh. Recover from [GURU](https://gitweb.gentoo.org/repo/proj/guru.git/commit/?id=a6b3f15b1a76a2b066f9ff763fab5588bab902c6)
-dev-python/python-socketio         | 5.9.0; 5.12.1                                              | Optional for yt
+dev-python/python-socketio         | 5.9.0; 5.13.0                                              | Optional for yt
 dev-python/python-xz               | 0.5.0                                                      | Optional for yt
 dev-python/pure-protobuf           | 2.3.0; 3.1.4                                               | Optional for new ratarmount{,core} <- ipfsspec
 dev-python/rasterio                | 1.3.8\_p2; 1.4.3                                           | Optional for photutils. Dependencies are not all listed in the table
@@ -175,7 +175,7 @@ dev-python/smbprotocol             | 1.15.0                                     
 dev-python/sortedcollections       | 2.1.0                                                      | Test dependency for bidict>=0.23.0
 dev-python/sshfs                   | 2025.2.0                                                   | Optional for new ratarmount{,core}. For running test, you need to forcely unmask paramiko[server], e.g. `echo "dev-python/paramiko -server" >> /etc/portage/profile/package.use.mask"`
 dev-python/stone                   | 3.3.9                                                      | Required by python dropbox
-dev-python/textual                 | 3.0.1                                                      | Pulled in by memray>=1.11. Dependency tree-sitter-languages is included but not listed in the table
+dev-python/textual                 | 3.1.0                                                      | Pulled in by memray>=1.11. Dependency tree-sitter-languages is included but not listed in the table
 dev-python/typing-validation       | 1.2.12                                                     | Optional for new ratarmount{,core} <- ipfsspec
 dev-python/colorspacious           | 1.1.2                                                      | Pulled in by cmyt. Dropped by official portage
 dev-python/cmyt                    | 2.0.0; 2.0.2                                               | Pulled in by yt
