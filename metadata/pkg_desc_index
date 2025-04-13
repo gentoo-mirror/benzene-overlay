@@ -27,7 +27,7 @@ dev-python/ablog 0.11.12: ABlog for blogging with Sphinx
 dev-python/adal 1.2.7: ADAL for Python
 dev-python/affine 2.4.0: Matrices describing affine transformation of the plane
 dev-python/aggdraw 1.3.16 1.3.19: High quality drawing interface for PIL
-dev-python/aiobotocore 2.20.0: Async client for aws services using botocore and aiohttp
+dev-python/aiobotocore 2.21.1: Async client for aws services using botocore and aiohttp
 dev-python/aioftp 0.25.1: Ftp client/server for asyncio
 dev-python/aiohttp-retry 2.9.1: Simple retry client for aiohttp
 dev-python/api4jenkins 2.0.4: Tools for accessing JPEG2000 files
