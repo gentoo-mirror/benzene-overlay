@@ -269,7 +269,7 @@ dev-python/wsgidav 4.3.3: Generic and extendable WebDAV server based on WSGI
 dev-python/xarray-datatree 0.0.15: Hierarchical tree-like data structures for xarray
 dev-python/xarray-einstats 0.8.0: Stats, linear algebra and einops for xarray
 dev-python/yt 4.0.5 4.1.4 4.2.2 4.3.0 4.4.0: An analysis and visualization toolkit for volumetric data
-dev-python/zarr 2.18.4 2.18.7 3.0.6: An implementation of chunked, compressed, N-dimensional arrays for Python
+dev-python/zarr 2.18.4 2.18.7 3.0.7: An implementation of chunked, compressed, N-dimensional arrays for Python
 dev-python/zict 2.2.0 3.0.0: Mutable mapping tools
 dev-qt/qtwebkit 5.212.0_pre20200309-r1 5.212.0_pre20200309-r2: WebKit rendering library for the Qt5 framework (deprecated)
 dev-util/micromamba 1.5.6: C++ tiny version of mamba, the fast conda package installer
