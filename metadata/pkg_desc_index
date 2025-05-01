@@ -117,7 +117,6 @@ dev-python/heapdict 1.0.1: Heap with decrease-key and increase-key operations
 dev-python/hsluv 5.0.4: Python implementation of HSLuv (revision 4)
 dev-python/hvpy 1.1.0: Helioviewer Python API Wrapper
 dev-python/icecream 2.1.3: Sweet and creamy print debugging
-dev-python/imexam 0.9.1: Position-velocity diagram extractor
 dev-python/indexed-bzip2 1.6.0: Fast random access to bzip2 files in Python
 dev-python/indexed-zstd 1.6.1: Fast random access to zstd files
 dev-python/invoke 2.2.0: Pythonic task management & command execution
