@@ -101,7 +101,6 @@ dev-python/h5pyd:azure - Extra azure support
 dev-python/h5pyd:google - Extra google support
 dev-python/h5pyd:hdf5 - Extra hdf5 support via dev-python/h5py
 dev-python/healpy:all - Include all extra dependencies
-dev-python/imexam:photometry - Enable photometry features of the imexam() analysis via dev-python/photutils
 dev-python/jupyter-cache:cli - Extra cli support
 dev-python/jupyter-cache:code_style - Extra code_style support for development
 dev-python/jupyter-cache:doc - Build extra documentation. Should only be enabled for re-merge instead of new merge.
@@ -151,7 +150,6 @@ dev-python/pyqt5:websockets - Build bindings for the QtWebSockets module
 dev-python/pyqt5:widgets - Build bindings for the QtWidgets module
 dev-python/pyqt5:x11extras - Build bindings for the QtX11Extras module
 dev-python/pyqt5:xmlpatterns - Build bindings for the QtXmlPatterns module
-dev-python/pyregion:intersphinx - Enable intersphinx while doc building.
 dev-python/pytest-benchmark:aspect - Experimental benchmark_weave fixture that can patch stuff using dev-python/aspectlib.
 dev-python/pytest-benchmark:elasticsearch - Elasticesearch support viadev-python/elasticsearch.
 dev-python/pytest-benchmark:histogram - Histogram plotting support
