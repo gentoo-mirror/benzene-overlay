@@ -43,7 +43,7 @@ dev-python/asdf-unit-schemas 0.1.0 0.2.0: ASDF schemas for units
 dev-python/asdf-wcs-schemas 0.1.1 0.4.0: World Coordinate System (WCS) ASDF schemas
 dev-python/aspectlib 2.0.0: An aspect-oriented programming, monkey-patch and decorators library
 dev-python/assay 9999: Attempt to write a Python testing framework I can actually stand
-dev-python/astlib 0.11.3-r1 0.11.10-r1 0.12.0: Python astronomy modules for image and coordinate manipulation
+dev-python/astlib 0.11.3-r1 0.11.10-r1 0.12.1: Python astronomy modules for image and coordinate manipulation
 dev-python/astroalign 2.6.1: A tool to align astronomical images based on asterism matching
 dev-python/astrodendro 0.3.1 9999: Python package for computation of astronomical dendrograms
 dev-python/astroml 0.4.1 1.0.2_p1: Python Machine Learning library for astronomy
@@ -56,7 +56,6 @@ dev-python/astropy-sphinx-theme 2.0: The sphinx theme for Astropy and affiliated
 dev-python/astroquery 0.3.10 0.4.10: Collection of packages to access online astronomical resources
 dev-python/astroscrappy 1.0.8 1.2.0: Optimized cosmic ray annihilation astropy python module
 dev-python/asynctest 0.13.0: Enhance standard unittest package with features for testing asyncio libraries
-dev-python/atpy 0.9.7: Astronomical tables support for Python
 dev-python/azure-core 1.26.3 1.34.0: Microsoft Azure Core Library for Python
 dev-python/base58 2.1.1: Base58 and Base58Check implementation
 dev-python/bases 0.3.0: Python library for general Base-N encodings
@@ -78,7 +77,6 @@ dev-python/dask-expr 1.1.21: High Level Expressions for Dask
 dev-python/dask-sphinx-theme 3.0.6: Sphinx theme for Dask documentation
 dev-python/distributed 2024.4.1 2024.4.2 2025.4.1: Distributed scheduler for Dask
 dev-python/dm-tree 0.1.9: Tree is a library for working with nested data structures.
-dev-python/dm-tree-bin 0.1.8: Tree is a library for working with nested data structures.
 dev-python/docstring-parser 0.16: Parse Python docstrings in reST, Google and Numpydoc format
 dev-python/donfig 0.8.1_p1: Python package for configuring a python package
 dev-python/drms 0.6.4 0.9.0: Access HMI, AIA and MDI data with Python from the public JSOC DRMS server
