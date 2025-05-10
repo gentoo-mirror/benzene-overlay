@@ -28,11 +28,11 @@ dev-python/casa-formats-io     | 0.3.0                                          
 dev-python/cdflib              | 0.4.9; 1.3.4                                         | SunPy releated.
 dev-python/drms                | 0.6.4; 0.9.0                                         | SunPy releated. `network-sandbox` FEATURE will be disabled if you enable `examples` flag for doc building
 dev-python/dust-extinction     | 1.5                                                  |
-dev-python/echo                | 0.9.0                                                | Glueviz releated.
+dev-python/echo                | 0.10.0                                               | Glueviz releated.
 dev-python/extension-helpers   | 1.2.0                                                |
 dev-python/fast-histogram      | 0.14                                                 | Glueviz releated.
 dev-python/ginga               | 5.3.0                                                | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building.
-dev-python/glueviz             | 1.4.0 (glue-core: 1.17.1, 1.22.1; glue-qt: 0.3.3)    | Meta package, core package and qt package versions are all shown.
+dev-python/glueviz             | 1.4.0 (glue-core: 1.17.1, 1.22.2; glue-qt: 0.3.3)    | Meta package, core package and qt package versions are all shown.
 dev-python/glue-vispy-viewers  | 1.1.0; 1.2.2                                         |
 dev-python/gwcs                | 0.17.1; 0.24.0                                       | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building.
 dev-python/h5netcdf            | 1.6.1                                                |
