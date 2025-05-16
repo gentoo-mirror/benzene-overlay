@@ -93,7 +93,7 @@ dev-python/glue-qt:qt - Include PyQt5 library
 dev-python/glue-vispy-viewers:all - dev-python/imageio for more function support
 dev-python/glue-vispy-viewers:pyqt - Extra pyqt support
 dev-python/glue-vispy-viewers:pyside - Extra pyside support
-dev-python/glue-vispy-viewers:qt - Extra qt support via dev-python/PyQt5
+dev-python/glue-vispy-viewers:qt - Extra qt support via dev-python/pyqt5
 dev-python/glueviz:qt - Include PyQt5 library
 dev-python/gwcs:intersphinx - Enable intersphinx while doc building.
 dev-python/h5pyd:aws - Extra aws support via dev-python/s3fs
@@ -231,11 +231,11 @@ dev-python/vispy:glfw - Enable support for pyglet backend via dev-python/glfw
 dev-python/vispy:io - Extra io support
 dev-python/vispy:ipython-static - ipython-static support via dev-python/ipython
 dev-python/vispy:pyglet - Enable support for pyglet backend via dev-python/pyglet
-dev-python/vispy:pyqt5 - Enable support for pyqt5 backend via dev-python/PyQt5
-dev-python/vispy:pyqt6 - Enable support for pyqt6 backend via dev-python/PyQt6
+dev-python/vispy:pyqt5 - Enable support for pyqt5 backend via dev-python/pyqt5
+dev-python/vispy:pyqt6 - Enable support for pyqt6 backend via dev-python/pyqt6
 dev-python/vispy:pyside2 - Enable support for pyside2 backend via dev-python/pyside2
-dev-python/vispy:pyside6 - Enable support for pyside6 backend via dev-python/pyside6
-dev-python/vispy:sdl2 - Enable support for sdl backend via dev-python/PySDL2
+dev-python/vispy:pyside6 - Enable support for pyside6 backend via dev-python/pyside
+dev-python/vispy:sdl2 - Enable support for sdl backend via dev-python/pysdl2
 dev-python/vispy:wx - Enable support for wx backend via dev-python/wxpython
 dev-python/webdav4:fsspec - consistent APIs to different storage backends via dev-python/fsspec
 dev-python/webdav4:http2 - http2 support
