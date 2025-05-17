@@ -20,7 +20,7 @@ app-text/youdao-dict 6.0.0-r3: YouDao Dictionary
 app-vim/indentLine 2.0 9999: vim plugin: display the indention levels with thin vertical lines
 app-vim/vim-indent-guides 1.6 9999: vim plugin: visually displaying indent levels in code
 dev-cpp/gtkspellmm 3.0.5: C++ binding for gtkspell
-dev-lang/gdl 1.0.0_rc3-r3 1.0.1-r3 1.0.4-r1: GNU Data Language
+dev-lang/gdl 1.0.0_rc3-r3 1.0.1-r3 1.0.4-r2: GNU Data Language
 dev-libs/libappindicator 12.10.1_p20200706: A library to allow applications to export a menu into the Unity Menu bar
 dev-python/abg-python 1.1.5: Shared python utilities for https://github.com/agurvich 's packages
 dev-python/ablog 0.11.12: ABlog for blogging with Sphinx
