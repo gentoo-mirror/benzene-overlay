@@ -86,7 +86,7 @@ dev-python/dunamai 1.23.1: Dynamic versioning library and CLI
 dev-python/dust-extinction 1.5: Interstellar Dust Extinction Models
 dev-python/echo 0.10.0: Callback Properties in Python
 dev-python/einops 0.8.0 0.8.1: A new flavour of deep learning operations
-dev-python/eventlet 0.33.3 0.39.1: Highly concurrent networking library
+dev-python/eventlet 0.33.3 0.40.0: Highly concurrent networking library
 dev-python/ewah-bool-utils 1.0.2 1.1.0 1.2.2: EWAH Bool Array utils for yt
 dev-python/exifread 3.3.1: Library to extract Exif information from digital camera image files
 dev-python/extension-helpers 1.2.0: Helpers to assist with building Python pkgs with compiled C/Cython extensions
