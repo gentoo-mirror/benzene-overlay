@@ -260,13 +260,13 @@ dev-python/tree-sitter-languages 1.10.2: Binary Python wheels for all tree sitte
 dev-python/typing-validation 1.2.12: A simple library for runtime type-checking
 dev-python/universal-pathlib 0.2.6: pathlib api extended to use fsspec backends
 dev-python/unyt 2.9.5 3.0.4: Handle, manipulate, and convert data with units in Python
-dev-python/vispy 0.13.0 0.15.1: Interactive visualization in Python
+dev-python/vispy 0.13.0 0.15.2: Interactive visualization in Python
 dev-python/webdav4 0.10.0: WebDAV client library with an fsspec-based filesystem and a CLI
 dev-python/wsgidav 4.3.3: Generic and extendable WebDAV server based on WSGI
 dev-python/xarray-datatree 0.0.15: Hierarchical tree-like data structures for xarray
 dev-python/xarray-einstats 0.8.0: Stats, linear algebra and einops for xarray
 dev-python/yt 4.0.5 4.1.4 4.2.2 4.3.0 4.4.0: An analysis and visualization toolkit for volumetric data
-dev-python/zarr 2.18.4 2.18.7 3.0.7: An implementation of chunked, compressed, N-dimensional arrays for Python
+dev-python/zarr 2.18.4 2.18.7 3.0.8: An implementation of chunked, compressed, N-dimensional arrays for Python
 dev-python/zict 2.2.0 3.0.0: Mutable mapping tools
 dev-qt/qtwebkit 5.212.0_pre20200309-r1 5.212.0_pre20200309-r2: WebKit rendering library for the Qt5 framework (deprecated)
 dev-util/micromamba 1.5.6: C++ tiny version of mamba, the fast conda package installer
