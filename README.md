@@ -171,7 +171,7 @@ dev-python/python-xz               | 0.5.0                                      
 dev-python/pure-protobuf           | 2.3.0; 3.1.4                                               | Optional for new ratarmount{,core} <- ipfsspec
 dev-python/rasterio                | 1.3.8\_p2; 1.4.3                                           | Optional for photutils. Dependencies are not all listed in the table
 dev-python/ratarmount              | 0.14.2; 0.15.2; 1.0.0                                      | Optional for yt. Dependency ratarmountcore is also included in this overlay but not listed in the table
-dev-python/s3fs                    | 2025.3.2                                                   | Test dependency for zarr and astropy>=5.2
+dev-python/s3fs                    | 2025.3.2; 2025.5.0                                         | Test dependency for zarr and astropy>=5.2
 dev-python/siosocks                | 0.3.0                                                      | Optional for aioftp
 dev-python/smbprotocol             | 1.15.0                                                     | Optional for new ratarmount{,core}
 dev-python/sortedcollections       | 2.1.0                                                      | Test dependency for bidict>=0.23.0
@@ -182,6 +182,7 @@ dev-python/typing-validation       | 1.2.12                                     
 dev-python/colorspacious           | 1.1.2                                                      | Pulled in by cmyt. Dropped by official portage
 dev-python/cmyt                    | 2.0.0; 2.0.2                                               | Pulled in by yt
 dev-python/unyt                    | 2.9.5; 3.0.4                                               | Pulled in by yt
+dev-python/uncompresspy            | 0.4.0                                                      | Optional for astropy>=7.1
 dev-python/universal-pathlib       | 0.2.6                                                      | Test dependency for zarr
 dev-python/webdav4                 | 0.10.0                                                     | Optional for new ratarmount{,core}
 dev-python/wsgidav                 | 4.3.3                                                      | Test dependency for webdav4
