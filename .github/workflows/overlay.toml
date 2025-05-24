@@ -1445,11 +1445,10 @@ strip_release = true
 
 #["media-libs/freetype-wps"]
 
-#["media-libs/gmtk"]
-#source = "github"
-#use_max_tag = true
-#prefix = "v"
-#github = "kdekorte/gmtk"
+["media-libs/gmtk"]
+source = "archpkg"
+archpkg = "gmtk"
+strip_release = true
 
 #["media-sound/ting-de-bin"]
 
