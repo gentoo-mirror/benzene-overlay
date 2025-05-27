@@ -141,7 +141,7 @@ dev-python/mkdocstrings-crystal 0.3.5 0.3.7: Crystal language doc generator for 
 dev-python/mkdocstrings-python-legacy 0.2.4 0.2.7: A legacy Python handler for mkdocstrings
 dev-python/mmh3 5.1.0: Python extension for MurmurHash (MurmurHash3)
 dev-python/mock-ssh-server 0.9.1: Mock SSH server for testing purposes
-dev-python/mocpy 0.17.1: MOC parsing and manipulation in Python
+dev-python/mocpy 0.18.0: MOC parsing and manipulation in Python
 dev-python/montage-wrapper 0.9.9: Python wrapper for the Montage mosaicking toolkit
 dev-python/mpl-animators 1.2.1: An interative animation framework for matplotlib
 dev-python/mpl-scatter-density 0.8: Matplotlib helpers to make density scatter plots
