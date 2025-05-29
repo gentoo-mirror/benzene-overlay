@@ -108,6 +108,7 @@ dev-python/jupyter-cache:rtd - Extra rtd support
 dev-python/mocpy:astropy_regions - MOC.from_astropy_regions support via dev-python/regions.
 dev-python/mocpy:intersphinx - Enable intersphinx while doc building.
 dev-python/mocpy:query_fits - query FITS files by url viadev-python/requests.
+dev-python/mpl-animators:wcs - make line or image plots for a numpy array and associated WCS object from dev-python/astropy.
 dev-python/msrest:async - Extra async support
 dev-python/myst-nb:code_style - Extra code_style support for development
 dev-python/naima:intersphinx - Enable intersphinx while doc building.
