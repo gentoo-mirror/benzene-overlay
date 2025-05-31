@@ -48,9 +48,11 @@ dev-python/aiobotocore:boto3 - Extra require via dev-python/boto3
 dev-python/aioftp:socks - Client socks proxy via dev-python/siosocks
 dev-python/aplpy:intersphinx - Enable intersphinx while doc building.
 dev-python/arviz:all - further enhanced ArviZ with all of optional dependencies
-dev-python/asdf:all - Including optional support for lz4 compression provided by dev-python/lz4.
+dev-python/asdf:all - Including all optional supports.
 dev-python/asdf:doc - Build extra documentation. Should only be enabled for re-merge instead of new merge.
+dev-python/asdf:http - asdf.open with urls (like those for s3 resources) provided using dev-python/fsspec.
 dev-python/asdf:intersphinx - Enable intersphinx while doc building.
+dev-python/asdf:lz4 - Including optional support for lz4 compression provided by dev-python/lz4.
 dev-python/asdf-astropy:intersphinx - Enable intersphinx while doc building.
 dev-python/asdf-coordinates-schemas:intersphinx - Enable intersphinx while doc building.
 dev-python/asdf-standard:doc - Build extra documentation. Should only be enabled for re-merge instead of new merge.
