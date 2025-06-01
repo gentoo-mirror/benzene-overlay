@@ -216,6 +216,7 @@ dev-python/sphinx-codeautolink          | 0.17.4                          |
 dev-python/sphinx-collections           | 0.2.0                           | Doc building and testing behave strangly in sandbox (can't find sphinx plugins), so can't complete while merging
 dev-python/sphinx-design                | 0.6.1                           |
 dev-python/sphinx-documatt-theme        | 0.0.6                           |
+dev-python/sphinx-documattcom-theme     | 1.1.1                           |
 dev-python/sphinx-examples              | 0.0.5                           |
 dev-python/sphinx-hoverxref             | 1.5.0                           |
 dev-python/sphinx-readable-theme        | 1.3.0                           |
@@ -223,7 +224,7 @@ dev-python/sphinx-thebe                 | 0.2.1; 0.3.1                    |
 dev-python/sphinx-togglebutton          | 0.3.2                           |
 dev-python/sphinx-contributors          | 0.2.7                           |
 dev-python/sphinx-mdinclude             | 0.6.2                           |
-dev-python/sphinx-reredirects           | 0.1.6                           |
+dev-python/sphinx-reredirects           | 1.0.0                           |
 dev-python/sphinx-sitemap               | 2.6.0                           |
 dev-python/sphinx-py3doc-enhanced-theme | 2.4.0                           |
 dev-python/sphinxcontrib-globalsubs     | 0.1.2                           |
