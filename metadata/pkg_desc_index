@@ -53,14 +53,12 @@ dev-python/astropy-healpix 0.5 1.1.2: BSD-licensed HEALPix for Astropy
 dev-python/astropy-helpers 2.0.11 3.0.2 3.1.1 4.0.1-r1: Helpers for Astropy and Affiliated packages
 dev-python/astropy-iers-data 0.2025.6.2.0.38.23: IERS Earth Rotation and Leap Second tables for the astropy core package
 dev-python/astropy-sphinx-theme 2.0: The sphinx theme for Astropy and affiliated packages
-dev-python/astroquery 0.3.10 0.4.10: Collection of packages to access online astronomical resources
 dev-python/astroscrappy 1.0.8 1.2.0: Optimized cosmic ray annihilation astropy python module
 dev-python/asynctest 0.13.0: Enhance standard unittest package with features for testing asyncio libraries
 dev-python/azure-core 1.26.3 1.34.0: Microsoft Azure Core Library for Python
 dev-python/base58 2.1.1: Base58 and Base58Check implementation
 dev-python/bases 0.3.0: Python library for general Base-N encodings
 dev-python/bidict 0.22.0 0.23.1: The bidirectional mapping library for Python
-dev-python/bsddb3 6.2.9-r1: Python bindings for Berkeley DB
 dev-python/casa-formats-io 0.3.0: Code to handle I/O from/to data in CASA format Resources
 dev-python/ccdproc 1.3.0_p1 2.1.0 2.4.3: Astropy affiliated package for reducing optical/IR CCD data
 dev-python/cdflib 0.4.9 1.3.4: A python module for reading NASA's Common Data Format (cdf) files Resources
@@ -142,7 +140,6 @@ dev-python/mkdocstrings-python-legacy 0.2.4 0.2.7: A legacy Python handler for m
 dev-python/mmh3 5.1.0: Python extension for MurmurHash (MurmurHash3)
 dev-python/mock-ssh-server 0.9.1: Mock SSH server for testing purposes
 dev-python/mocpy 0.18.0: MOC parsing and manipulation in Python
-dev-python/montage-wrapper 0.9.9: Python wrapper for the Montage mosaicking toolkit
 dev-python/mpl-animators 1.2.3: An interative animation framework for matplotlib
 dev-python/mpl-scatter-density 0.8: Matplotlib helpers to make density scatter plots
 dev-python/msrest 0.7.1: AutoRest swagger generator Python client runtime
