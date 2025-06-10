@@ -7,7 +7,7 @@ Package name | Available version | Additional information
 ------------ | :---------------: | ----------------------
 dev-python/astropy             | 5.0.8; 5.3.4; 6.0.1; 6.1.7; 7.1.0                    | Versions below 5.3 are included but masked. See [here](https://github.com/Universebenzene/benzene-overlay/tree/master/dev-python/astropy#note-for-astropy) for more details. wcslib>=8.1 is included in this overlay for astropy>=6.0.0
 dev-python/astroalign          | 2.6.1                                                |
-dev-python/astropy-iers-data   | 0.2025.6.9.0.39.3                                    | Required by astropy>=6.0.0
+dev-python/astropy-iers-data   | 0.2025.6.9.14.9.37                                   | Required by astropy>=6.0.0
 dev-python/astropy-helpers     | 2.0.11; 3.0.2; 3.1.1; 4.0.1-r1                       | With patches for better doc building. Same as the [AUR](https://aur.archlinux.org/packages/python-astropy-helpers) ones
 dev-python/pytest-astropy      | 0.8.0; 0.11.0                                        | Test plugins for astropy. Dependencies are also in this overlay but not listed in this table
 dev-python/sphinx-astropy      | 1.9.1                                                | Modules for building docs of astropy related packages. Dependencies are also in this overlay but not listed in this table
@@ -29,7 +29,7 @@ dev-python/cdflib              | 0.4.9; 1.3.4                                   
 dev-python/drms                | 0.6.4; 0.9.0                                         | SunPy releated. `network-sandbox` FEATURE will be disabled if you enable `examples` flag for doc building
 dev-python/dust-extinction     | 1.5                                                  |
 dev-python/echo                | 0.10.0                                               | Glueviz releated.
-dev-python/extension-helpers   | 1.2.0; 1.3.0                                         |
+dev-python/extension-helpers   | 1.4.0                                                |
 dev-python/fast-histogram      | 0.14                                                 | Glueviz releated.
 dev-python/ginga               | 5.3.0                                                | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building.
 dev-python/glueviz             | 1.4.0 (glue-core: 1.17.1, 1.22.2; glue-qt: 0.3.3)    | Meta package, core package and qt package versions are all shown.
