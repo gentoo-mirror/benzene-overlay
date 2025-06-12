@@ -35,12 +35,12 @@ dev-python/aplpy 2.2.0: Astronomical Plotting Library in Python
 dev-python/arviz 0.17.1 0.21.0: Exploratory analysis of Bayesian models with Python
 dev-python/asciitree 0.3.3: Draws ASCII trees in Python
 dev-python/asdf 2.10.1 2.13.0 2.15.0 2.15.2 4.2.0: Python library for the Advanced Scientific Data Format
-dev-python/asdf-astropy 0.2.1 0.7.1: ASDF serialization support for astropy
+dev-python/asdf-astropy 0.2.1 0.8.0: ASDF serialization support for astropy
 dev-python/asdf-coordinates-schemas 0.4.0: ASDF schemas for coordinates
-dev-python/asdf-standard 1.0.1 1.0.2 1.2.0: Standards document describing ASDF, Advanced Scientific Data Format
+dev-python/asdf-standard 1.0.1 1.0.2 1.3.0: Standards document describing ASDF, Advanced Scientific Data Format
 dev-python/asdf-transform-schemas 0.2.2 0.4.0 0.6.0: ASDF schemas for transforms
 dev-python/asdf-unit-schemas 0.1.0 0.2.0: ASDF schemas for units
-dev-python/asdf-wcs-schemas 0.1.1 0.4.0: World Coordinate System (WCS) ASDF schemas
+dev-python/asdf-wcs-schemas 0.1.1 0.5.0: World Coordinate System (WCS) ASDF schemas
 dev-python/aspectlib 2.0.0: An aspect-oriented programming, monkey-patch and decorators library
 dev-python/assay 9999: Attempt to write a Python testing framework I can actually stand
 dev-python/astlib 0.11.10-r1 0.12.1: Python astronomy modules for image and coordinate manipulation
