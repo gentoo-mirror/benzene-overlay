@@ -46,7 +46,7 @@ dev-python/mocpy               | 0.18.0                                         
 dev-python/mpl-animator        | 1.2.3                                                |
 dev-python/mpl-scatter-density | 0.8                                                  | Glueviz releated.
 dev-python/naima               | 0.10.2                                               |
-dev-python/ndcube              | 2.2.0; 2.3.1                                         | SunPy releated. Dependency of specutils.
+dev-python/ndcube              | 2.2.0; 2.3.2                                         | SunPy releated. Dependency of specutils.
 dev-python/photutils           | 1.9.0; 1.12.0; 2.2.0                                 | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building.
 dev-python/pvextractor         | 0.4                                                  | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building.
 dev-python/pyavm               | 0.9.6                                                |
@@ -64,7 +64,7 @@ dev-python/sgp4                | 2.22                                           
 dev-python/sherpa              | 4.15.0; 4.15.1-r1; 4.17.1                            | `XSPEC` support is not included while building. See [here](https://sherpa.readthedocs.io/en/latest/install.html#building-from-source) for more details to build with `XSPEC` manually.
 dev-python/skyfield            | 1.53                                                 |
 dev-python/spectral-cube       | 0.6.6                                                | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
-dev-python/specutils           | 1.20.2                                               | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
+dev-python/specutils           | 1.20.3; 2.0.0                                        | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
 dev-python/specreduce          | 1.5.1                                                | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building. Some images cannot be plotted if intersphinx is disabled.
 dev-python/starlink-pyast      | 0.2.1                                                | Starlink WCS library for ginga
 dev-python/sunpy               | 5.1.5; 6.1.1                                         | Doc building is really hard to run, so not supported right now.
