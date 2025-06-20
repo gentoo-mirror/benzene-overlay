@@ -34,7 +34,7 @@ dev-python/fast-histogram      | 0.14                                           
 dev-python/ginga               | 5.3.0                                                | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building.
 dev-python/glueviz             | 1.4.0 (glue-core: 1.17.1, 1.22.2; glue-qt: 0.3.3)    | Meta package, core package and qt package versions are all shown.
 dev-python/glue-vispy-viewers  | 1.1.0; 1.2.3                                         |
-dev-python/gwcs                | 0.24.0                                               | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building.
+dev-python/gwcs                | 0.25.0                                               | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building.
 dev-python/h5netcdf            | 1.6.1                                                |
 dev-python/h5pyd               | 0.12.2; 0.17.0; 0.18.0                               |
 dev-python/healpy              | 1.16.6; 1.18.1                                       |
@@ -69,6 +69,6 @@ dev-python/specreduce          | 1.6.0                                          
 dev-python/starlink-pyast      | 0.2.1                                                | Starlink WCS library for ginga
 dev-python/sunpy               | 5.1.5; 6.1.1                                         | Doc building is really hard to run, so not supported right now.
 dev-python/synphot             | 1.5.0                                                |
-dev-python/sunpy-sphinx-theme  | 1.2.42; 2.0.2; 2.0.19                                |
+dev-python/sunpy-sphinx-theme  | 1.2.42; 2.0.2; 2.0.20                                |
 
 <!--dev-python/montage-wrapper     | 0.9.9                                                |-->
