@@ -106,7 +106,7 @@ dev-python/glue-qt 0.3.3: Multidimensional data visualization across files
 dev-python/glue-vispy-viewers 1.1.0 1.2.3: 3-d data viewers for glue based on VisPy
 dev-python/glueviz 1.4.0: Meta-package for glue and plugin packages
 dev-python/glymur 0.12.0 0.12.9_p1 0.13.2_p1 0.13.8 0.14.0_p2 0.14.3: Tools for accessing JPEG2000 files
-dev-python/gwcs 0.25.0: Generalized World Coordinate System
+dev-python/gwcs 0.25.1: Generalized World Coordinate System
 dev-python/h5netcdf 1.6.1: Pythonic interface to netCDF4 via h5py
 dev-python/h5pyd 0.12.2 0.17.0 0.18.0: h5py distributed - Python client library for HDF Rest API
 dev-python/healpy 1.16.6 1.18.1: Python wrapper for healpix
@@ -141,7 +141,7 @@ dev-python/mkdocstrings-python-legacy 0.2.4 0.2.7: A legacy Python handler for m
 dev-python/mmh3 5.1.0: Python extension for MurmurHash (MurmurHash3)
 dev-python/mock-ssh-server 0.9.1: Mock SSH server for testing purposes
 dev-python/mocpy 0.18.0: MOC parsing and manipulation in Python
-dev-python/mpl-animators 1.2.3: An interative animation framework for matplotlib
+dev-python/mpl-animators 1.2.4: An interative animation framework for matplotlib
 dev-python/mpl-scatter-density 0.8: Matplotlib helpers to make density scatter plots
 dev-python/msrest 0.7.1: AutoRest swagger generator Python client runtime
 dev-python/msrestazure 0.6.4_p1: AutoRest swagger generator Python client runtime. Azure-specific module
@@ -253,7 +253,7 @@ dev-python/sunpy 5.1.5 6.1.1: Python library for solar physics
 dev-python/sunpy-sphinx-theme 1.2.42 2.0.2 2.0.20: The sphinx theme for the SunPy website and documentation
 dev-python/synphot 1.5.0: Synthetic photometry using Astropy
 dev-python/syrupy 4.9.1: Pytest Snapshot Test Utility
-dev-python/textual 3.3.0: Modern Text User Interface framework
+dev-python/textual 3.5.0: Modern Text User Interface framework
 dev-python/toml 0.10.2-r1: Python library for handling TOML files
 dev-python/tree-sitter-languages 1.10.2: Binary Python wheels for all tree sitter languages
 dev-python/typing-validation 1.2.12: A simple library for runtime type-checking
