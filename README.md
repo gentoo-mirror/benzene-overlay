@@ -139,13 +139,15 @@ dev-python/dm-tree                 | 0.1.9                                      
 dev-python/donfig                  | 0.8.1\_p1                                                  | Pulled in by zarr v3
 dev-python/dropboxdrivefs          | 1.4.1                                                      | Optional for new ratarmount{,core}
 dev-python/eventlet                | 0.33.3; 0.40.0                                             | Dropped by official portage. Required by firefly{,-viz}
+dev-python/ext4                    | 1.1.0                                                      | Optional for new ratarmount{,core} <- ipfsspec
 dev-python/f90nml                  | 1.4.5                                                      | Optional for yt
 dev-python/fastcache               | 1.1.0                                                      | Optional for yt
 dev-python/fast-zip-decryption     | 3.0.0                                                      | Optional for new ratarmount{,core}
 dev-python/firefly-viz             | 2.0.4                                                      | Optional for yt
 dev-python/firefly                 | 3.3.2                                                      | Optional for new yt
 dev-python/flask-socketio          | 5.5.1                                                      | Optional for yt
-dev-python/fusepy                  | 3.0.1                                                      | Optional for yt
+dev-python/fusepy                  | 3.0.1                                                      | Optional for old ratarmount
+dev-python/mfusepy                 | 1.1.0                                                      | Optional for new ratarmount
 dev-python/heapdict                | 1.0.1                                                      | Pulled in by zict and distributed
 dev-python/indexed\-{bzip2,zstd}   | 1.6.0 / 1.6.1                                              | Optional for yt (ratarmount{,core})
 dev-python/ipfsspec                | 0.6.0                                                      | Optional for new ratarmount{,core}
@@ -168,7 +170,7 @@ dev-python/pytest-textual-snapshot | 1.1.0-r1                                   
 dev-python/python-pkcs11           | 0.7.0-r1                                                   | Test and optional dependency for asyncssh. Recover from [GURU](https://gitweb.gentoo.org/repo/proj/guru.git/commit/?id=a6b3f15b1a76a2b066f9ff763fab5588bab902c6)
 dev-python/python-socketio         | 5.9.0; 5.13.0                                              | Optional for yt
 dev-python/python-xz               | 0.5.0                                                      | Optional for yt
-dev-python/pyzstd                  | 0.17.0                                                     | Optional for new ratarmount{,core}
+dev-python/pyzstd                  | 0.17.0                                                     | Optional for new ratarmount{,core} <- py7zr
 dev-python/pure-protobuf           | 2.3.0; 3.1.4                                               | Optional for new ratarmount{,core} <- ipfsspec
 dev-python/rasterio                | 1.3.8\_p2; 1.4.3                                           | Optional for photutils. Dependencies are not all listed in the table
 dev-python/ratarmount              | 0.14.2; 0.15.2; 1.0.0                                      | Optional for yt. Dependency ratarmountcore is also included in this overlay but not listed in the table
