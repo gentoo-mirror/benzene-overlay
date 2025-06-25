@@ -88,6 +88,7 @@ dev-python/einops 0.8.0 0.8.1: A new flavour of deep learning operations
 dev-python/eventlet 0.33.3 0.40.0: Highly concurrent networking library
 dev-python/ewah-bool-utils 1.0.2 1.1.0 1.2.2: EWAH Bool Array utils for yt
 dev-python/exifread 3.3.1: Library to extract Exif information from digital camera image files
+dev-python/ext4 1.1.0: Library for read only interactions with an ext4 filesystem
 dev-python/extension-helpers 1.4.0: Helpers to assist with building Python pkgs with compiled C/Cython extensions
 dev-python/f90nml 1.4.5: Fortran 90 namelist parser
 dev-python/fast-histogram 0.14: Fast 1D and 2D histogram functions in Python
@@ -129,6 +130,7 @@ dev-python/libconf 2.0.1: Pure-Python libconfig file reader/writer with permissi
 dev-python/markdown-callouts 0.3.0 0.4.0: Markdown extension: a classier syntax for admonitions
 dev-python/memory-profiler 0.61: A module for monitoring memory usage of a python program
 dev-python/memray 1.10.0 1.17.2: A memory profiler for Python applications
+dev-python/mfusepy 1.1.0: Ctypes bindings for the high-level API in libfuse 2 and 3
 dev-python/miniballcpp 0.2.3: Smallest Enclosing Balls of Points
 dev-python/mistune 0.8.4-r1 2.0.5: The fastest markdown parser in pure Python
 dev-python/mkdocs-coverage 1.0.0: MkDocs plugin to integrate your coverage HTML report into your site
