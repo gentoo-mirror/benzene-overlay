@@ -165,6 +165,7 @@ dev-python/poetry-dynamic-versioning 1.8.2: Plugin for Poetry to enable dynamic 
 dev-python/pure-protobuf 2.3.0 3.1.4: Protocol Buffers using Python type annotations
 dev-python/pvextractor 0.4: Position-velocity diagram extractor
 dev-python/pyavm 0.9.6: Simple pure-python AVM meta-data handling
+dev-python/pycryptodomex 3.22.0 3.23.0: A self-contained cryptographic library for Python
 dev-python/pydantic-settings 2.9.1: Settings management using Pydantic
 dev-python/pydata-sphinx-theme 0.13.3-r1: Bootstrap-based Sphinx theme from the PyData community
 dev-python/pydl 1.0.1: Astropy affiliated package for accessing Virtual Observatory data and services
@@ -321,7 +322,7 @@ sci-astronomy/wcslib 8.2.2: Astronomical World Coordinate System transformations
 sci-libs/libsharp 1.0.0 1.0.0_p20241113: Library for fast spherical harmonic transforms
 sys-block/diskus 0.8.0 9999: A minimal, fast alternative to 'du -sh'.
 sys-libs/elogind-libsystemd 0 0-r1: Provide standalone libsystemd.so without systemd by linking libelogind.so
-sys-libs/libsystemd 256.10 256.12 256.13 256.16 257.3 257.5 257.6 9999: A standalone package to provide libsystemd.so without systemd
+sys-libs/libsystemd 256.10 256.12 256.13 256.16 256.17 257.3 257.5 257.6 257.7 9999: A standalone package to provide libsystemd.so without systemd
 virtual/libsystemd 0: Virtual for libsystemd.so
 www-plugins/adobe-flash 32.0.0.465: Adobe Flash Player
 x11-libs/lain 9999 9999-r100: Layouts, asynchronous widgets and utilities for Awesome WM
