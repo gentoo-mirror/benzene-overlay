@@ -165,6 +165,7 @@ dev-python/poetry-dynamic-versioning 1.8.2: Plugin for Poetry to enable dynamic 
 dev-python/pure-protobuf 2.3.0 3.1.4: Protocol Buffers using Python type annotations
 dev-python/pvextractor 0.4: Position-velocity diagram extractor
 dev-python/pyavm 0.9.6: Simple pure-python AVM meta-data handling
+dev-python/pybcj 1.0.6: BCJ(Branch-Call-Jump) filter for python
 dev-python/pycryptodomex 3.22.0 3.23.0: A self-contained cryptographic library for Python
 dev-python/pydantic-settings 2.10.1: Settings management using Pydantic
 dev-python/pydata-sphinx-theme 0.13.3-r1: Bootstrap-based Sphinx theme from the PyData community
