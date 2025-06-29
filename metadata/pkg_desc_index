@@ -150,6 +150,7 @@ dev-python/msrestazure 0.6.4_p1: AutoRest swagger generator Python client runtim
 dev-python/multi_key_dict 2.0.3 9999: Multi key dictionary implementation
 dev-python/multiformats 0.3.1_p4: Python implementation of multiformats protocols
 dev-python/multiformats-config 0.3.1: Pre-loading configuration module for the 'multiformats' package
+dev-python/multivolumefile 0.2.3: multi volume file wrapper library
 dev-python/myst-nb 0.17.2 1.2.0: Parse and execute ipynb files in Sphinx
 dev-python/myst-parser 0.18.1-r1: Extended commonmark compliant parser, with bridges to Sphinx
 dev-python/naima 0.10.2: Derivation of non-thermal particle distributions through MCMC spectral fitting
