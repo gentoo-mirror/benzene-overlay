@@ -51,7 +51,7 @@ dev-python/astroplan 0.10.1: Observation planning package for astronomers
 dev-python/astropy 5.0.8 5.3.4 6.0.1 6.1.7 7.1.0: Core functionality for performing astrophysics with Python
 dev-python/astropy-healpix 1.1.2: BSD-licensed HEALPix for Astropy
 dev-python/astropy-helpers 4.0.1-r1: Helpers for Astropy and Affiliated packages
-dev-python/astropy-iers-data 0.2025.6.23.0.39.50: IERS Earth Rotation and Leap Second tables for the astropy core package
+dev-python/astropy-iers-data 0.2025.6.30.0.39.40: IERS Earth Rotation and Leap Second tables for the astropy core package
 dev-python/astropy-sphinx-theme 2.0: The sphinx theme for Astropy and affiliated packages
 dev-python/astroquery 0.4.10: Collection of packages to access online astronomical resources
 dev-python/astroscrappy 1.2.0: Optimized cosmic ray annihilation astropy python module
@@ -117,6 +117,7 @@ dev-python/hvpy 1.1.0: Helioviewer Python API Wrapper
 dev-python/icecream 2.1.3: Sweet and creamy print debugging
 dev-python/indexed-bzip2 1.6.0: Fast random access to bzip2 files in Python
 dev-python/indexed-zstd 1.6.1: Fast random access to zstd files
+dev-python/inflate64 1.0.3: deflate64 compression/decompression library
 dev-python/invoke 2.2.0: Pythonic task management & command execution
 dev-python/ipfsspec 0.6.0: Readonly implementation of fsspec for IPFS
 dev-python/isal 1.7.2: Faster zlib gzip compatible (de)compression by python bindings for ISA-L library
