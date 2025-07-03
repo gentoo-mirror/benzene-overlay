@@ -130,7 +130,7 @@ dev-python/aiohttp-retry           | 2.9.1                                      
 dev-python/arviz                   | 0.17.1; 0.21.0                                             | Optional for corner.py.
 dev-python/asciitree               | 0.3.3                                                      | Pulled in by zarr
 dev-python/aspectlib               | 2.0.0                                                      | Optional for pytest-benchmark
-dev-python/azure-core              | 1.26.3; 1.34.0                                             | Required by new msrest
+dev-python/azure-core              | 1.26.3; 1.35.0                                             | Required by new msrest
 dev-python/bidict                  | 0.22.0; 0.23.1                                             | Optional for yt
 dev-python/check-manifest          | 0.49; 0.50                                                 | Dropped by official portage. Build dependency for xarray-datatree
 dev-python/cmdstanpy               | 1.0.8; 1.2.5                                               | Test dependency for arviz. Dependency stanio is included but not listed in the table
@@ -154,7 +154,7 @@ dev-python/indexed\-{bzip2,zstd}   | 1.6.0 / 1.6.1                              
 dev-python/inflate64               | 1.0.3                                                      | Optional for new ratarmount{,core} <- py7zr
 dev-python/ipfsspec                | 0.6.0                                                      | Optional for new ratarmount{,core}
 dev-python/isal                    | 1.7.2                                                      | Optional for new ratarmount{,core}
-dev-python/rapidgzip               | 0.14.3                                                     | Optional for new ratarmount{,core}
+dev-python/rapidgzip               | 0.14.4                                                     | Optional for new ratarmount{,core}
 dev-python/libconf                 | 2.0.1                                                      | Optional for yt
 dev-python/memory-profiler         | 0.61                                                       | Dropped by official portage. Test dependency for ccdproc
 dev-python/miniballcpp             | 0.2.3                                                      | Optional for yt
@@ -179,7 +179,7 @@ dev-python/pyppmd                  | 1.2.0                                      
 dev-python/pyzstd                  | 0.17.0                                                     | Optional for new ratarmount{,core} <- py7zr
 dev-python/pure-protobuf           | 2.3.0; 3.1.4                                               | Optional for new ratarmount{,core} <- ipfsspec
 dev-python/rasterio                | 1.3.8\_p2; 1.4.3                                           | Optional for photutils. Dependencies are not all listed in the table
-dev-python/ratarmount              | 0.14.2; 0.15.2; 1.0.0                                      | Optional for yt. Dependency ratarmountcore is also included in this overlay but not listed in the table
+dev-python/ratarmount              | 0.14.2; 0.15.2; 1.0.0; 1.1.0                               | Optional for yt. Dependency ratarmountcore is also included in this overlay but not listed in the table
 dev-python/s3fs                    | 2025.5.1                                                   | Test dependency for zarr and astropy>=5.2
 dev-python/siosocks                | 0.3.0                                                      | Optional for aioftp
 dev-python/smbprotocol             | 1.15.0                                                     | Optional for new ratarmount{,core}
