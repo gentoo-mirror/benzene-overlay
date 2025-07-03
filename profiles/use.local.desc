@@ -166,11 +166,15 @@ dev-python/radio-beam:intersphinx - Enable intersphinx while doc building.
 dev-python/rasterio:ipython - Extra ipython support
 dev-python/rasterio:plot - plot support via dev-python/matplotlib
 dev-python/rasterio:s3 - s3 support via dev-python/boto3
+dev-python/ratarmount:ext4 - Add extra support for ext4
 dev-python/ratarmount:fsspec - Add extra support for fsspec
 dev-python/ratarmount:full - Include most extra dependencies
+dev-python/ratarmount:git - Add extra support for git
+dev-python/ratarmount:sqlar - Add extra support for sqlar
 dev-python/ratarmount:squashfs - Add extra support for squashfs
 dev-python/ratarmountcore:7z - Add extra support for 7z
 dev-python/ratarmountcore:bzip2 - Add extra support for bzip2
+dev-python/ratarmountcore:ext4 - Add extra support for ext4 via dev-python/ext4
 dev-python/ratarmountcore:fat - Add extra support for fat via dev-python/pyfatfs
 dev-python/ratarmountcore:fsspec - Add extra support for fsspec
 dev-python/ratarmountcore:fsspec-backends - Add extra support for more fsspec backends
@@ -179,6 +183,7 @@ dev-python/ratarmountcore:full-ssh - Include most ssh functions with dev-python/
 dev-python/ratarmountcore:git - Add extra support for git
 dev-python/ratarmountcore:gzip - Add extra support for gzip
 dev-python/ratarmountcore:rar - Add extra support for rar
+dev-python/ratarmountcore:sqlar - Add extra support for sqlar
 dev-python/ratarmountcore:squashfs - Add extra support for squashfs
 dev-python/ratarmountcore:xz - Add extra support for xz
 dev-python/ratarmountcore:zip - Add extra support for zip
