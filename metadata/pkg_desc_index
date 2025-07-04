@@ -61,7 +61,7 @@ dev-python/base58 2.1.1: Base58 and Base58Check implementation
 dev-python/bases 0.3.0: Python library for general Base-N encodings
 dev-python/bidict 0.22.0 0.23.1: The bidirectional mapping library for Python
 dev-python/casa-formats-io 0.3.0: Code to handle I/O from/to data in CASA format Resources
-dev-python/ccdproc 2.4.3: Astropy affiliated package for reducing optical/IR CCD data
+dev-python/ccdproc 2.5.0: Astropy affiliated package for reducing optical/IR CCD data
 dev-python/cdflib 0.4.9 1.3.4: A python module for reading NASA's Common Data Format (cdf) files Resources
 dev-python/cdshealpix 0.7.1: A healpix manipulation library
 dev-python/check-manifest 0.49 0.50: Tool to check the completeness of MANIFEST.in for Python packages
@@ -277,7 +277,7 @@ dev-python/wsgidav 4.3.3: Generic and extendable WebDAV server based on WSGI
 dev-python/xarray-datatree 0.0.15: Hierarchical tree-like data structures for xarray
 dev-python/xarray-einstats 0.9.1: Stats, linear algebra and einops for xarray
 dev-python/yt 4.0.5 4.1.4 4.2.2 4.3.0 4.4.0: An analysis and visualization toolkit for volumetric data
-dev-python/zarr 2.18.4 2.18.7 3.0.9: An implementation of chunked, compressed, N-dimensional arrays for Python
+dev-python/zarr 2.18.4 2.18.7 3.0.10: An implementation of chunked, compressed, N-dimensional arrays for Python
 dev-python/zict 2.2.0 3.0.0: Mutable mapping tools
 dev-qt/qtsensors 5.15.17: Hardware sensor access library for the Qt5 framework
 dev-qt/qtwebchannel 5.15.17: Qt5 module for integrating C++ and QML applications with HTML/JavaScript clients

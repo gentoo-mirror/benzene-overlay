@@ -73,6 +73,7 @@ dev-python/astroquery:intersphinx - Enable intersphinx while doc building.
 dev-python/astroscrappy:intersphinx - Enable intersphinx while doc building.
 dev-python/azure-core:aio - Extra aio support via dev-python/aiohttp
 dev-python/azure-core:tracing - Extra tracing support via dev-python/opentelemetry-api
+dev-python/ccdproc:intersphinx - Enable intersphinx while doc building.
 dev-python/cdshealpix:doc - Build extra documentation. Should only be enabled for re-merge instead of new merge.
 dev-python/cdshealpix:plot - Support for quick_plot for Skymap via dev-python/matplotlib.
 dev-python/cmdstanpy:all - More function support withdev-python/xarray
