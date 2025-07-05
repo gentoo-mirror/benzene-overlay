@@ -176,7 +176,7 @@ dev-python/pydl 1.0.1: Astropy affiliated package for accessing Virtual Observat
 dev-python/pyerfa 1.7.2 2.0.1.5: Python bindings for ERFA
 dev-python/pyfatfs 1.1.0: Python based FAT12/FAT16/FAT32 implementation with VFAT support
 dev-python/pygaljs 1.0.2: Python package providing assets from https://github.com/Kozea/pygal.js
-dev-python/pykdtree 1.4.1: Fast kd-tree implementation with OpenMP-enabled queries
+dev-python/pykdtree 1.4.2: Fast kd-tree implementation with OpenMP-enabled queries
 dev-python/pymoc 0.5.2: Multi-Order Coverage map module for Python
 dev-python/pyppmd 1.2.0: PPMd compression/decompression library
 dev-python/pyqt5 5.15.11 5.15.11-r1: Python bindings for the Qt framework
