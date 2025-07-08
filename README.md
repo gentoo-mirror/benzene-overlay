@@ -148,7 +148,7 @@ dev-python/firefly-viz             | 2.0.4                                      
 dev-python/firefly                 | 3.3.2                                                      | Optional for new yt
 dev-python/flask-socketio          | 5.5.1                                                      | Optional for yt
 dev-python/fusepy                  | 3.0.1                                                      | Optional for old ratarmount
-dev-python/mfusepy                 | 1.1.0                                                      | Optional for new ratarmount
+dev-python/mfusepy                 | 1.1.1                                                      | Optional for new ratarmount
 dev-python/heapdict                | 1.0.1                                                      | Pulled in by zict and distributed
 dev-python/indexed\-{bzip2,zstd}   | 1.6.0 / 1.6.1                                              | Optional for yt (ratarmount{,core})
 dev-python/inflate64               | 1.0.3                                                      | Optional for new ratarmount{,core} <- py7zr
@@ -172,7 +172,7 @@ dev-python/pykdtree                | 1.4.2                                      
 dev-python/pysquashfsimage         | 0.9.0\_p20240421181514                                     | Optional for new ratarmount{,core}
 dev-python/pytest-examples         | 0.0.18                                                     | Test dependency for pydantic-settings
 dev-python/pytest-textual-snapshot | 1.1.0-r1                                                   | Test dependency for new memray. Dependency syrupy is included but not listed in the table
-dev-python/python-pkcs11           | 0.7.0-r1                                                   | Test and optional dependency for asyncssh. Recover from [GURU](https://gitweb.gentoo.org/repo/proj/guru.git/commit/?id=a6b3f15b1a76a2b066f9ff763fab5588bab902c6)
+dev-python/python-pkcs11           | 0.8.1                                                      | Test and optional dependency for asyncssh. Recover from [GURU](https://gitweb.gentoo.org/repo/proj/guru.git/commit/?id=a6b3f15b1a76a2b066f9ff763fab5588bab902c6)
 dev-python/python-socketio         | 5.9.0; 5.13.0                                              | Optional for yt
 dev-python/python-xz               | 0.5.0                                                      | Optional for yt
 dev-python/pyppmd                  | 1.2.0                                                      | Optional for new ratarmount{,core} <- py7zr
