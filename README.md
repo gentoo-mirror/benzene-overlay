@@ -127,7 +127,7 @@ dev-python/abg-python              | 1.1.5                                      
 dev-python/aggdraw                 | 1.3.16; 1.3.19                                             | Optional for ginga
 dev-python/aiobotocore             | 2.23.0                                                     | Pulled in by s3fs
 dev-python/aiohttp-retry           | 2.9.1                                                      | Optional for new ratarmount{,core} <- ipfsspec
-dev-python/arviz                   | 0.17.1; 0.21.0                                             | Optional for corner.py.
+dev-python/arviz                   | 0.17.1; 0.22.0                                             | Optional for corner.py.
 dev-python/asciitree               | 0.3.3                                                      | Pulled in by zarr
 dev-python/aspectlib               | 2.0.0                                                      | Optional for pytest-benchmark
 dev-python/azure-core              | 1.26.3; 1.35.0                                             | Required by new msrest
@@ -187,7 +187,7 @@ dev-python/sortedcollections       | 2.1.0                                      
 dev-python/sqlcipher3              | 0.5.4                                                      | Optional for new ratarmount{,core}
 dev-python/sshfs                   | 2025.2.0                                                   | Optional for new ratarmount{,core}. For running test, you need to forcely unmask paramiko[server], e.g. `echo "dev-python/paramiko -server" >> /etc/portage/profile/package.use.mask"`
 dev-python/stone                   | 3.3.9                                                      | Required by python dropbox
-dev-python/textual                 | 3.6.0                                                      | Pulled in by memray>=1.11. Dependency tree-sitter-languages is included but not listed in the table
+dev-python/textual                 | 3.7.1                                                      | Pulled in by memray>=1.11. Dependency tree-sitter-languages is included but not listed in the table
 dev-python/typing-validation       | 1.2.12                                                     | Optional for new ratarmount{,core} <- ipfsspec
 dev-python/colorspacious           | 1.1.2                                                      | Pulled in by cmyt. Dropped by official portage
 dev-python/cmyt                    | 2.0.0; 2.0.2                                               | Pulled in by yt
@@ -222,7 +222,7 @@ dev-python/sphinx-autosummary-accessors | 2025.3.1                        |
 dev-python/sphinx-book-theme            | 1.0.1; 1.1.4                    | `network-sandbox` FEATURE will be disabled if you enable `doc` flag for newest version.
 dev-python/sphinx-changelog             | 1.6.0                           |
 dev-python/sphinx-click                 | 6.0.0                           |
-dev-python/sphinx-codeautolink          | 0.17.4                          |
+dev-python/sphinx-codeautolink          | 0.17.5                          |
 dev-python/sphinx-collections           | 0.2.0                           | Doc building and testing behave strangly in sandbox (can't find sphinx plugins), so can't complete while merging
 dev-python/sphinx-design                | 0.6.1                           |
 dev-python/sphinx-documatt-theme        | 0.0.6                           |
