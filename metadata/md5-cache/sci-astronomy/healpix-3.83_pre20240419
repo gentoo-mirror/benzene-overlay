@@ -12,5 +12,5 @@ RDEPEND=>=sci-libs/cfitsio-3.440:= cxx? ( sci-libs/libsharp:= ) idl? ( dev-lang/
 RESTRICT=!test? ( test )
 SLOT=0/0-4
 SRC_URI=https://github.com/healpy/healpixmirror/archive/fcbb3999fc5b7968e8c4c65c783e272bbc7b9f7b.tar.gz -> healpix-3.83_pre20240419.tar.gz
-_eclasses_=gnuconfig	ddeb9f8caff1b5f71a09c75b7534df79	toolchain-funcs	a6df79c1e9bc84369dbf3d44206ac772	libtool	c81bd096be5f4c82f4e8f156ef112402	autotools	955b29ccd82c1df4755e5f37748d2fa6	java-utils-2	c610b1541a10e37cb26ab5b707a744f1	java-pkg-opt-2	28044ae40e7846886b6f5eca24661629	vcs-snapshot	bd69bf57fd2c34e99964a03b1d968177
+_eclasses_=gnuconfig	ddeb9f8caff1b5f71a09c75b7534df79	toolchain-funcs	a6df79c1e9bc84369dbf3d44206ac772	libtool	c81bd096be5f4c82f4e8f156ef112402	autotools	955b29ccd82c1df4755e5f37748d2fa6	java-utils-2	e2cdf66cd9c826ccda532772976d342d	java-pkg-opt-2	28044ae40e7846886b6f5eca24661629	vcs-snapshot	bd69bf57fd2c34e99964a03b1d968177
 _md5_=11daa9536699de84ed30770097f492ee
