@@ -32,7 +32,7 @@ dev-python/aioftp 0.26.2: Ftp client/server for asyncio
 dev-python/aiohttp-retry 2.9.1: Simple retry client for aiohttp
 dev-python/api4jenkins 2.0.4: Tools for accessing JPEG2000 files
 dev-python/aplpy 2.2.0: Astronomical Plotting Library in Python
-dev-python/arviz 0.17.1 0.21.0: Exploratory analysis of Bayesian models with Python
+dev-python/arviz 0.17.1 0.22.0: Exploratory analysis of Bayesian models with Python
 dev-python/asciitree 0.3.3: Draws ASCII trees in Python
 dev-python/asdf 2.10.1 2.13.0 2.15.0 2.15.2 4.2.0: Python library for the Advanced Scientific Data Format
 dev-python/asdf-astropy 0.2.1 0.8.0: ASDF serialization support for astropy
@@ -235,7 +235,7 @@ dev-python/sphinx-autosummary-accessors 2025.3.1: Sphinx autosummary extension t
 dev-python/sphinx-book-theme 1.0.1 1.1.4: A clean book theme for scientific explanations and documentation with Sphinx
 dev-python/sphinx-changelog 1.6.0: A changelog renderer for sphinx
 dev-python/sphinx-click 6.0.0: Sphinx plugin to automatically document click-based applications
-dev-python/sphinx-codeautolink 0.17.4: Automatic links from code examples to reference documentation
+dev-python/sphinx-codeautolink 0.17.5: Automatic links from code examples to reference documentation
 dev-python/sphinx-collections 0.2.0: Sphinx extension for collecting external data for Sphinx build
 dev-python/sphinx-contributors 0.2.7: Contributors extension for Sphinx
 dev-python/sphinx-design 0.6.1: A sphinx extension for designing beautiful, view size responsive web components
@@ -264,7 +264,7 @@ dev-python/sunpy 5.1.5 6.1.1: Python library for solar physics
 dev-python/sunpy-sphinx-theme 1.2.42 2.0.2 2.0.20: The sphinx theme for the SunPy website and documentation
 dev-python/synphot 1.6.0: Synthetic photometry using Astropy
 dev-python/syrupy 4.9.1: Pytest Snapshot Test Utility
-dev-python/textual 3.6.0: Modern Text User Interface framework
+dev-python/textual 3.7.1: Modern Text User Interface framework
 dev-python/toml 0.10.2-r1: Python library for handling TOML files
 dev-python/tree-sitter-languages 1.10.2: Binary Python wheels for all tree sitter languages
 dev-python/typing-validation 1.2.12: A simple library for runtime type-checking
