@@ -1,17 +1,17 @@
-BDEPEND=dev-python/cython[python_targets_python3_11(-)?,python_targets_python3_12(-)?,python_targets_python3_13(-)?] python_targets_python3_11? ( dev-lang/python:3.11 ) python_targets_python3_12? ( dev-lang/python:3.12 ) python_targets_python3_13? ( dev-lang/python:3.13 ) >=dev-python/gpep517-16[python_targets_python3_11(-)?,python_targets_python3_12(-)?,python_targets_python3_13(-)?] >=dev-python/setuptools-78.1.0[python_targets_python3_11(-)?,python_targets_python3_12(-)?,python_targets_python3_13(-)?]
+BDEPEND=dev-python/cython[python_targets_python3_13t(-)?,python_targets_python3_14t(-)?,python_targets_python3_11(-)?,python_targets_python3_12(-)?,python_targets_python3_13(-)?,python_targets_python3_14(-)?] python_targets_python3_13t? ( dev-lang/python:3.13t ) python_targets_python3_14t? ( dev-lang/python:3.14t ) python_targets_python3_11? ( dev-lang/python:3.11 ) python_targets_python3_12? ( dev-lang/python:3.12 ) python_targets_python3_13? ( dev-lang/python:3.13 ) python_targets_python3_14? ( dev-lang/python:3.14 ) >=dev-python/gpep517-16[python_targets_python3_13t(-)?,python_targets_python3_14t(-)?,python_targets_python3_11(-)?,python_targets_python3_12(-)?,python_targets_python3_13(-)?,python_targets_python3_14(-)?] >=dev-python/setuptools-78.1.0[python_targets_python3_13t(-)?,python_targets_python3_14t(-)?,python_targets_python3_11(-)?,python_targets_python3_12(-)?,python_targets_python3_13(-)?,python_targets_python3_14(-)?]
 DEFINED_PHASES=compile configure install prepare test
-DEPEND=python_targets_python3_11? ( dev-lang/python:3.11 ) python_targets_python3_12? ( dev-lang/python:3.12 ) python_targets_python3_13? ( dev-lang/python:3.13 )
+DEPEND=python_targets_python3_13t? ( dev-lang/python:3.13t ) python_targets_python3_14t? ( dev-lang/python:3.14t ) python_targets_python3_11? ( dev-lang/python:3.11 ) python_targets_python3_12? ( dev-lang/python:3.12 ) python_targets_python3_13? ( dev-lang/python:3.13 ) python_targets_python3_14? ( dev-lang/python:3.14 )
 DESCRIPTION=Fast random access to zstd files
 EAPI=8
 HOMEPAGE=https://github.com/martinellimarco/indexed_zstd
 INHERIT=distutils-r1 pypi
-IUSE=test python_targets_python3_11 python_targets_python3_12 python_targets_python3_13 debug
+IUSE=test python_targets_python3_13t python_targets_python3_14t python_targets_python3_11 python_targets_python3_12 python_targets_python3_13 python_targets_python3_14 debug
 KEYWORDS=~amd64 ~x86
 LICENSE=MIT
-RDEPEND=app-arch/zstd python_targets_python3_11? ( dev-lang/python:3.11 ) python_targets_python3_12? ( dev-lang/python:3.12 ) python_targets_python3_13? ( dev-lang/python:3.13 )
-REQUIRED_USE=|| ( python_targets_python3_11 python_targets_python3_12 python_targets_python3_13 )
+RDEPEND=app-arch/zstd python_targets_python3_13t? ( dev-lang/python:3.13t ) python_targets_python3_14t? ( dev-lang/python:3.14t ) python_targets_python3_11? ( dev-lang/python:3.11 ) python_targets_python3_12? ( dev-lang/python:3.12 ) python_targets_python3_13? ( dev-lang/python:3.13 ) python_targets_python3_14? ( dev-lang/python:3.14 )
+REQUIRED_USE=|| ( python_targets_python3_13t python_targets_python3_14t python_targets_python3_11 python_targets_python3_12 python_targets_python3_13 python_targets_python3_14 )
 RESTRICT=!test? ( test )
 SLOT=0
 SRC_URI=https://files.pythonhosted.org/packages/source/i/indexed-zstd/indexed_zstd-1.6.1.tar.gz test? ( https://github.com/martinellimarco/indexed_zstd/raw/v1.6.1/test/test.zst -> indexed-zstd-1.6.1-test.zst )
 _eclasses_=toolchain-funcs	a0b29008c671a362b505f96fa80ce9c0	flag-o-matic	a7afe42e95fb46ce9691605acfb24672	out-of-source-utils	dbf9e34ee8964084651e25907fa8f52c	multibuild	4650a65187015567b4e041bb9bfdb364	multilib	b2a329026f2e404e9e371097dda47f96	multiprocessing	1e32df7deee68372153dca65f4a7c21f	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	python-utils-r1	bb392d69d55c48a5483d356933a26d57	python-r1	0e15b2ab9cfc87d7474678201d6bca38	distutils-r1	be1082db72eb0381081ef946a26e3a71	pypi	ad1b21f87d117ae9bb089bdb65b8f013
-_md5_=81d6e2a49e8fa146bbba91f38333f99f
+_md5_=0f5f917e2a1ba81f7f94a83e70840309
