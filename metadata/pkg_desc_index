@@ -277,7 +277,7 @@ dev-python/wsgidav 4.3.3: Generic and extendable WebDAV server based on WSGI
 dev-python/xarray-datatree 0.0.15: Hierarchical tree-like data structures for xarray
 dev-python/xarray-einstats 0.9.1: Stats, linear algebra and einops for xarray
 dev-python/yt 4.0.5 4.1.4 4.2.2 4.3.0 4.4.0: An analysis and visualization toolkit for volumetric data
-dev-python/zarr 2.18.4 2.18.7 3.0.10: An implementation of chunked, compressed, N-dimensional arrays for Python
+dev-python/zarr 2.18.4 2.18.7 3.1.0: An implementation of chunked, compressed, N-dimensional arrays for Python
 dev-python/zict 2.2.0 3.0.0: Mutable mapping tools
 dev-qt/qtsensors 5.15.17: Hardware sensor access library for the Qt5 framework
 dev-qt/qtwebchannel 5.15.17: Qt5 module for integrating C++ and QML applications with HTML/JavaScript clients
