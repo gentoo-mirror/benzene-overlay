@@ -34,7 +34,7 @@ dev-python/api4jenkins 2.0.4: Tools for accessing JPEG2000 files
 dev-python/aplpy 2.2.0: Astronomical Plotting Library in Python
 dev-python/arviz 0.17.1 0.22.0: Exploratory analysis of Bayesian models with Python
 dev-python/asciitree 0.3.3: Draws ASCII trees in Python
-dev-python/asdf 2.10.1 2.13.0 2.15.0 2.15.2 4.2.0: Python library for the Advanced Scientific Data Format
+dev-python/asdf 2.10.1 2.13.0 2.15.0 2.15.2 4.3.0: Python library for the Advanced Scientific Data Format
 dev-python/asdf-astropy 0.2.1 0.8.0: ASDF serialization support for astropy
 dev-python/asdf-coordinates-schemas 0.4.0: ASDF schemas for coordinates
 dev-python/asdf-standard 1.0.1 1.0.2 1.3.0: Standards document describing ASDF, Advanced Scientific Data Format
