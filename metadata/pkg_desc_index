@@ -76,7 +76,7 @@ dev-python/dask-expr 1.1.21: High Level Expressions for Dask
 dev-python/dask-sphinx-theme 3.0.6: Sphinx theme for Dask documentation
 dev-python/distributed 2024.4.1 2024.4.2 2025.7.0: Distributed scheduler for Dask
 dev-python/dm-tree 0.1.9: Tree is a library for working with nested data structures.
-dev-python/docstring-parser 0.16: Parse Python docstrings in reST, Google and Numpydoc format
+dev-python/docstring-parser 0.17.0: Parse Python docstrings in reST, Google and Numpydoc format
 dev-python/donfig 0.8.1_p1: Python package for configuring a python package
 dev-python/drms 0.6.4 0.9.0: Access HMI, AIA and MDI data with Python from the public JSOC DRMS server
 dev-python/dropbox 12.0.2: The Official Dropbox API V2 SDK for Python
