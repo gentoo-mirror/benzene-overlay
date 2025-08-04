@@ -51,7 +51,7 @@ dev-python/astroplan 0.10.1: Observation planning package for astronomers
 dev-python/astropy 5.0.8 5.3.4 6.0.1 6.1.7 7.1.0: Core functionality for performing astrophysics with Python
 dev-python/astropy-healpix 1.1.2: BSD-licensed HEALPix for Astropy
 dev-python/astropy-helpers 4.0.1-r1: Helpers for Astropy and Affiliated packages
-dev-python/astropy-iers-data 0.2025.7.28.0.41.50: IERS Earth Rotation and Leap Second tables for the astropy core package
+dev-python/astropy-iers-data 0.2025.8.4.0.42.59: IERS Earth Rotation and Leap Second tables for the astropy core package
 dev-python/astropy-sphinx-theme 2.0: The sphinx theme for Astropy and affiliated packages
 dev-python/astroquery 0.4.10: Collection of packages to access online astronomical resources
 dev-python/astroscrappy 1.2.0: Optimized cosmic ray annihilation astropy python module
@@ -254,7 +254,7 @@ dev-python/sphinx-togglebutton 0.3.2: Toggle page content and collapse admonitio
 dev-python/sphinxcontrib-globalsubs 0.1.2: Sphinx global substitutions extension
 dev-python/sphinxcontrib-srclinks 0.2.4: Add source, edit, history, annotate links to GitHub or BitBucket
 dev-python/sphinxcontrib-youtube 1.2.0 1.4.1: A Sphinx extension to embed videos from YouTube
-dev-python/sphinxext-opengraph 0.10.0: Sphinx extension to generate unique OpenGraph metadata
+dev-python/sphinxext-opengraph 0.11.0: Sphinx extension to generate unique OpenGraph metadata
 dev-python/sqlcipher3 0.5.4: DB-API 2.0 interface for SQLCipher 3.x
 dev-python/sshfs 2025.2.0: SSH Filesystem -- Async SSH/SFTP backend for fsspec
 dev-python/stanio 0.4.0 0.5.1: Preparing inputs to and reading outputs from Stan
