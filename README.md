@@ -45,7 +45,7 @@ dev-python/aioftp                                                               
 dev-python/corner                                                                    | 2.2.2; 2.2.3                                                                                                                                      |
 dev-python/dask                                                                      | 2024.4.1; 2025.7.0                                                                                                                                | Dropped by official portage
 dev-python/dropbox                                                                   | 12.0.2                                                                                                                                            |
-dev-python/exifread                                                                  | 3.3.2                                                                                                                                             |
+dev-python/exifread                                                                  | 3.4.0                                                                                                                                             |
 dev-python/glfw                                                                      | 2.9.0                                                                                                                                             | Dependency for glue-vispy-viewer>=1.2.0
 dev-python/glymur                                                                    | 0.12.0; 0.12.9\_p1; 0.13.2\_p1; 0.13.8; 0.14.0\_p2; 0.14.3                                                                                        |
 dev-python/hsluv                                                                     | 5.0.4                                                                                                                                             |
@@ -241,7 +241,7 @@ dev-python/sphinx-py3doc-enhanced-theme | 2.4.0                           |
 dev-python/sphinxcontrib-globalsubs     | 0.1.2                           |
 dev-python/sphinxcontrib-srclink        | 0.2.4                           |
 dev-python/sphinxcontrib-youtube        | 1.2.0; 1.4.1                    | `network-sandbox` FEATURE will be disabled if you enable demo videos for doc building in version 1.2.0.
-dev-python/sphinxext-opengraph          | 0.11.0                          |
+dev-python/sphinxext-opengraph          | 0.12.0                          |
 dev-python/dask-sphinx-theme            | 3.0.6                           |
 dev-python/sunpy-sphinx-theme           | 1.2.42; 2.0.2; 2.0.21           |
 dev-python/pydata-sphinx-theme          | 0.13.3-r1                       | Old version dropped by official portage, required by sunpy-sphinx-theme
