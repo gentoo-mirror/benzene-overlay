@@ -1,16 +1,17 @@
-BDEPEND=app-alternatives/ninja >=dev-build/cmake-3.20.5
-DEFINED_PHASES=compile configure install postinst postrm preinst prepare test
-DEPEND=>=app-text/tesseract-3.04 scanner? ( media-gfx/sane-backends ) app-text/podofo:= virtual/jpeg app-text/djvu dev-util/intltool dev-libs/libzip dev-libs/libxml2 app-text/enchant:2 qt5? ( app-text/qtspell[qt5] app-text/poppler:=[qt5] dev-libs/quazip:=[qt5] ) qt6? ( app-text/qtspell[qt6] app-text/poppler:=[qt6] dev-libs/quazip:=[qt6] ) gtk? ( dev-cpp/gtkmm dev-cpp/gtksourceviewmm:= dev-cpp/cairomm dev-libs/json-glib dev-cpp/libxmlpp:2.6 dev-python/pygobject dev-cpp/gtkspellmm )
+BDEPEND=gtk? ( || ( ( dev-lang/python:3.14 dev-python/pygobject:3[python_targets_python3_14(-)] ) ( dev-lang/python:3.13 dev-python/pygobject:3[python_targets_python3_13(-)] ) ( dev-lang/python:3.12 dev-python/pygobject:3[python_targets_python3_12(-)] ) ( dev-lang/python:3.11 dev-python/pygobject:3[python_targets_python3_11(-)] ) ) ) dev-util/intltool app-alternatives/ninja >=dev-build/cmake-3.20.5
+DEFINED_PHASES=compile configure install postinst postrm preinst prepare setup test
+DEPEND=>=app-text/tesseract-3.04 scanner? ( media-gfx/sane-backends ) app-text/podofo:= virtual/jpeg app-text/djvu dev-libs/libzip dev-libs/libxml2 app-text/enchant:2 gtk? ( dev-cpp/gtkmm:3.0 dev-cpp/gtksourceviewmm:= dev-cpp/cairomm:0 dev-libs/json-glib dev-cpp/libxmlpp:2.6 dev-cpp/gtkspellmm ) qt5? ( app-text/qtspell[qt5] app-text/poppler:=[qt5] dev-libs/quazip:=[qt5] dev-qt/qtimageformats:5 ) qt6? ( app-text/qtspell[qt6] app-text/poppler:=[qt6] dev-libs/quazip:=[qt6] dev-qt/qtimageformats:6 )
 DESCRIPTION=A Gtk/Qt front-end to tesseract-ocr
 EAPI=8
 HOMEPAGE=https://github.com/manisandro/gImageReader
 IDEPEND=dev-util/desktop-file-utils x11-misc/shared-mime-info
-INHERIT=cmake gnome2-utils xdg
+INHERIT=cmake gnome2-utils python-any-r1 xdg
 IUSE=gtk qt5 qt6 +scanner
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3
+RDEPEND=>=app-text/tesseract-3.04 scanner? ( media-gfx/sane-backends ) app-text/podofo:= virtual/jpeg app-text/djvu dev-libs/libzip dev-libs/libxml2 app-text/enchant:2 gtk? ( dev-cpp/gtkmm:3.0 dev-cpp/gtksourceviewmm:= dev-cpp/cairomm:0 dev-libs/json-glib dev-cpp/libxmlpp:2.6 dev-cpp/gtkspellmm ) qt5? ( app-text/qtspell[qt5] app-text/poppler:=[qt5] dev-libs/quazip:=[qt5] dev-qt/qtimageformats:5 ) qt6? ( app-text/qtspell[qt6] app-text/poppler:=[qt6] dev-libs/quazip:=[qt6] dev-qt/qtimageformats:6 )
 REQUIRED_USE=^^ ( gtk qt5 qt6 )
 SLOT=0
 SRC_URI=https://github.com/manisandro/gImageReader/releases/download/v3.4.2/gimagereader-3.4.2.tar.xz
-_eclasses_=toolchain-funcs	a0b29008c671a362b505f96fa80ce9c0	flag-o-matic	a7afe42e95fb46ce9691605acfb24672	multiprocessing	1e32df7deee68372153dca65f4a7c21f	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	cmake	460729dc36f68cf03b044bc1d367e34a	gnome2-utils	a8cf148ec7f5ae0b1f1d33ae5f7f9e88	xdg	3ef49a87c52c8b77c476351195dfe575
-_md5_=4f25cc70ab65ffe89ff99802ee5c036f
+_eclasses_=toolchain-funcs	a0b29008c671a362b505f96fa80ce9c0	flag-o-matic	a7afe42e95fb46ce9691605acfb24672	multiprocessing	1e32df7deee68372153dca65f4a7c21f	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	cmake	460729dc36f68cf03b044bc1d367e34a	gnome2-utils	a8cf148ec7f5ae0b1f1d33ae5f7f9e88	python-utils-r1	8a006695bc0db22490452dd06914dda5	python-any-r1	891415dfe39ad9b41b461f2b86354af0	xdg	3ef49a87c52c8b77c476351195dfe575
+_md5_=b01bb9652061bdfef7070be558e3f10e
