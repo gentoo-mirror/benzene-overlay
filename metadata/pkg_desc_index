@@ -288,6 +288,7 @@ dev-util/micromamba 1.5.6: C++ tiny version of mamba, the fast conda package ins
 dev-util/micromamba-bin 1.5.6: Tiny version of mamba, the fast conda package installer (binary version)
 gnome-base/gconf 3.2.6-r6: GNOME configuration system and daemon
 gui-apps/regreet 0.1.1 9999: Clean and customizable greeter for greetd
+kde-plasma/ksysguard 6.9999: Network-enabled resource usage monitor (ported for KDE 6)
 media-fonts/monaco 6.1: The Monaco monospaced sans-serif typeface with special characters added
 media-fonts/wps-office-fonts 1.0: The wps-office-fonts package contains Founder Chinese fonts
 media-gfx/fontweak 1.3.1: A GUI front-end of fontconfig
