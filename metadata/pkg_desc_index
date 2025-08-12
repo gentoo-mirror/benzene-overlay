@@ -6,7 +6,7 @@ app-i18n/fcitx-table-extra 0.3.8-r1: Extra Chinese table input methods for Fcitx
 app-i18n/fcitx-table-other 0.2.4-r1: Provides some other tables for Fcitx
 app-i18n/mozc 2.28.5029.102-r5 2.28.5029.102-r6: Mozc - Japanese input method editor
 app-office/wps-office 11.1.0.11711-r3 11.1.0.11723: WPS Office is an office productivity suite
-app-pda/i4tools 1.0.038 1.0.038-r1 1.0.055 1.0.055-r2 3.07.001: A third-party tool for managing Apple (iOS) devices
+app-pda/i4tools 1.0.038 1.0.038-r1 1.0.055 1.0.055-r2 3.08.002: A third-party tool for managing Apple (iOS) devices
 app-text/dehelper 12.7.1: Proprietary German dictionary software for linux
 app-text/eshelper 12.7.1: Proprietary Spanish dictionary software for linux
 app-text/eudic 12.7.1: Proprietary English dictionary software for linux
