@@ -55,7 +55,7 @@ dev-python/hsluv                                                                
 dev-python/nose                                                                      | 1.3.7\_p20221026-{r1,r2}                                                                                                                          | Dropped by official portage
 dev-python/oldest-supported-numpy                                                    | 2023.12.21                                                                                                                                        | The numpy version limitations are changed from `==` into `>=`. If you have better solution, just bring issues or pull requests.
 dev-python/parfive                                                                   | 2.2.0                                                                                                                                             |
-dev-python/poetry-dynamic-versioning                                                 | 1.8.2                                                                                                                                             | Dependency dunamai also included but not listed in the table
+dev-python/poetry-dynamic-versioning                                                 | 1.9.1                                                                                                                                             | Dependency dunamai also included but not listed in the table
 dev-python/pycryptodomex                                                             | 3.22.0, 3.23.0                                                                                                                                    |
 dev-python/pyqt5                                                                     | 5.15.11{,-r1}                                                                                                                                     | Add `webkit` USE flag (dropped by official portage) to get **youdao-dict** in this overlay work
 dev-python/pydantic-settngs                                                          | 2.10.1                                                                                                                                            |
@@ -143,7 +143,7 @@ dev-python/dm-tree                 | 0.1.9                                      
 dev-python/donfig                  | 0.8.1\_p1                                                  | Pulled in by zarr v3
 dev-python/dropboxdrivefs          | 1.4.1                                                      | Optional for new ratarmount{,core}
 dev-python/eventlet                | 0.33.3; 0.40.2                                             | Dropped by official portage. Required by firefly{,-viz}
-dev-python/ext4                    | 1.1.1                                                      | Optional for new ratarmount{,core} <- ipfsspec
+dev-python/ext4                    | 1.2                                                        | Optional for new ratarmount{,core} <- ipfsspec
 dev-python/f90nml                  | 1.4.5                                                      | Optional for yt
 dev-python/fastcache               | 1.1.0                                                      | Optional for yt
 dev-python/fast-zip-decryption     | 3.0.0                                                      | Optional for new ratarmount{,core}
@@ -165,7 +165,7 @@ dev-python/msrest                  | 0.7.1                                      
 dev-python/msrestazure             | 0.6.4\_p1                                                  | SunPy, h5pyd related
 dev-python/multiformats            | 0.3.1\_p4                                                  | Optional for new ratarmount{,core} <- ipfsspec. Dependencies like bases(base58) and multiformats-config are not included in this table. For more functions with pycryptodomex you need to add [parona-overlay](https://gitlab.com/Parona/parona-overlay)
 dev-python/multivolumefile         | 0.2.3                                                      | Optional for new ratarmount{,core} <- py7zr
-dev-python/numcodecs               | 0.13.1; 0.15.1; 0.16.1                                     | Pulled in by zarr
+dev-python/numcodecs               | 0.13.1; 0.15.1; 0.16.2                                     | Pulled in by zarr
 dev-python/oscrypto                | 1.3.0                                                      | Test dependency for python-pkcs11
 dev-python/py7zr                   | 1.0.0                                                      | Optional for new ratarmount{,core}
 dev-python/pybcj                   | 1.0.6                                                      | Optional for new ratarmount{,core} <- py7zr
