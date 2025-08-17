@@ -157,7 +157,7 @@ dev-python/indexed\-{bzip2,zstd}   | 1.7.0 / 1.6.1                              
 dev-python/inflate64               | 1.0.3                                                      | Optional for new ratarmount{,core} <- py7zr
 dev-python/ipfsspec                | 0.6.0                                                      | Optional for new ratarmount{,core}
 dev-python/isal                    | 1.7.2                                                      | Optional for new ratarmount{,core}
-dev-python/rapidgzip               | 0.14.5                                                     | Optional for new ratarmount{,core}
+dev-python/rapidgzip               | 0.15.0                                                     | Optional for new ratarmount{,core}
 dev-python/libconf                 | 2.0.1                                                      | Optional for yt
 dev-python/memory-profiler         | 0.61                                                       | Dropped by official portage. Test dependency for ccdproc
 dev-python/miniballcpp             | 0.2.3                                                      | Optional for yt
@@ -239,7 +239,7 @@ dev-python/sphinx-contributors          | 0.2.7                           |
 dev-python/sphinx-last-updated-by-git   | 0.3.8                           | Required by new sphinx-sitemap
 dev-python/sphinx-mdinclude             | 0.6.2                           |
 dev-python/sphinx-reredirects           | 1.0.0                           |
-dev-python/sphinx-sitemap               | 2.6.0; 2.7.2                    |
+dev-python/sphinx-sitemap               | 2.6.0; 2.8.0                    |
 dev-python/sphinx-py3doc-enhanced-theme | 2.4.0                           |
 dev-python/sphinxcontrib-globalsubs     | 0.1.2                           |
 dev-python/sphinxcontrib-srclink        | 0.2.4                           |
