@@ -105,7 +105,7 @@ dev-python/fusepy 3.0.1: Simple ctypes bindings for FUSE
 dev-python/ginga 5.4.0: A scientific image viewer and toolkit
 dev-python/glfw 2.9.0: A ctypes-based wrapper for GLFW3
 dev-python/glue-core 1.17.1 1.23.0: Core library for the glue multidimensional data visualization project
-dev-python/glue-qt 0.3.3: Multidimensional data visualization across files
+dev-python/glue-qt 0.4.0: Multidimensional data visualization across files
 dev-python/glue-vispy-viewers 1.1.0 1.2.3: 3-d data viewers for glue based on VisPy
 dev-python/glueviz 1.4.0: Meta-package for glue and plugin packages
 dev-python/glymur 0.12.0 0.12.9_p1 0.13.2_p1 0.13.8 0.14.0_p2 0.14.3: Tools for accessing JPEG2000 files
