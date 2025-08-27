@@ -263,7 +263,7 @@ dev-python/stanio 0.4.0 0.5.1: Preparing inputs to and reading outputs from Stan
 dev-python/starlink-pyast 3.15.4: Python interface to the Starlink AST library
 dev-python/stone 3.3.9: The Official API Spec Language for Dropbox API V2
 dev-python/sunpy 5.1.5 6.1.1: Python library for solar physics
-dev-python/sunpy-sphinx-theme 1.2.42 2.0.2 2.0.21: The sphinx theme for the SunPy website and documentation
+dev-python/sunpy-sphinx-theme 1.2.42 2.0.2 2.0.22: The sphinx theme for the SunPy website and documentation
 dev-python/synphot 1.6.0: Synthetic photometry using Astropy
 dev-python/syrupy 4.9.1: Pytest Snapshot Test Utility
 dev-python/textual 5.3.0: Modern Text User Interface framework
