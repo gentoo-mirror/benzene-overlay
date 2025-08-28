@@ -39,7 +39,7 @@ dev-python/asciitree 0.3.3: Draws ASCII trees in Python
 dev-python/asdf 2.10.1 2.13.0 2.15.0 2.15.2 4.4.0: Python library for the Advanced Scientific Data Format
 dev-python/asdf-astropy 0.2.1 0.8.0: ASDF serialization support for astropy
 dev-python/asdf-coordinates-schemas 0.4.0: ASDF schemas for coordinates
-dev-python/asdf-standard 1.0.1 1.0.2 1.3.0: Standards document describing ASDF, Advanced Scientific Data Format
+dev-python/asdf-standard 1.0.1 1.0.2 1.4.0: Standards document describing ASDF, Advanced Scientific Data Format
 dev-python/asdf-transform-schemas 0.2.2 0.4.0 0.6.0: ASDF schemas for transforms
 dev-python/asdf-unit-schemas 0.1.0 0.2.0: ASDF schemas for units
 dev-python/asdf-wcs-schemas 0.1.1 0.5.0: World Coordinate System (WCS) ASDF schemas
@@ -302,7 +302,7 @@ media-sound/ting-fr-bin 9.4.1: Daily French Listening software from eusoft
 media-video/bcwc_pcie 9999: Reverse engineered Linux driver for the Broadcom 1570 PCIe webcam
 media-video/facetimehd-firmware 9999: Firmware for the Broadcom 1570 PCIe webcam
 media-video/gnome-mplayer 1.0.9-r1: A GTK+ interface to MPlayer
-net-fs/ossfs 1.91.7: Export s3fs for aliyun oss
+net-fs/ossfs 1.91.8: Export s3fs for aliyun oss
 net-im/electron-qq-bin 1.5.7 2.1.4: A cross-platform QQ made with Electron (Deprecated. Moved to Icalingua)
 net-im/electron-wechat-bin 1.0.0: For creating the most usable Linux/MacOS WeChat client. A.k.a. Freechat
 net-im/electronic-wechat-bin 2.3.1 2.3.2: A better WeChat on macOS and Linux. Built with Electron
@@ -321,7 +321,7 @@ net-misc/xunlei-download 1.0.0.5: Xunlei download
 net-nds/openldap-compat 2.4.59: LDAP suite of application and development tools
 net-news/quiterss 0.19.4 9999: Qt-based RSS/Atom feed reader
 net-proxy/gg 0.2.13 0.2.19: Command-line tool for one-click proxy without v2ray or others (A.k.a. go-craft).
-net-proxy/v2raya-bin 1.5.9.1698.1 2.2.7: Web client of Project V for VMess, VLESS, SS, SSR, Trojan & Pingtunnel protocols
+net-proxy/v2raya-bin 1.5.9.1698.1 2.2.7.1: Web client of Project V for VMess, VLESS, SS, SSR, Trojan & Pingtunnel protocols
 sci-astronomy/aladin-bin 12.060: Interactive software sky atlas
 sci-astronomy/astrometry 0.80 0.85 0.97: Automated astrometric calibration programs and service
 sci-astronomy/erfa 1.7.2 2.0.1: Essential Routines for Fundamental Astronomy
