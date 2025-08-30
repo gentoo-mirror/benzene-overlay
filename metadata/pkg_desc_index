@@ -256,7 +256,7 @@ dev-python/sphinx-togglebutton 0.3.2: Toggle page content and collapse admonitio
 dev-python/sphinxcontrib-globalsubs 0.1.2: Sphinx global substitutions extension
 dev-python/sphinxcontrib-srclinks 0.2.4: Add source, edit, history, annotate links to GitHub or BitBucket
 dev-python/sphinxcontrib-youtube 1.2.0 1.4.1: A Sphinx extension to embed videos from YouTube
-dev-python/sphinxext-opengraph 0.12.0: Sphinx extension to generate unique OpenGraph metadata
+dev-python/sphinxext-opengraph 0.13.0: Sphinx extension to generate unique OpenGraph metadata
 dev-python/sqlcipher3 0.5.4: DB-API 2.0 interface for SQLCipher 3.x
 dev-python/sshfs 2025.2.0: SSH Filesystem -- Async SSH/SFTP backend for fsspec
 dev-python/stanio 0.4.0 0.5.1: Preparing inputs to and reading outputs from Stan
