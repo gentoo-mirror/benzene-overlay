@@ -13,7 +13,7 @@ dev-python/pytest-astropy      | 0.8.0; 0.11.0                                  
 dev-python/sphinx-astropy      | 1.10                                                 | Modules for building docs of astropy related packages. Dependencies are also in this overlay but not listed in this table
 dev-python/sphinx-asdf         | 0.1.3; 0.1.4; 0.3.0                                  |
 dev-python/aplpy               | 2.2.0                                                | Versions below 2.1.0 are included but masked. See [here](https://github.com/Universebenzene/benzene-overlay/tree/master/dev-python/aplpy#note-for-aplpy) for more details. `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
-dev-python/asdf                | 2.10.1; 2.13.0; 2.15.0; 2.15.2; 4.4.0                | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building. Doc building should only be enabled for re-merge to prevent circular depenencies.
+dev-python/asdf                | 2.10.1; 2.13.0; 2.15.0; 2.15.2; 4.5.0                | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building. Doc building should only be enabled for re-merge to prevent circular depenencies.
 dev-python/asdf-astropy        | 0.2.1; 0.8.0                                         | Dependencies are also in this overlay but not listed in this table. `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
 dev-python/astlib              | 0.11.10-r1; 0.12.1                                   | astLib WCS library for ginga
 dev-python/astrodendro         | 0.3.0; (live)                                        |
@@ -60,7 +60,7 @@ dev-python/regions             | 0.10                                           
 dev-python/reproject           | 0.12.0; 0.15.0                                       | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
 dev-python/sep                 | 1.4.0                                                |
 dev-python/sep-pjw             | 1.3.8                                                |
-dev-python/sgp4                | 2.22                                                 |
+dev-python/sgp4                | 2.25                                                 |
 dev-python/sherpa              | 4.15.0; 4.15.1-r1; 4.17.1                            | `XSPEC` support is not included while building. See [here](https://sherpa.readthedocs.io/en/latest/install.html#building-from-source) for more details to build with `XSPEC` manually.
 dev-python/skyfield            | 1.53                                                 |
 dev-python/spectral-cube       | 0.6.6                                                | `network-sandbox` FEATURE will be disabled if you enable intersphinx linking for doc building
