@@ -58,7 +58,7 @@ dev-python/astropy-sphinx-theme 2.0: The sphinx theme for Astropy and affiliated
 dev-python/astroquery 0.4.10: Collection of packages to access online astronomical resources
 dev-python/astroscrappy 1.2.0: Optimized cosmic ray annihilation astropy python module
 dev-python/asynctest 0.13.0: Enhance standard unittest package with features for testing asyncio libraries
-dev-python/azure-core 1.26.3 1.35.0: Microsoft Azure Core Library for Python
+dev-python/azure-core 1.26.3 1.35.1: Microsoft Azure Core Library for Python
 dev-python/base58 2.1.1: Base58 and Base58Check implementation
 dev-python/bases 0.3.0: Python library for general Base-N encodings
 dev-python/bidict 0.22.0 0.23.1: The bidirectional mapping library for Python
@@ -97,7 +97,7 @@ dev-python/fast-histogram 0.14: Fast 1D and 2D histogram functions in Python
 dev-python/fast-zip-decryption 3.0.0: Read password protected Zips 100x faster
 dev-python/fastcache 1.1.0: C implementation of Python 3 functools.lru_cache
 dev-python/feedgen 0.9.0 1.0.0: Python module to generate ATOM feeds, RSS feeds and Podcasts
-dev-python/firefly 3.3.2: A browser-based particle visualization platform
+dev-python/firefly 3.4.0: A browser-based particle visualization platform
 dev-python/firefly-vis 2.0.4: A browser-based particle visualization platform
 dev-python/flask-socketio 5.5.1: Socket.IO integration for Flask applications
 dev-python/fluidity 0.2.1: State machine implementation for Python objects
