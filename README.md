@@ -158,6 +158,8 @@ dev-python/ipfsspec                | 0.6.0                                      
 dev-python/rapidgzip               | 0.15.2                                                     | Optional for new ratarmount{,core}
 dev-python/libconf                 | 2.0.1                                                      | Optional for yt
 dev-python/memory-profiler         | 0.61                                                       | Dropped by official portage. Test dependency for ccdproc
+dev-python/markdownify             | 1.2.0                                                      | Required by mkdocs-llmstxt
+dev-python/mdformat{,-tables}      | 0.7.22 / 1.0.0                                             | Required by mkdocs-llmstxt
 dev-python/miniballcpp             | 0.2.3                                                      | Optional for yt
 dev-python/msrest                  | 0.7.1                                                      | SunPy, h5pyd related
 dev-python/msrestazure             | 0.6.4\_p1                                                  | SunPy, h5pyd related
@@ -262,10 +264,11 @@ Package name | Available version        | Additional information
 ------------ | :---------------:        | ----------------------
 dev-python/docstring-parser             | 0.17.0          | Optional dependency of pytkdocs
 dev-python/markdown-callouts            | 0.3.0; 0.4.0    | mkdocstrings related (should be test depend)
-dev-python/mkdocs-coverage              | 1.0.0           | mkdocstrings related (should be test depend)
+dev-python/mkdocs-coverage              | 2.0.0           | mkdocstrings related (should be test depend)
 dev-python/mkdocs-git-committers-plugin | 2.5.0           | mkdocstrings related (should be test depend)
 dev-python/mkdocs-jupyter               | 0.25.1          |
 dev-python/mkdocs-literate-nav          | 0.6.2           | mkdocstrings related (should be test depend)
+dev-python/mkdocs-llmstxt               | 0.3.1           | Doc/test dependency for mkdocs-coverage
 dev-python/mkdocs-section-index         | 0.3.10          | mkdocstrings related (should be test depend)
 dev-python/mkdocstrings-crystal         | 0.3.5; 0.3.7    |
 dev-python/mkdocstrings-python-legacy   | 0.2.4; 0.2.7    |
