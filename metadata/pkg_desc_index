@@ -130,15 +130,19 @@ dev-python/jupytext 1.17.3: Jupyter notebooks as Markdown documents, Julia, Pyth
 dev-python/lexicon 3.0.0: Powerful dict subclass(es) with aliasing & attribute access
 dev-python/libconf 2.0.1: Pure-Python libconfig file reader/writer with permissive licensing
 dev-python/markdown-callouts 0.3.0 0.4.0: Markdown extension: a classier syntax for admonitions
+dev-python/markdownify 1.2.0: Convert HTML to markdown
+dev-python/mdformat 0.7.22: CommonMark compliant Markdown formatter
+dev-python/mdformat-tables 1.0.0: An mdformat plugin for rendering tables
 dev-python/memory-profiler 0.61: A module for monitoring memory usage of a python program
 dev-python/memray 1.10.0 1.18.0: A memory profiler for Python applications
 dev-python/mfusepy 3.0.0: Ctypes bindings for the high-level API in libfuse 2 and 3
 dev-python/miniballcpp 0.2.3: Smallest Enclosing Balls of Points
 dev-python/mistune 0.8.4-r1 2.0.5: The fastest markdown parser in pure Python
-dev-python/mkdocs-coverage 1.0.0: MkDocs plugin to integrate your coverage HTML report into your site
+dev-python/mkdocs-coverage 2.0.0: MkDocs plugin to integrate your coverage HTML report into your site
 dev-python/mkdocs-git-committers-plugin 2.5.0: An MkDocs plugin to create a list of contributors on the page
 dev-python/mkdocs-jupyter 0.25.1: Use Jupyter in mkdocs websites
 dev-python/mkdocs-literate-nav 0.6.2: MkDocs plugin to specify the navigation in Markdown instead of YAML
+dev-python/mkdocs-llmstxt 0.3.1: MkDocs plugin to generate an /llms.txt file
 dev-python/mkdocs-section-index 0.3.10: MkDocs plugin to allow clickable sections that lead to an index page
 dev-python/mkdocstrings-crystal 0.3.5 0.3.7: Crystal language doc generator for mkdocstrings
 dev-python/mkdocstrings-python-legacy 0.2.4 0.2.7: A legacy Python handler for mkdocstrings
