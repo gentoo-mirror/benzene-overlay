@@ -132,7 +132,7 @@ dev-python/aiohttp-retry           | 2.9.1                                      
 dev-python/arviz                   | 0.17.1; 0.22.0                                             | Optional for corner.py.
 dev-python/asciitree               | 0.3.3                                                      | Pulled in by zarr
 dev-python/aspectlib               | 2.0.0                                                      | Optional for pytest-benchmark
-dev-python/azure-core              | 1.26.3; 1.35.0                                             | Required by new msrest
+dev-python/azure-core              | 1.26.3; 1.35.1                                             | Required by new msrest
 dev-python/bidict                  | 0.22.0; 0.23.1                                             | Optional for yt
 dev-python/check-manifest          | 0.49; 0.50                                                 | Dropped by official portage. Build dependency for xarray-datatree
 dev-python/cmdstanpy               | 1.0.8; 1.2.5                                               | Test dependency for arviz. Dependency stanio is included but not listed in the table
@@ -147,7 +147,7 @@ dev-python/f90nml                  | 1.4.5                                      
 dev-python/fastcache               | 1.1.0                                                      | Optional for yt
 dev-python/fast-zip-decryption     | 3.0.0                                                      | Optional for new ratarmount{,core}
 dev-python/firefly-viz             | 2.0.4                                                      | Optional for yt
-dev-python/firefly                 | 3.3.2                                                      | Optional for new yt
+dev-python/firefly                 | 3.4.0                                                      | Optional for new yt
 dev-python/flask-socketio          | 5.5.1                                                      | Optional for yt
 dev-python/fusepy                  | 3.0.1                                                      | Optional for old ratarmount
 dev-python/mfusepy                 | 3.0.0                                                      | Optional for new ratarmount
