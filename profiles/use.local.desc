@@ -120,6 +120,7 @@ dev-python/numcodecs:crc32c - Extra CRC32 check support via dev-python/crc32c
 dev-python/numcodecs:doc - Build extra documentation. Should only be enabled for re-merge instead of new merge.
 dev-python/numcodecs:msgpack - Extra MsgPack support via dev-python/msgpack
 dev-python/numcodecs:zfpy - Extra ZFPY support via dev-python/zfp
+dev-python/partd:complete - Include more dependencies for complete function
 dev-python/photutils:all - Including all optional dependencies for most function.
 dev-python/photutils:intersphinx - Enable intersphinx while doc building.
 dev-python/photutils:local-datasets - Add local data for photutils.datasets
