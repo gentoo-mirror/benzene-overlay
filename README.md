@@ -66,7 +66,7 @@ dev-python/api4jenkins                                                          
 dev-python/python-jenkins                                                            | 1.8.3; (live)                                                                                                                                     | Dependency multi\_key\_dict is also included but not listed here
 dev-python/vispy                                                                     | 0.13.0; 0.15.2                                                                                                                                    |
 dev-python/yt                                                                        | 4.0.5; 4.1.4; 4.2.2; 4.3.0; 4.4.1                                                                                                                 | Full doc building needs huge amount of data, so cannot complete locally.
-dev-python/zarr                                                                      | 2.18.4; 2.18.7; 3.1.2                                                                                                                             |
+dev-python/zarr                                                                      | 2.18.4; 2.18.7; 3.1.3                                                                                                                             |
 dev-qt/qt{sensors,webchannel}:5                                                      | 5.15.17                                                                                                                                           | Optional for `dev-qt/qtwebkit`, dropped by official portage
 dev-qt/qtwebkit                                                                      | 5.212.0\_pre20200309-{r1,r2}                                                                                                                      | Add [patch](https://github.com/Universebenzene/benzene-overlay/blob/master/dev-qt/qtwebkit/files/qtwebkit-5.212.0_pre20200309-position.patch) to get **youdao-dict** in this overlay work (the -r2 is a test for upgrade EAPI to 8, and might be a little buggy with youdao-dict.)
 [dev-util/micromamba{,-bin}](https://mamba.readthedocs.io)                           | [1.5.6](https://github.com/Universebenzene/benzene-overlay/blob/master/dev-util/micromamba/micromamba-1.5.6.ebuild)                                        | `dev-util/mamba[micromamba]` in [gentoo-zh](https://github.com/microcai/gentoo-zh) is **recommended** if you want source version and don't care about testing. Also need [gentoo-zh](https://github.com/microcai/gentoo-zh) to provide dependency `dev-cpp/reproc`, `dev-cpp/tl-expected` and `sys-libs/libsolv` .
@@ -147,7 +147,7 @@ dev-python/f90nml                  | 1.4.5                                      
 dev-python/fastcache               | 1.1.0                                                      | Optional for yt
 dev-python/fast-zip-decryption     | 3.0.0                                                      | Optional for new ratarmount{,core}
 dev-python/firefly-viz             | 2.0.4                                                      | Optional for yt
-dev-python/firefly                 | 3.4.0                                                      | Optional for new yt
+dev-python/firefly                 | 3.4.1                                                      | Optional for new yt
 dev-python/flask-socketio          | 5.5.1                                                      | Optional for yt
 dev-python/fusepy                  | 3.0.1                                                      | Optional for old ratarmount
 dev-python/mfusepy                 | 3.0.0                                                      | Optional for new ratarmount
@@ -166,7 +166,7 @@ dev-python/msrest                  | 0.7.1                                      
 dev-python/msrestazure             | 0.6.4\_p1                                                  | SunPy, h5pyd related
 dev-python/multiformats            | 0.3.1\_p4                                                  | Optional for new ratarmount{,core} <- ipfsspec. Dependencies like bases(base58) and multiformats-config are not included in this table. For more functions with pycryptodomex you need to add [parona-overlay](https://gitlab.com/Parona/parona-overlay)
 dev-python/multivolumefile         | 0.2.3                                                      | Optional for new ratarmount{,core} <- py7zr
-dev-python/numcodecs               | 0.13.1; 0.15.1; 0.16.2                                     | Pulled in by zarr
+dev-python/numcodecs               | 0.13.1; 0.15.1; 0.16.3                                     | Pulled in by zarr
 dev-python/oscrypto                | 1.3.0                                                      | Test dependency for python-pkcs11
 dev-python/partd                   | 1.4.2                                                      | Dropped by official portage. Required by dask
 dev-python/py7zr                   | 1.0.0                                                      | Optional for new ratarmount{,core}
@@ -271,7 +271,7 @@ dev-python/mkdocs-coverage              | 2.0.0           | mkdocstrings related
 dev-python/mkdocs-git-committers-plugin | 2.5.0           | mkdocstrings related (should be test depend)
 dev-python/mkdocs-jupyter               | 0.25.1          |
 dev-python/mkdocs-literate-nav          | 0.6.2           | mkdocstrings related (should be test depend)
-dev-python/mkdocs-llmstxt               | 0.3.1           | Doc/test dependency for mkdocs-coverage
+dev-python/mkdocs-llmstxt               | 0.3.2           | Doc/test dependency for mkdocs-coverage
 dev-python/mkdocs-section-index         | 0.3.10          | mkdocstrings related (should be test depend)
 dev-python/mkdocstrings-crystal         | 0.3.5; 0.3.7    |
 dev-python/mkdocstrings-python-legacy   | 0.2.4; 0.2.7    |
