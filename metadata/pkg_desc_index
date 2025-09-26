@@ -11,7 +11,7 @@ app-text/dehelper 12.7.1: Proprietary German dictionary software for linux
 app-text/eshelper 12.7.1: Proprietary Spanish dictionary software for linux
 app-text/eudic 12.7.1: Proprietary English dictionary software for linux
 app-text/frhelper 12.7.1: Proprietary French dictionary software for linux
-app-text/gimagereader 3.4.2: A Gtk/Qt front-end to tesseract-ocr
+app-text/gimagereader 3.4.3: A Gtk/Qt front-end to tesseract-ocr
 app-text/goldendict 1.5.1 22.12.02_p20230924104339 9999 9999-r22: Feature-rich dictionary lookup program
 app-text/powerword 1.2: A Chinese-English dictionary tool by Kingsoft
 app-text/qtspell 1.0.2: Spell checking for Qt text widgets
