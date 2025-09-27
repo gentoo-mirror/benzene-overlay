@@ -323,8 +323,9 @@ sys-libs/libsystemd:kernel-install - Enable kernel-install
 sys-libs/libsystemd:kmod - Enable kernel module loading via sys-apps/kmod
 sys-libs/libsystemd:lz4 - Enable lz4 compression for the journal
 sys-libs/libsystemd:openssl - Enable use of dev-libs/openssl for various features
+sys-libs/libsystemd:passwdqc - Use sys-auth/passwdqc for password checking in homed
 sys-libs/libsystemd:pkcs11 - Enable PKCS#11 support for cryptsetup and homed
-sys-libs/libsystemd:pwquality - Enable password quality checking in homed
+sys-libs/libsystemd:pwquality - Use dev-libs/libpwquality for password checking in homed
 sys-libs/libsystemd:qrcode - Enable qrcode output support in journal
 sys-libs/libsystemd:resolvconf - Install resolvconf symlink for systemd-resolve
 sys-libs/libsystemd:sysv-utils - Install sysvinit compatibility symlinks and manpages for init, telinit, halt, poweroff, reboot, runlevel, and shutdown
