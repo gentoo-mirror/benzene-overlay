@@ -104,7 +104,7 @@ dev-python/fluidity 0.2.1: State machine implementation for Python objects
 dev-python/fusepy 3.0.1: Simple ctypes bindings for FUSE
 dev-python/ginga 5.4.0: A scientific image viewer and toolkit
 dev-python/glfw 2.10.0: A ctypes-based wrapper for GLFW3
-dev-python/glue-core 1.17.1 1.24.0: Core library for the glue multidimensional data visualization project
+dev-python/glue-core 1.17.1 1.24.1: Core library for the glue multidimensional data visualization project
 dev-python/glue-qt 0.4.0: Multidimensional data visualization across files
 dev-python/glue-vispy-viewers 1.1.0 1.2.3: 3-d data viewers for glue based on VisPy
 dev-python/glueviz 1.4.0: Meta-package for glue and plugin packages
@@ -269,7 +269,7 @@ dev-python/stanio 0.4.0 0.5.1: Preparing inputs to and reading outputs from Stan
 dev-python/starlink-pyast 3.15.4: Python interface to the Starlink AST library
 dev-python/stone 3.3.9: The Official API Spec Language for Dropbox API V2
 dev-python/sunpy 5.1.5 6.1.1: Python library for solar physics
-dev-python/sunpy-sphinx-theme 1.2.42 2.0.2 2.0.23: The sphinx theme for the SunPy website and documentation
+dev-python/sunpy-sphinx-theme 1.2.42 2.0.2 2.1.0: The sphinx theme for the SunPy website and documentation
 dev-python/synphot 1.6.0: Synthetic photometry using Astropy
 dev-python/syrupy 5.0.0: Pytest Snapshot Test Utility
 dev-python/textual 6.1.0: Modern Text User Interface framework
@@ -337,7 +337,7 @@ sci-astronomy/wcslib 8.2.2: Astronomical World Coordinate System transformations
 sci-libs/libsharp 1.0.0 1.0.0_p20241113: Library for fast spherical harmonic transforms
 sys-block/diskus 0.8.0 9999: A minimal, fast alternative to 'du -sh'.
 sys-libs/elogind-libsystemd 0 0-r1: Provide standalone libsystemd.so without systemd by linking libelogind.so
-sys-libs/libsystemd 256.10 256.12 256.13 256.16 256.17 257.3 257.5 257.6 257.7 257.8-r1 257.9 258-r1 9999: A standalone package to provide libsystemd.so without systemd
+sys-libs/libsystemd 257.9 258-r1 9999: A standalone package to provide libsystemd.so without systemd
 virtual/libsystemd 0: Virtual for libsystemd.so
 www-plugins/adobe-flash 32.0.0.465: Adobe Flash Player
 x11-libs/lain 9999 9999-r100: Layouts, asynchronous widgets and utilities for Awesome WM
