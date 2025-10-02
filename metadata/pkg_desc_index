@@ -104,7 +104,7 @@ dev-python/fluidity 0.2.1: State machine implementation for Python objects
 dev-python/fusepy 3.0.1: Simple ctypes bindings for FUSE
 dev-python/ginga 5.4.0: A scientific image viewer and toolkit
 dev-python/glfw 2.10.0: A ctypes-based wrapper for GLFW3
-dev-python/glue-core 1.17.1 1.23.0: Core library for the glue multidimensional data visualization project
+dev-python/glue-core 1.17.1 1.24.0: Core library for the glue multidimensional data visualization project
 dev-python/glue-qt 0.4.0: Multidimensional data visualization across files
 dev-python/glue-vispy-viewers 1.1.0 1.2.3: 3-d data viewers for glue based on VisPy
 dev-python/glueviz 1.4.0: Meta-package for glue and plugin packages
@@ -206,7 +206,7 @@ dev-python/pytest-remotedata 0.4.1: Pytest plugin used for controlling access to
 dev-python/pytest-textual-snapshot 1.1.0-r1: Add source, edit, history, annotate links to GitHub or BitBucket
 dev-python/python-jenkins 1.8.3 9999: Python bindings for the remote Jenkins API
 dev-python/python-pkcs11 0.8.1: PKCS#11 (Cryptoki) support for Python
-dev-python/python-socketio 5.9.0 5.13.0: Python Socket.IO server and client
+dev-python/python-socketio 5.9.0 5.14.0: Python Socket.IO server and client
 dev-python/python-xz 0.5.0: Pure Python implementation of the XZ file format with random access support
 dev-python/pytkdocs 0.16.5: Load Python objects documentation
 dev-python/pyvo 1.7: Astropy affiliated package for accessing Virtual Observatory data and services
