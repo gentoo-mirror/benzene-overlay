@@ -143,7 +143,7 @@ dev-python/mkdocs-coverage 2.0.0: MkDocs plugin to integrate your coverage HTML 
 dev-python/mkdocs-git-committers-plugin 2.5.0: An MkDocs plugin to create a list of contributors on the page
 dev-python/mkdocs-jupyter 0.25.1: Use Jupyter in mkdocs websites
 dev-python/mkdocs-literate-nav 0.6.2: MkDocs plugin to specify the navigation in Markdown instead of YAML
-dev-python/mkdocs-llmstxt 0.3.2: MkDocs plugin to generate an /llms.txt file
+dev-python/mkdocs-llmstxt 0.4.0: MkDocs plugin to generate an /llms.txt file
 dev-python/mkdocs-section-index 0.3.10: MkDocs plugin to allow clickable sections that lead to an index page
 dev-python/mkdocstrings-crystal 0.3.5 0.3.7: Crystal language doc generator for mkdocstrings
 dev-python/mkdocstrings-python-legacy 0.2.4 0.2.7: A legacy Python handler for mkdocstrings
@@ -277,7 +277,7 @@ dev-python/toml 0.10.2-r1: Python library for handling TOML files
 dev-python/tree-sitter-languages 1.10.2: Binary Python wheels for all tree sitter languages
 dev-python/typing-validation 1.2.12: A simple library for runtime type-checking
 dev-python/uncompresspy 0.4.0: Pure Python package for uncompressing LZW files (.Z)
-dev-python/universal-pathlib 0.3.0: pathlib api extended to use fsspec backends
+dev-python/universal-pathlib 0.3.1: pathlib api extended to use fsspec backends
 dev-python/unyt 2.9.5 3.0.4: Handle, manipulate, and convert data with units in Python
 dev-python/vispy 0.13.0 0.15.2: Interactive visualization in Python
 dev-python/webdav4 0.10.0: WebDAV client library with an fsspec-based filesystem and a CLI
