@@ -53,7 +53,7 @@ dev-python/astroplan 0.10.1: Observation planning package for astronomers
 dev-python/astropy 5.0.8 5.3.4 6.0.1 6.1.7 7.1.0: Core functionality for performing astrophysics with Python
 dev-python/astropy-healpix 1.1.2: BSD-licensed HEALPix for Astropy
 dev-python/astropy-helpers 4.0.1-r1: Helpers for Astropy and Affiliated packages
-dev-python/astropy-iers-data 0.2025.9.29.0.35.48: IERS Earth Rotation and Leap Second tables for the astropy core package
+dev-python/astropy-iers-data 0.2025.10.6.0.35.25: IERS Earth Rotation and Leap Second tables for the astropy core package
 dev-python/astropy-sphinx-theme 2.0: The sphinx theme for Astropy and affiliated packages
 dev-python/astroquery 0.4.11: Collection of packages to access online astronomical resources
 dev-python/astroscrappy 1.2.0: Optimized cosmic ray annihilation astropy python module
@@ -162,7 +162,7 @@ dev-python/myst-nb 0.17.2 1.3.0: Parse and execute ipynb files in Sphinx
 dev-python/myst-parser 0.18.1-r1: Extended commonmark compliant parser, with bridges to Sphinx
 dev-python/naima 0.10.3: Derivation of non-thermal particle distributions through MCMC spectral fitting
 dev-python/nbconvert 6.4.5: Converting Jupyter Notebooks
-dev-python/ndcube 2.2.0 2.3.3: For multi-dimensional contiguious and non-contiguious coordinate aware arrays
+dev-python/ndcube 2.2.0 2.3.4: For multi-dimensional contiguious and non-contiguious coordinate aware arrays
 dev-python/nose 1.3.7_p20221026-r1 1.3.7_p20221026-r2: Unittest extension with automatic test suite discovery and easy test authoring
 dev-python/numcodecs 0.13.1 0.15.1 0.16.3: Data storage buffer compression and transformation codecs
 dev-python/oldest-supported-numpy 2023.12.21: Meta-package providing oldest supported Numpy for given Python version
@@ -254,7 +254,7 @@ dev-python/sphinx-mdinclude 0.6.2: Markdown extension for Sphinx
 dev-python/sphinx-py3doc-enhanced-theme 2.4.0: Enhanced Sphinx theme (based on Python 3 docs)
 dev-python/sphinx-readable-theme 1.3.0: A clean and readable Sphinx theme with focus on autodoc
 dev-python/sphinx-reredirects 1.0.0: Handles redirects for moved pages in Sphinx documentation projects
-dev-python/sphinx-sitemap 2.6.0 2.8.0: Sitemap generator for Sphinx
+dev-python/sphinx-sitemap 2.6.0 2.9.0: Sitemap generator for Sphinx
 dev-python/sphinx-thebe 0.2.1 0.3.1: Integrate interactive code blocks into your documentation with Thebe and Binder
 dev-python/sphinx-togglebutton 0.3.2: Toggle page content and collapse admonitions in Sphinx
 dev-python/sphinxcontrib-globalsubs 0.1.2: Sphinx global substitutions extension
@@ -276,7 +276,7 @@ dev-python/toml 0.10.2-r1: Python library for handling TOML files
 dev-python/tree-sitter-languages 1.10.2: Binary Python wheels for all tree sitter languages
 dev-python/typing-validation 1.2.12: A simple library for runtime type-checking
 dev-python/uncompresspy 0.4.0: Pure Python package for uncompressing LZW files (.Z)
-dev-python/universal-pathlib 0.3.1: pathlib api extended to use fsspec backends
+dev-python/universal-pathlib 0.3.2: pathlib api extended to use fsspec backends
 dev-python/unyt 2.9.5 3.0.4: Handle, manipulate, and convert data with units in Python
 dev-python/vispy 0.13.0 0.15.2: Interactive visualization in Python
 dev-python/webdav4 0.10.0: WebDAV client library with an fsspec-based filesystem and a CLI
