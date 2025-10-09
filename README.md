@@ -49,7 +49,7 @@ dev-python/dask                                                                 
 dev-python/dropbox                                                                   | 12.0.2                                                                                                                                            |
 dev-python/exifread                                                                  | 3.5.1                                                                                                                                             |
 dev-python/glfw                                                                      | 2.10.0                                                                                                                                            | Dependency for glue-vispy-viewer>=1.2.0
-dev-python/glymur                                                                    | 0.12.0; 0.12.9\_p1; 0.13.2\_p1; 0.13.8; 0.14.0\_p2; 0.14.3                                                                                        |
+dev-python/glymur                                                                    | 0.12.0; 0.12.9\_p1; 0.13.2\_p1; 0.13.8; 0.14.0\_p2; 0.14.4                                                                                        |
 dev-python/hsluv                                                                     | 5.0.4                                                                                                                                             |
 [dev-python/memray](https://bloomberg.github.io/memray)                              | 1.10.0; [1.18.0](https://github.com/Universebenzene/benzene-overlay/blob/master/dev-python/memray/memray-1.18.0.ebuild)                                    | **BINARY WHEEL VERSIONS** are used to avoid npm building
 dev-python/nose                                                                      | 1.3.7\_p20221026-{r1,r2}                                                                                                                          | Dropped by official portage
@@ -199,7 +199,7 @@ dev-python/colorspacious           | 1.1.2                                      
 dev-python/cmyt                    | 2.0.0; 2.0.2                                               | Pulled in by yt
 dev-python/unyt                    | 2.9.5; 3.0.4                                               | Pulled in by yt
 dev-python/uncompresspy            | 0.4.0                                                      | Optional for astropy>=7.1
-dev-python/universal-pathlib       | 0.3.1                                                      | Test dependency for zarr
+dev-python/universal-pathlib       | 0.3.3                                                      | Test dependency for zarr
 dev-python/webdav4                 | 0.10.0                                                     | Optional for new ratarmount{,core}
 dev-python/wsgidav                 | 4.3.3                                                      | Test dependency for webdav4
 dev-python/zict                    | 2.2.0; 3.0.0                                               | Pulled in by distributed
