@@ -192,6 +192,7 @@ dev-python/pyregion 2.3.0: Python module to parse ds9 region file
 dev-python/pyskein 1.0: Implementation of the Skein hash function
 dev-python/pysquashfsimage 0.9.0_p20240421181514: Python library to read Squashfs image files
 dev-python/pytest-arraydiff 0.3 0.6.1: Pytest plugin to facilitate comparison of arrays
+dev-python/pytest-asdf-plugin 0.1.2: Pytest plugin for testing ASDF schemas
 dev-python/pytest-astropy 0.11.0: Metapackage for all the testing machinery used by the Astropy Project
 dev-python/pytest-astropy-header 0.2.2: Pytest plugin to add diagnostic information to the header of the test output
 dev-python/pytest-benchmark 4.0.0: A pytest fixture for benchmarking code
