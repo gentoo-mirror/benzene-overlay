@@ -50,7 +50,7 @@ dev-python/astroalign 2.6.2: A tool to align astronomical images based on asteri
 dev-python/astrodendro 0.3.1 9999: Python package for computation of astronomical dendrograms
 dev-python/astroml 1.0.2_p1: Python Machine Learning library for astronomy
 dev-python/astroplan 0.10.1: Observation planning package for astronomers
-dev-python/astropy 5.0.8 5.3.4 6.0.1 6.1.7 7.1.0: Core functionality for performing astrophysics with Python
+dev-python/astropy 5.0.8 5.3.4 6.0.1 6.1.7 7.1.1: Core functionality for performing astrophysics with Python
 dev-python/astropy-healpix 1.1.2: BSD-licensed HEALPix for Astropy
 dev-python/astropy-helpers 4.0.1-r1: Helpers for Astropy and Affiliated packages
 dev-python/astropy-iers-data 0.2025.10.6.0.35.25: IERS Earth Rotation and Leap Second tables for the astropy core package
@@ -169,7 +169,7 @@ dev-python/oldest-supported-numpy 2023.12.21: Meta-package providing oldest supp
 dev-python/oscrypto 1.3.0: TLS sockets, key generation, encryption, decryption, signing, verification
 dev-python/parfive 2.2.0: A HTTP and FTP parallel file downloader
 dev-python/partd 1.4.2: Appendable key-value storage
-dev-python/pathlib-abc 0.5.1: Backport of pathlib ABCs
+dev-python/pathlib-abc 0.5.1 0.5.2: Backport of pathlib ABCs
 dev-python/photutils 1.9.0 1.12.0 2.3.0: Affiliated package for image photometry utilities
 dev-python/poetry-dynamic-versioning 1.9.1: Plugin for Poetry to enable dynamic versioning based on VCS tags
 dev-python/pure-protobuf 2.3.0 3.1.5: Protocol Buffers using Python type annotations
