@@ -120,7 +120,7 @@ dev-python/icecream 2.1.8: Sweet and creamy print debugging
 dev-python/indexed-bzip2 1.7.0: Fast random access to bzip2 files in Python
 dev-python/indexed-zstd 1.6.1: Fast random access to zstd files
 dev-python/inflate64 1.0.3: deflate64 compression/decompression library
-dev-python/invoke 2.2.0: Pythonic task management & command execution
+dev-python/invoke 2.2.1: Pythonic task management & command execution
 dev-python/ipfsspec 0.6.0: Readonly implementation of fsspec for IPFS
 dev-python/jplephem 2.23: Python version of NASA DE4xx ephemerides
 dev-python/jsonschema 3.2.0-r1 4.9.1: An implementation of JSON-Schema validation for Python
