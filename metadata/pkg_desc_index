@@ -75,7 +75,7 @@ dev-python/corner 2.2.2 2.2.3: Make scatter matrix corner plots
 dev-python/dag-cbor 0.3.3: Python implementation of the DAG-CBOR codec
 dev-python/dask 2024.4.1 2024.4.2 2025.9.1: Task scheduling and blocked algorithms for parallel processing
 dev-python/dask-expr 1.1.21: High Level Expressions for Dask
-dev-python/dask-sphinx-theme 3.0.6: Sphinx theme for Dask documentation
+dev-python/dask-sphinx-theme 4.0.0: Sphinx theme for Dask documentation
 dev-python/distributed 2024.4.1 2024.4.2 2025.9.1: Distributed scheduler for Dask
 dev-python/dm-tree 0.1.9: Tree is a library for working with nested data structures.
 dev-python/docstring-parser 0.17.0: Parse Python docstrings in reST, Google and Numpydoc format
@@ -256,6 +256,7 @@ dev-python/sphinx-last-updated-by-git 0.3.8: Get the last updated time for each 
 dev-python/sphinx-mdinclude 0.6.2: Markdown extension for Sphinx
 dev-python/sphinx-py3doc-enhanced-theme 2.4.0: Enhanced Sphinx theme (based on Python 3 docs)
 dev-python/sphinx-readable-theme 1.3.0: A clean and readable Sphinx theme with focus on autodoc
+dev-python/sphinx-remove-toctrees 1.0.0_p1: Reduce your documentation build size by selectively removing toctrees from pages
 dev-python/sphinx-reredirects 1.0.0: Handles redirects for moved pages in Sphinx documentation projects
 dev-python/sphinx-sitemap 2.6.0 2.9.0: Sitemap generator for Sphinx
 dev-python/sphinx-thebe 0.2.1 0.3.1: Integrate interactive code blocks into your documentation with Thebe and Binder
@@ -339,7 +340,7 @@ sci-astronomy/wcslib 8.2.2: Astronomical World Coordinate System transformations
 sci-libs/libsharp 1.0.0 1.0.0_p20241113: Library for fast spherical harmonic transforms
 sys-block/diskus 0.8.0 9999: A minimal, fast alternative to 'du -sh'.
 sys-libs/elogind-libsystemd 0 0-r1: Provide standalone libsystemd.so without systemd by linking libelogind.so
-sys-libs/libsystemd 257.9 258-r1 9999: A standalone package to provide libsystemd.so without systemd
+sys-libs/libsystemd 257.9 258-r1 258.1 9999: A standalone package to provide libsystemd.so without systemd
 virtual/libsystemd 0: Virtual for libsystemd.so
 www-plugins/adobe-flash 32.0.0.465: Adobe Flash Player
 x11-libs/lain 9999 9999-r100: Layouts, asynchronous widgets and utilities for Awesome WM
