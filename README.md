@@ -181,7 +181,7 @@ dev-python/pysquashfsimage         | 0.9.0\_p20240421181514                     
 dev-python/pytest-examples         | 0.0.18                                                     | Test dependency for pydantic-settings
 dev-python/pytest-textual-snapshot | 1.1.0-r1                                                   | Test dependency for new memray. Dependency syrupy is included but not listed in the table
 dev-python/python-pkcs11           | 0.8.1                                                      | Test and optional dependency for asyncssh. Recover from [GURU](https://gitweb.gentoo.org/repo/proj/guru.git/commit/?id=a6b3f15b1a76a2b066f9ff763fab5588bab902c6)
-dev-python/python-socketio         | 5.9.0; 5.14.1                                              | Optional for yt
+dev-python/python-socketio         | 5.9.0; 5.14.2                                              | Optional for yt
 dev-python/python-xz               | 0.5.0                                                      | Optional for yt
 dev-python/pyppmd                  | 1.2.0                                                      | Optional for new ratarmount{,core} <- py7zr
 dev-python/pure-protobuf           | 2.3.0; 3.1.5                                               | Optional for new ratarmount{,core} <- ipfsspec
@@ -195,7 +195,7 @@ dev-python/spur                    | 0.3.23                                     
 dev-python/sqlcipher3              | 0.5.4                                                      | Optional for new ratarmount{,core}
 dev-python/sshfs                   | 2025.2.0                                                   | Optional for new ratarmount{,core}. For running test, you need to forcely unmask paramiko[server], e.g. `echo "dev-python/paramiko -server" >> /etc/portage/profile/package.use.mask"`
 dev-python/stone                   | 3.3.9                                                      | Required by python dropbox
-dev-python/textual                 | 6.2.1                                                      | Pulled in by memray>=1.11. Dependency tree-sitter-languages is included but not listed in the table
+dev-python/textual                 | 6.3.0                                                      | Pulled in by memray>=1.11. Dependency tree-sitter-languages is included but not listed in the table
 dev-python/typing-validation       | 1.2.12                                                     | Optional for new ratarmount{,core} <- ipfsspec
 dev-python/colorspacious           | 1.1.2                                                      | Pulled in by cmyt. Dropped by official portage
 dev-python/cmyt                    | 2.0.0; 2.0.2                                               | Pulled in by yt
