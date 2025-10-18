@@ -135,7 +135,7 @@ dev-python/markdownify 1.2.0: Convert HTML to markdown
 dev-python/mdformat 1.0.0: CommonMark compliant Markdown formatter
 dev-python/mdformat-tables 1.0.0: An mdformat plugin for rendering tables
 dev-python/memory-profiler 0.61: A module for monitoring memory usage of a python program
-dev-python/memray 1.10.0 1.18.0: A memory profiler for Python applications
+dev-python/memray 1.10.0 1.19.1: A memory profiler for Python applications
 dev-python/mfusepy 3.0.0: Ctypes bindings for the high-level API in libfuse 2 and 3
 dev-python/miniballcpp 0.2.3: Smallest Enclosing Balls of Points
 dev-python/mistune 0.8.4-r1 2.0.5: The fastest markdown parser in pure Python
