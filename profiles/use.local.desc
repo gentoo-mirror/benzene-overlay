@@ -288,7 +288,7 @@ net-im/wemeet:pipewire - Use native media-video/pipewire audio backend
 net-libs/libaxon-bin:purple - libpurple protocol support via x11-plugins/purple-oicq
 net-misc/sunloginclient:keep-server - Keep sunloginclient server running after quit the GUI client.
 net-misc/todesk:fonts - Install the bundled Noto fonts for CJK users (Not needed if media-fonts/noto-cjk is already installed)
-net-misc/todesk:keep-server - Keep todesk server available after quit the GUI client (only work on OpenRC system)
+net-misc/todesk:keep-server - Keep todesk server available after quit the GUI client (may only work well on OpenRC system)
 net-nds/openldap-compat:experimental - Enable experimental backend options
 net-nds/openldap-compat:kinit - Enable support for kerberos init
 net-nds/openldap-compat:minimal - Build libraries & userspace tools only. Does not install any server code

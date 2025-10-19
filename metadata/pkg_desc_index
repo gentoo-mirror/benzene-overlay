@@ -325,7 +325,7 @@ net-misc/landrop 0.4.0 9999: Drop any files to any devices on your LAN
 net-misc/oss-browser-bin 1.18.0: A graphical management tool developed by Alibaba Cloud
 net-misc/ossutil 1.7.19 9999: A user friendly command line tool to access AliCloud OSS.
 net-misc/sunloginclient 10.0.2.24779 11.0.0.36662-r1 15.2.0.63064: Sunlogin Remote Control for mobile devices, Win, Mac, Linux, etc. (GUI version)
-net-misc/todesk 4.1.0-r4 4.3.1.0 4.7.2.0: Remote control and team work
+net-misc/todesk 4.1.0-r4 4.3.1.0 4.7.2.0 4.8.1.0: Remote control and team work
 net-misc/xunlei-download 1.0.0.5-r1: Xunlei download
 net-nds/openldap-compat 2.4.59: LDAP suite of application and development tools
 net-news/quiterss 0.19.4 9999: Qt-based RSS/Atom feed reader
