@@ -232,6 +232,7 @@ dev-python/sunpy:image - Extra image support
 dev-python/sunpy:jpeg2k - Extra JPEG 2000 support via dev-python/glymur
 dev-python/sunpy:map - Extra map support
 dev-python/sunpy:net - Extra net support
+dev-python/sunpy:opencv - Extra opencv support via media-libs/opencv
 dev-python/sunpy:s3 - Extra s3 support
 dev-python/sunpy:skimage - Include optional scikit-image support via dev-python/scikit-image
 dev-python/sunpy:timeseries - Extra timeseries support
