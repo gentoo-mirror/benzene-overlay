@@ -208,7 +208,7 @@ dev-python/pytest-relaxed 2.0.2: Relaxed test discovery/organization for pytest
 dev-python/pytest-remotedata 0.4.1: Pytest plugin used for controlling access to data files hosted online
 dev-python/pytest-textual-snapshot 1.1.0-r1: Add source, edit, history, annotate links to GitHub or BitBucket
 dev-python/python-jenkins 1.8.3 9999: Python bindings for the remote Jenkins API
-dev-python/python-pkcs11 0.8.1: PKCS#11 (Cryptoki) support for Python
+dev-python/python-pkcs11 0.9.1: PKCS#11 (Cryptoki) support for Python
 dev-python/python-socketio 5.9.0 5.14.2: Python Socket.IO server and client
 dev-python/python-xz 0.6.0: Pure Python implementation of the XZ file format with random access support
 dev-python/pytkdocs 0.16.5: Load Python objects documentation
